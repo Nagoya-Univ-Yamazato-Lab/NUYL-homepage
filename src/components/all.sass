@@ -145,22 +145,6 @@ $content-table-body-last-row-cell-border-bottom-width: 2px
   flex-basis: 35%
   margin: 0 1.5em 0 0
 
-@import "~bulma/bulma.sass"
-
-
-// responsiveness
-+tablet-only
-  .blog-list-item .featured-thumbnail
-    flex-basis: 50%
-
-+mobile
-  .blog-list-item header
-    display: block
-  .blog-list-item .featured-thumbnail
-    text-align: center
-    max-width: 70%
-    margin: 0 0 1em
-
 
 body
      letter-spacing: 0.05em
@@ -368,3 +352,21 @@ h2
   z-index: 1
   cursor: pointer
   color: $nuyl-gold
+
+@import "~bulma"
+
+// @import "~bulma/bulma.sass"
+
+
+// responsiveness
++tablet-only
+  .blog-list-item .featured-thumbnail
+    flex-basis: 50%
+
++mobile
+  .blog-list-item header
+    display: block
+  .blog-list-item .featured-thumbnail
+    text-align: center
+    max-width: 70%
+    margin: 0 0 1ems

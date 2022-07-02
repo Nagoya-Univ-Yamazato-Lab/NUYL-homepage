@@ -7,8 +7,7 @@ import Footer from '../components/Footer'
 import Navbar from '../components/Navbar'
 
 import './all.sass'
-// import "./bulma.min.css";
-// import './ghost-blog.css'
+// import './menu.sass'
 
 import useSiteMetadata from './SiteMetadata'
 
