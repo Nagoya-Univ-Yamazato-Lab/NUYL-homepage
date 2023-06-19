@@ -49,7 +49,7 @@
     "develop": "gatsby clean && gatsby develop",
     "serve": "gatsby clean && gatsby build && gatsby serve",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"{gatsby-*.js,src/**/*.js}\"",
-    "package update": "ncu -u && rm -rf node_modules yarn.lock && yarn install"
+    "package update": "ncu -u && rm -rf node_modules yarn.lock && yarn install && yarn run build"
   },
   "devDependencies": {
     "prettier": "^2.8.8"
