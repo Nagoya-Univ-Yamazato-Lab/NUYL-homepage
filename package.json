@@ -4,7 +4,7 @@
   "version": "1.1.5",
   "author": "Takaya Yamazato",
   "dependencies": {
-    "@formspree/react": "2.4.2",
+    "@formspree/react": "2.4.4",
     "@react-icons/all-files": "^4.1.0",
     "bulma": "^0.9.4",
     "gatsby": "^5.11.0",
@@ -24,16 +24,16 @@
     "gatsby-transformer-csv": "^5.11.0",
     "gatsby-transformer-remark": "^6.11.0",
     "gatsby-transformer-sharp": "^5.11.0",
-    "katex": "^0.16.7",
+    "katex": "^0.16.8",
     "lodash": "^4.17.21",
     "lodash-webpack-plugin": "^0.11.6",
     "prop-types": "^15.8.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-helmet": "^6.1.0",
-    "react-hook-form": "^7.44.3",
+    "react-hook-form": "^7.45.1",
     "react-scroll": "^1.8.9",
-    "sass": "^1.63.4",
+    "sass": "^1.63.6",
     "uuid": "^9.0.0"
   },
   "keywords": [
@@ -52,7 +52,7 @@
     "package update": "ncu -u && rm -rf node_modules yarn.lock && yarn install && yarn run build"
   },
   "devDependencies": {
-    "prettier": "^2.8.8"
+    "prettier": "^3.0.0"
   },
   "engines": {
     "node": ">= 14.15.0"

@@ -33,8 +33,8 @@ tags:
 また表彰式の後には懇親会があり研究者の方との交流を図ることができました。これまで他大の先生や学生と話す機会は少なかったため、とても貴重な時間となりました。
 
 
-![IEICE](./ieice_2023_toukaisibu_awarding_1.jpeg)
+![電子情報通信学会東海支部卒研発表会・学生研究奨励賞 受賞式での集合写真](./20230616-ieice-toukaisibu-awarding_1.jpg)
 
-![IEICE](./ieice_2023_toukaisibu_awarding_2.jpeg)
+![山里教授（電子情報通信学会2023年度東海支部長）の挨拶](./20230616-ieice-toukaisibu-awarding_2.jpg)
 
-![IEICE](./ieice_2023_toukaisibu_awarding_3.jpeg)
+![受賞式の懇親会](./20230616-ieice-toukaisibu-awarding_3.jpg)
