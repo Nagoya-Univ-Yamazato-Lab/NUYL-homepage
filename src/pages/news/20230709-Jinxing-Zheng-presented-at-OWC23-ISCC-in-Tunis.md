@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: 鄭君がIEEE ISCC Workshop on OWC 23'で発表しました．
 date: 2023-07-09T13:30:00.096Z
-description: チュニジアのチュニスで開催されたIEEE ISCC Workshop on OWC 23'で，小鹿君が発表をしてきました．
+description: チュニジアのチュニスで開催されたIEEE ISCC Workshop on OWC 23'で，鄭錦星君が発表をしてきました．
 featuredpost: true
 featuredimage: /img/coffee.png
 tags:
