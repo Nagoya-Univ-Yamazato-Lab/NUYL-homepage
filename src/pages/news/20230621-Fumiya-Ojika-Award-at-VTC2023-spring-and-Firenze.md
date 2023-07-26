@@ -4,7 +4,7 @@ title: 小鹿君がVTC2023-springで発表しました．
 date: 2023-06-21T13:30:00.096Z
 description: イタリアのフィレンツェで開催されたVTC2023-springで，小鹿君が発表をしてきました．
 featuredpost: true
-featuredimage: /img/20230621-presented-in-VTC2023-spring.HEIC
+featuredimage: /img/coffee.png
 tags:
   - VTC2023-spring
 ---
@@ -20,6 +20,5 @@ tags:
 また，海外の学生とも交流することができ普段日本で研究しているだけではできないような貴重な経験をすることができました！
 
 ---
-
 
 ![ICETC](./20221016-presented-in-ICETC2022.png)
