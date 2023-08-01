@@ -49,8 +49,10 @@ tags:
 
 - [2023年度　ベーシックコースの資料](./Turtle_Graphics_Basic.pdf)
   - [Colabのファイル](Turtle_Graphics_Basic.ipynb)
-- [2023年度　アドバンスコースの資料](./Turtle_Graphics_Advanced.pdf)
-  - [Colabのファイル(2022年度2日目と同じです)](./Turtle_Graphics_WWL_Two.ipynb)
+- 2023年度　アドバンスコースの資料
+  - [1日目（ベーシックコースの資料を使います）](./Turtle_Graphics_Basic.pdf)
+  - [2日目（2022年度2日目の資料を使います）](./Turtle_Graphics_Advanced.pdf)
+  - [Colabのファイル（2022年度2日目と同じです）](./Turtle_Graphics_WWL_Two.ipynb)
 
 2022 年度の資料を公開します．2023年度もほぼ昨年度を踏襲しております．
 
