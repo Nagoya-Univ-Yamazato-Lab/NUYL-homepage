@@ -47,8 +47,10 @@ tags:
 
 2023 年度の資料は，もう少し待ってね．現在，準備しております．今週中には公開できると思います．
 
-- [2023年度　ベーシックコースの資料](./Turtle_Graphics_Day_Basic.pdf)
-- 2023年度　アドバンスコースの資料
+- [2023年度　ベーシックコースの資料](./Turtle_Graphics_Basic.pdf)
+  - [Colabのファイル](Turtle_Graphics_Basic.ipynb)
+- [2023年度　アドバンスコースの資料](./Turtle_Graphics_Advanced.pdf)
+  - [Colabのファイル(2022年度2日目と同じです)](./Turtle_Graphics_WWL_Two.ipynb)
 
 2022 年度の資料を公開します．2023年度もほぼ昨年度を踏襲しております．
 
