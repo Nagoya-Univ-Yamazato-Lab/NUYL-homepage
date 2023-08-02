@@ -45,14 +45,16 @@ tags:
 | 8月9日（水）<br /> 10：30～12：00 <br /> 講義 | Turtle Graphics で多角形を描こう                          | 再帰関数とフラクタル <br />・コッホ曲線 <br />・シェルピンスキーのガスケット <br />・2分木 <br />・Levy曲線 <br />・Drangon曲線 |
 | 8月9日（水）<br /> 13：00～14：30 <br /> 演習 | Turtle Graphics で絵を描こう                              | Turtle Graphics でフラクタルを描こう                                                                                            |
 
-2023 年度の資料は，もう少し待ってね．現在，準備しております．今週中には公開できると思います．
+## 資料
 
-- [2023年度　ベーシックコースの資料](./Turtle_Graphics_Basic.pdf)
-  - [Colabのファイル](Turtle_Graphics_Basic.ipynb)
-- 2023年度　アドバンスコースの資料
-  - [1日目（ベーシックコースの資料を使います）](./Turtle_Graphics_Basic.pdf)
-  - [2日目（2022年度2日目の資料を使います）](./Turtle_Graphics_Advanced.pdf)
-  - [Colabのファイル（2022年度2日目と同じです）](./Turtle_Graphics_WWL_Two.ipynb)
+- 2023年度　ベーシックコース
+  - [ベーシックコースの資料](./Turtle_Graphics_Basic.pdf)
+    - [Colabのファイル](Turtle_Graphics_Basic.ipynb)
+- 2023年度　アドバンスコース
+  - [1日目の資料（ベーシックコースの資料を使います）](./Turtle_Graphics_Basic.pdf)
+    - [Colabのファイル](Turtle_Graphics_Basic.ipynb)
+  - [2日目の資料（2022年度2日目の資料を使います）](./Turtle_Graphics_Advanced.pdf)
+    - [Colabのファイル（2022年度2日目と同じです）](./Turtle_Graphics_WWL_Two.ipynb)
 
 2022 年度の資料を公開します．2023年度もほぼ昨年度を踏襲しております．
 
@@ -91,6 +93,7 @@ tags:
 
 ## 目次　 <!-- omit in toc -->
 
+- [資料](#資料)
 - [なぜ事前学習が必要なのか](#なぜ事前学習が必要なのか)
 - [座標](#座標)
   - [点の移動　](#点の移動)
