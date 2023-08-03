@@ -5,6 +5,7 @@ import { Link, graphql } from "gatsby";
 import SeO from "../components/seo";
 import Layout from "../components/Layout";
 import BlogRoll from "../components/BlogRoll";
+import IndexTopRoll from "../components/IndexTopRoll";
 import { StaticImage } from "gatsby-plugin-image";
 import { FaUserTie } from "@react-icons/all-files/fa/FaUserTie";
 import { FaUserGraduate } from "@react-icons/all-files/fa/FaUserGraduate";
@@ -53,6 +54,7 @@ const IndexPageTemplate = ({ data }) => (
         <div className="columns">
           <div className="column is-10 is-offset-1">
             <br />
+            <IndexTopRoll />
             <div className="tile box">
               <blockquote>
                 <div className="content" dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }} />
