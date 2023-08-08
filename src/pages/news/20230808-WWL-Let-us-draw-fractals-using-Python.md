@@ -17,7 +17,7 @@ tags:
 - [（８） Python でフラクタルを描画しよう](/research/OER/wwl/)
   - 担当：山里敬也　（名古屋大学　教養教育院）
   - 日時：2023 年 8 月 8 日（火）、9 日（水）　 10：30 ～ 12：00、13：00 ～ 14：30
-  - 講義場所：~~[教育学部附属中・高等学校](https://highschl.educa.nagoya-u.ac.jp/)　コンピュータ教室~~名古屋大学教養教育院CALL教室（[キャンパスマップB4-1](https://www.nagoya-u.ac.jp/extra/map/index.html)の2階にあります）
+  - 講義場所：~~[教育学部附属中・高等学校](https://highschl.educa.nagoya-u.ac.jp/)　コンピュータ教室~~<br />名古屋大学教養教育院CALL教室（[キャンパスマップB4-1](https://www.nagoya-u.ac.jp/extra/map/index.html)の2階にあります）に変更になりました
 - この講義の教材は[こちら](/research/OER/wwl/)です．
 
 > ## 重要（事前準備）　
