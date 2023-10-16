@@ -10,7 +10,7 @@ tags:
   - Lecturer Dr. Shan LU
 ---
 
-In the Graduate School of Engineering, Dr. Shan LU was selected as a lecturer in the open call for female faculty members in [7 majors](https://www.engg.nagoya-u.ac.jp/dept/).
+Dr. Shan LU was selected as a lecturer in the open call for female faculty members in [7 majors departmante](https://www.engg.nagoya-u.ac.jp/dept/) in the Graduate School of Engineering.
 
 Dr. Lu specializes in information theory and code theory. Since it is closely related to our laboratory (we are working on communication theory), Dr. Lu was assigned to the Yamazato Laboratory in the Department of Information and Communication Engineering.
 

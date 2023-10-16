@@ -166,6 +166,10 @@ const IndexPageTemplate = ({ data }) => (
                       <Link to="/team/Takaya-Yamazato/">山里敬也</Link>
                       <br />
                       <br />
+                      講師 <br />
+                      &nbsp; &nbsp;
+                      路 姍 <br />
+                      <br />
                       秘書 <br />
                       &nbsp; &nbsp;石川 愛子
                       <br />
@@ -183,13 +187,8 @@ const IndexPageTemplate = ({ data }) => (
                     </h1>
                     <p className="is-size-5">
                       D3 <br />
-                      &nbsp; &nbsp;黄 瑞怡
-                      <br />
                       &nbsp; &nbsp;唐 正強
                       <br />
-                      <br />
-                      D1 <br />
-                      &nbsp; &nbsp;表 英毅
                     </p>
                   </div>
                 </article>
@@ -238,8 +237,26 @@ const IndexPageTemplate = ({ data }) => (
                       &nbsp; &nbsp;中野 幸亮
                       <br />
                       <br />
-                      Alumni
+                      研究生 <br />
+                      &nbsp; &nbsp;石 天昊 <br />
+                      <br />
+                    </p>
+                  </div>
+                </article>
+              </div>
+            </div>
+            <h2 id="team">
+              <Link to="/team/">&nbsp;Alumni</Link>
+            </h2>
+            <div className="columns is-multiline">
+              <div className="column post is-3">
+                <article className="columns is-multiline">
+                  <div className="column is-12 featured-content ">
+                    <p>
                       <ul>
+                      <li>
+                          &nbsp; &nbsp;<Link to="/team/2023/">2023</Link>
+                        </li>
                         <li>
                           &nbsp; &nbsp;<Link to="/team/2022/">2022</Link>
                         </li>

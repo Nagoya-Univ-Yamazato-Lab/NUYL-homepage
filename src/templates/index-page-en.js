@@ -160,6 +160,9 @@ const IndexPageTemplateEN = ({ data }) => (
                       <Link to="/en/team/Takaya-Yamazato/">Takaya YAMAZATO</Link>
                       <br />
                       <br />
+                      Lecturer <br />
+                      &nbsp; &nbsp;Shan LU <br />
+                      <br />
                       Secretaries <br />
                       &nbsp; &nbsp;Aiko ISHIKAWA
                       <br />
@@ -177,13 +180,7 @@ const IndexPageTemplateEN = ({ data }) => (
                     </h1>
                     <p className="post-excerpt">
                       D3 <br />
-                      &nbsp; &nbsp;Ruiyi HUANG
-                      <br />
                       &nbsp; &nbsp;Zhengqiang TANG
-                      <br />
-                      <br />
-                      D1 <br />
-                      &nbsp; &nbsp;Hideki OMOTE
                     </p>
                   </div>
                 </article>
@@ -230,6 +227,33 @@ const IndexPageTemplateEN = ({ data }) => (
                       &nbsp; &nbsp;Hina NAGAI
                       <br />
                       &nbsp; &nbsp;Kosuke NAKANO
+                      <br /><br />
+                      Research student <br />
+                      &nbsp; &nbsp;Tianhao SHI<br />
+                    </p>
+                  </div>
+                </article>
+              </div>
+            </div>
+            <h2 id="team">
+              <Link to="/team/">&nbsp;Alumni</Link>
+            </h2>
+            <div className="columns is-multiline">
+              <div className="column post is-3">
+                <article className="columns is-multiline">
+                  <div className="column is-12 featured-content ">
+                    <p>
+                      <ul>
+                      <li>
+                          &nbsp; &nbsp;<Link to="/team/2023/">2023</Link>
+                        </li>
+                        <li>
+                          &nbsp; &nbsp;<Link to="/team/2022/">2022</Link>
+                        </li>
+                        <li>
+                          &nbsp; &nbsp;<Link to="/team/2021/">2021</Link>
+                        </li>
+                      </ul>
                     </p>
                   </div>
                 </article>
