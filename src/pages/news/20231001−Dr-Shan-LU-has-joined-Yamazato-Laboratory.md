@@ -7,7 +7,7 @@ description: >-
 featuredpost: true
 featuredimage: /img/coffee.png
 tags:
-  - 路 姍（Shan LU）講師
+  - 路姍（Shan LU）講師
 ---
 
 路姍先生は，工学研究科の[7つの専攻群](https://www.engg.nagoya-u.ac.jp/dept/)を対象にした女性教員の公募で講師として採用されました．
