@@ -1,12 +1,13 @@
 ---
 templateKey: blog-post
 title: 路 姍 講師が着任されました
-date: 2023-10-01T18:22:39.789Z
+date: 2023-10-01T09:00:39.789Z
 description: >-
   2023年10月1日付けで岐阜大学より路 姍（Shan LU）先生が山里研の講師として着任されました
 featuredpost: true
 featuredimage: /img/coffee.png
 tags:
+  - 路 姍 講師
   - Lecturer Dr. Shan LU
 ---
 
