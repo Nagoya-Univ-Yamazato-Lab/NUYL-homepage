@@ -1,5 +1,5 @@
 import * as React from "react";
-import PageTop from "../components/PageTop";
+// import PageTop from "../components/PageTop";
 // import PropTypes from 'prop-types'
 import { Link, graphql } from "gatsby";
 import SeO from "../components/seo";
@@ -82,7 +82,7 @@ const IndexPageTemplate = ({ data }) => (
                 </article>
               </div>
             </div>
-            <PageTop />
+            {/* <PageTop /> */}
             <hr />
             <div className="columns featured-post is-multiline">
               <div className="column is-12 post">
@@ -105,7 +105,7 @@ const IndexPageTemplate = ({ data }) => (
                 </article>
               </div>
             </div>
-            <PageTop />
+            {/* <PageTop /> */}
             <hr />
             <div className="columns featured-post is-multiline">
               <div className="column is-12 post">
@@ -134,7 +134,7 @@ const IndexPageTemplate = ({ data }) => (
                 </article>
               </div>
             </div>
-            <PageTop />
+            {/* <PageTop /> */}
             <hr />
             <h2 id="news">&nbsp;ニュース</h2>
             <div className="columns is-multiline">
@@ -147,7 +147,7 @@ const IndexPageTemplate = ({ data }) => (
                 </div>
               </div>
             </div>
-            <PageTop />
+            {/* <PageTop /> */}
             <hr />
             <h1 id="team">
               <Link to="/team/">&nbsp;チーム</Link>
@@ -268,7 +268,7 @@ const IndexPageTemplate = ({ data }) => (
                 </article>
               </div>
             </div>
-            <PageTop />
+            {/* <PageTop /> */}
             <hr />
             <div className="column post is-12">
               <h1 id="contact">お問い合わせ</h1>
@@ -340,7 +340,7 @@ const IndexPageTemplate = ({ data }) => (
                 loading="lazy"
               ></iframe> */}
             </div>
-            <PageTop />
+            {/* <PageTop /> */}
           </div>
         </div>
       </div>
