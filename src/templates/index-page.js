@@ -4,7 +4,7 @@ import PageTop from "../components/PageTop";
 import { Link, graphql } from "gatsby";
 import SeO from "../components/seo";
 import Layout from "../components/Layout";
-import BlogRoll from "../components/BlogRoll";
+import IndexRoll from "../components/indexRoll";
 import IndexTopRoll from "../components/IndexTopRoll";
 import { StaticImage } from "gatsby-plugin-image";
 import { FaUserTie } from "@react-icons/all-files/fa/FaUserTie";
@@ -139,7 +139,7 @@ const IndexPageTemplate = ({ data }) => (
             <h2 id="news">&nbsp;ニュース</h2>
             <div className="columns is-multiline">
               <div className="column post is-12">
-                <BlogRoll />
+                <IndexRoll />
                 <div className="column is-12 has-text-centered">
                   <Link className="btn" to="/news">
                     Read more "News and Updates" →
@@ -167,8 +167,7 @@ const IndexPageTemplate = ({ data }) => (
                       <br />
                       <br />
                       講師 <br />
-                      &nbsp; &nbsp;
-                      路 姍 <br />
+                      &nbsp; &nbsp; 路 姍 <br />
                       <br />
                       秘書 <br />
                       &nbsp; &nbsp;石川 愛子
@@ -254,7 +253,7 @@ const IndexPageTemplate = ({ data }) => (
                   <div className="column is-12 featured-content ">
                     <p>
                       <ul>
-                      <li>
+                        <li>
                           &nbsp; &nbsp;<Link to="/team/2023/">2023</Link>
                         </li>
                         <li>
