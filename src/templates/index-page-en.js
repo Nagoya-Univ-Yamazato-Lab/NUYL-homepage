@@ -21,7 +21,7 @@ const IndexPageTemplateEN = ({ data }) => (
     <SeO title={data.markdownRemark.frontmatter.title} description={data.markdownRemark.frontmatter.description} />
     <div className="hero-body">
       <div className="container has-text-centered">
-        <StaticImage src="../img/logo.webp" width={width} alt="Nagoya University Yamazato Laboratory" placeholder="blurred" />
+        <StaticImage src="../img/logo.png" width={width} alt="Nagoya University Yamazato Laboratory" placeholder="blurred" />
       </div>
     </div>
     <section className="blog-posts">
