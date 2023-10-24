@@ -1,5 +1,5 @@
 import * as React from "react";
-import PageTopEn from "../components/PageTopEn";
+// import PageTopEn from "../components/PageTopEn";
 // import PropTypes from 'prop-types'
 import { Link, graphql } from "gatsby";
 import SeO from "../components/seo";
@@ -48,7 +48,7 @@ const IndexPageTemplateEN = ({ data }) => (
                 </article>
               </div>
             </div>
-            <PageTopEn />
+
             <hr />
             <div className="columns featured-post is-multiline">
               <div className="column is-12 post">
@@ -70,8 +70,8 @@ const IndexPageTemplateEN = ({ data }) => (
                 </article>
               </div>
             </div>
-            <PageTopEn />
-            <hr />
+
+            {/* <hr />
             <div className="columns featured-post is-multiline">
               <div className="column is-12 post">
                 <article className="columns featured">
@@ -91,8 +91,8 @@ const IndexPageTemplateEN = ({ data }) => (
                   </div>
                 </article>
               </div>
-            </div>
-            <PageTopEn />
+            </div> */}
+
             <hr />
             <div className="columns is-multiline">
               <div className="column post is-6">
@@ -128,7 +128,7 @@ const IndexPageTemplateEN = ({ data }) => (
                 </article>
               </div>
             </div>
-            <PageTopEn />
+
             <hr />
             <h2 className="title post-title">News and Updates</h2>
             <div className="columns is-multiline">
@@ -141,7 +141,7 @@ const IndexPageTemplateEN = ({ data }) => (
                 </div>
               </div>
             </div>
-            <PageTopEn />
+
             <hr />
             <h2 id="team" className="title post-title">
               <Link to="/en/team/"> Our Team</Link>
@@ -261,7 +261,7 @@ const IndexPageTemplateEN = ({ data }) => (
                 </article>
               </div>
             </div>
-            <PageTopEn />
+
             <hr />
             <div className="column post is-12">
               <h2 id="contact" className="title post-title">
@@ -332,7 +332,6 @@ const IndexPageTemplateEN = ({ data }) => (
                 loading="lazy"
               ></iframe> */}
             </div>
-            <PageTopEn />
           </div>
         </div>
       </div>
