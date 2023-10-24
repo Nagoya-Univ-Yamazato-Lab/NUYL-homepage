@@ -21,7 +21,7 @@ const IndexPageTemplateEN = ({ data }) => (
     <SeO title={data.markdownRemark.frontmatter.title} description={data.markdownRemark.frontmatter.description} />
     <div className="hero-body">
       <div className="container has-text-centered">
-        <StaticImage src="../img/logo.png" width={width} alt="Nagoya University Yamazato Laboratory" placeholder="blurred" />
+        <StaticImage src="../img/logo.webp" width={width} alt="Nagoya University Yamazato Laboratory" placeholder="blurred" />
       </div>
     </div>
     <section className="blog-posts">
@@ -32,7 +32,7 @@ const IndexPageTemplateEN = ({ data }) => (
               <div className="column is-12 post">
                 <article className="columns featured">
                   <div className="column is-7 post-img ">
-                    <StaticImage src="../img/ITS-VLC.png" alt="ITS-VLC" placeholder="blurred" />
+                    <StaticImage src="../img/ITS-VLC.webp" alt="ITS-VLC" placeholder="blurred" />
                   </div>
                   <div className="column is-5 featured-content va">
                     <div>
@@ -65,7 +65,7 @@ const IndexPageTemplateEN = ({ data }) => (
                     </div>
                   </div>
                   <div className="column is-7 post-img ">
-                    <StaticImage src="../img/SR.png" alt="Stochastic Resonance" placeholder="blurred" />
+                    <StaticImage src="../img/SR.webp" alt="Stochastic Resonance" placeholder="blurred" />
                   </div>
                 </article>
               </div>
@@ -76,7 +76,7 @@ const IndexPageTemplateEN = ({ data }) => (
               <div className="column is-12 post">
                 <article className="columns featured">
                   <div className="column is-7 post-img ">
-                    <StaticImage src="../img/USA.png" alt="Ultrasonic sensor array" placeholder="blurred" />
+                    <StaticImage src="../img/USA.webp" alt="Ultrasonic sensor array" placeholder="blurred" />
                   </div>
                   <div className="column is-5 featured-content va">
                     <div>
@@ -98,7 +98,7 @@ const IndexPageTemplateEN = ({ data }) => (
               <div className="column post is-6">
                 <article className="columns is-multiline">
                   <div className="column is-12 post-img">
-                    <StaticImage src="../img/Rotary-LED.png" alt="ITS-VLC" placeholder="blurred" />
+                    <StaticImage src="../img/Rotary-LED.webp" alt="ITS-VLC" placeholder="blurred" />
                   </div>
                   <div className="column is-12 featured-content ">
                     <h1 className="heading post-category">Research</h1>
@@ -227,9 +227,11 @@ const IndexPageTemplateEN = ({ data }) => (
                       &nbsp; &nbsp;Hina NAGAI
                       <br />
                       &nbsp; &nbsp;Kosuke NAKANO
-                      <br /><br />
+                      <br />
+                      <br />
                       Research student <br />
-                      &nbsp; &nbsp;Tianhao SHI<br />
+                      &nbsp; &nbsp;Tianhao SHI
+                      <br />
                     </p>
                   </div>
                 </article>
@@ -244,7 +246,7 @@ const IndexPageTemplateEN = ({ data }) => (
                   <div className="column is-12 featured-content ">
                     <p>
                       <ul>
-                      <li>
+                        <li>
                           &nbsp; &nbsp;<Link to="/team/2023/">2023</Link>
                         </li>
                         <li>

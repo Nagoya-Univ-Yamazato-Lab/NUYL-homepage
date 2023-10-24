@@ -66,7 +66,7 @@ const IndexPageTemplate = ({ data }) => (
                 <article className="columns featured">
                   <div className="column post is-7">
                     <div className="column is-12 post-img">
-                      <StaticImage src="../img/ITS-VLC.png" alt="ITS-VLC" placeholder="blurred" />
+                      <StaticImage src="../img/ITS-VLC.webp" alt="ITS-VLC" placeholder="blurred" />
                     </div>
                   </div>
                   <div className="column post is-5">
@@ -99,7 +99,7 @@ const IndexPageTemplate = ({ data }) => (
                   </div>
                   <div className="column post is-7">
                     <div className="column is-12 post-img">
-                      <StaticImage src="../img/SR.png" alt="Stochastic Resonance" placeholder="blurred" />
+                      <StaticImage src="../img/SR.webp" alt="Stochastic Resonance" placeholder="blurred" />
                     </div>
                   </div>
                 </article>
