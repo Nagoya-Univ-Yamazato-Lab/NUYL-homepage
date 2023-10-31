@@ -3,7 +3,7 @@ templateKey: pages-en
 lang: en
 title: Shan Lu
 description: Dr. Shan Lu is an associate professor/lecturer with the Department of Information and Communication Engineering, Graduate School of Engineering, Nagoya University, Nagoya, Japan
-date: 2023-10-01 T07:57:21.383Z
+date: 2023-10-01T07:57:21.383Z
 tags:
   - Shan Lu
   - Member
