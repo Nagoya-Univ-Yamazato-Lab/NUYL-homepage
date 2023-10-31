@@ -9,7 +9,7 @@ tags:
   - メンバー
 ---
 
-![路　姍](Shan-Lu.JPG)
+![路　姍](Shan_Lu.JPG)
 
 ## 略歴
 
