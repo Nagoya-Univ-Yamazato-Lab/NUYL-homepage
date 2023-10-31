@@ -161,7 +161,9 @@ const IndexPageTemplateEN = ({ data }) => (
                       <br />
                       <br />
                       Lecturer <br />
-                      &nbsp; &nbsp;Shan LU <br />
+                      &nbsp; &nbsp; 
+                      <Link to="/en/team/Shan-Lu/">Shan LU</Link>
+                      <br />
                       <br />
                       Secretaries <br />
                       &nbsp; &nbsp;Aiko ISHIKAWA

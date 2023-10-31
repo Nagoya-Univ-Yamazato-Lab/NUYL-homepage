@@ -167,7 +167,9 @@ const IndexPageTemplate = ({ data }) => (
                       <br />
                       <br />
                       講師 <br />
-                      &nbsp; &nbsp; 路 姍 <br />
+                      &nbsp; &nbsp; 
+                      <Link to="/team/Shan-Lu/">路 姍</Link>
+                      <br />
                       <br />
                       秘書 <br />
                       &nbsp; &nbsp;石川 愛子
