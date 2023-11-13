@@ -25,7 +25,8 @@ const IndexPageTemplateEN = ({ data }) => (
     <div className="hero-body">
       <div className="container has-text-centered">
         <StaticImage
-          src="../img/logo.png"
+          // src="../img/logo.png"
+          src="../img/YLAB/YLAB.webp"
           width={width}
           alt="Nagoya University Yamazato Laboratory"
           placeholder="blurred"

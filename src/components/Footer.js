@@ -30,7 +30,8 @@ const Footer = class extends React.Component {
         <div className="content has-text-centered">
           <Link to="/">
             <StaticImage
-              src="../img/logo.png"
+              // src="../img/logo.png"
+              src="../img/YLAB/YLAB.webp"
               width={width}
               alt="Yamazato Laboratory"
               placeholder="blurred"
