@@ -1,11 +1,52 @@
-import React, { useState } from "react";
+import React, { useState, useStaticQuery, graphql  } from "react";
 // import "../../components/global.sass";
 import "../../components/accordion.sass";
 // import CustomAccordion from "@components/accordion";
 // import "../../../components/_accordion";
 // import CustomAccordion from "../../../components/accordion";
 // import "../../components/all";
+// import Layout from '../components/Layout'
+// import SeO from '../components/seo'
+import ExtLink from '../../components/ExtLink'
 import CustomAccordion from "../../components/accordion";
+
+export default function Publications() {
+  const data = useStaticQuery(graphql`
+    query PubllicationsQuery {
+
+      allResearchCsv {
+        nodes {
+          field1
+          field2
+          field3
+          field4
+          field5
+          field6
+          id
+        }
+      }
+    }
+  `)
+
+
+
+
+// const accordionData2 = [
+//   {data.allResearchCsv.nodes.map((node) => (
+//     <li key={node.id}>
+//       <h5>{node.field2}</h5>
+//       <ul>
+//         <li>{node.field1}</li>
+//         <li>{node.field3}</li>
+//         <li>{node.field5}</li>
+//         <li className="nodot">
+//           <ExtLink to={node.field6} />
+//         </li>
+//         <li className="nodot">{node.field4}</li>
+//       </ul>
+//     </li>
+//   ))}
+// ];
 
 const accordionData = [
   {
@@ -35,7 +76,7 @@ const accordionData = [
   },
 ];
 
-const IndexPage = () => {
+// const IndexPage = () => {
   return (
     <main>
       <header>
@@ -43,11 +84,31 @@ const IndexPage = () => {
         <h3>By: Code And Play</h3>
       </header>
 
-      <section>{accordionData && accordionData.map((data, i) => <CustomAccordion key={i} title={data.title} content={data.content} />)}</section>
+      {/* <section>{accordionData && accordionData.map((data, i) => <CustomAccordion key={i} title={data.title} content={data.content} />)}</section> */}
+
+      <ul>
+                  {data.allResearchCsv.nodes.map((node) => (
+                    <li key={node.id}>
+                      <h5>{node.field2}</h5>
+                      <ul>
+                        <li>{node.field1}</li>
+                        <li>{node.field3}</li>
+                        <li>{node.field5}</li>
+                        <li className="nodot">
+                          <ExtLink to={node.field6} />
+                        </li>
+                        <li className="nodot">{node.field4}</li>
+                      </ul>
+                    </li>
+                  ))}
+                </ul>
+
     </main>
   );
-};
+// };
 
-export default IndexPage;
+// export default IndexPage;
 
-export const Head = () => <title>Gatsby Custom Accordion</title>;
+// export const Head = () => <title>Gatsby Custom Accordion</title>;
+
+}
