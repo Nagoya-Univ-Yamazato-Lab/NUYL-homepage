@@ -1,4 +1,7 @@
-import React, { useState, useStaticQuery, graphql  } from "react";
+// import React, { useState, useStaticQuery, graphql } from "react";
+// import React from "react";
+import React, { useState } from "react";
+import { useStaticQuery, graphql } from "gatsby";
 // import "../../components/global.sass";
 import "../../components/accordion.sass";
 // import CustomAccordion from "@components/accordion";
@@ -7,13 +10,12 @@ import "../../components/accordion.sass";
 // import "../../components/all";
 // import Layout from '../components/Layout'
 // import SeO from '../components/seo'
-import ExtLink from '../../components/ExtLink'
-import CustomAccordion from "../../components/accordion";
+import ExtLink from "../../components/ExtLink";
+// import CustomAccordion from "../../components/accordion";
 
-export default function Publications() {
+export default function Accordion() {
   const data = useStaticQuery(graphql`
-    query PubllicationsQuery {
-
+    query AccordionQuery {
       allResearchCsv {
         nodes {
           field1
@@ -26,57 +28,57 @@ export default function Publications() {
         }
       }
     }
-  `)
+  `);
 
+  // const accordionData2 = [
+  //   {data.allResearchCsv.nodes.map((node) => (
+  //     <li key={node.id}>
+  //       <h5>{node.field2}</h5>
+  //       <ul>
+  //         <li>{node.field1}</li>
+  //         <li>{node.field3}</li>
+  //         <li>{node.field5}</li>
+  //         <li className="nodot">
+  //           <ExtLink to={node.field6} />
+  //         </li>
+  //         <li className="nodot">{node.field4}</li>
+  //       </ul>
+  //     </li>
+  //   ))}
+  // ];
 
-
-
-// const accordionData2 = [
-//   {data.allResearchCsv.nodes.map((node) => (
-//     <li key={node.id}>
-//       <h5>{node.field2}</h5>
-//       <ul>
-//         <li>{node.field1}</li>
-//         <li>{node.field3}</li>
-//         <li>{node.field5}</li>
-//         <li className="nodot">
-//           <ExtLink to={node.field6} />
-//         </li>
-//         <li className="nodot">{node.field4}</li>
-//       </ul>
-//     </li>
-//   ))}
-// ];
-
-const accordionData = [
-  {
-    title: <>Accordion 1</>,
-    content: (
-      <>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-      </>
-    ),
-  },
-  {
-    title: <>Accordion 2</>,
-    content: (
-      <>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-      </>
-    ),
-  },
-  {
-    title: <>Accordion 3</>,
-    content: (
-      <>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-      </>
-    ),
-  },
-];
-
-// const IndexPage = () => {
+  // const accordionData = [
+  //   {
+  //     title: <>Accordion 1</>,
+  //     content: (
+  //       <>
+  //         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+  //       </>
+  //     ),
+  //   },
+  //   {
+  //     title: <>Accordion 2</>,
+  //     content: (
+  //       <>
+  //         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+  //         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+  //       </>
+  //     ),
+  //   },
+  //   {
+  //     title: <>Accordion 3</>,
+  //     content: (
+  //       <>
+  //         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+  //       </>
+  //     ),
+  //   },
+  // ];
+  const [accordionStatus, setAccordionStatus] = useState(false);
+  const onClicked = () => {
+    setAccordionStatus(!accordionStatus);
+  };
+  // const IndexPage = () => {
   return (
     <main>
       <header>
@@ -87,28 +89,44 @@ const accordionData = [
       {/* <section>{accordionData && accordionData.map((data, i) => <CustomAccordion key={i} title={data.title} content={data.content} />)}</section> */}
 
       <ul>
-                  {data.allResearchCsv.nodes.map((node) => (
-                    <li key={node.id}>
-                      <h5>{node.field2}</h5>
-                      <ul>
-                        <li>{node.field1}</li>
-                        <li>{node.field3}</li>
-                        <li>{node.field5}</li>
-                        <li className="nodot">
-                          <ExtLink to={node.field6} />
-                        </li>
-                        <li className="nodot">{node.field4}</li>
-                      </ul>
-                    </li>
-                  ))}
-                </ul>
-
+        {data.allResearchCsv.nodes.map((node) => (
+          // <CustomAccordion key={node.id} title={node.field2} content={node.field1} />
+          <div className={`accordion ${accordionStatus ? "uncollapsed" : "collapsed"}`}>
+            <button onClick={onClicked}>
+              {node.field2}
+              <span class="arrow"></span>
+            </button>
+            <div className="accordion-panel">
+              <ul>
+                <li>{node.field1}</li>
+                <li>{node.field3}</li>
+                <li>{node.field5}</li>
+                <li className="nodot">
+                  <ExtLink to={node.field6} />
+                </li>
+                <li className="nodot">{node.field4}</li>
+              </ul>
+            </div>
+          </div>
+          // <li key={node.id}>
+          //   <h5>{node.field2}</h5>
+          //   <ul>
+          //     <li>{node.field1}</li>
+          //     <li>{node.field3}</li>
+          //     <li>{node.field5}</li>
+          //     <li className="nodot">
+          //       <ExtLink to={node.field6} />
+          //     </li>
+          //     <li className="nodot">{node.field4}</li>
+          //   </ul>
+          // </li>
+        ))}
+      </ul>
     </main>
   );
-// };
+  // };
 
-// export default IndexPage;
+  // export default IndexPage;
 
-// export const Head = () => <title>Gatsby Custom Accordion</title>;
-
+  // export const Head = () => <title>Gatsby Custom Accordion</title>;
 }
