@@ -1,9 +1,10 @@
 import React, { useState } from "react";
-// import "@styles/main.scss";
+// import "../../components/global.sass";
+import "../../components/accordion.sass";
 // import CustomAccordion from "@components/accordion";
 // import "../../../components/_accordion";
 // import CustomAccordion from "../../../components/accordion";
-import "../../components/all";
+// import "../../components/all";
 import CustomAccordion from "../../components/accordion";
 
 const accordionData = [
