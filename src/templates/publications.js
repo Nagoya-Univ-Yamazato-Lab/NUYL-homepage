@@ -35,6 +35,7 @@ export default function Publications() {
           field5
           field6
           field7
+          field8
           id
         }
       }
@@ -118,7 +119,7 @@ export default function Publications() {
                 <hr />
                 
                   {data.allResearchCsv.nodes.map((node) => (
-                    <CustomAccordion key={node.id} title={node.field2} author={node.field1} journal={node.field3} published={node.field5} doi={node.field6} abstract={node.field4} year={node.field7} />
+                    <CustomAccordion key={node.id} title={node.field2} author={node.field1} journal={node.field3} published={node.field5} doi={node.field6} abstract={node.field4} year={node.field7} publication_type={node.field8} />
                   ))}
                 
               </div>

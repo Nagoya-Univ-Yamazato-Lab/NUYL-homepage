@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import PropTypes from "prop-types";
 import ExtLink from "./ExtLink";
 
-const CustomAccordion = ({ title, author, journal, published, doi, abstract, year }) => {
+const CustomAccordion = ({ title, author, journal, published, doi, abstract, year, publication_type }) => {
   const [accordionStatus, setAccordionStatus] = useState(false);
 
   const onClicked = () => {
@@ -13,7 +13,7 @@ const CustomAccordion = ({ title, author, journal, published, doi, abstract, yea
     (
     year
         ? (<h1>{year}</h1>)
-        : (<div className={`accordion ${accordionStatus ? "uncollapsed" : "collapsed"}`}>
+        : (<div className={`${publication_type} ${accordionStatus ? "uncollapsed" : "collapsed"}`}>
       <button onClick={onClicked}>
         {title}
         <span class="arrow"></span>
@@ -29,6 +29,7 @@ const CustomAccordion = ({ title, author, journal, published, doi, abstract, yea
       </div>
     </div>
   ))
+
   );
 };
 
