@@ -1,16 +1,8 @@
-// import React, { useState, useStaticQuery, graphql } from "react";
 import React from "react";
-// import React, { useState } from "react";
 import { useStaticQuery, graphql } from "gatsby";
-// import "../../components/global.sass";
 import "../../components/accordion.sass";
-// import CustomAccordion from "@components/accordion";
-// import "../../../components/_accordion";
-// import CustomAccordion from "../../../components/accordion";
-// import "../../components/all";
 import Layout from "../../components/Layout";
 import SeO from "../../components/seo";
-// import ExtLink from "../../components/ExtLink";
 import CustomAccordion from "../../components/accordion";
 
 export default function Publications() {
@@ -51,23 +43,6 @@ export default function Publications() {
 
   const post = data.markdownRemark.frontmatter;
 
-  // const accordionData2 = [
-  //   {data.allResearchCsv.nodes.map((node) => (
-  //     <li key={node.id}>
-  //       <h5>{node.field2}</h5>
-  //       <ul>
-  //         <li>{node.field1}</li>
-  //         <li>{node.field3}</li>
-  //         <li>{node.field5}</li>
-  //         <li className="nodot">
-  //           <ExtLink to={node.field6} />
-  //         </li>
-  //         <li className="nodot">{node.field4}</li>
-  //       </ul>
-  //     </li>
-  //   ))}
-  // ];
-
   const accordionData = [
     {
       title: <>Accordion 1</>,
@@ -95,57 +70,9 @@ export default function Publications() {
       ),
     },
   ];
-  // const [accordionStatus, setAccordionStatus] = useState(false);
-  // const onClicked = () => {
-  //   setAccordionStatus(!accordionStatus);
-  // };
-  // const IndexPage = () => {
+  
   return (
-    //   <main>
-    //     <header>
-    //       <h1>Gatsby Custom Accordion</h1>
-    //       <h3>By: Code And Play</h3>
-    //     </header>
-
-    //     {/* <section>{accordionData && accordionData.map((data, i) => <CustomAccordion key={i} title={data.title} content={data.content} />)}</section> */}
-
-    //     <ul>
-    //       {data.allResearchCsv.nodes.map((node) => (
-    //         <CustomAccordion key={node.id} title={node.field2} author={node.field1} journal={node.field3} year={node.field5} doi={node.field6} abstract={node.field4} />
-    //         // <div className={`accordion ${accordionStatus ? "uncollapsed" : "collapsed"}`}>
-    //         //   <button onClick={onClicked}>
-    //         //     {node.field2}
-    //         //     <span class="arrow"></span>
-    //         //   </button>
-    //         //   <div className="accordion-panel">
-    //         //     <ul>
-    //         //       <li>{node.field1}</li>
-    //         //       <li>{node.field3}</li>
-    //         //       <li>{node.field5}</li>
-    //         //       <li className="nodot">
-    //         //         <ExtLink to={node.field6} />
-    //         //       </li>
-    //         //       <li className="nodot">{node.field4}</li>
-    //         //     </ul>
-    //         //   </div>
-    //         // </div>
-    //         // <li key={node.id}>
-    //         //   <h5>{node.field2}</h5>
-    //         //   <ul>
-    //         //     <li>{node.field1}</li>
-    //         //     <li>{node.field3}</li>
-    //         //     <li>{node.field5}</li>
-    //         //     <li className="nodot">
-    //         //       <ExtLink to={node.field6} />
-    //         //     </li>
-    //         //     <li className="nodot">{node.field4}</li>
-    //         //   </ul>
-    //         // </li>
-    //       ))}
-    //     </ul>
-    //   </main>
-    // );
-
+  
     <Layout>
       <SeO title={data.site.siteMetadata.title} description={data.site.siteMetadata.description} />
       <section className="section section--gradient">
@@ -192,28 +119,6 @@ export default function Publications() {
                 
                   {data.allResearchCsv.nodes.map((node) => (
                     <CustomAccordion key={node.id} title={node.field2} author={node.field1} journal={node.field3} published={node.field5} doi={node.field6} abstract={node.field4} year={node.field7} />
-                    
-                    // <div key={node.id} className={`accordion ${accordionStatus ? "uncollapsed" : "collapsed"}`}>
-                    //   {/* <li key={node.id} className={`accordion ${accordionStatus ? "uncollapsed" : "collapsed"}`}> */}
-                    //   <button onClick={onClicked}>
-                    //     {node.field2}
-                    //     <br />
-                    //     {node.id}
-                    //     <span key={node.id} class="arrow"></span>
-                    //   </button>
-                    //   <div key={node.id} className="accordion-panel">
-                    //     <ul>
-                    //       <li>{node.field1}</li>
-                    //       <li>{node.field3}</li>
-                    //       <li>{node.field5}</li>
-                    //       <li className="nodot">
-                    //         <ExtLink to={node.field6} />
-                    //       </li>
-                    //       <li className="nodot">{node.field4}</li>
-                    //     </ul>
-                    //   </div>
-                    //   {/* </li> */}
-                    // </div>
                   ))}
                 
               </div>
@@ -224,5 +129,4 @@ export default function Publications() {
     </Layout>
   );
 
-  // export const Head = () => <title>Gatsby Custom Accordion</title>;
 }
