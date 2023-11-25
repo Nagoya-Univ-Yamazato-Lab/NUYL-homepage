@@ -1,0 +1,318 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Roboto:ital,wght@0,100;0,300;0,700;1,100&display=swap")
+// $colorPrimary: rgb(12, 93, 99)
+// $colorSecondary: rgb(126, 129, 129)
+
+$roboot: "Roboto", sans-serif
+$opensans: "Open Sans", sans-serif
+$accordion-primary: #444444
+$accordion-orange: #fd7a00
+$nuyl-red : #B11C2F
+$nuyl-gold: #b47800
+$nuyl-silver: #989797
+$nuyl-bronze : #7c5830
+// html,
+// body
+//   margin: 0px
+//   height: 100%
+//   background-color: rgb(224, 220, 220)
+//   font-family: $roboot
+// main
+//   margin: 0
+//   padding: 0
+//   position: relative
+//   display: block
+//   max-width: 1024px
+//   margin: auto
+
+  // section,
+  // header
+  //   margin: 0
+  //   padding: 0
+  //   position: relative
+  //   margin: auto
+  //   background-color: #fff
+  //   padding: 20px 100px
+
+  // section
+  //   min-height: 50vh
+  //   padding-bottom: 50px
+
+  // h1
+  //   font-size: 44px
+  //   font-weight: 500
+  //   color: $colorPrimary
+  //   margin: 20px 0
+
+  // h3
+  //   margin: 0
+  //   font-weight: 300
+  //   color: $colorSecondary
+
+  @media only screen and (max-width: 750px)
+    section,
+    header
+      padding: 20px 20px
+
+.Journal
+  color: $accordion-primary
+  width: 100%
+  position: relative
+  margin-bottom: 10px
+
+  &::before
+    content: ""
+    // background-color: $accordion-orange
+    background-color: $nuyl-gold
+    position: absolute
+    border-top-left-radius: 10px
+    border-bottom-left-radius: 10px
+    margin-left: -5px
+    width: 10px
+    height: 100%
+
+  button
+    outline: none
+    padding: 20px
+    border: none
+    text-align: left
+    width: 100%
+    transition: 0.4s
+    font-size: 16px
+    font-weight: 500
+    // background-color: #f5eded
+    background-color: hsl(0, 0%, 96%)
+    // font-family: $roboot
+    color: #000
+    cursor: pointer
+
+    &.active,
+    &:hover
+      // background-color: $accordion-orange
+      background-color: $nuyl-gold
+      color: #fff
+
+      .arrow::before,
+      .arrow::after
+        background: #fff
+
+  .accordion-panel
+    padding: 0 18px
+    background-color: white
+    color: #444444
+    overflow: hidden
+    // transition: max-height 0.3s ease-in-out
+
+  .arrow
+    position: absolute
+    top: 20px
+    right: 20px
+
+    &:before,
+    &:after
+      position: relative
+      content: ""
+      display: block
+      width: 20px
+      height: 2px
+      // background: $accordion-orange
+      background: $nuyl-gold
+      transition: 0.3s ease-in-out
+
+    &:before
+      transform: rotate(45deg)
+
+    &:after
+      left: 13px
+      top: -2px
+      transform: rotate(-45deg)
+
+  &.collapsed
+    .accordion-panel
+      max-height: 0
+
+  &.uncollapsed
+    .accordion-panel
+      max-height: 500px
+
+    .arrow::before
+      transform: rotate(-45deg)
+
+    .arrow::after
+      transform: rotate(45deg)
+
+
+.Conference
+  color: $accordion-primary
+  width: 100%
+  position: relative
+  margin-bottom: 10px
+
+  &::before
+    content: ""
+    // background-color: $accordion-orange
+    background-color: $nuyl-silver
+    position: absolute
+    border-top-left-radius: 10px
+    border-bottom-left-radius: 10px
+    margin-left: -5px
+    width: 10px
+    height: 100%
+
+  button
+    outline: none
+    padding: 20px
+    border: none
+    text-align: left
+    width: 100%
+    transition: 0.4s
+    font-size: 16px
+    font-weight: 500
+    // background-color: #f5eded
+    background-color: hsl(0, 0%, 96%)
+    // font-family: $roboot
+    color: #000
+    cursor: pointer
+
+    &.active,
+    &:hover
+      // background-color: $accordion-orange
+      background-color: $nuyl-silver
+      color: #fff
+
+      .arrow::before,
+      .arrow::after
+        background: #fff
+
+  .accordion-panel
+    padding: 0 18px
+    background-color: white
+    color: #444444
+    overflow: hidden
+    // transition: max-height 0.3s ease-in-out
+
+  .arrow
+    position: absolute
+    top: 20px
+    right: 20px
+
+    &:before,
+    &:after
+      position: relative
+      content: ""
+      display: block
+      width: 20px
+      height: 2px
+      // background: $accordion-orange
+      background: $nuyl-silver
+      transition: 0.3s ease-in-out
+
+    &:before
+      transform: rotate(45deg)
+
+    &:after
+      left: 13px
+      top: -2px
+      transform: rotate(-45deg)
+
+  &.collapsed
+    .accordion-panel
+      max-height: 0
+
+  &.uncollapsed
+    .accordion-panel
+      max-height: 500px
+
+    .arrow::before
+      transform: rotate(-45deg)
+
+    .arrow::after
+      transform: rotate(45deg)
+
+
+.Oral
+  color: $accordion-primary
+  width: 100%
+  position: relative
+  margin-bottom: 10px
+
+  &::before
+    content: ""
+    // background-color: $accordion-orange
+    background-color: $nuyl-bronze
+    position: absolute
+    border-top-left-radius: 10px
+    border-bottom-left-radius: 10px
+    margin-left: -5px
+    width: 10px
+    height: 100%
+
+  button
+    outline: none
+    padding: 20px
+    border: none
+    text-align: left
+    width: 100%
+    transition: 0.4s
+    font-size: 16px
+    font-weight: 500
+    // background-color: #f5eded
+    background-color: hsl(0, 0%, 96%)
+    // font-family: $roboot
+    color: #000
+    cursor: pointer
+
+    &.active,
+    &:hover
+      // background-color: $accordion-orange
+      background-color: $nuyl-bronze
+      color: #fff
+
+      .arrow::before,
+      .arrow::after
+        background: #fff
+
+  .accordion-panel
+    padding: 0 18px
+    background-color: white
+    color: #444444
+    overflow: hidden
+    // transition: max-height 0.3s ease-in-out
+
+  .arrow
+    position: absolute
+    top: 20px
+    right: 20px
+
+    &:before,
+    &:after
+      position: relative
+      content: ""
+      display: block
+      width: 20px
+      height: 2px
+      // background: $accordion-orange
+      background: $nuyl-bronze
+      transition: 0.3s ease-in-out
+
+    &:before
+      transform: rotate(45deg)
+
+    &:after
+      left: 13px
+      top: -2px
+      transform: rotate(-45deg)
+
+  &.collapsed
+    .accordion-panel
+      max-height: 0
+
+  &.uncollapsed
+    .accordion-panel
+      max-height: 500px
+
+    .arrow::before
+      transform: rotate(-45deg)
+
+    .arrow::after
+      transform: rotate(45deg)
+
