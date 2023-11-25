@@ -10,8 +10,10 @@ const CustomAccordion = ({ title, author, journal, published, doi, abstract, yea
   };
 
   return (
-    <div className={`accordion ${accordionStatus ? "uncollapsed" : "collapsed"}`}>
-
+    (
+    year
+        ? (<h1>{year}</h1>)
+        : (<div className={`accordion ${accordionStatus ? "uncollapsed" : "collapsed"}`}>
       <button onClick={onClicked}>
         {title}
         <span class="arrow"></span>
@@ -21,11 +23,12 @@ const CustomAccordion = ({ title, author, journal, published, doi, abstract, yea
           <li>{author}</li>
           <li>{journal}</li>
           <li>{published}</li>
-          { doi && <li className="nodot"><ExtLink to={doi} /><br /></li> }
-          { abstract && <li className="nodot">{abstract}<br /></li>}
+          { doi && <li><ExtLink to={doi} /><br /></li> }
+          { abstract && <li>{abstract}<br /></li>}
         </ul>
       </div>
     </div>
+  ))
   );
 };
 
