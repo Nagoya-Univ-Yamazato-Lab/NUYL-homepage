@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Roboto:ital,wght@0,100;0,300;0,700;1,100&display=swap")
-$colorPrimary: rgb(12, 93, 99)
-$colorSecondary: rgb(126, 129, 129)
+// $colorPrimary: rgb(12, 93, 99)
+// $colorSecondary: rgb(126, 129, 129)
 
 $roboot: "Roboto", sans-serif
 $opensans: "Open Sans", sans-serif
@@ -48,9 +48,19 @@ $opensans: "Open Sans", sans-serif
     header
       padding: 20px 20px
 
+year
+  $nuyl-gold: #a08332
+  $nuyl-red : #B11C2F
+  color : $nuyl-red
+  background-color: #fff
+  font-size: 18px
+  font-weight: 500  
+
 .accordion
   $accordion-primary: #444444
   $accordion-orange: #fd7a00
+  $nuyl-gold: #a08332
+  $nuyl-red : #B11C2F
 
   color: $accordion-primary
   width: 100%
@@ -59,7 +69,8 @@ $opensans: "Open Sans", sans-serif
 
   &::before
     content: ""
-    background-color: $accordion-orange
+    // background-color: $accordion-orange
+    background-color: $nuyl-gold
     position: absolute
     border-top-left-radius: 10px
     border-bottom-left-radius: 10px
@@ -74,16 +85,18 @@ $opensans: "Open Sans", sans-serif
     text-align: left
     width: 100%
     transition: 0.4s
-    font-size: 14px
-    // font-weight: 500
-    background-color: #f5eded
+    font-size: 16px
+    font-weight: 500
+    // background-color: #f5eded
+    background-color: hsl(0, 0%, 96%)
     // font-family: $roboot
     color: #000
     cursor: pointer
 
     &.active,
     &:hover
-      background-color: $accordion-orange
+      // background-color: $accordion-orange
+      background-color: $nuyl-gold
       color: #fff
 
       .arrow::before,
@@ -95,7 +108,7 @@ $opensans: "Open Sans", sans-serif
     background-color: white
     color: #444444
     overflow: hidden
-    transition: max-height 0.3s ease-in-out
+    // transition: max-height 0.3s ease-in-out
 
   .arrow
     position: absolute
@@ -109,7 +122,8 @@ $opensans: "Open Sans", sans-serif
       display: block
       width: 20px
       height: 2px
-      background: $accordion-orange
+      // background: $accordion-orange
+      background: $nuyl-gold
       transition: 0.3s ease-in-out
 
     &:before

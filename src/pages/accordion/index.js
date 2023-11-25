@@ -1,6 +1,6 @@
 // import React, { useState, useStaticQuery, graphql } from "react";
-// import React from "react";
-import React, { useState } from "react";
+import React from "react";
+// import React, { useState } from "react";
 import { useStaticQuery, graphql } from "gatsby";
 // import "../../components/global.sass";
 import "../../components/accordion.sass";
@@ -42,6 +42,7 @@ export default function Publications() {
           field4
           field5
           field6
+          field7
           id
         }
       }
@@ -94,10 +95,10 @@ export default function Publications() {
       ),
     },
   ];
-  const [accordionStatus, setAccordionStatus] = useState(false);
-  const onClicked = () => {
-    setAccordionStatus(!accordionStatus);
-  };
+  // const [accordionStatus, setAccordionStatus] = useState(false);
+  // const onClicked = () => {
+  //   setAccordionStatus(!accordionStatus);
+  // };
   // const IndexPage = () => {
   return (
     //   <main>
@@ -188,13 +189,10 @@ export default function Publications() {
                   </div>
                 </div>
                 <hr />
-                <ul>
+                
                   {data.allResearchCsv.nodes.map((node) => (
-                    <ul>
-                      <li key={node.id}>
-                        <CustomAccordion key={node.id} title={node.field2} author={node.field1} journal={node.field3} year={node.field5} doi={node.field6} abstract={node.field4} />
-                      </li>
-                    </ul>
+                    <CustomAccordion key={node.id} title={node.field2} author={node.field1} journal={node.field3} published={node.field5} doi={node.field6} abstract={node.field4} year={node.field7} />
+                    
                     // <div key={node.id} className={`accordion ${accordionStatus ? "uncollapsed" : "collapsed"}`}>
                     //   {/* <li key={node.id} className={`accordion ${accordionStatus ? "uncollapsed" : "collapsed"}`}> */}
                     //   <button onClick={onClicked}>
@@ -217,7 +215,7 @@ export default function Publications() {
                     //   {/* </li> */}
                     // </div>
                   ))}
-                </ul>
+                
               </div>
             </div>
           </div>
