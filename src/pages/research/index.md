@@ -11,7 +11,7 @@ tags:
 
 ## あいちITSワールド2023で公開したビデオ
 
-2023年11月23日〜26日にポートめっせなごやにて開催された[あいちITSワールド2023](https://aichi-its.jp/itsworld/)にて研究紹介の展示とデモを行いました．
+2023年11月23日〜26日にポートめっせなごや（名古屋市国際展示場）にて開催された[あいちITSワールド2023](https://aichi-its.jp/itsworld/)にて研究紹介の展示とデモを行いました．
 そこで公開した研究紹介ビデオです．
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/902135247?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="あいちITSワールド2023"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
@@ -20,6 +20,8 @@ tags:
 現在取り組んでいる可視光通信の研究についてご覧いただけます．
 
 B4の近藤君が作ってくれました．ちなみに表紙右下にある研究室ロゴ，またこのHPのヘッダ・フッタのロゴも近藤君がデザインしたものです．いいセンスしていますね！素晴らしい．
+
+なお，[あいちITSワールド2023](https://aichi-its.jp/itsworld/)は[名古屋モビリティショー](https://www.nagoya-mobilityshow.jp)（モーターショーです）と併催されましたので，コンセプトカーや最新の自動車も見ることができて楽しかったです．
 
 ## 2021 年度オープンキャンパスの研究紹介ビデオ
 
