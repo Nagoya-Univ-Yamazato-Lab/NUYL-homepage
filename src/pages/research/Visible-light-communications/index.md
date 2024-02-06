@@ -44,6 +44,10 @@ LED は半導体デバイスであるため、人の目には見えないほど�
 
 これまで，赤字の OWC Workshop の Web page のホスティングを行ってきました．
 
+### VTC Workshop
+
+- **<span style="color: red; ">[First](http://yamazato.nuee.nagoya-u.ac.jp/owc2024/index.html) will be held in Singapore, June 24-27, 2024, in association with [IEEE 99th Vehicular Technology Conference (VTC2024-Spring)](https://events.vtsociety.org/vtc2024-spring/).</span>**
+
 ### ISCC Workshop
 
 - **<span style="color: red; ">[First](http://yamazato.nuee.nagoya-u.ac.jp/owc2023/index.html) will be held at Tunis, Tunisia, on 9 July, 2023, in conjunction with [IEEE ISCC 2023](https://2023.ieee-iscc.org/) .</span>**
