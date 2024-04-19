@@ -155,10 +155,28 @@ const Footer = class extends React.Component {
                         href="https://www.katayama.nuee.nagoya-u.ac.jp/index-e.php"
                         target="_blank"
                         rel="noopener noreferrer"
-                        title="Nagoya University Katayama Laboratory"
+                        title="Nagoya University Okada Laboratory"
                       >
-                        Nagoya University Katayama Laboratory
+                        Nagoya University Okada Laboratory
                       </a>
+                    </li>
+                    <li>
+                      <Link
+                        className="navbar-item"
+                        to="/IEEE-ComSoc-Tokyo-Joint-Chapter/"
+                        title="IEEE ComSoc Tokyo Joint Chapter"
+                      >
+                      IEEE ComSoc Tokyo Joint Chapter
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        className="navbar-item"
+                        to="/owc2024/"
+                        title="OWC’24"
+                      >
+                      IEEE VTC Workshop on Optical Wireless Communications (OWC’24) for 6G
+                      </Link>
                     </li>
                   </ul>
                 </section>
