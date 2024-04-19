@@ -149,7 +149,7 @@ const Footer = class extends React.Component {
                         rel="noopener noreferrer"
                         title="Nagoya University Katayama Laboratory"
                       >
-                        片山研究室
+                        岡田研究室
                       </a>
                     </li>
                     <li>
