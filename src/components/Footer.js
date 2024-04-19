@@ -102,6 +102,16 @@ const Footer = class extends React.Component {
                         &nbsp;&nbsp;English
                       </Link>
                     </li>
+                    <li>
+                      <Link
+                        className="navbar-item"
+                        to="/#contact"
+                        title="お問い合わせ"
+                      >
+                        <FaEnvelope />
+                        &nbsp;&nbsp;お問い合わせ
+                      </Link>
+                    </li>
                   </ul>
                 </section>
               </div>
@@ -155,11 +165,19 @@ const Footer = class extends React.Component {
                     <li>
                       <Link
                         className="navbar-item"
-                        to="/#contact"
-                        title="お問い合わせ"
+                        to="/IEEE-ComSoc-Tokyo-Joint-Chapter/"
+                        title="IEEE ComSoc Tokyo Joint Chapter"
                       >
-                        <FaEnvelope />
-                        &nbsp;&nbsp;お問い合わせ
+                      IEEE ComSoc Tokyo Joint Chapter
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        className="navbar-item"
+                        to="/owc2024/"
+                        title="OWC’24"
+                      >
+                      IEEE VTC Workshop on Optical Wireless Communications (OWC’24) for 6G
                       </Link>
                     </li>
                   </ul>
