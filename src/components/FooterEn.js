@@ -166,7 +166,7 @@ const Footer = class extends React.Component {
                         to="/IEEE-ComSoc-Tokyo-Joint-Chapter/"
                         title="IEEE ComSoc Tokyo Joint Chapter"
                       >
-                      IEEE ComSoc Tokyo Joint Chapter
+                        IEEE ComSoc Tokyo Joint Chapter
                       </Link>
                     </li>
                     <li>
@@ -175,7 +175,8 @@ const Footer = class extends React.Component {
                         to="/owc2024/"
                         title="OWC’24"
                       >
-                      IEEE VTC Workshop on Optical Wireless Communications (OWC’24) for 6G
+                        IEEE VTC Workshop on Optical Wireless Communications
+                        (OWC’24) for 6G
                       </Link>
                     </li>
                   </ul>

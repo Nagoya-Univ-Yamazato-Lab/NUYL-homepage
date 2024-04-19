@@ -1,11 +1,11 @@
-import React from "react";
+import React from 'react'
 // import PropTypes from "prop-types";
-import { Link, graphql, StaticQuery } from "gatsby";
+import { Link, graphql, StaticQuery } from 'gatsby'
 
 class IndexTopRoll extends React.Component {
   render() {
-    const { data } = this.props;
-    const { edges: posts } = data.allMarkdownRemark;
+    const { data } = this.props
+    const { edges: posts } = data.allMarkdownRemark
 
     return (
       <div className="content">
@@ -17,7 +17,7 @@ class IndexTopRoll extends React.Component {
             {posts &&
               posts.map(({ node: post }) => (
                 <li>
-                  {" "}
+                  {' '}
                   <Link className="is-size-6" to={post.fields.slug}>
                     {post.frontmatter.title}
                   </Link>
@@ -27,7 +27,7 @@ class IndexTopRoll extends React.Component {
           </blockquote>
         </ul>
       </div>
-    );
+    )
   }
 }
 
@@ -36,7 +36,11 @@ export default function IndexTopRollQuery() {
     <StaticQuery
       query={graphql`
         {
-          allMarkdownRemark(sort: { frontmatter: { date: DESC } }, filter: { frontmatter: { templateKey: { eq: "blog-post" } } }, limit: 3) {
+          allMarkdownRemark(
+            sort: { frontmatter: { date: DESC } }
+            filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
+            limit: 3
+          ) {
             edges {
               node {
                 id
@@ -55,5 +59,5 @@ export default function IndexTopRollQuery() {
       `}
       render={(data, count) => <IndexTopRoll data={data} count={count} />}
     />
-  );
+  )
 }
