@@ -222,12 +222,11 @@ const IndexPageTemplate = ({ data }) => (
               <div className="column post is-3">
                 <article className="columns is-multiline">
                   <div className="column is-12 featured-content ">
-                    <h1 className="heading post-category">博士後期課程</h1>
+                    <h1 className="heading post-category">博士研究員（ポスドク）</h1>
                     <h1>
                       <FaUserGraduate />
                     </h1>
                     <p className="is-size-5">
-                      D3 <br />
                       &nbsp; &nbsp;唐 正強
                       <br />
                     </p>
@@ -243,19 +242,21 @@ const IndexPageTemplate = ({ data }) => (
                     </h1>
                     <p className="is-size-5">
                       M2 <br />
-                      &nbsp; &nbsp;江原 大貴
-                      <br />
-                      &nbsp; &nbsp;小鹿 文也
-                      <br />
-                      &nbsp; &nbsp;鄭 錦星
-                      <br />
-                      <br />
-                      M1 <br />
                       &nbsp; &nbsp;磯崎 新
                       <br />
                       &nbsp; &nbsp;大塚 鮎陸
                       <br />
                       &nbsp; &nbsp;曹 晨宇
+                      <br />
+                      <br />
+                      M1 <br />
+                      &nbsp; &nbsp;浅岡 新
+                      <br />
+                      &nbsp; &nbsp;石 天昊
+                      <br />
+                      &nbsp; &nbsp;近藤 涼太
+                      <br />
+                      &nbsp; &nbsp;中野 幸亮
                     </p>
                   </div>
                 </article>
@@ -269,17 +270,14 @@ const IndexPageTemplate = ({ data }) => (
                     </h1>
                     <p className="is-size-5">
                       B4 <br />
-                      &nbsp; &nbsp;呉 穎毅
+                      &nbsp; &nbsp;阿邊 瑛佑
                       <br />
-                      &nbsp; &nbsp;近藤 涼太
+                      &nbsp; &nbsp;小林 正尚
                       <br />
-                      &nbsp; &nbsp;永井 日菜
+                      &nbsp; &nbsp;曾我 亮太
                       <br />
-                      &nbsp; &nbsp;中野 幸亮
+                      &nbsp; &nbsp;森田 光貴
                       <br />
-                      <br />
-                      研究生 <br />
-                      &nbsp; &nbsp;石 天昊 <br />
                       <br />
                     </p>
                   </div>

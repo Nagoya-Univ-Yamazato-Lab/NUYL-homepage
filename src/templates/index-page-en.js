@@ -235,12 +235,11 @@ const IndexPageTemplateEN = ({ data }) => (
               <div className="column post is-3">
                 <article className="columns is-multiline">
                   <div className="column is-12 featured-content ">
-                    <h1 className="heading post-category">Ph.D. Candidates</h1>
+                    <h1 className="heading post-category">Postdoctoral Researcher</h1>
                     <h1 className="title post-title">
                       <FaUserGraduate />
                     </h1>
                     <p className="post-excerpt">
-                      D3 <br />
                       &nbsp; &nbsp;Zhengqiang TANG
                     </p>
                   </div>
@@ -255,19 +254,22 @@ const IndexPageTemplateEN = ({ data }) => (
                     </h1>
                     <p className="post-excerpt">
                       M2 <br />
-                      &nbsp; &nbsp;Daiki EHARA
-                      <br />
-                      &nbsp; &nbsp;Fumiya OJIKA
-                      <br />
-                      &nbsp; &nbsp;Jinxing ZHENG
-                      <br />
-                      <br />
-                      M1 <br />
                       &nbsp; &nbsp;Arata ISOZAKI
                       <br />
                       &nbsp; &nbsp;Ayumu OTSUKA
                       <br />
                       &nbsp; &nbsp;Cao CHENYU
+                      <br />
+                      <br />
+                      M1 <br />
+                      &nbsp; &nbsp;Shin ASAOKA
+                      <br />
+                      &nbsp; &nbsp;Tianhao SHI
+                      <br />
+                      &nbsp; &nbsp;Ryota KONDO
+                      <br />
+                      &nbsp; &nbsp;Kosuke NAKANO
+                      <br />
                     </p>
                   </div>
                 </article>
@@ -283,17 +285,14 @@ const IndexPageTemplateEN = ({ data }) => (
                     </h1>
                     <p className="post-excerpt">
                       B4 <br />
-                      &nbsp; &nbsp;Eiki GO
+                      &nbsp; &nbsp;Eisuke ABE
                       <br />
-                      &nbsp; &nbsp;Ryota KONDO
+                      &nbsp; &nbsp;Masataka KOBAYASHI
                       <br />
-                      &nbsp; &nbsp;Hina NAGAI
+                      &nbsp; &nbsp;Ryota SOGA
                       <br />
-                      &nbsp; &nbsp;Kosuke NAKANO
+                      &nbsp; &nbsp;Koki MORITA
                       <br />
-                      <br />
-                      Research student <br />
-                      &nbsp; &nbsp;Tianhao SHI
                       <br />
                     </p>
                   </div>
