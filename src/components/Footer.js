@@ -165,6 +165,15 @@ const Footer = class extends React.Component {
                     <li>
                       <Link
                         className="navbar-item"
+                        to="/TEFS2024/"
+                        title="TEFS2024"
+                      >
+                        TEFS2024
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        className="navbar-item"
                         to="/IEEE-ComSoc-Tokyo-Joint-Chapter/"
                         title="IEEE ComSoc Tokyo Joint Chapter"
                       >
