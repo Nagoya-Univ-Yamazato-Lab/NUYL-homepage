@@ -168,7 +168,7 @@ const Footer = class extends React.Component {
                         to="/TEFS2024/"
                         title="TEFS2024"
                       >
-                        TEFS2024
+                        テクノフロンティアセミナー（TEFS2024）
                       </Link>
                     </li>
                     <li>
