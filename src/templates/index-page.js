@@ -274,7 +274,7 @@ const IndexPageTemplate = ({ data }) => (
                       <br />
                       &nbsp; &nbsp;小林 正尚
                       <br />
-                      &nbsp; &nbsp;曾我 亮太
+                      &nbsp; &nbsp;曽我 亮太
                       <br />
                       &nbsp; &nbsp;森田 光貴
                       <br />
