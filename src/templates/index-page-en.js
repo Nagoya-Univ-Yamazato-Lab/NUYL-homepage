@@ -300,7 +300,7 @@ const IndexPageTemplateEN = ({ data }) => (
               </div>
             </div>
             <h2 id="team">
-              <Link to="/team/">&nbsp;Alumni</Link>
+              <Link to="/team/">&nbsp;Alumni and Alumnae</Link>
             </h2>
             <div className="columns is-multiline">
               <div className="column post is-3">
