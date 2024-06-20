@@ -7,7 +7,7 @@
     "@formspree/react": "2.5.1",
     "@react-icons/all-files": "^4.1.0",
     "bulma": "0.9.4",
-    "gatsby": "^5.13.4",
+    "gatsby": "^5.13.6",
     "gatsby-plugin-canonical-urls": "^5.13.1",
     "gatsby-plugin-google-gtag": "^5.13.1",
     "gatsby-plugin-image": "^3.13.1",
@@ -31,10 +31,10 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-helmet": "^6.1.0",
-    "react-hook-form": "^7.51.4",
+    "react-hook-form": "^7.52.0",
     "react-scroll": "^1.9.0",
-    "sass": "^1.77.0",
-    "uuid": "^9.0.1"
+    "sass": "^1.77.6",
+    "uuid": "^10.0.0"
   },
   "keywords": [
     "gatsby"
@@ -52,7 +52,7 @@
     "package update": "ncu -u && rm -rf node_modules yarn.lock && yarn install && yarn run build"
   },
   "devDependencies": {
-    "prettier": "^3.2.5"
+    "prettier": "^3.3.2"
   },
   "engines": {
     "node": ">= 14.15.0"
