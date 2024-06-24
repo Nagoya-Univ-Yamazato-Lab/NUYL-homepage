@@ -15,7 +15,7 @@ Professor:
 
 Lecturer
 
-- Shan LU
+- [Shan LU](/team/Shan-Lu/)
 
 Secretary:
 
