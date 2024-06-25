@@ -93,10 +93,10 @@ tags:
 ## 資料
 
 - 2024年度　ベーシックコース
-  - [ベーシックコースの資料](./Turtle_Graphics_Basic.pdf)
+  - [ベーシックコースの資料](./2024_Turtle_Graphics_Basic.pdf)
     - [Colabのファイル](Turtle_Graphics_Basic.ipynb)
 - 2024年度　アドバンスコース
-  - [1日目の資料（ベーシックコースの資料を使います）](./Turtle_Graphics_Basic.pdf)
+  - [1日目の資料（ベーシックコースの資料を使います）](./2024_Turtle_Graphics_Basic.pdf)
     - [Colabのファイル](Turtle_Graphics_Basic.ipynb)
   - [2日目の資料](./Turtle_Graphics_Advanced.pdf)
     - [Colabのファイル](./Turtle_Graphics_Advanced.ipynb)
@@ -580,12 +580,12 @@ $$
 
 ## [2023年度のサイト（アーカイブ）](/research/OER/wwl/2023)
   - 2023年度　ベーシックコース
-    - [ベーシックコースの資料](./Turtle_Graphics_Basic.pdf)
+    - [ベーシックコースの資料](./2023_Turtle_Graphics_Basic.pdf)
       - [Colabのファイル](Turtle_Graphics_Basic.ipynb)
   - 2023年度　アドバンスコース
-    - [1日目の資料（ベーシックコースの資料を使います）](./Turtle_Graphics_Basic.pdf)
+    - [1日目の資料（ベーシックコースの資料を使います）](./2023_Turtle_Graphics_Basic.pdf)
       - [Colabのファイル](Turtle_Graphics_Basic.ipynb)
-    - [2日目の資料（2022年度2日目の資料を使います）](./Turtle_Graphics_Advanced.pdf)
+    - [2日目の資料（2022年度2日目の資料を使います）](./2023_Turtle_Graphics_Advanced.pdf)
       - [Colabのファイル（2022年度2日目と同じです）](./Turtle_Graphics_Advanced.ipynb)
 
 ## [2022 年度のサイト（アーカイブ）](/research/OER/wwl/2022)
