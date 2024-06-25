@@ -98,7 +98,7 @@ tags:
 - 2024年度　アドバンスコース
   - [1日目の資料（ベーシックコースの資料を使います）](./2024_Turtle_Graphics_Basic.pdf)
     - [Colabのファイル](Turtle_Graphics_Basic.ipynb)
-  - [2日目の資料](./Turtle_Graphics_Advanced.pdf)
+  - [2日目の資料](./2024_Turtle_Graphics_Advanced.pdf)
     - [Colabのファイル](./Turtle_Graphics_Advanced.ipynb)
 
 
