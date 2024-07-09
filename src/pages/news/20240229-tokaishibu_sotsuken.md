@@ -1,14 +1,14 @@
 ---
 templateKey: blog-post
-title:B4メンバーがIEICE東海支部卒研発表会で発表し，近藤君，中野君が優秀発表賞を受賞しました．
+title: B4メンバーがIEICE東海支部卒研発表会で発表し，近藤君，中野君が優秀発表賞を受賞しました．
 date: 2024-02-13T13:30:00.096Z
-description:2024年2月29日に名古屋大学で開催されたIEICE東海支部卒研発表会でB4メンバーが発表しました
+description: 2024年2月29日に名古屋大学で開催されたIEICE東海支部卒研発表会でB4メンバーが発表しました
 featuredpost: true
 featuredimage: /img/coffee.png
 tags:
   - IEICE
-  -東海支部
-  -卒研発表会
+  - 東海支部
+  - 卒研発表会
 ---
 
 ---
