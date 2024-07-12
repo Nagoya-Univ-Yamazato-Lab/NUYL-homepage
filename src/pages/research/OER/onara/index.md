@@ -10,10 +10,10 @@ tags:
   - NU Tech Festival 2024 Summer
 ---
 # [名古屋大学 夏のテクノロジーフェスティバル](https://tech.imass.nagoya-u.ac.jp/)
-# [おならでもつうしんできる？](https://tech.imass.nagoya-u.ac.jp/lecture.html)
+# [おならでもつうしんできる？](https://tech.imass.nagoya-u.ac.jp/lecture.html#L4B)
 #### なるほど！つうしんのしくみ
 
-- セッションコード：[L4B](https://tech.imass.nagoya-u.ac.jp/lecture.html)
+- セッションコード：[L4B](https://tech.imass.nagoya-u.ac.jp/lecture.html#L4B)
 - 対象：小学（特に低学年・中学年におすすめ）
 - 定員：250名
 - 会場：名古屋大学　坂田・平田ホール
@@ -27,20 +27,20 @@ tags:
 けいたいでんわは、でんぱを使って音をとおくにとどけます。でも、ちかいところであれば、糸を使っても音をとどけることができます。そう、糸でんわですね！じつは、糸だけじゃなく、光や音を使ってもつうしんすることができます。このしくみが分かれば、「おなら」でもつうしんができるかもしれません。このじゅぎょうでは、「おならつうしん」にチャレンジします。みんな，おならでつうしんはできるかな？
 
 
-> ## お願い<!-- omit in toc -->
+> ## 参加される保護者の皆様へのお願い<!-- omit in toc -->
 >
-> この講義では [Google Colaboratory](https://colab.research.google.com/) (コラボと呼びます) を使います．
->
-> - コラボの利⽤には [Google アカウント](https://support.google.com/accounts/answer/27441?hl=ja)が必要です．事前に取得しておいてください．
-> - コラボは PC のブラウザから利⽤できます．⾃宅からでも OK︕
-> - ブラウザは何でも良いと思います．もし，うまくいかないようであれば [Google Chrome](https://www.google.co.jp/chrome/) をダウンロードしてご利⽤ください．
-> - コラボの使い方は[こちら](https://sites.google.com/a.ipsj.or.jp/mooc/list/How2)を参照してください．
+> この講演では参加されるお子様に「おなら」で通信することにチャレンジしてもらいます。
+>　「おなら」といっても実際に使うのは「おならの音」です。ついては、お子様の「おならの音」を募集します。
+> ご提供頂ける方は以下のメールアドレスまでご一報ください。
+> - onara@yamazato.nuee.nagoya-u.ac.jp
+> ご提供いただいた「おならの音」は名古屋大学での教育・研究目的（本公演を含む）にのみ利用させていただき、それ以外では利用しません。また、ご提供いただく方のプライバシーには配慮し、お名前などは公表いたしません。
+> どうぞたくさんの「おならの音」をご提供くださいますよう、お願い申し上げます。
 
 ---
 
-このページで[名古屋大学 夏のテクノロジーフェスティバル](https://tech.imass.nagoya-u.ac.jp/)の[おならでもつうしんできる？](https://tech.imass.nagoya-u.ac.jp/lecture.html)にしっておいてほしいことをかくね．
+このページでは[名古屋大学 夏のテクノロジーフェスティバル](https://tech.imass.nagoya-u.ac.jp/)の[おならでもつうしんできる？](https://tech.imass.nagoya-u.ac.jp/lecture.html)にしっておいてほしいことをかくね．
 
-お父さん、お母さんと一緒によんでね！
+お父さん、お母さんへのメッセージも書くので、お父さん、お母さんと一緒によんでね！
 
 <a id="なぜ事前学習が必要なのか"></a>
 
