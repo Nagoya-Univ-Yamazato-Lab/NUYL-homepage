@@ -49,9 +49,9 @@ tags:
 
 ---
 
-このページでは[名古屋大学 夏のテクノロジーフェスティバル](https://tech.imass.nagoya-u.ac.jp/)の[おならでもつうしんできる？](https://tech.imass.nagoya-u.ac.jp/lecture.html)にしっておいてほしいことをかくね．
+このページでは[名古屋大学 夏のテクノロジーフェスティバル](https://tech.imass.nagoya-u.ac.jp/)の[おならでもつうしんできる？](https://tech.imass.nagoya-u.ac.jp/lecture.html)について、知っておいて欲しいことを書くね。
 
-お父さん、お母さんと一緒によんでね！
+お父さん、お母さんと一緒に読んでね！
 
 ---
 
@@ -59,8 +59,7 @@ tags:
 
 - [「おなら通信」チャレンジ！](#fart-challenge)
 - [おならでSOSを送ってみよう！（おなら通信のしくみ）](#how-it-works)
-
-
+- [おならの臭いでも通信はできるの？（デジタル通信の原理）](#smell-communication)
 ---
 
 <a id="fart-challenge"></a>
@@ -137,7 +136,7 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">でも、先生、おならって声みたいに出そうとおもっても、プ〜　って出ないよ。授業のときにおなら出ないかも。
+    <p class="says">でも、先生、おならって声みたいに出そうとおもっても、　プ〜　って出ないよ。授業のときにおなら出ないかも。
     </p>
 </div>
 <div class="balloon_r">
@@ -241,7 +240,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">おぉお、おならくんすごい。よく知っているね。映画の方が有名だと思うけど、ドラえもんにも載っているのだね。
+    <p class="says">おぉ、おならくんすごい。よく知っているね。映画の方が有名だと思うけど、ドラえもんにも載っているのだね。
     </p>
 </div>
 <div class="balloon_l">
@@ -283,7 +282,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">SOS信号を出すのに当時は火花を使ったんだ。
+    <p class="says">ハハハ、しゃれだね。<br>当時はSOS信号を出すのに火花を使ったんだ。
     </p>
 </div>
 <div class="balloon_l">
@@ -297,7 +296,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そう。火花を出るときに電波（でんぱ）も一緒に出るんだ。電波は遠くまで飛ぶので船から地上まで信号を届けることができるんだ。
+    <p class="says">そう。火花が出るときに電波（でんぱ）も一緒に出るんだ。電波は遠くまで飛ぶので船から地上まで信号を届けることができるんだ。
     </p>
 </div>
 <div class="balloon_l">
@@ -311,7 +310,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">おならくん、いいところに気づいたね。素晴らしいよ。<br>
+    <p class="says">おならくん、いいところに気づいたね。<br>
     火花を出したり、火花を消したりしたの。そうすると、電波も出たり、出なかったりするでしょ。
     </p>
 </div>
@@ -340,7 +339,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">その通り。短い電波は音で表すと「ツ」になるかな。長い時間の電波は「ツー」。その２つの組み合わせで SOS 信号をあらわ心だ。
+    <p class="says">その通り。短い電波は音で表すと「ツ」になるかな。長い時間の電波は「ツー」。その２つの組み合わせで SOS 信号を表したんだ。
     </p>
 </div>
 <div class="balloon_l">
@@ -375,7 +374,8 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">えへへ。ということは、おならでやると「プップップッ　プゥ〜プゥ〜プゥ〜　プップップッ」になるの？
+    <p class="says">えへへ。<br>
+    ということは、おならでやると「プップップッ　プゥ〜プゥ〜プゥ〜　プップップッ」になるの？
     </p>
 </div>
 <div class="balloon_r">
@@ -387,21 +387,26 @@ tags:
     </p>
 </div>
 
+-----
+> 注１）上記で「タイタニック号が世界初のSOSを発した」と説明したが、実際にはタイタニック号が最初では無い。タイタニック号の悲劇と併せてSOSが最初と述べている書物も多いことからそのように書いた。詳細は[Wikipedia](https://ja.wikipedia.org/wiki/SOS)を参照のこと。
+> 
 
+<a id="smell-communication"></a>
 
+## おならの臭いでも通信はできるの？（デジタル通信の原理）
 
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">へへへ。でも、SOSをおならでやるのは難しいなぁ。
+    <p class="says">おなら通信分かったもんね、へへへ。でも、SOSをおならでやるのは難しいなぁ。練習してもできないかも。
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">ちょっとだけ種明かしをするつもりだったけど、全部言っちゃった。ハハハ。
+    <p class="says">そうだね、普通の人には難しいと思うよ。でもね、おならで歌を歌うことができる人もいるんだよ。きっとこの人ならSOSも簡単にできると思うよ。このページの最後に紹介するね。
     </p>
 </div>
 
@@ -409,7 +414,7 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">
+    <p class="says">先生、でも、おならの音で通信できるのなら、おならの臭いでも通信はできるの？
     </p>
 </div>
 <div class="balloon_r">
