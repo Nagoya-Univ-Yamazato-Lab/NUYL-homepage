@@ -382,3 +382,68 @@ h2
   z-index: 1
   cursor: pointer
   color: $nuyl-gold
+
+
+.balloon_l
+  margin: 30px 0
+  display: -webkit-flex
+  display: -moz-flex
+  display: -ms-flex
+  display: -o-flex
+  display: flex
+
+.balloon_r
+  margin: 30px 0
+  display: -webkit-flex
+  display: -moz-flex
+  display: -ms-flex
+  display: -o-flex
+  display: flex
+
+.balloon_r
+  justify-content: flex-end
+
+.faceicon img
+  width: 80px
+  height: auto
+
+.balloon_r .faceicon
+  margin-left: 25px
+  order:2 !important
+
+.balloon_l .faceicon
+  margin-right: 25px
+
+.says
+  max-width:500px
+  position: relative
+  padding: 17px 13px 15px 18px
+  border-radius: 12px
+  background: #99dddd
+  box-sizing: border-box
+  margin:0 !important
+  line-height:1.5
+
+
+.says p
+  margin:8px 0 0 !important 
+
+.says p:first-child
+  margin-top:0 !important
+
+.says:after 
+  content: ""
+  position: absolute
+  border: 10px solid transparent
+  margin-top:-3px
+
+.balloon_l .says:after
+  top: 26px
+  left: -26px
+  border-right: 22px solid #99dddd
+
+.balloon_r .says:after
+  top: 26px
+  right: -26px
+  border-left: 22px solid #99dddd
+
