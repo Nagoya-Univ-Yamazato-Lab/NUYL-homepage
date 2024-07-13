@@ -53,66 +53,210 @@ tags:
 
 お父さん、お母さんと一緒によんでね！
 
-<a id="## おならくんとやまざと先生の会話"></a>
+<a id="## 「おなら通信」チャレンジ！"></a>
 
-## おならくんとやまざと先生の会話
-
-- おならくん：	先生、このじゅぎょうでは「おならつうしん」にチャレンジするって書いてあるけど、ほんとうにおならでつうしんするの？
-- やまざと：	もちろん。
-- おならくん：	でも，じゅぎょうちゅうにみんながぷっぷっぷとおならしたら，きょうしつがおならでいっぱいになってたいへんだよ。マスクをもってくるようにアナウンスしなきゃ。
-- やまざと：	それはこまったなぁ、どうしよう・・・
-- おならくん：	だいじょうぶだよ。ぼく、くさくないおならのしかた知っているもん。ぜんぜんくさくないよ。
-- やまざと：	え、どうやるの、おしえて。
-- おならくん：はやね、はやおき、まいにちぐっすりねむること。好ききらいなく、何でもよく食べること。
-- やまざと：	そうだね、お肉ばっかり食べていると、つぎの日のおならはくさいからね。
-- おならくん：	そう。お肉じゃなくお野菜をたくさん食べるといいよ。それから体をうごかして、うんどうするのも良いよ。なつやすみはまいにちラジオたいそうをやるよ。
-- やまざと：	けんこうてきでいいね。おならくんはすばらしいね！
-- おならくん：	でも、先生、おならって声みたいに出そうとおもっても、ぷってでないよ。じゅぎょうのときにおならでないかも。
-- やまざと：	それはこまったなぁ、おならがでないとつうしんもできないぞ。
-- おならくん：おならの音をろくおんして使ったらどう？ぼくのおならは、ぷ〜って、明るく元気ないいおとするよ。録音したおならの音はつかえる？
-- やまざと：	いいねぇ。みんなにおならの音をろくおんしておくってもらおう。それをつかったつうしんを考えるね。
-- おならくん：パフパフってなるおもちゃのラッパを持っているけど、ぼくのおならの音と似ているよ。
-- やまざと：	パフパフラッパならくさくないのできょうしつにもってきてもいいよ。それをつかっておならつうしんをためしてみよう。
-- おならくん：なんだか、とてもたのしそうなじゅぎょうだね！きたいしてもいい？
-- やまざと：	もちろん！みんなのおならの音でつうしんしちゃうね。たくさん送ってね！
-- おならくん：	うん、ぼくの元気なおならの音をおくるね。どうやって送ればいいの？
-- やまざと：	お父さん、お母さんに以下のサイトを見てもらって。そこにちゅういじこうやおくりかたなどあります。
-- おならくん：うん、わかった。いいおならの音を録音できるようにがんばるね！
-
-## おならでSOSをおくってみよう！（おならつうしんのしくみ）
-
-- おならくん：先生、おならでどうやってつうしんするの？おしえて。
-- やまざと：　それはじゅぎょうの日までお楽しみにして。でも、ちょっとだけおしえるね。
-- おならくん：わくわく。
-- 
-
-せかいではじめてSOSしんごうを送ったのはタイタニック号です。沈みゆくタイタニック号からSOSしんごうが送られました。えいがにもなりましたのでお父さん、お母さんは知っているかも。SOSしんごうは火花からでるでんぱを使っています。火花をつけるとでんぱがはっしゃされます。火花をつけないとでんぱははっしゃされません。このように、でんぱのある、なし、でSOSをあらわしたのです。
-じゃぁおならでどうやってSOSをおくればよいのでしょうか？
-かしこい皆はもう分かったね。そう、おならのある、なし、でSOSをあらわせばよいですね。
-むむむ、ということはおならのにおいでもつうしんはできるの？いいところに
-
-![おならくん](./fart.jpg)せかいではじめてSOSしんごうを送ったのはタイタニック号です。沈みゆくタイタニック号からSOSしんごうが送られました。えいがにもなりましたのでお父さん、お母さんは知っているかも。SOSしんごうは火花からでるでんぱを使っています。火花をつけるとでんぱがはっしゃされます。火花をつけないとでんぱははっしゃされません。このように、でんぱのある、なし、でSOSをあらわしたのです。
-
-<img src="./fart.jpg" alt="おならくん" />じゃぁおならでどうやってSOSをおくればよいのでしょうか？
-かしこい皆はもう分かったね。そう、おならのある、なし、でSOSをあらわせばよいですね。
-むむむ、ということはおならのにおいでもつうしんはできるの？いいところに
+## 「おなら通信」チャレンジ！
 
 <div class="balloon_l">
-<div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="" >
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">これは左側の吹き出しサンプル！HTMLはシンプルな構造。せかいではじめてSOSしんごうを送ったのはタイタニック号です。沈みゆくタイタニック号からSOSしんごうが送られました。えいがにもなりましたのでお父さん、お母さんは知っているかも。SOSしんごうは火花からでるでんぱを使っています。火花をつけるとでんぱがはっしゃされます。火花をつけないとでんぱははっしゃされません。このように、でんぱのある、なし、でSOSをあらわしたのです。
-じゃぁおならでどうやってSOSをおくればよいのでしょうか？
-かしこい皆はもう分かったね。そう、おならのある、なし、でSOSをあらわせばよいですね。
-むむむ、ということはおならのにおいでもつうしんはできるの？いいところに</p>
+    <p class="says">先生、この授業では「おなら通信」にチャレンジするって書いてあるけど、ほんとうにおならで通信するの？</p>
 </div>
 <div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">もちろん。</p>
+</div>
+<div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <div class="says"><p>これは右側の吹き出しサンプル。</p><p>吹き出しの中身にPの段落を入れることも可能。吹き出しの中身をPにする場合は、外側をDIVで作ればOKだ。</p><p>せかいではじめてSOSしんごうを送ったのはタイタニック号です。沈みゆくタイタニック号からSOSしんごうが送られました。えいがにもなりましたのでお父さん、お母さんは知っているかも。SOSしんごうは火花からでるでんぱを使っています。火花をつけるとでんぱがはっしゃされます。火花をつけないとでんぱははっしゃされません。このように、でんぱのある、なし、でSOSをあらわしたのです。
-じゃぁおならでどうやってSOSをおくればよいのでしょうか？
-かしこい皆はもう分かったね。そう、おならのある、なし、でSOSをあらわせばよいですね。
-むむむ、ということはおならのにおいでもつうしんはできるの？いいところに</p></div>
+    <p class="says">でも，授業中にみんなが　プッ　プッ　プー　とおならしたら，教室がおならでいっぱいになってたいへんだよ。マスクをもってくるようにアナウンスしなきゃ。</p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">それはこまったなぁ、どうしよう・・・</p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">だいじょうぶだよ。ぼく、くさくないおならのしかた知っているもん。ぜんぜんくさくないよ。
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">え、どうやるの、おしえて。
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">早寝、早起き、毎日ぐっすりねむること。好ききらいなく、何でもよく食べること。
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">なるほど。お肉ばっかり食べていると、つぎの日のおならはくさいからね。
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">そう。お肉じゃなくお野菜をたくさん食べるといいよ。それから体をうごかして、運動するのも良いよ。ぼくは毎日ラジオたいそうをやっているよ。
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">健康的でいいね。おならくんはすばらしいね！
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">でも、先生、おならって声みたいに出そうとおもっても、プ〜　って出ないよ。授業のときにおなら出ないかも。
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">それはこまったなぁ、おならが出ないと通信もできないぞ。
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">おならの音を録音して使ったらどう？ぼくのおならは　プ〜　って、明るく元気な音がするよ。録音したおならの音はつかえる？
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">いいねぇ。みんなにおならの音を録音して送ってもらおうか。それをつかった通信を考えるね。
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">ぼく、おもちゃのラッパを持っているけど、パフパフってぼくのおならの音と似ているよ。
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">パフパフラッパならくさくないので教室にもってきてもいいよ。それをつかって「おなら通信」をためしてみよう。
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">なんだか、とても楽しそうな授業だね！期待してもいい？
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">もちろん！みんなのおならの音で通信しちゃうね。おならの音をたくさん送ってね！
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">うん、わかった。プゥ〜って元気な大きな音のおならを録音できるようにがんばるね！
+    </p>
 </div>
 
+-------
+
+## おならでSOSを送ってみよう！（おなら通信のしくみ）
+
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">先生、おならでどうやって通信するの？おしえて。
+    </p>
+</div><div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">それは授業の日までお楽しみにして。でも、ちょっとだけ教えるね。
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">わくわく。
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">
+    </p>
+</div>
