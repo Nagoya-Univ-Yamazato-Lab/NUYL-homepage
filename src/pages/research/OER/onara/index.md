@@ -227,6 +227,307 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
+    <p class="says">おならくんはタイタニック号って知ってる？
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">知っているよ。ローザが乗っていた船でしょ。氷山（ひょうざん）にぶつかって沈没（ちんぼつ）するのだよね。ザ・ドラえもんズ スペシャルで読んだよ。
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">おぉお、おならくんすごい。よく知っているね。映画の方が有名だと思うけど、ドラえもんにも載っているのだね。
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">映画はお母さんが観たことあるって話してた。ヒロインのローズが船の先で手を広げるシーンが有名だって。
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">そのタイタニック号から世界で初めてSOS信号が送られたんだ。
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">SOS信号？
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">SOSは英語で私たちの船を助けてください（Save Our Ship）のことで遭難信号（そうなんしんごう）なんだ。
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">そうなんだ。
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">SOS信号を出すのに当時は火花を使ったんだ。
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">火花？電波（でんぱ）じゃないの？
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">そう。火花を出るときに電波（でんぱ）も一緒に出るんだ。電波は遠くまで飛ぶので船から地上まで信号を届けることができるんだ。
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">でも、火花でどうやってSOS信号を表したの？
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">おならくん、いいところに気づいたね。素晴らしいよ。<br>
+    火花を出したり、火花を消したりしたの。そうすると、電波も出たり、出なかったりするでしょ。
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">なるほど、電波を出したり、出さなかったりしたんだね。
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">そう。さらに短い時間の火花と少し長い時間の火花とでSOS信号を表したんだ。
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">短い火花と長い火花？つまり電波が短い時間ものと長い時間つづくものとでSOS信号を表したの？
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">その通り。短い電波は音で表すと「ツ」になるかな。長い時間の電波は「ツー」。その２つの組み合わせで SOS 信号をあらわ心だ。
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">「ツ」と「ツー」。
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">そう。Sは「ツ」を３回、つまり「ツツツ」。Oは「ツー」を３回、つまり「ツーツーツー」。
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">ということは、SOSは「ツツツ　ツーツーツー　ツツツ」になるの？
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">その通り。おならくんは素晴らしいね！
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">えへへ。ということは、おならでやると「プップップッ　プゥ〜プゥ〜プゥ〜　プップップッ」になるの？
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">おぉ、素晴らしい。よく分かったね。<br>
+    それにしても、ちょっとだけ種明かしをするつもりだったけど、全部バレちゃったなぁ。ハハハ。
+    </p>
+</div>
+
+
+
+
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">へへへ。でも、SOSをおならでやるのは難しいなぁ。
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">ちょっとだけ種明かしをするつもりだったけど、全部言っちゃった。ハハハ。
+    </p>
+</div>
+
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
     <p class="says">
     </p>
 </div>
