@@ -348,8 +348,8 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">その通り。<br>
-    <ruby>短<rt>みじか</rt></ruby>い<ruby>電波<rt>でんぱ</rt></ruby>は<ruby>音<rt>おと</rt></ruby>で表すと「ト」になるかな。<br>
+    <p class="says">そのとおり。<br>
+    <ruby>短<rt>みじか</rt></ruby>い<ruby>電波<rt>でんぱ</rt></ruby>は<ruby>音<rt>おと</rt></ruby>であらわすと「ト」になるかな。<br>
     <ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>の<ruby>電波<rt>でんぱ</rt></ruby>は「ツー」。<br>
     その２つの組み合わせで <ruby>SOS信号<rt>エスオーエスしんごう</rt></ruby>を表したんだ。
     </p>
@@ -383,7 +383,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">その通り。おならくんはすばらしいね！
+    <p class="says">そのとおり。おならくんはすばらしいね！
     </p>
 </div>
 <div class="balloon_l">
@@ -482,7 +482,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そう、その通り。「プッ」と「プゥ〜」の２つ。あるいは、単に「ブッ」ともう一つは何も<ruby>音<rt>おと</rt></ruby>がしないことでも良いよ。
+    <p class="says">そう、そのとおり。「プッ」と「プゥ〜」の２つ。あるいは、単に「ブッ」ともう一つは何も<ruby>音<rt>おと</rt></ruby>がしないことでもいいよ。
     </p>
 </div>
 <div class="balloon_l">
@@ -496,7 +496,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そう。<ruby>音<rt>おと</rt></ruby>が「する」か「しない」か。これを「１」と「０」で表すの。
+    <p class="says">そう。<ruby>音<rt>おと</rt></ruby>が「する」か「しない」か。これを「１」と「０」であらわすの。
     </p>
 </div>
 <div class="balloon_l">
@@ -510,7 +510,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">その通り。<ruby>電波<rt>でんぱ</rt></ruby>の場合だと<ruby>電波<rt>でんぱ</rt></ruby>が「ある」か「ない」か。
+    <p class="says">そのとおり。<ruby>電波<rt>でんぱ</rt></ruby>の場合だと<ruby>電波<rt>でんぱ</rt></ruby>が「ある」か「ない」か。
     </p>
 </div>
 <div class="balloon_l">
@@ -524,7 +524,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">その通り。おならのにおいがする場合を「１」、しない場合を「０」とすれば良いよ。
+    <p class="says">そのとおり。おならのにおいがする場合を「１」、しない場合を「０」とすればいいよ。
     </p>
 </div>
 <div class="balloon_l">
@@ -538,7 +538,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">さっすが、おならくん、その通りだよ。<br>
+    <p class="says">さっすが、おならくん、そのとおりだよ。<br>
     <ruby>情報<rt>じょうほう</rt></ruby>を<ruby>送<rt>おく</rt></ruby>る方と受け取る方とで２つの区別がつけば、何をつかっても<ruby>通信<rt>つうしん</rt></ruby>ができるんだよ。この場合「１」と「０」をつかうのでデジタル<ruby>通信<rt>つうしん</rt></ruby>と言うんだ。
     </p>
 </div>
@@ -560,7 +560,7 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">おならのにおいでデジタル<ruby>通信<rt>つうしん</rt></ruby>ができるなんて、ちょっと、びっくりしちゃうな。おならのにおいがする、しないが「１」と「０」を表すのだね。なんだかすごいね！
+    <p class="says">おならのにおいでデジタル<ruby>通信<rt>つうしん</rt></ruby>ができるなんて、ちょっと、びっくりしちゃうな。おならのにおいがする、しないが「１」と「０」をあらわすのだね。なんだかすごいね！
     </p>
 </div>
 <div class="balloon_r">
@@ -595,7 +595,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そう、その通り。おならくんのおならのにおいはどの位続くのかな？
+    <p class="says">そう、そのとおり。おならくんのおならのにおいはどの位続くのかな？
     </p>
 </div>
 <div class="balloon_l">
@@ -616,17 +616,17 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">と言うことは、たとえば、「１」「１」と<ruby>送<rt>おく</rt></ruby>りたい場合は１分おきに「プゥ〜」「プゥ〜」とおならをすれば良いのかな？
+    <p class="says">と言うことは、たとえば、「１」「１」と<ruby>送<rt>おく</rt></ruby>りたい場合は１分おきに「プゥ〜」「プゥ〜」とおならをすればいいのかな？
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">その通り。「１」「０」「１」の場合で考えてみようか。<br>
+    <p class="says">そのとおり。「１」「０」「１」の場合で考えてみようか。<br>
     最初は「１」なのでおならを「プゥ〜」、<br>
     次の１分後から２分までは「０」なので、おならをしないで「しーん（<ruby>音<rt>おと</rt></ruby>がしない）」、<br>
-    最後の２分後から３分までは「１」なので、また「プゥ〜」とおならをすれば良いよ。
+    最後の２分後から３分までは「１」なので、また「プゥ〜」とおならをすればいいよ。
     </p>
 </div>
 <div class="balloon_l">
@@ -682,14 +682,14 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そうだね。では、もっと速い<ruby>通信<rt>つうしん</rt></ruby>をするためにはどうすれば良いと思う？
+    <p class="says">そうだね。では、もっと速い<ruby>通信<rt>つうしん</rt></ruby>をするためにはどうすればいいと思う？
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">この世の中で一番速いものをつかって「１」と「０」を表せば良いのだね。<br>
+    <p class="says">この世の中で一番速いものをつかって「１」と「０」を表せばいいのだね。<br>
     一番速いもの、というと．．．分かった「<ruby>光<rt>ひかり</rt></ruby>」だね！
     </p>
 </div>
@@ -697,7 +697,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">その通り。さすがおならくん、凄いね！<br>
+    <p class="says">そのとおり。さすがおならくん、凄いね！<br>
     この世の中で最も速いものは「<ruby>光<rt>ひかり</rt></ruby>」です。１秒間に地球を7回半も回る速さだよ。
     </p>
 </div>
@@ -705,14 +705,14 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">ということは「<ruby>光<rt>ひかり</rt></ruby>がある」、「なし」、で<ruby>通信<rt>つうしん</rt></ruby>をすれば良いのかな？
+    <p class="says">ということは「<ruby>光<rt>ひかり</rt></ruby>がある」、「なし」、で<ruby>通信<rt>つうしん</rt></ruby>をすればいいのかな？
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">その通り。実は、<ruby>光<rt>ひかり</rt></ruby>も<ruby>電波<rt>でんぱ</rt></ruby>も<ruby>電磁波<rt>でんじは</rt></ruby>のひとつなんだ。
+    <p class="says">そのとおり。実は、<ruby>光<rt>ひかり</rt></ruby>も<ruby>電波<rt>でんぱ</rt></ruby>も<ruby>電磁波<rt>でんじは</rt></ruby>のひとつなんだ。
     </p>
 </div>
 <div class="balloon_l">
@@ -782,7 +782,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そう時計。もっとちゃんというと「１」と「０」の<ruby>時間<rt>じかん</rt></ruby>を正確に表すために基準となる<ruby>時間<rt>じかん</rt></ruby>のこと。この基準となる<ruby>時間<rt>じかん</rt></ruby>を作る装置のことを発振回路と言うんだ。
+    <p class="says">そう時計。もっとちゃんというと「１」と「０」の<ruby>時間<rt>じかん</rt></ruby>を正確にあらわすために基準となる<ruby>時間<rt>じかん</rt></ruby>のこと。この基準となる<ruby>時間<rt>じかん</rt></ruby>を作る装置のことを発振回路と言うんだ。
     </p>
 </div>
 <div class="balloon_l">
