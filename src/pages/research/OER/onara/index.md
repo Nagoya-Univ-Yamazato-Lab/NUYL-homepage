@@ -24,7 +24,7 @@ tags:
 
 ## 概要
 
-けいたいでんわは、でんぱを使って音をとおくにとどけます。でも、ちかいところであれば、糸を使っても音をとどけることができます。そう、糸でんわですね！じつは、糸だけじゃなく、光や音を使ってもつうしんすることができます。このしくみが分かれば、「おなら」でもつうしんができるかもしれません。このじゅぎょうでは、「おならつうしん」にチャレンジします。みんな，おならでつうしんはできるかな？
+けいたい電話は、電波を使って音を遠くに届けます。でも、近いところであれば、糸を使っても音を届けることができます。そう、糸電話ですね！じつは、糸だけじゃなく、光や音を使っても通信することができます。このしくみが分かれば、「おなら」でも通信ができるかもしれません。この授業では、「おなら通信」にチャレンジします。みんな、おならで通信はできるかな？
 
 
 > ## 参加される保護者の皆様へのお願い<!-- omit in toc -->
@@ -59,7 +59,7 @@ tags:
 
 - [「おなら通信」チャレンジ！](#fart-challenge)
 - [おならでSOSを送ってみよう！（おなら通信のしくみ）](#how-it-works)
-- [おならの臭いでも通信はできるの？（デジタル通信の原理）](#smell-communication)
+- [おならのにおいでも通信はできるの？（デジタル通信の原理）](#smell-communication)
 - [もっと早い通信はできるの？（光を使った通信と電波を使った通信）](#wired-and-wireless-communication)
 
 ---
@@ -396,7 +396,7 @@ tags:
 
 <a id="smell-communication"></a>
 
-## おならの臭いでも通信はできるの？（デジタル通信の原理）
+## おならのにおいでも通信はできるの？（デジタル通信の原理）
 
 <div class="balloon_l">
   <div class="faceicon">
@@ -417,15 +417,14 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">先生、でも、おならの「音」で通信できるのなら、おならの「臭い」でも通信はできるの？
+    <p class="says">先生、でも、おならの「音」で通信できるのなら、おならの「におい」でも通信はできるの？
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">おならくん、いいところに気づいたね。さすがだ。<br>
-    そう、おならの臭いでも通信はできるよ。
+    <p class="says">おならくん、いいところに気づいたね。さすがだよ。そう、おならのにおいでも通信はできるよ。
     </p>
 </div>
 <div class="balloon_l">
@@ -502,14 +501,14 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">ということは、おならの臭いだと「臭いがする」か「臭いがしない」なのかな？
+    <p class="says">ということは、おならのにおいだと「においがする」か「においがしない」なのかな？
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">その通り。おならの臭いがする場合を「１」、しない場合を「０」とすれば良いよ。
+    <p class="says">その通り。おならのにおいがする場合を「１」、しない場合を「０」とすれば良いよ。
     </p>
 </div>
 <div class="balloon_l">
@@ -545,7 +544,7 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">おならの臭いでデジタル通信ができるなんて、ちょっと、びっくりしちゃうな。おならの臭いがする、しないが「１」と「０」を表すのだね。なんだかすごいね！
+    <p class="says">おならのにおいでデジタル通信ができるなんて、ちょっと、びっくりしちゃうな。おならのにおいがする、しないが「１」と「０」を表すのだね。なんだかすごいね！
     </p>
 </div>
 <div class="balloon_r">
@@ -566,29 +565,28 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">それはね、時間のことなんだ。どこからどこまでが「１」の時間でどこからどこまでが「０」の時間なのか、ってこと。
+    <p class="says">それはね、時間のことなんだ。どこからどこまでが「１」の時間で、どこからどこまでが「０」の時間なのか、ってこと。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">おならの臭いがする時間としない時間？
+    <p class="says">おならのにおいがする時間としない時間？
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そう、その通り。<br>
-    おならくんのおならの臭いはどの位続くのかな？
+    <p class="says">そう、その通り。おならくんのおならのにおいはどの位続くのかな？
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">そうだねぁ、だいたい１分ぐらいは臭っているかなぁ。
+    <p class="says">そうだねぁ、だいたい１分ぐらいはにおっているかなぁ。
     </p>
 </div>
 <div class="balloon_r">
@@ -609,7 +607,10 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">その通り。「１」「０」「１」の場合は最初は「プゥ〜」、その後１分後から２分まではおならをしないで、次の２分にまた「プゥ〜」とおならをすれば良いよ。
+    <p class="says">その通り。「１」「０」「１」の場合で考えてみようか。<br>
+    最初は「１」なのでおならを「プゥ〜」、<br>
+    次の１分後から２分までは「０」なので、おならをしないで「しーん（音がしない）」、<br>
+    最後の２分後から３分までは「１」なので、また「プゥ〜」とおならをすれば良いよ。
     </p>
 </div>
 <div class="balloon_l">
@@ -623,7 +624,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">でもね、この方法だと「１」はおならの臭いがするからすぐに分かるけど、「０」のところ、つまり「おならをしていない」ことは分かりにくい場合があるんだ。おならの臭いが長く続くこともあるからね。このため、さっきのSOSでは「プッ」と「プゥ〜」の長さの違う２つの信号を使って表現したんだ。
+    <p class="says">でもね、この方法だと「１」はおならのにおいがするからすぐに分かるけど、「０」のところ、つまり「おならをしていない」ことは分かりにくい場合があるんだ。おならのにおいが長く続くこともあるからね。このため、さっきのSOSでは「プッ」と「プゥ〜」の長さの違う２つの信号を使って表現したんだ。
     </p>
 </div>
 <div class="balloon_l">
@@ -651,14 +652,14 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">「おならの臭い」通信は情報を伝送するのに時間がかかるよね。なぜ時間がかかると思う？
+    <p class="says">「おならのにおい」通信は情報を伝送するのに時間がかかるよね。なぜ時間がかかると思う？
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">それは、おならの臭いが無くなるまでに時間がかかるからだよ。だって、そうしないと「０」が分からなくなるもん！
+    <p class="says">それは、おならのにおいが無くなるまでに時間がかかるからだよ。だって、そうしないと「０」が分からなくなるもん！
     </p>
 </div>
 <div class="balloon_r">
@@ -673,7 +674,7 @@ tags:
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
     <p class="says">この世の中で一番速いものを使って「１」と「０」を表せば良いのだね。<br>
-    一番速いもの、というと．．．分かった光だね！
+    一番速いもの、というと．．．分かった「光」だね！
     </p>
 </div>
 <div class="balloon_r">
@@ -681,14 +682,14 @@ tags:
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
     <p class="says">その通り。さすがおならくん、凄いね！<br>
-    この世の中で最も速いものは「光」です。１秒間に地球を7回半はんも回る速さだよ。
+    この世の中で最も速いものは「光」です。１秒間に地球を7回半も回る速さだよ。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">ということは光がある、なし、で通信をすれば良いのかな？
+    <p class="says">ということは「光がある」、「なし」、で通信をすれば良いのかな？
     </p>
 </div>
 <div class="balloon_r">
@@ -730,7 +731,7 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">たしかに光は、パッとついたり消えたりできるから、おならの臭いみたいに長い間臭いが続くことが無いね。しかも、この世の中で最も速い！
+    <p class="says">たしかに光は、パッとついたり消えたりできるから、おならのにおいみたいに長い間においが続くことが無いね。しかも、この世の中で最も速い！
     </p>
 </div>
 <div class="balloon_r">
@@ -751,42 +752,42 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">いや、そんなこと無いよ。いろいろな工夫をすることで高速化はできるんだよ。僕たちはそんなことを研究しているんだよ。とても楽しいよ。おならくんも大人になったら一緒に研究しようね。
+    <p class="says">いや、そんなこと無いよ。でもね、さっきデジタル通信で必要と言った時計が難しいんだ。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">ぜひ、お願いします！
+    <p class="says">時計？
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">
+    <p class="says">そう時計。もっとちゃんというと「１」と「０」の時間を正確に表すために基準となる時間のこと。この基準となる時間を作る装置のことを発振回路と言うんだ。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">
+    <p class="says">発振回路？
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">
+    <p class="says">そう、発振回路。発振回路が刻む時間にあわせて「１」か「０」のいずれかを送るんだ。なので、発振回路が正確に短い時間で刻むことでが重要になるんだ。短い時間で「１」と「０」を切り替えることができれば、それだけ高速にたくさん送ることができるからね。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">
+    <p class="says">なるほど、高速な発振回路が必要なんだね。
     </p>
 </div>
 <div class="balloon_r">
