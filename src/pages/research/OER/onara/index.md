@@ -242,28 +242,28 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">知っているよ。ローザが乗っていた船でしょ。氷山（ひょうざん）にぶつかって沈没（ちんぼつ）するのだよね。ザ・ドラえもんズ スペシャルで読んだよ。
+    <p class="says">知っているよ。ローザが乗っていた<ruby>船<rt>ふね</rt></ruby>でしょ。<ruby>氷山<rt>ひょうざん</rt></ruby>にぶつかって<ruby沈没><rt>ちんぼつ</rt></ruby>するのだよね。ザ・ドラえもんズ スペシャルで読んだよ。
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">おぉ、おならくんすごい。よく知っているね。映画の方が有名だと思うけど、ドラえもんにも載っているのだね。
+    <p class="says">おぉ、おならくんすごい。よく知っているね。<ruby>映画<rt>えいが</rt></ruby>の方が有名だと思うけど、ドラえもんにものっているのだね。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">映画はお母さんが観たことあるって話してた。ヒロインのローズが船の先で手を広げるシーンが有名だって。
+    <p class="says"><ruby>映画<rt>えいが</rt></ruby>はお母さんがみたことあるって話してた。ヒロインのローズが船の先で手を広げるシーンが有名だって。
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そのタイタニック号から世界で初めてSOS<ruby>信号<rt>しんごう</rt></ruby>が<ruby>送<rt>おく</rt></ruby>られたんだ。注１）
+    <p class="says">そのタイタニック号から<ruby>世界<rt>せかい</rt></ruby>で初めてSOS<ruby>信号<rt>しんごう</rt></ruby>が<ruby>送<rt>おく</rt></ruby>られたんだ。注１）
     </p>
 </div>
 <div class="balloon_l">
@@ -383,7 +383,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">その通り。おならくんは素晴らしいね！
+    <p class="says">その通り。おならくんはすばらしいね！
     </p>
 </div>
 <div class="balloon_l">
@@ -400,12 +400,12 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">おぉ、素晴らしい。よく分かったね。<br>
-    ．．．うぅん、それにしても、ちょっとだけ種明かしをするつもりだったけど、全部バレちゃったなぁ。ハハハ。
+    <p class="says">おぉ、すばらしい。よく分かったね。<br>
+    ．．．うぅん、それにしても、ちょっとだけ<ruby>種明<rt>たねあ</rt></ruby>かしをするつもりだったけど、ぜんぶバレちゃったなぁ。ハハハ。
     </p>
 </div>
 
-> 注１）上記で「タイタニック号が世界初のSOSを発した」と説明しましたが、実際にはタイタニック号が最初ではありません。タイタニック号の悲劇と併せてSOSが最初と述べている書物も多いことからそのように書きました。印象に残りやすいですしね。より詳しく知りたい方は総務省の外郭団体である<ruby>電波<rt>でんぱ</rt></ruby>適正利用推進員協議会の[<ruby>電波<rt>でんぱ</rt></ruby>学習館](https://www.cleandenpa.net/museum/g_moku.html)・[第1回万国<ruby>無線<rt>むせん</rt></ruby>電信会議](https://www.cleandenpa.net/museum/gaku/gc.html)をご覧下さい。なお、同ページではタイタニック号の遭難モールス<ruby>信号<rt>しんごう</rt></ruby>も聞けるようになっていますが、私が確認したところではうまく動作しないようです。
+> 注１）上記で「タイタニック号が<ruby>世界初<rt>せかいはつ</rt></ruby>のSOSを発した」と説明しましたが、実際にはタイタニック号が最初ではありません。タイタニック号の悲劇と併せてSOSが最初と述べている書物も多いことからそのように書きました。印象に残りやすいですしね。より詳しく知りたい方は総務省の外郭団体である<ruby>電波<rt>でんぱ</rt></ruby>適正利用推進員協議会の[<ruby>電波<rt>でんぱ</rt></ruby>学習館](https://www.cleandenpa.net/museum/g_moku.html)・[第1回万国<ruby>無線<rt>むせん</rt></ruby>電信会議](https://www.cleandenpa.net/museum/gaku/gc.html)をご覧下さい。なお、同ページではタイタニック号の遭難モールス<ruby>信号<rt>しんごう</rt></ruby>も聞けるようになっていますが、私が確認したところではうまく動作しないようです。
 > 
 
 -----
@@ -810,7 +810,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そう。名古屋大学だと<a href="http://www.semicond.nuee.nagoya-u.ac.jp/">天野・本田<ruby>研究室<rt>けんきゅうしつ</rt></ruby></a>の<a href="https://profs.provost.nagoya-u.ac.jp/html/100009220_ja.html"><ruby>久志本真希先生<rt>くしもとまきせんせい</rt></ruby></a>が<ruby>研究<rt>けんきゅう</rt></ruby>しているよ。<a href="https://www.imass.nagoya-u.ac.jp/news_information/07_kushimoto.html">世界最高速の発振回路</a>ができたって発表していたよ。
+    <p class="says">そう。名古屋大学だと<a href="http://www.semicond.nuee.nagoya-u.ac.jp/">天野・本田<ruby>研究室<rt>けんきゅうしつ</rt></ruby></a>の<a href="https://profs.provost.nagoya-u.ac.jp/html/100009220_ja.html"><ruby>久志本真希先生<rt>くしもとまきせんせい</rt></ruby></a>が<ruby>研究<rt>けんきゅう</rt></ruby>しているよ。<a href="https://www.imass.nagoya-u.ac.jp/news_information/07_kushimoto.html"><ruby>世界最高速<rt>せかいさいこうそく</rt></ruby>の発振回路</a>ができたって発表していたよ。
     </p>
 </div>
 <div class="balloon_l">
@@ -886,10 +886,10 @@ tags:
 
 ## おなら<ruby>通信<rt>つうしん</rt></ruby>のアイデアはここから生まれた？！
 
-おなら<ruby>通信<rt>つうしん</rt></ruby>のアイデアはギネスの世界記録から生まれました。僕もびっくりしましたが、おならでギネス世界記録を狙えるのですね。
+おなら<ruby>通信<rt>つうしん</rt></ruby>のアイデアはギネスの<ruby>世界記録<rt>せかいきろく</rt></ruby>から生まれました。僕もびっくりしましたが、おならでギネス<ruby>世界記録<rt>せかいきろく</rt></ruby>を狙えるのですね。
 
 ちなみに、おなら<ruby>通信<rt>つうしん</rt></ruby>を試したした人はいないみたいです(^_^)
-まぁ名乗っていないだけだとは思いますが、おなら<ruby>通信<rt>つうしん</rt></ruby>は世界初の試みかも知れません。さすがに、これでギネス世界記録を狙えるとは思えませんが、面白いことには違いないですね。
+まぁ名乗っていないだけだとは思いますが、おなら<ruby>通信<rt>つうしん</rt></ruby>は<ruby>世界<rt>せかい</rt></ruby>初の試みかも知れません。さすがに、これでギネス<ruby>世界記録<rt>せかいきろく</rt></ruby>を狙えるとは思えませんが、面白いことには違いないですね。
 
-### おならのギネス世界記録
+### おならのギネス<ruby>世界記録<rt>せかいきろく</rt></ruby>
 
