@@ -405,7 +405,7 @@ tags:
     </p>
 </div>
 
-> 注１）上記で「タイタニック号が世界初のSOSを発した」と説明しましたが、実際にはタイタニック号が最初ではありません。タイタニック号の悲劇と併せてSOSが最初と述べている書物も多いことからそのように書きました。印象に残りやすいですしね。より詳しく知りたい方は総務省の外郭団体である<ruby>電波<rt>でんぱ</rt></ruby>適正利用推進員協議会の[<ruby>電波<rt>でんぱ</rt></ruby>学習館](https://www.cleandenpa.net/museum/g_moku.html)・[第1回万国無線電信会議](https://www.cleandenpa.net/museum/gaku/gc.html)をご覧下さい。なお、同ページではタイタニック号の遭難モールス<ruby>信号<rt>しんごう</rt></ruby>も聞けるようになっていますが、私が確認したところではうまく動作しないようです。
+> 注１）上記で「タイタニック号が世界初のSOSを発した」と説明しましたが、実際にはタイタニック号が最初ではありません。タイタニック号の悲劇と併せてSOSが最初と述べている書物も多いことからそのように書きました。印象に残りやすいですしね。より詳しく知りたい方は総務省の外郭団体である<ruby>電波<rt>でんぱ</rt></ruby>適正利用推進員協議会の[<ruby>電波<rt>でんぱ</rt></ruby>学習館](https://www.cleandenpa.net/museum/g_moku.html)・[第1回万国<ruby>無線<rt>むせん</rt></ruby>電信会議](https://www.cleandenpa.net/museum/gaku/gc.html)をご覧下さい。なお、同ページではタイタニック号の遭難モールス<ruby>信号<rt>しんごう</rt></ruby>も聞けるようになっていますが、私が確認したところではうまく動作しないようです。
 > 
 
 -----
@@ -740,7 +740,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says"><ruby>電波<rt>でんぱ</rt></ruby>はラジオやテレビ、けいたい電話などの無線<ruby>通信<rt>つうしん</rt></ruby>で使われているよ。<ruby>光<rt>ひかり</rt></ruby>を使う<ruby>光<rt>ひかり</rt></ruby>ファイバー<ruby>通信<rt>つうしん</rt></ruby>も<ruby>電波<rt>でんぱ</rt></ruby>を使う無線<ruby>通信<rt>つうしん</rt></ruby>のいずれもデジタル<ruby>通信<rt>つうしん</rt></ruby>だよ。
+    <p class="says"><ruby>電波<rt>でんぱ</rt></ruby>はラジオやテレビ、けいたい電話などの<ruby>無線<rt>むせん</rt></ruby><ruby>通信<rt>つうしん</rt></ruby>で使われているよ。<ruby>光<rt>ひかり</rt></ruby>を使う<ruby>光<rt>ひかり</rt></ruby>ファイバー<ruby>通信<rt>つうしん</rt></ruby>も<ruby>電波<rt>でんぱ</rt></ruby>を使う<ruby>無線<rt>むせん</rt></ruby><ruby>通信<rt>つうしん</rt></ruby>のいずれもデジタル<ruby>通信<rt>つうしん</rt></ruby>だよ。
     </p>
 </div>
 <div class="balloon_l">
@@ -761,7 +761,7 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">むむむ、ということは、<ruby>光<rt>ひかり</rt></ruby>ファイバーも無線もこの世のなかで最も速い<ruby>電磁波<rt>でんじは</rt></ruby>を使うので、もうこれ以上高速にはならないの？
+    <p class="says">むむむ、ということは、<ruby>光<rt>ひかり</rt></ruby>ファイバーも<ruby>無線<rt>むせん</rt></ruby>もこの世のなかで最も速い<ruby>電磁波<rt>でんじは</rt></ruby>を使うので、もうこれ以上高速にはならないの？
     </p>
 </div>
 <div class="balloon_r">
