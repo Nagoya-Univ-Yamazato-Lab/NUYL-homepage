@@ -805,7 +805,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そう。名古屋大学だと<a href="http://www.semicond.nuee.nagoya-u.ac.jp/">天野・本多研究室</a>の<a href="https://profs.provost.nagoya-u.ac.jp/html/100009220_ja.html">久志本真希先生</a>が研究しているよ。<a href="https://www.imass.nagoya-u.ac.jp/news_information/07_kushimoto.html">世界最高速の発振回路</a>ができたって発表していたよ。
+    <p class="says">そう。名古屋大学だと<a href="http://www.semicond.nuee.nagoya-u.ac.jp/">天野・本田研究室</a>の<a href="https://profs.provost.nagoya-u.ac.jp/html/100009220_ja.html">久志本真希先生</a>が研究しているよ。<a href="https://www.imass.nagoya-u.ac.jp/news_information/07_kushimoto.html">世界最高速の発振回路</a>ができたって発表していたよ。
     </p>
 </div>
 <div class="balloon_l">
