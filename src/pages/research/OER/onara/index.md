@@ -91,7 +91,7 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">でも，<ruby>授業中<rt>じゅぎょうちゅう</rt></ruby>にみんなが　プッ　プッ　プー　とおならしたら，教室がおならでいっぱいになってたいへんだよ。マスクをもってくるようにアナウンスしなきゃ。</p>
+    <p class="says">でも，<ruby>授業中<rt>じゅぎょうちゅう</rt></ruby>にみんなが　プッ　プッ　プー　とおならしたら，<ruby>教室<rt>きょうしつ</rt></ruby>がおならでいっぱいになってたいへんだよ。マスクをもってくるようにアナウンスしなきゃ。</p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
@@ -103,7 +103,7 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">だいじょうぶだよ。ぼく、くさくないおならのしかた知っているもん。ぜんぜんくさくないよ。
+    <p class="says">だいじょうぶだよ。ぼく、くさくないおならのしかた<ruby>知<rt>し</rt></ruby>っているもん。ぜんぜんくさくないよ。
     </p>
 </div>
 <div class="balloon_r">
@@ -117,77 +117,77 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">はやね、はやおき、毎日ぐっすりねむること。すききらいなく、何でもよく食べること。
+    <p class="says">はやね、はやおき、<ruby>毎日<rt>まいにち</rt></ruby>ぐっすりねむること。すききらいなく、なんでもよく<ruby>食<rt>た</rt></ruby>べること。
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">なるほど。お肉ばっかり食べていると、つぎの日のおならはくさいからね。
+    <p class="says">なるほど。お<ruby>肉<rt>にく</rt></ruby>ばっかり<ruby>食<rt>た</rt></ruby>べていると、つぎの<ruby>日<rt>ひ</rt></ruby>のおならはくさいからね。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">そう。お肉じゃなくお野菜をたくさん食べるといいよ。それから体をうごかして、運動するのも良いよ。ぼくは毎日ラジオたいそうをやっているよ。
+    <p class="says">そう。お<ruby>肉<rt>にく</rt></ruby>じゃなくお<ruby>野菜<rt>やさい</rt></ruby>をたくさん<ruby>食<rt>た</rt></ruby>べるといいよ。それから<ruby>体<rt>からだ</rt></ruby>をうごかして、<ruby>運動<rt>うんどう</rt></ruby>するのもいいよ。ぼくは<ruby>毎日<rt>まいにち</rt></ruby>ラジオたいそうをやっているよ。
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">健康的でいいね。おならくんはすばらしいね！
+    <p class="says"><ruby>健康的<rt>けんこうてき</rt></ruby>でいいね。おならくんはすばらしいね！
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">でも、<ruby>先生<rt>せんせい</rt></ruby>、おならって声みたいに出そうとおもっても、　プ〜　って出ないよ。<ruby>授業<rt>じゅぎょう</rt></ruby>のときにおなら出ないかも。
+    <p class="says">でも、<ruby>先生<rt>せんせい</rt></ruby>、おならって<ruby>声<rt>こえ</rt></ruby>みたいにだそうとおもっても、　プ〜　ってでないよ。<ruby>授業<rt>じゅぎょう</rt></ruby>のときにおならでないかも。
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">それはこまったなぁ、おならが出ないと<ruby>通信<rt>つうしん</rt></ruby>もできないぞ。
+    <p class="says">それはこまったなぁ、おならがでないと<ruby>通信<rt>つうしん</rt></ruby>もできないぞ。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">おならの<ruby>音<rt>おと</rt></ruby>を<ruby>録音<rt>ろくおん</rt></ruby>して使ったらどう？ぼくのおならは　プ〜　って、明るく元気な<ruby>音<rt>おと</rt></ruby>がするよ。<ruby>録音<rt>ろくおん</rt></ruby>したおならの<ruby>音<rt>おと</rt></ruby>はつかえる？
+    <p class="says">おならの<ruby>音<rt>おと</rt></ruby>を<ruby>録音<rt>ろくおん</rt></ruby>して<ruby>使<rt>つか</rt></ruby>ったらどう？ぼくのおならは　プ〜　って、<ruby>明<rt>あか</rt></ruby>るく<ruby>元気<rt>げんき</rt></ruby>な<ruby>音<rt>おと</rt></ruby>がするよ。<ruby>録音<rt>ろくおん</rt></ruby>したおならの<ruby>音<rt>おと</rt></ruby>はつかえる？
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">いいねぇ。みんなにおならの<ruby>音<rt>おと</rt></ruby>を<ruby>録音<rt>ろくおん</rt></ruby>して<ruby>送<rt>おく</rt></ruby>ってもらおうか。それをつかった<ruby>通信<rt>つうしん</rt></ruby>を考えるね。
+    <p class="says">いいねぇ。みんなにおならの<ruby>音<rt>おと</rt></ruby>を<ruby>録音<rt>ろくおん</rt></ruby>して<ruby>送<rt>おく</rt></ruby>ってもらおうか。それをつかった<ruby>通信<rt>つうしん</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えるね。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">ぼく、おもちゃのラッパを持っているけど、パフパフってぼくのおならの<ruby>音<rt>おと</rt></ruby>と似ているよ。
+    <p class="says">ぼく、おもちゃのラッパをもっているけど、パフパフってぼくのおならの<ruby>音<rt>おと</rt></ruby>とにているよ。
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">パフパフラッパならくさくないので教室にもってきてもいいよ。それをつかって「おなら<ruby>通信<rt>つうしん</rt></ruby>」をためしてみよう。
+    <p class="says">パフパフラッパならくさくないので<ruby>教室<rt>きょうしつ</rt></ruby>にもってきてもいいよ。それをつかって「おなら<ruby>通信<rt>つうしん</rt></ruby>」をためしてみよう。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">なんだか、とても楽しそうな<ruby>授業<rt>じゅぎょう</rt></ruby>だね！期待してもいい？
+    <p class="says">なんだか、とても<ruby>楽<rt>たの</rt></ruby>しそうな<ruby>授業<rt>じゅぎょう</rt></ruby>だね！きたいしてもいい？
     </p>
 </div>
 <div class="balloon_r">
@@ -201,7 +201,7 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">うん、わかった。プゥ〜って元気な大きな<ruby>音<rt>おと</rt></ruby>のおならを<ruby>録音<rt>ろくおん</rt></ruby>できるようにがんばるね！
+    <p class="says">うん、わかった。プゥ〜って<ruby>元気<rt>げんき</rt></ruby>な大きな<ruby>音<rt>おと</rt></ruby>のおならを<ruby>録音<rt>ろくおん</rt></ruby>できるようにがんばるね！
     </p>
 </div>
 
