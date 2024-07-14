@@ -79,7 +79,7 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">先生、この授業では「おなら<ruby>通信<rt>つうしん</rt></ruby>」にチャレンジするって書いてあるけど、ほんとうにおならで<ruby>通信<rt>つうしん</rt></ruby>するの？</p>
+    <p class="says">先生、この<ruby>授業<rt>じゅぎょう</rt></ruby>では「おなら<ruby>通信<rt>つうしん</rt></ruby>」にチャレンジするって書いてあるけど、ほんとうにおならで<ruby>通信<rt>つうしん</rt></ruby>するの？</p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
@@ -91,7 +91,7 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">でも，授業中にみんなが　プッ　プッ　プー　とおならしたら，教室がおならでいっぱいになってたいへんだよ。マスクをもってくるようにアナウンスしなきゃ。</p>
+    <p class="says">でも，<ruby>授業中<rt>じゅぎょうちゅう</rt></ruby>にみんなが　プッ　プッ　プー　とおならしたら，教室がおならでいっぱいになってたいへんだよ。マスクをもってくるようにアナウンスしなきゃ。</p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
@@ -145,7 +145,7 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">でも、先生、おならって声みたいに出そうとおもっても、　プ〜　って出ないよ。授業のときにおなら出ないかも。
+    <p class="says">でも、先生、おならって声みたいに出そうとおもっても、　プ〜　って出ないよ。<ruby>授業<rt>じゅぎょう</rt></ruby>のときにおなら出ないかも。
     </p>
 </div>
 <div class="balloon_r">
@@ -159,21 +159,21 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">おならの音を録音して使ったらどう？ぼくのおならは　プ〜　って、明るく元気な音がするよ。録音したおならの音はつかえる？
+    <p class="says">おならの<ruby>音<rt>おと</rt></ruby>を<ruby>録音<rt>ろくおん</rt></ruby>して使ったらどう？ぼくのおならは　プ〜　って、明るく元気な<ruby>音<rt>おと</rt></ruby>がするよ。<ruby>録音<rt>ろくおん</rt></ruby>したおならの<ruby>音<rt>おと</rt></ruby>はつかえる？
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">いいねぇ。みんなにおならの音を録音して<ruby>送<rt>おく</rt></ruby>ってもらおうか。それをつかった<ruby>通信<rt>つうしん</rt></ruby>を考えるね。
+    <p class="says">いいねぇ。みんなにおならの<ruby>音<rt>おと</rt></ruby>を<ruby>録音<rt>ろくおん</rt></ruby>して<ruby>送<rt>おく</rt></ruby>ってもらおうか。それをつかった<ruby>通信<rt>つうしん</rt></ruby>を考えるね。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">ぼく、おもちゃのラッパを持っているけど、パフパフってぼくのおならの音と似ているよ。
+    <p class="says">ぼく、おもちゃのラッパを持っているけど、パフパフってぼくのおならの<ruby>音<rt>おと</rt></ruby>と似ているよ。
     </p>
 </div>
 <div class="balloon_r">
@@ -187,21 +187,21 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">なんだか、とても楽しそうな授業だね！期待してもいい？
+    <p class="says">なんだか、とても楽しそうな<ruby>授業<rt>じゅぎょう</rt></ruby>だね！期待してもいい？
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">もちろん！みんなのおならの音で<ruby>通信<rt>つうしん</rt></ruby>しちゃうね。おならの音をたくさん<ruby>送<rt>おく</rt></ruby>ってね！
+    <p class="says">もちろん！みんなのおならの<ruby>音<rt>おと</rt></ruby>で<ruby>通信<rt>つうしん</rt></ruby>しちゃうね。おならの<ruby>音<rt>おと</rt></ruby>をたくさん<ruby>送<rt>おく</rt></ruby>ってね！
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">うん、わかった。プゥ〜って元気な大きな音のおならを録音できるようにがんばるね！
+    <p class="says">うん、わかった。プゥ〜って元気な大きな<ruby>音<rt>おと</rt></ruby>のおならを<ruby>録音<rt>ろくおん</rt></ruby>できるようにがんばるね！
     </p>
 </div>
 
@@ -221,7 +221,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">それは授業の日までお楽しみにして。でも、ちょっとだけ教えるね。
+    <p class="says">それは<ruby>授業<rt>じゅぎょう</rt></ruby>の日までお楽しみにして。でも、ちょっとだけ教えるね。
     </p>
 </div>
 <div class="balloon_l">
@@ -291,28 +291,28 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">ハハハ、しゃれだね。<br>当時はSOS<ruby>信号<rt>しんごう</rt></ruby>を出すのに火花を使ったんだ。
+    <p class="says">ハハハ、しゃれだね。<br>当時はSOS<ruby>信号<rt>しんごう</rt></ruby>を出すのに<ruby>火花<rt>ひばな</rt></ruby>を使ったんだ。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">火花？<ruby>電波<rt>でんぱ</rt></ruby>じゃないの？
+    <p class="says"><ruby>火花<rt>ひばな</rt></ruby>？<ruby>電波<rt>でんぱ</rt></ruby>じゃないの？
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そう。火花が出るときに<ruby>電波<rt>でんぱ</rt></ruby>も一緒に出るんだ。<ruby>電波<rt>でんぱ</rt></ruby>は遠くまで飛ぶので船から地上まで<ruby>信号<rt>しんごう</rt></ruby>を届けることができるんだ。
+    <p class="says">そう。<ruby>火花<rt>ひばな</rt></ruby>が出るときに<ruby>電波<rt>でんぱ</rt></ruby>も一緒に出るんだ。<ruby>電波<rt>でんぱ</rt></ruby>は遠くまで飛ぶので船から地上まで<ruby>信号<rt>しんごう</rt></ruby>を届けることができるんだ。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">でも、火花でどうやってSOS<ruby>信号<rt>しんごう</rt></ruby>を表したの？
+    <p class="says">でも、<ruby>火花<rt>ひばな</rt></ruby>でどうやってSOS<ruby>信号<rt>しんごう</rt></ruby>を表したの？
     </p>
 </div>
 <div class="balloon_r">
@@ -320,7 +320,7 @@ tags:
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
     <p class="says">おならくん、いいところに気づいたね。<br>
-    火花を出したり、火花を消したりしたの。そうすると、<ruby>電波<rt>でんぱ</rt></ruby>も出たり、出なかったりするでしょ。
+    <ruby>火花<rt>ひばな</rt></ruby>を出したり、<ruby>火花<rt>ひばな</rt></ruby>を消したりしたの。そうすると、<ruby>電波<rt>でんぱ</rt></ruby>も出たり、出なかったりするでしょ。
     </p>
 </div>
 <div class="balloon_l">
@@ -334,14 +334,14 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そう。さらに<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>の火花と少し<ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>の火花とでSOS<ruby>信号<rt>しんごう</rt></ruby>を表したんだ。
+    <p class="says">そう。さらに<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>の<ruby>火花<rt>ひばな</rt></ruby>と少し<ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>の<ruby>火花<rt>ひばな</rt></ruby>とでSOS<ruby>信号<rt>しんごう</rt></ruby>を表したんだ。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says"><ruby>短<rt>みじか</rt></ruby>い火花と<ruby>長<rt>なが</rt></ruby>い火花？つまり<ruby>電波<rt>でんぱ</rt></ruby>が<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>のものと<ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>つづくものとでSOS<ruby>信号<rt>しんごう</rt></ruby>を表したの？
+    <p class="says"><ruby>短<rt>みじか</rt></ruby>い<ruby>火花<rt>ひばな</rt></ruby>と<ruby>長<rt>なが</rt></ruby>い<ruby>火花<rt>ひばな</rt></ruby>？つまり<ruby>電波<rt>でんぱ</rt></ruby>が<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>のものと<ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>つづくものとでSOS<ruby>信号<rt>しんごう</rt></ruby>を表したの？
     </p>
 </div>
 <div class="balloon_r">
@@ -349,7 +349,7 @@ tags:
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
     <p class="says">その通り。<br>
-    <ruby>短<rt>みじか</rt></ruby>い<ruby>電波<rt>でんぱ</rt></ruby>は音で表すと「ト」になるかな。<br>
+    <ruby>短<rt>みじか</rt></ruby>い<ruby>電波<rt>でんぱ</rt></ruby>は<ruby>音<rt>おと</rt></ruby>で表すと「ト」になるかな。<br>
     <ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>の<ruby>電波<rt>でんぱ</rt></ruby>は「ツー」。<br>
     その２つの組み合わせで SOS <ruby>信号<rt>しんごう</rt></ruby>を表したんだ。
     </p>
@@ -433,7 +433,7 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">先生、でも、おならの「音」で<ruby>通信<rt>つうしん</rt></ruby>できるのなら、おならの「におい」でも<ruby>通信<rt>つうしん</rt></ruby>はできるの？
+    <p class="says">先生、でも、おならの「<ruby>音<rt>おと</rt></ruby>」で<ruby>通信<rt>つうしん</rt></ruby>できるのなら、おならの「におい」でも<ruby>通信<rt>つうしん</rt></ruby>はできるの？
     </p>
 </div>
 <div class="balloon_r">
@@ -454,7 +454,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">おならの音を使った<ruby>通信<rt>つうしん</rt></ruby>では、<ruby>短<rt>みじか</rt></ruby>いおならの音「ブッ」と<ruby>長<rt>なが</rt></ruby>いおならの音「プゥ〜」の２つの音を使ったよね。
+    <p class="says">おならの<ruby>音<rt>おと</rt></ruby>を使った<ruby>通信<rt>つうしん</rt></ruby>では、<ruby>短<rt>みじか</rt></ruby>いおならの<ruby>音<rt>おと</rt></ruby>「ブッ」と<ruby>長<rt>なが</rt></ruby>いおならの<ruby>音<rt>おと</rt></ruby>「プゥ〜」の２つの<ruby>音<rt>おと</rt></ruby>を使ったよね。
     </p>
 </div>
 <div class="balloon_l">
@@ -482,21 +482,21 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そう、その通り。「プッ」と「プゥ〜」の２つ。あるいは、単に「ブッ」ともう一つは何も音がしないことでも良いよ。
+    <p class="says">そう、その通り。「プッ」と「プゥ〜」の２つ。あるいは、単に「ブッ」ともう一つは何も<ruby>音<rt>おと</rt></ruby>がしないことでも良いよ。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">「ブッ」と「しーん（音がしない）」ってこと？
+    <p class="says">「ブッ」と「しーん（<ruby>音<rt>おと</rt></ruby>がしない）」ってこと？
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そう。音が「する」か「しない」か。これを「１」と「０」で表すの。
+    <p class="says">そう。<ruby>音<rt>おと</rt></ruby>が「する」か「しない」か。これを「１」と「０」で表すの。
     </p>
 </div>
 <div class="balloon_l">
@@ -625,7 +625,7 @@ tags:
     </div>
     <p class="says">その通り。「１」「０」「１」の場合で考えてみようか。<br>
     最初は「１」なのでおならを「プゥ〜」、<br>
-    次の１分後から２分までは「０」なので、おならをしないで「しーん（音がしない）」、<br>
+    次の１分後から２分までは「０」なので、おならをしないで「しーん（<ruby>音<rt>おと</rt></ruby>がしない）」、<br>
     最後の２分後から３分までは「１」なので、また「プゥ〜」とおならをすれば良いよ。
     </p>
 </div>
@@ -839,7 +839,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">僕は可視光<ruby>通信<rt>つうしん</rt></ruby>っていってね、目で見える<ruby>光<rt>ひかり</rt></ruby>を使った<ruby>通信<rt>つうしん</rt></ruby>を<ruby>研究<rt>けんきゅう</rt></ruby>しているんだ。この授業でデモもやるよ。天野浩先生が発明したLEDを使って<ruby>通信<rt>つうしん</rt></ruby>をするんだ。<br>
+    <p class="says">僕は可視光<ruby>通信<rt>つうしん</rt></ruby>っていってね、目で見える<ruby>光<rt>ひかり</rt></ruby>を使った<ruby>通信<rt>つうしん</rt></ruby>を<ruby>研究<rt>けんきゅう</rt></ruby>しているんだ。この<ruby>授業<rt>じゅぎょう</rt></ruby>でデモもやるよ。天野浩先生が発明したLEDを使って<ruby>通信<rt>つうしん</rt></ruby>をするんだ。<br>
     <a href="https://tech.imass.nagoya-u.ac.jp/lecture.html">天野先生の講演</a>はぜひ聴いてね。ちょっと難しいかもしれないけど、きっとワクワクすると思うよ。
     </p>
 </div>
