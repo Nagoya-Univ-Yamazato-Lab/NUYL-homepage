@@ -221,7 +221,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">それは<ruby>授業<rt>じゅぎょう</rt></ruby>の日までお楽しみにして。でも、ちょっとだけおしえるね。
+    <p class="says">それは<ruby>授業<rt>じゅぎょう</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>までお<ruby>楽<rt>たの</rt></ruby>しみにして。でも、ちょっとだけおしえるね。
     </p>
 </div>
 <div class="balloon_l">
@@ -235,35 +235,35 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">おならくんはタイタニック号って知ってる？
+    <p class="says">おならくんはタイタニック<ruby>号<rt>ごう</rt></ruby>ってしってる？
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">知っているよ。ローザが乗っていた<ruby>船<rt>ふね</rt></ruby>でしょ。<ruby>氷山<rt>ひょうざん</rt></ruby>にぶつかって<ruby>沈没<rt>ちんぼつ</rt></ruby>するのだよね。ザ・ドラえもんズ スペシャルで読んだよ。
+    <p class="says">しっているよ。ローザがのっていた<ruby>船<rt>ふね</rt></ruby>でしょ。<ruby>氷山<rt>ひょうざん</rt></ruby>にぶつかって<ruby>沈没<rt>ちんぼつ</rt></ruby>するのだよね。ザ・ドラえもんズ スペシャルでよんだよ。
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">おぉ、おならくんすごい。よく知っているね。<ruby>映画<rt>えいが</rt></ruby>のほうが<ruby>有名<rt>ゆうめい</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>うけど、ドラえもんにものっているのだね。
+    <p class="says">おぉ、おならくんすごい。よくしっているね。<ruby>映画<rt>えいが</rt></ruby>のほうが<ruby>有名<rt>ゆうめい</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>うけど、ドラえもんにものっているのだね。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says"><ruby>映画<rt>えいが</rt></ruby>はお母さんがみたことあるって話してた。ヒロインのローズが船の先で手を広げるシーンが有名だって。
+    <p class="says"><ruby>映画<rt>えいが</rt></ruby>はおかあさんがみたことあるって<ruby>話<rt>はな</rt></ruby>してた。ヒロインのローズが<ruby>船<rt>ふね</rt></ruby>の<ruby>先<rt>さき</rt></ruby>で<ruby>手<rt>て</rt></ruby>を<ruby>広<rt>ひろ</rt></ruby>げるシーンが<ruby>有名<rt>ゆうめい</rt></ruby>だって。
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そのタイタニック号から<ruby>世界<rt>せかい</rt></ruby>で初めて<ruby><rt>SOS</rt></ruby><ruby>信号<rt>しんごう</rt></ruby>が<ruby>送<rt>おく</rt></ruby>られたんだ。注１）
+    <p class="says">そのタイタニック<ruby>号<rt>ごう</rt></ruby>から<ruby>世界<rt>せかい</rt></ruby>ではじめて<ruby><rt>SOS</rt></ruby><ruby>信号<rt>しんごう</rt></ruby>が<ruby>送<rt>おく</rt></ruby>られたんだ。注１）
     </p>
 </div>
 <div class="balloon_l">
@@ -277,7 +277,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says"><ruby>SOS<rt>エスオーエス</rt></ruby>は英語で私たちの船を助けてください（<ruby>Save Our Ship<rt>セーブ　アワ シップ</rt></ruby>）のことで<ruby>遭難信号<rt>そうなんしんごう</rt></ruby>なんだ。
+    <p class="says"><ruby>SOS<rt>エスオーエス</rt></ruby>は<ruby>英語<rt>えいご</rt></ruby>でわたしたちの<ruby>船<rt>ふね</rt></ruby>を<ruby>助<rt>たすけ</rt></ruby>けてください（<ruby>Save Our Ship<rt>セーブ　アワ シップ</rt></ruby>）のことで<ruby>遭難信号<rt>そうなんしんごう</rt></ruby>なんだ。
     </p>
 </div>
 <div class="balloon_l">
@@ -291,7 +291,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">ハハハ、しゃれだね。<br>当時は<ruby>SOS信号<rt>エスオーエスしんごう</rt></ruby>を出すのに<ruby>火花<rt>ひばな</rt></ruby>をつかったんだ。
+    <p class="says">ハハハ、しゃれだね。<br><ruby>当時<rt>とうじ</rt></ruby>は<ruby>SOS信号<rt>エスオーエスしんごう</rt></ruby>をだすのに<ruby>火花<rt>ひばな</rt></ruby>をつかったんだ。
     </p>
 </div>
 <div class="balloon_l">
@@ -305,7 +305,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そう。<ruby>火花<rt>ひばな</rt></ruby>が出るときに<ruby>電波<rt>でんぱ</rt></ruby>も一緒に出るんだ。<ruby>電波<rt>でんぱ</rt></ruby>は遠くまで飛ぶので船から地上まで<ruby>信号<rt>しんごう</rt></ruby>を届けることができるんだ。
+    <p class="says">そう。<ruby>火花<rt>ひばな</rt></ruby>が出るときに<ruby>電波<rt>でんぱ</rt></ruby>もいっしょにでるんだ。<ruby>電波<rt>でんぱ</rt></ruby>は<ruby>遠<rt>とお</rt></ruby>くまで<ruby>飛<rt>と</rt></ruby>ぶので<ruby>船<rt>ふね</rt></ruby>から<ruby>陸地<rt>りくち</rt></ruby>まで<ruby>信号<rt>しんごう</rt></ruby>をとどけることができるんだ。
     </p>
 </div>
 <div class="balloon_l">
@@ -319,15 +319,15 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">おならくん、いいところに気づいたね。<br>
-    <ruby>火花<rt>ひばな</rt></ruby>を出したり、<ruby>火花<rt>ひばな</rt></ruby>を消したりしたの。そうすると、<ruby>電波<rt>でんぱ</rt></ruby>も出たり、出なかったりするでしょ。
+    <p class="says">おならくん、いいところに<ruby>気<rt>き</rt></ruby>づいたね。<br>
+    <ruby>火花<rt>ひばな</rt></ruby>をだしたり、<ruby>火花<rt>ひばな</rt></ruby>を<ruby>消<rt>け</rt></ruby>したりしたの。そうすると、<ruby>電波<rt>でんぱ</rt></ruby>もでたり、でなかったりするでしょ。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">なるほど、<ruby>電波<rt>でんぱ</rt></ruby>を出したり、出さなかったりしたんだね。
+    <p class="says">なるほど、<ruby>電波<rt>でんぱ</rt></ruby>をだしたり、ださなかったりしたんだね。
     </p>
 </div>
 <div class="balloon_r">
@@ -351,7 +351,7 @@ tags:
     <p class="says">そのとおり。<br>
     <ruby>短<rt>みじか</rt></ruby>い<ruby>電波<rt>でんぱ</rt></ruby>は<ruby>音<rt>おと</rt></ruby>であらわすと「ト」になるかな。<br>
     <ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>の<ruby>電波<rt>でんぱ</rt></ruby>は「ツー」。<br>
-    その２つの組み合わせで <ruby>SOS信号<rt>エスオーエスしんごう</rt></ruby>をあらわしたんだ。
+    その２つの<ruby><rt>組</rt>くみ</ruby>み<ruby>合<rt>あ</rt></ruby>わせで <ruby>SOS信号<rt>エスオーエスしんごう</rt></ruby>をあらわしたんだ。
     </p>
 </div>
 <div class="balloon_l">
@@ -366,8 +366,8 @@ tags:
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
     <p class="says">そう。<br>
-    Sは「ト」を３回、つまり「トトト」。<br>
-    Oは「ツー」を３回、つまり「ツーツーツー」。
+    <ruby>S<rt>エス</rt></ruby>は「ト」を３<ruby>回<rt>かい</rt></ruby>、つまり「トトト」。<br>
+    <ruby>O<rt>オー</rt></ruby>は「ツー」を３<ruby>回<rt>かい</rt></ruby>、つまり「ツーツーツー」。
     </p>
 </div>
 <div class="balloon_l">
@@ -400,7 +400,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">おぉ、すばらしい。よく分かったね。<br>
+    <p class="says">おぉ、すばらしい。よくわかったね。<br>
     ．．．うぅん、それにしても、ちょっとだけ<ruby>種明<rt>たねあ</rt></ruby>かしをするつもりだったけど、ぜんぶバレちゃったなぁ。ハハハ。
     </p>
 </div>
@@ -425,7 +425,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そうだね、普通の人には難しいと思うよ。でもね、おならで歌を歌うことができる人もいるんだよ。きっとこの人なら<ruby>SOS<rt>エスオーエス</rt></ruby>も簡単にできると思うよ。このページの最後に紹介するね。
+    <p class="says">そうだね、ふつうの人には難しいと思うよ。でもね、おならで歌を歌うことができる人もいるんだよ。きっとこの人なら<ruby>SOS<rt>エスオーエス</rt></ruby>もかんたんにできると思うよ。このページの最後に紹介するね。
     </p>
 </div>
 
@@ -553,7 +553,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">実はね、<ruby>通信<rt>つうしん</rt></ruby>の原理としてはデジタル<ruby>通信<rt>つうしん</rt></ruby>がもっとも簡単なの。
+    <p class="says">実はね、<ruby>通信<rt>つうしん</rt></ruby>の原理としてはデジタル<ruby>通信<rt>つうしん</rt></ruby>がもっともかんたんなの。
     </p>
 </div>
 <div class="balloon_l">
@@ -624,9 +624,9 @@ tags:
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
     <p class="says">そのとおり。「１」「０」「１」の場合で考えてみようか。<br>
-    最初は「１」なのでおならを「プゥ〜」、<br>
-    次の１分後から２分までは「０」なので、おならをしないで「しーん（<ruby>音<rt>おと</rt></ruby>がしない）」、<br>
-    最後の２分後から３分までは「１」なので、また「プゥ〜」とおならをすればいいよ。
+    <ruby>最初<rt>さいしょ</rt></ruby>は「１」なのでおならを「プゥ〜」、<br>
+    次の１分から２分までは「０」なので、おならをしないで「しーん（<ruby>音<rt>おと</rt></ruby>がしない）」、<br>
+    <ruby>最後<rt>さいご</rt></ruby>の２分から３分までは「１」なので、また「プゥ〜」とおならをすればいいよ。
     </p>
 </div>
 <div class="balloon_l">
@@ -654,7 +654,7 @@ tags:
   <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">デジタル<ruby>通信<rt>つうしん</rt></ruby>は「１」と「０」で<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>伝<rt>つた</rt></ruby>えることができるので簡単なんだけど、「１」と「０」の<ruby>時間<rt>じかん</rt></ruby>がはっきり分かる正確な時計も必要になるんだ。この時計が必要というところがデジタル<ruby>通信<rt>つうしん</rt></ruby>のポイントなんだよ。
+    <p class="says">デジタル<ruby>通信<rt>つうしん</rt></ruby>は「１」と「０」で<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>伝<rt>つた</rt></ruby>えることができるのでかんたんなんだけど、「１」と「０」の<ruby>時間<rt>じかん</rt></ruby>がはっきり分かる正確な時計も必要になるんだ。この時計が必要というところがデジタル<ruby>通信<rt>つうしん</rt></ruby>のポイントなんだよ。
     </p>
 </div>
 
