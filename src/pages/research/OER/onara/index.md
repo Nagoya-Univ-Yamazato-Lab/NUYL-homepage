@@ -61,6 +61,7 @@ tags:
 - [おならでSOSを送ってみよう！（おなら通信のしくみ）](#how-it-works)
 - [おならのにおいでも通信はできるの？（デジタル通信の原理）](#smell-communication)
 - [もっと早い通信はできるの？（光を使った通信と電波を使った通信）](#wired-and-wireless-communication)
+- [さらに勉強するために](#For-further-study)
 
 ---
 
@@ -794,90 +795,68 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">
+    <p class="says">そう。名古屋大学だと天野研究室の久志本先生が研究しているよ。世界最高速の発振回路ができたって発表していたよ。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">
+    <p class="says">うわぁ〜すごい！
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">
+    <p class="says">光については西澤先生が研究しているよ。名古屋大学テクノロジーフェスティバルで「すごい！ひかりのふしぎ、れーざーこうせんってすごい！」の先生でもあるよ。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">
+    <p class="says">みんな、すごいね。で、先生は何の研究をやっているの？
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">
+    <p class="says">僕は可視光通信っていってね、目で見える光を使った通信を研究しているんだ。この授業でデモもやるよ。天野先生が発明したLEDを使って通信をするんだ。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">
+    <p class="says">うわぁ〜すごいなぁ〜。
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">
+    <p class="says">僕も研究できるようになるかな？
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">
+    <p class="says">もちろん。研究はとっても楽しいし、やりがいもあるよ。ぜひ、一緒に研究をやろう！でもね、実はなかなか思うようにいかなんだ！そういうところも楽しいのだけどね、ハハハ。
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">
+    <p class="says">いいなぁ、ぼく、大きくなったら研究者になるからよろしくお願いします。将来、おなら通信ができるように、まるで話すみたいに「プッ」と「プゥ〜」のおならができるように毎日練習をするね！
     </p>
 </div>
-<div class="balloon_l">
-  <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
-  </div>
-    <p class="says">
-    </p>
-</div>
-<div class="balloon_r">
-    <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
-    </div>
-    <p class="says">
-    </p>
-</div>
-<div class="balloon_l">
-  <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
-  </div>
-    <p class="says">
-    </p>
-</div>
-<div class="balloon_r">
-    <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
-    </div>
-    <p class="says">
-    </p>
-</div>
+
+<a id="">For-further-study</a>
+
+## さらに勉強するために
+
+
