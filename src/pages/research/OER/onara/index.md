@@ -249,7 +249,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">おぉ、おならくんすごい。よく知っているね。<ruby>映画<rt>えいが</rt></ruby>の方が有名だと思うけど、ドラえもんにものっているのだね。
+    <p class="says">おぉ、おならくんすごい。よく知っているね。<ruby>映画<rt>えいが</rt></ruby>のほうが<ruby>有名<rt>ゆうめい</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>うけど、ドラえもんにものっているのだね。
     </p>
 </div>
 <div class="balloon_l">
@@ -277,7 +277,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">SOSは英語で私たちの船を助けてください（Save Our Ship）のことで<ruby>遭難信号<rt>そうなんしんごう</rt></ruby>なんだ。
+    <p class="says">SOSは英語で私たちの船を助けてください（<ruby>Save Our Ship<rt>セーブ　アワ シップ</rt></ruby>）のことで<ruby>遭難信号<rt>そうなんしんごう</rt></ruby>なんだ。
     </p>
 </div>
 <div class="balloon_l">
