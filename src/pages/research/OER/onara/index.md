@@ -796,7 +796,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そう。名古屋大学だと[天野研究室](http://www.semicond.nuee.nagoya-u.ac.jp/)の[久志本真希先生](https://profs.provost.nagoya-u.ac.jp/html/100009220_ja.html)が研究しているよ。[世界最高速の発振回路](https://www.imass.nagoya-u.ac.jp/news_information/07_kushimoto.html)ができたって発表していたよ。
+    <p class="says">そう。名古屋大学だと<a href="http://www.semicond.nuee.nagoya-u.ac.jp/">天野・本多研究室</a>の<a href="https://profs.provost.nagoya-u.ac.jp/html/100009220_ja.html">久志本真希先生</a>>が研究しているよ。<a href="https://www.imass.nagoya-u.ac.jp/news_information/07_kushimoto.html">世界最高速の発振回路</a>ができたって発表していたよ。
     </p>
 </div>
 <div class="balloon_l">
@@ -810,7 +810,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">光については[西澤典彦先生](https://www.nuee.nagoya-u.ac.jp/labs/optelelab/)が研究しているよ。名古屋大学テクノロジーフェスティバル[「すごい！ひかりのふしぎ、れーざーこうせんってすごい！」](https://tech.imass.nagoya-u.ac.jp/lecture.html#L3C)の先生でもあるよ。
+    <p class="says">光については<a href="https://www.nuee.nagoya-u.ac.jp/labs/optelelab/">西澤典彦先生</a>が研究しているよ。名古屋大学テクノロジーフェスティバル<a href="https://tech.imass.nagoya-u.ac.jp/lecture.html#L3C">「すごい！ひかりのふしぎ、れーざーこうせんってすごい！」</a>の先生でもあるよ。
     </p>
 </div>
 <div class="balloon_l">
@@ -825,7 +825,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">僕は可視光通信っていってね、目で見える光を使った通信を研究しているんだ。この授業でデモもやるよ。天野先生が発明したLEDを使って通信をするんだ。[天野先生の講演](https://tech.imass.nagoya-u.ac.jp/lecture.html)はぜひ聴いてね。ちょっと難しいかもしれないけど、きっとワクワクすると思うよ。
+    <p class="says">僕は可視光通信っていってね、目で見える光を使った通信を研究しているんだ。この授業でデモもやるよ。天野浩先生が発明したLEDを使って通信をするんだ。<a href="https://tech.imass.nagoya-u.ac.jp/lecture.html">天野先生の講演</a>はぜひ聴いてね。ちょっと難しいかもしれないけど、きっとワクワクすると思うよ。
     </p>
 </div>
 <div class="balloon_l">
@@ -846,7 +846,7 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">もちろん。まずは[須田 淳先生](https://sudalab.skr.jp/members/jun_suda/)の[「でんきのしくみ、作りかた。おもしろい！でんきのはなし」](https://tech.imass.nagoya-u.ac.jp/lecture.html#L1B)を聴いてみては？きっと研究の楽しさを教えてくれると思うよ。研究はとっても楽しいし、やりがいもあるよ。ぜひ、一緒に研究をやろう！でもね、実はなかなか思うようにいかなんだ！そういうところも楽しいのだけどね、ハハハ。
+    <p class="says">もちろん。まずは<a href="https://sudalab.skr.jp/members/jun_suda/">須田 淳先生</a>の<a href="https://tech.imass.nagoya-u.ac.jp/lecture.html#L1B">「でんきのしくみ、作りかた。おもしろい！でんきのはなし」]</a>を聴いてみては？きっと研究の楽しさを教えてくれると思うよ。研究はとっても楽しいし、やりがいもあるよ。ぜひ、一緒に研究をやろう！でもね、実はなかなか思うようにいかなんだ！そういうところも楽しいのだけどね、ハハハ。
     </p>
 </div>
 <div class="balloon_r">
