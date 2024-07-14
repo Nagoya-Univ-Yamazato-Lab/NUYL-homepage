@@ -2,7 +2,7 @@
 templateKey: pages
 lang: ja
 title: おならでもつうしんできる？ーなるほど！つうしんのしくみー
-description: けいたいでんわは、でんぱを使って音をとおくにとどけます。でも、ちかいところであれば、糸を使っても音をとどけることができます。そう、糸でんわですね！じつは、糸だけじゃなく、光や音を使ってもつうしんすることができます。このしくみが分かれば、「おなら」でもつうしんができるかもしれません。このじゅぎょうでは、「おならつうしん」にチャレンジします。みんな，おならでつうしんはできるかな？
+description: けいたいでんわは、でんぱを使って音をとおくにとどけます。でも、ちかいところであれば、糸を使っても音をとどけることができます。そう、糸でんわですね！じつは、糸だけじゃなく、光や音を使ってもつうしんすることができます。このしくみが分かれば、「おなら」でもつうしんができるかもしれません。このじゅぎょうでは、「おならつうしん」にチャレンジします。みんな、おならでつうしんはできるかな？
 tags:
   - おならでもつうしんできる？
   - なるほど！つうしんのしくみ
@@ -24,15 +24,16 @@ tags:
 
 ## 概要
 
-けいたい電話は、電波を使って音を遠くに届けます。でも、近いところであれば、糸を使っても音を届けることができます。そう、糸電話ですね！じつは、糸だけじゃなく、光や音を使っても通信することができます。このしくみが分かれば、「おなら」でも通信ができるかもしれません。この授業では、「おなら通信」にチャレンジします。みんな、おならで通信はできるかな？
+
+けいたい<ruby>電話<rt>でんわ</rt></ruby>は、<ruby>電波<rt>でんぱ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って<ruby>音<rt>おと</rt></ruby>を<ruby>遠<rt>とお</rt></ruby>くに<ruby>届<rt>とど</rt></ruby>けます。でも、<ruby>近<rt>ちか</rt></ruby>いところであれば、<ruby>糸<rt>いと</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っても<ruby>音<rt>おと</rt></ruby>を<ruby>届<rt>とど</rt></ruby>けることができます。そう、<ruby>糸電話<rt>いとでんわ</rt></ruby>ですね！じつは、<ruby>糸<rt>いと</rt></ruby>だけじゃなく、<ruby>光<rt>ひかり</rt></ruby>や<ruby>音<rt>おと</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っても<ruby>通信<rt>つうしん</rt></ruby>することができます。このしくみが<ruby>分<rt>わか</rt></ruby>かれば、「おなら」でも<ruby>通信<rt>つうしん</rt></ruby>ができるかもしれません。この<ruby>授業<rt>じゅぎょう</rt></ruby>では、「おなら<ruby>通信<rt>つうしん</rt></ruby>」にチャレンジします。みんな、おならで<ruby>通信<rt>つうしん</rt></ruby>はできるかな？
 
 
 > ## 参加される保護者の皆様へのお願い<!-- omit in toc -->
 >
-> この度は、名古屋大学夏のテクノロジーフェスティバルへご応募くださり、ありがとうございます。
+> この度は、名古屋大学 夏のテクノロジーフェスティバルへご応募くださり、ありがとうございます。
 > L4B「おならでもつうしんできる？なるほど！つうしんのしくみ」の講師を務めます、名古屋大学の山里でございます。
 >
-> さて、この講演では参加者の皆様に実際に「おならの音」を使った通信を試していただく予定です。そこで、皆様に「おならの音」を録音して、ぜひお送りいただきたいと思います。ご家族でも、お友達でも、もちろんペットのおならの音でもかまいません。ご協力いただけますと幸いです。
+> さて、この講演では参加者の皆様に実際に「おならの音」を使った通信を試していただく予定です。そこで、ぜひ皆様に「おならの音」を録音して、お送りいただきたいと思います。ご家族でも、お友達でも、もちろんペットのおならの音でもかまいません。ご協力いただけますと幸いです。
 > 
 > 録音した「おならの音」をお送りいただける方はお手数ですが
 > 
@@ -41,7 +42,9 @@ tags:
 > までご連絡ください。折り返しアップロード用URLをお送りします。
 >「おならの音」のご提供は、もちろん任意ですが、多数の方にご協力いただけますと幸いです。
 >
->ご提供いただいた「おならの音」は名古屋大学での教育・研究目的（本講演を含む）にのみ利用させていただき、それ以外では利用しません。ご提供いただく方のプライバシーには配慮し、お名前などは一切公表いたしません。公表に差し障りのないイニシャル、ニックネームなどを併せておらせ頂けますと講演中にご紹介できます。
+>ご提供いただいた「おならの音」は名古屋大学での教育・研究目的（本講演を含む）にのみ利用させていただき、それ以外では利用しません。ご提供いただく方のプライバシーには配慮し、お名前などは一切公表いたしません。
+>
+>公表に差し障りのないイニシャル、ニックネームなどを併せてお知らせ頂けますと、講演中にご紹介できます。
 >
 >どうぞたくさんの「おならの音」をご提供くださいますよう、お願い申し上げます。
 >
@@ -57,24 +60,26 @@ tags:
 
 ## 目次　 <!-- omit in toc -->
 
-- [「おなら通信」チャレンジ！](#fart-challenge)
-- [おならでSOSを送ってみよう！（おなら通信のしくみ）](#how-it-works)
-- [おならのにおいでも通信はできるの？（デジタル通信の原理）](#smell-communication)
-- [もっと早い通信はできるの？（光を使った通信と電波を使った通信）](#wired-and-wireless-communication)
+- [「おなら<ruby>通信<rt>つうしん</rt></ruby>」チャレンジ！](#fart-challenge)
+- [おならでSOSを<ruby>送<rt>おく</rt></ruby>ってみよう！（おなら<ruby>通信<rt>つうしん</rt></ruby>のしくみ）](#how-it-works)
+- [おならのにおいでも<ruby>通信<rt>つうしん</rt></ruby>はできるの？（デジタル<ruby>通信<rt>つうしん</rt></ruby>の原理）](#smell-communication)
+- [もっと早い<ruby>通信<rt>つうしん</rt></ruby>はできるの？（<ruby>光<rt>ひかり</rt></ruby>を使った<ruby>通信<rt>つうしん</rt></ruby>と<ruby>電波<rt>でんぱ</rt></ruby>を使った<ruby>通信<rt>つうしん</rt></ruby>）](#wired-and-wireless-communication)
 - [さらに勉強するために](#For-further-study)
-- [おなら通信のアイデアはここから生まれた？！](the-fart-communication)
+- [おなら<ruby>通信<rt>つうしん</rt></ruby>のアイデアはここから生まれた？！](the-fart-communication)
 
 ---
 
+<!-- <p>中国にとって<ruby>熊猫<rt>パンダ</rt></ruby>は国宝です。</p> -->
+
 <a id="fart-challenge"></a>
 
-## 「おなら通信」チャレンジ！
+## 「おなら<ruby>通信<rt>つうしん</rt></ruby>」チャレンジ！
 
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">先生、この授業では「おなら通信」にチャレンジするって書いてあるけど、ほんとうにおならで通信するの？</p>
+    <p class="says">先生、この授業では「おなら<ruby>通信<rt>つうしん</rt></ruby>」にチャレンジするって書いてあるけど、ほんとうにおならで<ruby>通信<rt>つうしん</rt></ruby>するの？</p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
@@ -147,7 +152,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">それはこまったなぁ、おならが出ないと通信もできないぞ。
+    <p class="says">それはこまったなぁ、おならが出ないと<ruby>通信<rt>つうしん</rt></ruby>もできないぞ。
     </p>
 </div>
 <div class="balloon_l">
@@ -161,7 +166,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">いいねぇ。みんなにおならの音を録音して送ってもらおうか。それをつかった通信を考えるね。
+    <p class="says">いいねぇ。みんなにおならの音を録音して<ruby>送<rt>おく</rt></ruby>ってもらおうか。それをつかった<ruby>通信<rt>つうしん</rt></ruby>を考えるね。
     </p>
 </div>
 <div class="balloon_l">
@@ -175,7 +180,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">パフパフラッパならくさくないので教室にもってきてもいいよ。それをつかって「おなら通信」をためしてみよう。
+    <p class="says">パフパフラッパならくさくないので教室にもってきてもいいよ。それをつかって「おなら<ruby>通信<rt>つうしん</rt></ruby>」をためしてみよう。
     </p>
 </div>
 <div class="balloon_l">
@@ -189,7 +194,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">もちろん！みんなのおならの音で通信しちゃうね。おならの音をたくさん送ってね！
+    <p class="says">もちろん！みんなのおならの音で<ruby>通信<rt>つうしん</rt></ruby>しちゃうね。おならの音をたくさん<ruby>送<rt>おく</rt></ruby>ってね！
     </p>
 </div>
 <div class="balloon_l">
@@ -204,13 +209,13 @@ tags:
 
 <a id="how-it-works"></a>
 
-## おならでSOSを送ってみよう！（おなら通信のしくみ）
+## おならでSOSを<ruby>送<rt>おく</rt></ruby>ってみよう！（おなら<ruby>通信<rt>つうしん</rt></ruby>のしくみ）
 
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">先生、おならでどうやって通信するの？おしえて。
+    <p class="says">先生、おならでどうやって<ruby>通信<rt>つうしん</rt></ruby>するの？おしえて。
     </p>
 </div><div class="balloon_r">
     <div class="faceicon">
@@ -258,21 +263,21 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そのタイタニック号から世界で初めてSOS信号が送られたんだ。注１）
+    <p class="says">そのタイタニック号から世界で初めてSOS<ruby>信号<rt>しんごう</rt></ruby>が<ruby>送<rt>おく</rt></ruby>られたんだ。注１）
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">SOS信号？
+    <p class="says">SOS<ruby>信号<rt>しんごう</rt></ruby>？
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">SOSは英語で私たちの船を助けてください（Save Our Ship）のことで遭難信号（そうなんしんごう）なんだ。
+    <p class="says">SOSは英語で私たちの船を助けてください（Save Our Ship）のことで遭難<ruby>信号<rt>しんごう</rt></ruby>（そうなんしんごう）なんだ。
     </p>
 </div>
 <div class="balloon_l">
@@ -286,28 +291,28 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">ハハハ、しゃれだね。<br>当時はSOS信号を出すのに火花を使ったんだ。
+    <p class="says">ハハハ、しゃれだね。<br>当時はSOS<ruby>信号<rt>しんごう</rt></ruby>を出すのに火花を使ったんだ。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">火花？電波（でんぱ）じゃないの？
+    <p class="says">火花？<ruby>電波<rt>でんぱ</rt></ruby>じゃないの？
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そう。火花が出るときに電波（でんぱ）も一緒に出るんだ。電波は遠くまで飛ぶので船から地上まで信号を届けることができるんだ。
+    <p class="says">そう。火花が出るときに<ruby>電波<rt>でんぱ</rt></ruby>も一緒に出るんだ。<ruby>電波<rt>でんぱ</rt></ruby>は遠くまで飛ぶので船から地上まで<ruby>信号<rt>しんごう</rt></ruby>を届けることができるんだ。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">でも、火花でどうやってSOS信号を表したの？
+    <p class="says">でも、火花でどうやってSOS<ruby>信号<rt>しんごう</rt></ruby>を表したの？
     </p>
 </div>
 <div class="balloon_r">
@@ -315,28 +320,28 @@ tags:
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
     <p class="says">おならくん、いいところに気づいたね。<br>
-    火花を出したり、火花を消したりしたの。そうすると、電波も出たり、出なかったりするでしょ。
+    火花を出したり、火花を消したりしたの。そうすると、<ruby>電波<rt>でんぱ</rt></ruby>も出たり、出なかったりするでしょ。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">なるほど、電波を出したり、出さなかったりしたんだね。
+    <p class="says">なるほど、<ruby>電波<rt>でんぱ</rt></ruby>を出したり、出さなかったりしたんだね。
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そう。さらに短い時間の火花と少し長い時間の火花とでSOS信号を表したんだ。
+    <p class="says">そう。さらに<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>の火花と少し<ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>の火花とでSOS<ruby>信号<rt>しんごう</rt></ruby>を表したんだ。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">短い火花と長い火花？つまり電波が短い時間ものと長い時間つづくものとでSOS信号を表したの？
+    <p class="says"><ruby>短<rt>みじか</rt></ruby>い火花と<ruby>長<rt>なが</rt></ruby>い火花？つまり<ruby>電波<rt>でんぱ</rt></ruby>が<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>のものと<ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>つづくものとでSOS<ruby>信号<rt>しんごう</rt></ruby>を表したの？
     </p>
 </div>
 <div class="balloon_r">
@@ -344,16 +349,16 @@ tags:
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
     <p class="says">その通り。<br>
-    短い電波は音で表すと「ツ」になるかな。<br>
-    長い時間の電波は「ツー」。<br>
-    その２つの組み合わせで SOS 信号を表したんだ。
+    <ruby>短<rt>みじか</rt></ruby>い<ruby>電波<rt>でんぱ</rt></ruby>は音で表すと「ト」になるかな。<br>
+    <ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>の<ruby>電波<rt>でんぱ</rt></ruby>は「ツー」。<br>
+    その２つの組み合わせで SOS <ruby>信号<rt>しんごう</rt></ruby>を表したんだ。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">「ツ」と「ツー」。
+    <p class="says">「ト」と「ツー」。
     </p>
 </div>
 <div class="balloon_r">
@@ -361,7 +366,7 @@ tags:
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
     <p class="says">そう。<br>
-    Sは「ツ」を３回、つまり「ツツツ」。<br>
+    Sは「ト」を３回、つまり「トトト」。<br>
     Oは「ツー」を３回、つまり「ツーツーツー」。
     </p>
 </div>
@@ -370,7 +375,7 @@ tags:
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
     <p class="says">ということは、SOSは<br>
-    「ツツツ　ツーツーツー　ツツツ」<br>
+    「トトト　ツーツーツー　トトト」<br>
     になるの？
     </p>
 </div>
@@ -400,20 +405,20 @@ tags:
     </p>
 </div>
 
-> 注１）上記で「タイタニック号が世界初のSOSを発した」と説明しましたが、実際にはタイタニック号が最初ではありません。タイタニック号の悲劇と併せてSOSが最初と述べている書物も多いことからそのように書きました。印象に残りやすいですしね。より詳しく知りたい方は総務省の外郭団体である電波適正利用推進員協議会の[電波学習館](https://www.cleandenpa.net/museum/g_moku.html)・[第1回万国無線電信会議](https://www.cleandenpa.net/museum/gaku/gc.html)をご覧下さい。なお、同ページではタイタニック号の遭難モールス信号も聞けるようになっていますが、私が確認したところではうまく動作しないようです。
+> 注１）上記で「タイタニック号が世界初のSOSを発した」と説明しましたが、実際にはタイタニック号が最初ではありません。タイタニック号の悲劇と併せてSOSが最初と述べている書物も多いことからそのように書きました。印象に残りやすいですしね。より詳しく知りたい方は総務省の外郭団体である<ruby>電波<rt>でんぱ</rt></ruby>適正利用推進員協議会の[<ruby>電波<rt>でんぱ</rt></ruby>学習館](https://www.cleandenpa.net/museum/g_moku.html)・[第1回万国無線電信会議](https://www.cleandenpa.net/museum/gaku/gc.html)をご覧下さい。なお、同ページではタイタニック号の遭難モールス<ruby>信号<rt>しんごう</rt></ruby>も聞けるようになっていますが、私が確認したところではうまく動作しないようです。
 > 
 
 -----
 
 <a id="smell-communication"></a>
 
-## おならのにおいでも通信はできるの？（デジタル通信の原理）
+## おならのにおいでも<ruby>通信<rt>つうしん</rt></ruby>はできるの？（デジタル<ruby>通信<rt>つうしん</rt></ruby>の原理）
 
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">おなら通信分かったもんね、へへへ。でも、SOSをおならでやるのは難しいなぁ。練習してもできないかも。
+    <p class="says">おなら<ruby>通信<rt>つうしん</rt></ruby>分かったもんね、へへへ。でも、SOSをおならでやるのは難しいなぁ。練習してもできないかも。
     </p>
 </div>
 <div class="balloon_r">
@@ -428,14 +433,14 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">先生、でも、おならの「音」で通信できるのなら、おならの「におい」でも通信はできるの？
+    <p class="says">先生、でも、おならの「音」で<ruby>通信<rt>つうしん</rt></ruby>できるのなら、おならの「におい」でも<ruby>通信<rt>つうしん</rt></ruby>はできるの？
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">おならくん、いいところに気づいたね。さすがだよ。そう、おならのにおいでも通信はできるよ。
+    <p class="says">おならくん、いいところに気づいたね。さすがだよ。そう、おならのにおいでも<ruby>通信<rt>つうしん</rt></ruby>はできるよ。
     </p>
 </div>
 <div class="balloon_l">
@@ -449,7 +454,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">おならの音を使った通信では、短いおならの音「ブッ」と長いおならの音「プゥ〜」の２つの音を使ったよね。
+    <p class="says">おならの音を使った<ruby>通信<rt>つうしん</rt></ruby>では、<ruby>短<rt>みじか</rt></ruby>いおならの音「ブッ」と<ruby>長<rt>なが</rt></ruby>いおならの音「プゥ〜」の２つの音を使ったよね。
     </p>
 </div>
 <div class="balloon_l">
@@ -463,14 +468,14 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そう。実はこの２つということろがポイントなんだ。
+    <p class="says">そう。実はこの２つというのがポイントなんだ。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">２つ？何か違うものが２つあれば通信ができるの？
+    <p class="says">２つ？何か違うものが２つあれば<ruby>通信<rt>つうしん</rt></ruby>ができるの？
     </p>
 </div>
 <div class="balloon_r">
@@ -505,7 +510,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">その通り。電波の場合だと電波が「ある」か「無い」か。
+    <p class="says">その通り。<ruby>電波<rt>でんぱ</rt></ruby>の場合だと<ruby>電波<rt>でんぱ</rt></ruby>が「ある」か「ない」か。
     </p>
 </div>
 <div class="balloon_l">
@@ -534,35 +539,35 @@ tags:
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
     <p class="says">さっすが、おならくん、その通りだよ。<br>
-    情報を送る方と受け取る方とで２つの区別がつけば、何を使っても通信ができるんだよ。この場合「１」と「０」を使うのでデジタル通信と言うんだ。
+    <ruby>情報<rt>じょうほう</rt></ruby>を<ruby>送<rt>おく</rt></ruby>る方と受け取る方とで２つの区別がつけば、何を使っても<ruby>通信<rt>つうしん</rt></ruby>ができるんだよ。この場合「１」と「０」を使うのでデジタル<ruby>通信<rt>つうしん</rt></ruby>と言うんだ。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">「１」と「０」だからデジタル通信なんだね。すごい。デジタルって言うからもっと難しいのかと思っていたよ。
+    <p class="says">「１」と「０」だからデジタル<ruby>通信<rt>つうしん</rt></ruby>なんだね。すごい。デジタルって言うからもっと難しいのかと思っていたよ。
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">実はね、通信の原理としてはデジタル通信がもっとも簡単なの。
+    <p class="says">実はね、<ruby>通信<rt>つうしん</rt></ruby>の原理としてはデジタル<ruby>通信<rt>つうしん</rt></ruby>がもっとも簡単なの。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">おならのにおいでデジタル通信ができるなんて、ちょっと、びっくりしちゃうな。おならのにおいがする、しないが「１」と「０」を表すのだね。なんだかすごいね！
+    <p class="says">おならのにおいでデジタル<ruby>通信<rt>つうしん</rt></ruby>ができるなんて、ちょっと、びっくりしちゃうな。おならのにおいがする、しないが「１」と「０」を表すのだね。なんだかすごいね！
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">でもね、デジタル通信にはもう一つ大事なことがあるんだ。
+    <p class="says">でもね、デジタル<ruby>通信<rt>つうしん</rt></ruby>にはもう一つ大事なことがあるんだ。
     </p>
 </div>
 <div class="balloon_l">
@@ -576,14 +581,14 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">それはね、時間のことなんだ。どこからどこまでが「１」の時間で、どこからどこまでが「０」の時間なのか、ってこと。
+    <p class="says">それはね、<ruby>時間<rt>じかん</rt></ruby>のことなんだ。どこからどこまでが「１」の<ruby>時間<rt>じかん</rt></ruby>で、どこからどこまでが「０」の<ruby>時間<rt>じかん</rt></ruby>なのか、ってこと。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">おならのにおいがする時間としない時間？
+    <p class="says">おならのにおいがする<ruby>時間<rt>じかん</rt></ruby>としない<ruby>時間<rt>じかん</rt></ruby>？
     </p>
 </div>
 <div class="balloon_r">
@@ -604,14 +609,14 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">なるほど。その場合、「１」あるいは「０」は１分おきに送ればよいね。
+    <p class="says">なるほど。その場合、「１」あるいは「０」は１分おきに<ruby>送<rt>おく</rt></ruby>ればよいね。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">と言うことは、たとえば、「１」「１」と送りたい場合は１分おきに「プゥ〜」「プゥ〜」とおならをすれば良いのかな？
+    <p class="says">と言うことは、たとえば、「１」「１」と<ruby>送<rt>おく</rt></ruby>りたい場合は１分おきに「プゥ〜」「プゥ〜」とおならをすれば良いのかな？
     </p>
 </div>
 <div class="balloon_r">
@@ -628,14 +633,14 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">なるほど、時計にあわせて１分おきにおならを「する」、「しない」で情報の「１」と「０」を送ることができるのだね。これがデジタル通信なのか！なんだか凄い！
+    <p class="says">なるほど、時計にあわせて１分おきにおならを「する」、「しない」で<ruby>情報<rt>じょうほう</rt></ruby>の「１」と「０」を<ruby>送<rt>おく</rt></ruby>ることができるのだね。これがデジタル<ruby>通信<rt>つうしん</rt></ruby>なのか！なんだか凄い！
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">でもね、この方法だと「１」はおならのにおいがするからすぐに分かるけど、「０」のところ、つまり「おならをしていない」ことは分かりにくい場合があるんだ。おならのにおいが長く続くこともあるからね。このため、さっきのSOSでは「プッ」と「プゥ〜」の長さの違う２つの信号を使って表現したんだ。
+    <p class="says">でもね、この方法だと「１」はおならのにおいがするからすぐに分かるけど、「０」のところ、つまり「おならをしていない」ことは分かりにくい場合があるんだ。おならのにおいが<ruby>長<rt>なが</rt></ruby>く続くこともあるからね。このため、さっきのSOSでは「プッ」と「プゥ〜」の<ruby>長<rt>なが</rt></ruby>さの違う２つの<ruby>信号<rt>しんごう</rt></ruby>を使って表現したんだ。
     </p>
 </div>
 <div class="balloon_l">
@@ -649,7 +654,7 @@ tags:
   <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">デジタル通信は「１」と「０」の２つで情報を伝送できるので簡単なんだけど、「１」と「０」の時間がはっきり分かる正確な時計も必要になるんだ。この時計が必要というところがデジタル通信のポイントなんだよ。
+    <p class="says">デジタル<ruby>通信<rt>つうしん</rt></ruby>は「１」と「０」で<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>伝<rt>つた</rt></ruby>えることができるので簡単なんだけど、「１」と「０」の<ruby>時間<rt>じかん</rt></ruby>がはっきり分かる正確な時計も必要になるんだ。この時計が必要というところがデジタル<ruby>通信<rt>つうしん</rt></ruby>のポイントなんだよ。
     </p>
 </div>
 
@@ -657,27 +662,27 @@ tags:
 
 <a id="wired-and-wireless-communication"></a>
 
-## もっと早い通信はできるの？（光を使った通信と電波を使った通信）
+## もっと早い<ruby>通信<rt>つうしん</rt></ruby>はできるの？（<ruby>光<rt>ひかり</rt></ruby>を使った<ruby>通信<rt>つうしん</rt></ruby>と<ruby>電波<rt>でんぱ</rt></ruby>を使った<ruby>通信<rt>つうしん</rt></ruby>）
 
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">「おならのにおい」通信は情報を伝送するのに時間がかかるよね。なぜ時間がかかると思う？
+    <p class="says">「おならのにおい」<ruby>通信<rt>つうしん</rt></ruby>は<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>伝<rt>つた</rt></ruby>えるのに<ruby>時間<rt>じかん</rt></ruby>がかかるよね。なぜ<ruby>時間<rt>じかん</rt></ruby>がかかると思う？
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">それは、おならのにおいが無くなるまでに時間がかかるからだよ。だって、そうしないと「０」が分からなくなるもん！
+    <p class="says">それは、おならのにおいが無くなるまでに<ruby>時間<rt>じかん</rt></ruby>がかかるからだよ。だって、そうしないと「０」が分からなくなるもん！
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そうだね。では、もっと速い通信をするためにはどうすれば良いと思う？
+    <p class="says">そうだね。では、もっと速い<ruby>通信<rt>つうしん</rt></ruby>をするためにはどうすれば良いと思う？
     </p>
 </div>
 <div class="balloon_l">
@@ -685,7 +690,7 @@ tags:
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
     <p class="says">この世の中で一番速いものを使って「１」と「０」を表せば良いのだね。<br>
-    一番速いもの、というと．．．分かった「光」だね！
+    一番速いもの、というと．．．分かった「<ruby>光<rt>ひかり</rt></ruby>」だね！
     </p>
 </div>
 <div class="balloon_r">
@@ -693,77 +698,77 @@ tags:
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
     <p class="says">その通り。さすがおならくん、凄いね！<br>
-    この世の中で最も速いものは「光」です。１秒間に地球を7回半も回る速さだよ。
+    この世の中で最も速いものは「<ruby>光<rt>ひかり</rt></ruby>」です。１秒間に地球を7回半も回る速さだよ。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">ということは「光がある」、「なし」、で通信をすれば良いのかな？
+    <p class="says">ということは「<ruby>光<rt>ひかり</rt></ruby>がある」、「なし」、で<ruby>通信<rt>つうしん</rt></ruby>をすれば良いのかな？
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">その通り。実は、光も電波も電磁波のひとつなんだ。
+    <p class="says">その通り。実は、<ruby>光<rt>ひかり</rt></ruby>も<ruby>電波<rt>でんぱ</rt></ruby>も<ruby>電磁波<rt>でんじは</rt></ruby>のひとつなんだ。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">光と電波は仲間なんだね。
+    <p class="says"><ruby>光<rt>ひかり</rt></ruby>と<ruby>電波<rt>でんぱ</rt></ruby>は仲間なんだね。
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">光を使った通信に光ファイバー通信があるんだ。きっとおならくんのお家にも光ファイバーが入っているのでは？そこで使われていると思うよ。
+    <p class="says"><ruby>光<rt>ひかり</rt></ruby>を使った<ruby>通信<rt>つうしん</rt></ruby>に<ruby>光<rt>ひかり</rt></ruby>ファイバー<ruby>通信<rt>つうしん</rt></ruby>があるんだ。きっとおならくんのお家にも<ruby>光<rt>ひかり</rt></ruby>ファイバーが入っているのでは？そこで使われていると思うよ。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">なるほど。じゃぁ電波は？
+    <p class="says">なるほど。じゃぁ<ruby>電波<rt>でんぱ</rt></ruby>は？
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">電波は主に携帯電話や無線LANの無線通信で使われているよ。光を使う光ファイバー通信も電波を使う無線通信のいずれもデジタル通信だよ。
+    <p class="says"><ruby>電波<rt>でんぱ</rt></ruby>はラジオやテレビ、けいたい電話などの無線<ruby>通信<rt>つうしん</rt></ruby>で使われているよ。<ruby>光<rt>ひかり</rt></ruby>を使う<ruby>光<rt>ひかり</rt></ruby>ファイバー<ruby>通信<rt>つうしん</rt></ruby>も<ruby>電波<rt>でんぱ</rt></ruby>を使う無線<ruby>通信<rt>つうしん</rt></ruby>のいずれもデジタル<ruby>通信<rt>つうしん</rt></ruby>だよ。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">たしかに光は、パッとついたり消えたりできるから、おならのにおいみたいに長い間においが続くことが無いね。しかも、この世の中で最も速い！
+    <p class="says">たしかに<ruby>光<rt>ひかり</rt></ruby>は、パッとついたり消えたりできるから、おならのにおいみたいに<ruby>長<rt>なが</rt></ruby>い間においが続くことがないね。しかも、この世の中で最も速い！
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そう。電波も光と同じ電磁波のひとつなので高速なんだ。
+    <p class="says">そう。<ruby>電波<rt>でんぱ</rt></ruby>も<ruby>光<rt>ひかり</rt></ruby>と同じ<ruby>電磁波<rt>でんじは</rt></ruby>のひとつなので高速なんだ。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">むむむ、ということは、光ファイバーも無線もこの世のなかで最も速い電磁波を使うので、もうこれ以上高速にはならないの？
+    <p class="says">むむむ、ということは、<ruby>光<rt>ひかり</rt></ruby>ファイバーも無線もこの世のなかで最も速い<ruby>電磁波<rt>でんじは</rt></ruby>を使うので、もうこれ以上高速にはならないの？
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">いや、そんなこと無いよ。でもね、さっきデジタル通信で必要と言った時計が難しいんだ。
+    <p class="says">いや、そんなこと無いよ。でもね、さっきデジタル<ruby>通信<rt>つうしん</rt></ruby>で必要と言った時計が難しいんだ。
     </p>
 </div>
 <div class="balloon_l">
@@ -777,7 +782,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そう時計。もっとちゃんというと「１」と「０」の時間を正確に表すために基準となる時間のこと。この基準となる時間を作る装置のことを発振回路と言うんだ。
+    <p class="says">そう時計。もっとちゃんというと「１」と「０」の<ruby>時間<rt>じかん</rt></ruby>を正確に表すために基準となる<ruby>時間<rt>じかん</rt></ruby>のこと。この基準となる<ruby>時間<rt>じかん</rt></ruby>を作る装置のことを発振回路と言うんだ。
     </p>
 </div>
 <div class="balloon_l">
@@ -791,7 +796,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そう、発振回路。発振回路が刻む時間にあわせて「１」か「０」のいずれかを送るんだ。なので、発振回路が正確に短い時間で刻むことでが重要になるんだ。短い時間で「１」と「０」を切り替えることができれば、それだけ高速にたくさん送ることができるからね。
+    <p class="says">そう、発振回路。発振回路が刻む<ruby>時間<rt>じかん</rt></ruby>にあわせて「１」か「０」のいずれかを<ruby>送<rt>おく</rt></ruby>るんだ。なので、発振回路が正確に<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>で刻むことでが重要になるんだ。<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>で「１」と「０」を切り替えることができれば、それだけ高速にたくさん<ruby>送<rt>おく</rt></ruby>ることができるからね。
     </p>
 </div>
 <div class="balloon_l">
@@ -819,7 +824,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">光については<a href="https://www.nuee.nagoya-u.ac.jp/labs/optelelab/">西澤典彦先生</a>が研究しているよ。名古屋大学テクノロジーフェスティバル<a href="https://tech.imass.nagoya-u.ac.jp/lecture.html#L3C">「すごい！ひかりのふしぎ、れーざーこうせんってすごい！」</a>の先生でもあるよ。
+    <p class="says"><ruby>光<rt>ひかり</rt></ruby>については<a href="https://www.nuee.nagoya-u.ac.jp/labs/optelelab/">西澤典彦先生</a>が研究しているよ。名古屋大学テクノロジーフェスティバル<a href="https://tech.imass.nagoya-u.ac.jp/lecture.html#L3C">「すごい！ひかりのふしぎ、れーざーこうせんってすごい！」</a>の先生でもあるよ。
     </p>
 </div>
 <div class="balloon_l">
@@ -834,7 +839,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">僕は可視光通信っていってね、目で見える光を使った通信を研究しているんだ。この授業でデモもやるよ。天野浩先生が発明したLEDを使って通信をするんだ。<br>
+    <p class="says">僕は可視光<ruby>通信<rt>つうしん</rt></ruby>っていってね、目で見える<ruby>光<rt>ひかり</rt></ruby>を使った<ruby>通信<rt>つうしん</rt></ruby>を研究しているんだ。この授業でデモもやるよ。天野浩先生が発明したLEDを使って<ruby>通信<rt>つうしん</rt></ruby>をするんだ。<br>
     <a href="https://tech.imass.nagoya-u.ac.jp/lecture.html">天野先生の講演</a>はぜひ聴いてね。ちょっと難しいかもしれないけど、きっとワクワクすると思うよ。
     </p>
 </div>
@@ -858,7 +863,7 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">いいなぁ、ぼく、大きくなったら研究者になるからね。よろしくお願いします。将来、おなら通信ができるように、毎日練習するね。まるで話すみたいに「プッ」と「プゥ〜」のおならができるようなれるといいなぁ〜。
+    <p class="says">いいなぁ、ぼく、大きくなったら研究者になるからね。よろしくお願いします。将来、おなら<ruby>通信<rt>つうしん</rt></ruby>ができるように、毎日練習するね。まるで話すみたいに「プッ」と「プゥ〜」のおならができるようなれるといいなぁ〜。
     </p>
 </div>
 <div class="balloon_r">
@@ -874,17 +879,17 @@ tags:
 
 ## さらに勉強するために
 
-通信についてさらに勉強するためのサイトをご紹介します。
+<ruby>通信<rt>つうしん</rt></ruby>についてさらに勉強するためのサイトをご紹介します。
 
 -----
 <a id="the-fart-communication"></a>
 
-## おなら通信のアイデアはここから生まれた？！
+## おなら<ruby>通信<rt>つうしん</rt></ruby>のアイデアはここから生まれた？！
 
-おなら通信のアイデアはギネスの世界記録から生まれました。僕もびっくりしましたが、おならでギネス世界記録を狙えるのですね。
+おなら<ruby>通信<rt>つうしん</rt></ruby>のアイデアはギネスの世界記録から生まれました。僕もびっくりしましたが、おならでギネス世界記録を狙えるのですね。
 
-ちなみに、おなら通信を試したした人はいないみたいです(^_^)
-まぁ名乗っていないだけだとは思いますが、おなら通信は世界初の試みかも知れません。さすがに、これでギネス世界記録を狙えるとは思えませんが、面白いことには違いないですね。
+ちなみに、おなら<ruby>通信<rt>つうしん</rt></ruby>を試したした人はいないみたいです(^_^)
+まぁ名乗っていないだけだとは思いますが、おなら<ruby>通信<rt>つうしん</rt></ruby>は世界初の試みかも知れません。さすがに、これでギネス世界記録を狙えるとは思えませんが、面白いことには違いないですね。
 
 ### おならのギネス世界記録
 
