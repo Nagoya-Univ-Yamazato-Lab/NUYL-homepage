@@ -42,7 +42,7 @@ tags:
 > までご連絡ください。折り返しアップロード用URLをお送りします。
 >「おならの音」のご提供は、もちろん任意ですが、多数の方にご協力いただけますと幸いです。
 >
->ご提供いただいた「おならの音」は名古屋大学での教育・研究目的（本講演を含む）にのみ利用させていただき、それ以外では利用しません。ご提供いただく方のプライバシーには配慮し、お名前などは一切公表いたしません。
+>ご提供いただいた「おならの音」は名古屋大学での教育・研究目的（本講演を含む）にのみ利用させていただき、それ以外では利用しません。ご提供いただく方のプライバシーには配慮し、お名前などは一切公あらわいたしません。
 >
 >公表に差し障りのないイニシャル、ニックネームなどを併せてお知らせ頂けますと、講演中にご紹介できます。
 >
@@ -312,7 +312,7 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">でも、<ruby>火花<rt>ひばな</rt></ruby>でどうやって<ruby>SOS信号<rt>エスオーエスしんごう</rt></ruby>を表したの？
+    <p class="says">でも、<ruby>火花<rt>ひばな</rt></ruby>でどうやって<ruby>SOS信号<rt>エスオーエスしんごう</rt></ruby>をあらわしたの？
     </p>
 </div>
 <div class="balloon_r">
@@ -334,14 +334,14 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そう。さらに<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>の<ruby>火花<rt>ひばな</rt></ruby>と少し<ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>の<ruby>火花<rt>ひばな</rt></ruby>とで<ruby>SOS信号<rt>エスオーエスしんごう</rt></ruby>を表したんだ。
+    <p class="says">そう。さらに<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>の<ruby>火花<rt>ひばな</rt></ruby>と少し<ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>の<ruby>火花<rt>ひばな</rt></ruby>とで<ruby>SOS信号<rt>エスオーエスしんごう</rt></ruby>をあらわしたんだ。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says"><ruby>短<rt>みじか</rt></ruby>い<ruby>火花<rt>ひばな</rt></ruby>と<ruby>長<rt>なが</rt></ruby>い<ruby>火花<rt>ひばな</rt></ruby>？つまり<ruby>電波<rt>でんぱ</rt></ruby>が<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>のものと<ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>つづくものとで<ruby>SOS信号<rt>エスオーエスしんごう</rt></ruby>を表したの？
+    <p class="says"><ruby>短<rt>みじか</rt></ruby>い<ruby>火花<rt>ひばな</rt></ruby>と<ruby>長<rt>なが</rt></ruby>い<ruby>火花<rt>ひばな</rt></ruby>？つまり<ruby>電波<rt>でんぱ</rt></ruby>が<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>のものと<ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>つづくものとで<ruby>SOS信号<rt>エスオーエスしんごう</rt></ruby>をあらわしたの？
     </p>
 </div>
 <div class="balloon_r">
@@ -351,7 +351,7 @@ tags:
     <p class="says">そのとおり。<br>
     <ruby>短<rt>みじか</rt></ruby>い<ruby>電波<rt>でんぱ</rt></ruby>は<ruby>音<rt>おと</rt></ruby>であらわすと「ト」になるかな。<br>
     <ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>の<ruby>電波<rt>でんぱ</rt></ruby>は「ツー」。<br>
-    その２つの組み合わせで <ruby>SOS信号<rt>エスオーエスしんごう</rt></ruby>を表したんだ。
+    その２つの組み合わせで <ruby>SOS信号<rt>エスオーエスしんごう</rt></ruby>をあらわしたんだ。
     </p>
 </div>
 <div class="balloon_l">
@@ -640,7 +640,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">でもね、この方法だと「１」はおならのにおいがするからすぐに分かるけど、「０」のところ、つまり「おならをしていない」ことは分かりにくい場合があるんだ。おならのにおいが<ruby>長<rt>なが</rt></ruby>く続くこともあるからね。このため、さっきの<ruby>SOS<rt>エスオーエス</rt></ruby>では「プッ」と「プゥ〜」の<ruby>長<rt>なが</rt></ruby>さの違う２つの<ruby>信号<rt>しんごう</rt></ruby>をつかって表現したんだ。
+    <p class="says">でもね、この方法だと「１」はおならのにおいがするからすぐに分かるけど、「０」のところ、つまり「おならをしていない」ことは分かりにくい場合があるんだ。おならのにおいが<ruby>長<rt>なが</rt></ruby>く続くこともあるからね。このため、さっきの<ruby>SOS<rt>エスオーエス</rt></ruby>では「プッ」と「プゥ〜」の<ruby>長<rt>なが</rt></ruby>さの違う２つの<ruby>信号<rt>しんごう</rt></ruby>をつかってあらわしたんだ。
     </p>
 </div>
 <div class="balloon_l">
@@ -689,7 +689,7 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">この世の中で一番速いものをつかって「１」と「０」を表せばいいのだね。<br>
+    <p class="says">この世の中で一番速いものをつかって「１」と「０」をあらわせばいいのだね。<br>
     一番速いもの、というと．．．分かった「<ruby>光<rt>ひかり</rt></ruby>」だね！
     </p>
 </div>
