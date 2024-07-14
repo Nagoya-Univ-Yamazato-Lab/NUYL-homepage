@@ -343,7 +343,10 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">その通り。短い電波は音で表すと「ツ」になるかな。長い時間の電波は「ツー」。その２つの組み合わせで SOS 信号を表したんだ。
+    <p class="says">その通り。<br>
+    短い電波は音で表すと「ツ」になるかな。<br>
+    長い時間の電波は「ツー」。<br>
+    その２つの組み合わせで SOS 信号を表したんだ。
     </p>
 </div>
 <div class="balloon_l">
@@ -357,14 +360,18 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そう。Sは「ツ」を３回、つまり「ツツツ」。Oは「ツー」を３回、つまり「ツーツーツー」。
+    <p class="says">そう。<br>
+    Sは「ツ」を３回、つまり「ツツツ」。<br>
+    Oは「ツー」を３回、つまり「ツーツーツー」。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">ということは、SOSは「ツツツ　ツーツーツー　ツツツ」になるの？
+    <p class="says">ということは、SOSは<br>
+    「ツツツ　ツーツーツー　ツツツ」<br>
+    になるの？
     </p>
 </div>
 <div class="balloon_r">
@@ -379,7 +386,9 @@ tags:
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
     <p class="says">えへへ。<br>
-    ということは、おならでやると「プップップッ　プゥ〜プゥ〜プゥ〜　プップップッ」になるの？
+    ということは、おならでやると<br>
+    「プップップッ　プゥ〜プゥ〜プゥ〜　プップップッ」<br>
+    になるの？
     </p>
 </div>
 <div class="balloon_r">
@@ -387,7 +396,7 @@ tags:
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
     <p class="says">おぉ、素晴らしい。よく分かったね。<br>
-    それにしても、ちょっとだけ種明かしをするつもりだったけど、全部バレちゃったなぁ。ハハハ。
+    ．．．うぅん、それにしても、ちょっとだけ種明かしをするつもりだったけど、全部バレちゃったなぁ。ハハハ。
     </p>
 </div>
 
@@ -796,7 +805,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そう。名古屋大学だと<a href="http://www.semicond.nuee.nagoya-u.ac.jp/">天野・本多研究室</a>の<a href="https://profs.provost.nagoya-u.ac.jp/html/100009220_ja.html">久志本真希先生</a>>が研究しているよ。<a href="https://www.imass.nagoya-u.ac.jp/news_information/07_kushimoto.html">世界最高速の発振回路</a>ができたって発表していたよ。
+    <p class="says">そう。名古屋大学だと<a href="http://www.semicond.nuee.nagoya-u.ac.jp/">天野・本多研究室</a>の<a href="https://profs.provost.nagoya-u.ac.jp/html/100009220_ja.html">久志本真希先生</a>が研究しているよ。<a href="https://www.imass.nagoya-u.ac.jp/news_information/07_kushimoto.html">世界最高速の発振回路</a>ができたって発表していたよ。
     </p>
 </div>
 <div class="balloon_l">
@@ -832,28 +841,28 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">うわぁ〜すごいなぁ〜。
+    <p class="says">うわぁ〜すごいなぁ〜。僕も研究できるようになるかな？
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">僕も研究できるようになるかな？
+    <p class="says">もちろん。まずは<a href="https://sudalab.skr.jp/members/jun_suda/">須田 淳先生</a>の<a href="https://tech.imass.nagoya-u.ac.jp/lecture.html#L1B">「でんきのしくみ、作りかた。おもしろい！でんきのはなし」]</a>を聴いてみては？きっと研究の楽しさを教えてくれると思うよ。研究はとっても楽しいし、やりがいもあるよ。ぜひ、一緒に研究をやろう！でもね、実はなかなか思うようにいかなんだ！そういうところも楽しいのだけどね、ハハハ。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">もちろん。まずは<a href="https://sudalab.skr.jp/members/jun_suda/">須田 淳先生</a>の<a href="https://tech.imass.nagoya-u.ac.jp/lecture.html#L1B">「でんきのしくみ、作りかた。おもしろい！でんきのはなし」]</a>を聴いてみては？きっと研究の楽しさを教えてくれると思うよ。研究はとっても楽しいし、やりがいもあるよ。ぜひ、一緒に研究をやろう！でもね、実はなかなか思うようにいかなんだ！そういうところも楽しいのだけどね、ハハハ。
+    <p class="says">いいなぁ、ぼく、大きくなったら研究者になるからね。よろしくお願いします。将来、おなら通信ができるように、毎日練習するね。まるで話すみたいに「プッ」と「プゥ〜」のおならができるようなれるといいなぁ〜。
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">いいなぁ、ぼく、大きくなったら研究者になるからね。よろしくお願いします。将来、おなら通信ができるように、毎日練習するね。まるで話すみたいに「プッ」と「プゥ〜」のおならができるようなれるといいなぁ〜。
+    <p class="says">ハハハ。なんか違うけど、がんばって！
     </p>
 </div>
 
