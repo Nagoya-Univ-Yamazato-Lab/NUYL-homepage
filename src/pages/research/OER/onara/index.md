@@ -60,6 +60,8 @@ tags:
 - [「おなら通信」チャレンジ！](#fart-challenge)
 - [おならでSOSを送ってみよう！（おなら通信のしくみ）](#how-it-works)
 - [おならの臭いでも通信はできるの？（デジタル通信の原理）](#smell-communication)
+- [もっと早い通信はできるの？（光を使った通信と電波を使った通信）](#wired-and-wireless-communication)
+
 ---
 
 <a id="fart-challenge"></a>
@@ -254,7 +256,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そのタイタニック号から世界で初めてSOS信号が送られたんだ。
+    <p class="says">そのタイタニック号から世界で初めてSOS信号が送られたんだ。注１）
     </p>
 </div>
 <div class="balloon_l">
@@ -387,9 +389,10 @@ tags:
     </p>
 </div>
 
------
 > 注１）上記で「タイタニック号が世界初のSOSを発した」と説明したが、実際にはタイタニック号が最初では無い。タイタニック号の悲劇と併せてSOSが最初と述べている書物も多いことからそのように書いた。詳細は[Wikipedia](https://ja.wikipedia.org/wiki/SOS)を参照のこと。
 > 
+
+-----
 
 <a id="smell-communication"></a>
 
@@ -414,49 +417,348 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">先生、でも、おならの音で通信できるのなら、おならの臭いでも通信はできるの？
+    <p class="says">先生、でも、おならの「音」で通信できるのなら、おならの「臭い」でも通信はできるの？
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">
+    <p class="says">おならくん、いいところに気づいたね。さすがだ。<br>
+    そう、おならの臭いでも通信はできるよ。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">
+    <p class="says">どうやってやるの？教えて。
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">
+    <p class="says">おならの音を使った通信では、短いおならの音「ブッ」と長いおならの音「プゥ〜」の２つの音を使ったよね。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">
+    <p class="says">うん。「プッ」と「プゥ〜」だね。
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">
+    <p class="says">そう。実はこの２つということろがポイントなんだ。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">
+    <p class="says">２つ？何か違うものが２つあれば通信ができるの？
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">そう、その通り。「プッ」と「プゥ〜」の２つ。あるいは、単に「ブッ」ともう一つは何も音がしないことでも良いよ。
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">「ブッ」と「しーん（音がしない）」ってこと？
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">そう。音が「する」か「しない」か。これを「１」と「０」で表すの。
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">「する」、「しない」を「１」と「０」？
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">その通り。電波の場合だと電波が「ある」か「無い」か。
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">ということは、おならの臭いだと「臭いがする」か「臭いがしない」なのかな？
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">その通り。おならの臭いがする場合を「１」、しない場合を「０」とすれば良いよ。
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">「１」と「０」ということは、これがデジタルなの？
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">さっすが、おならくん、その通りだよ。<br>
+    情報を送る方と受け取る方とで２つの区別がつけば、何を使っても通信ができるんだよ。この場合「１」と「０」を使うのでデジタル通信と言うんだ。
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">「１」と「０」だからデジタル通信なんだね。すごい。デジタルって言うからもっと難しいのかと思っていたよ。
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">実はね、通信の原理としてはデジタル通信がもっとも簡単なの。
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">おならの臭いでデジタル通信ができるなんて、ちょっと、びっくりしちゃうな。おならの臭いがする、しないが「１」と「０」を表すのだね。なんだかすごいね！
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">でもね、デジタル通信にはもう一つ大事なことがあるんだ。
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">えっ、それは何？
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">それはね、時間のことなんだ。どこからどこまでが「１」の時間でどこからどこまでが「０」の時間なのか、ってこと。
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">おならの臭いがする時間としない時間？
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">そう、その通り。<br>
+    おならくんのおならの臭いはどの位続くのかな？
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">そうだねぁ、だいたい１分ぐらいは臭っているかなぁ。
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">なるほど。その場合、「１」あるいは「０」は１分おきに送ればよいね。
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">と言うことは、たとえば、「１」「１」と送りたい場合は１分おきに「プゥ〜」「プゥ〜」とおならをすれば良いのかな？
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">その通り。「１」「０」「１」の場合は最初は「プゥ〜」、その後１分後から２分まではおならをしないで、次の２分にまた「プゥ〜」とおならをすれば良いよ。
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">なるほど、時計にあわせて１分おきにおならを「する」、「しない」で情報の「１」と「０」を送ることができるのだね。これがデジタル通信なのか！なんだか凄い！
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">でもね、この方法だと「１」はおならの臭いがするからすぐに分かるけど、「０」のところ、つまり「おならをしていない」ことは分かりにくい場合があるんだ。おならの臭いが長く続くこともあるからね。このため、さっきのSOSでは「プッ」と「プゥ〜」の長さの違う２つの信号を使って表現したんだ。
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">なるほど、さすが、かしこいね！
+    </p>
+</div>
+<div class="balloon_r">
+  <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">デジタル通信は「１」と「０」の２つで情報を伝送できるので簡単なんだけど、「１」と「０」の時間がはっきり分かる正確な時計も必要になるんだ。この時計が必要というところがデジタル通信のポイントなんだよ。
+    </p>
+</div>
+
+------
+
+<a id="wired-and-wireless-communication"></a>
+
+## もっと早い通信はできるの？（光を使った通信と電波を使った通信）
+
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">「おならの臭い」通信は情報を伝送するのに時間がかかるよね。なぜ時間がかかると思う？
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">それは、おならの臭いが無くなるまでに時間がかかるからだよ。だって、そうしないと「０」が分からなくなるもん！
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">そうだね。では、もっと速い通信をするためにはどうすれば良いと思う？
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">この世の中で一番速いものを使って「１」と「０」を表せば良いのだね。<br>
+    一番速いもの、というと．．．分かった光だね！
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">その通り。さすがおならくん、凄いね！<br>
+    この世の中で最も速いものは「光」です。１秒間に地球を7回半はんも回る速さだよ。
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">ということは光がある、なし、で通信をすれば良いのかな？
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">その通り。実は、光も電波も電磁波のひとつなんだ。
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">光と電波は仲間なんだね。
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">光を使った通信に光ファイバー通信があるんだ。きっとおならくんのお家にも光ファイバーが入っているのでは？そこで使われていると思うよ。
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">なるほど。じゃぁ電波は？
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">電波は主に携帯電話や無線LANの無線通信で使われているよ。光を使う光ファイバー通信も電波を使う無線通信のいずれもデジタル通信だよ。
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">たしかに光は、パッとついたり消えたりできるから、おならの臭いみたいに長い間臭いが続くことが無いね。しかも、この世の中で最も速い！
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">そう。電波も光と同じ電磁波のひとつなので高速なんだ。
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">むむむ、ということは、光ファイバーも無線もこの世のなかで最も速い電磁波を使うので、もうこれ以上高速にはならないの？
+    </p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+    </div>
+    <p class="says">いや、そんなこと無いよ。いろいろな工夫をすることで高速化はできるんだよ。僕たちはそんなことを研究しているんだよ。とても楽しいよ。おならくんも大人になったら一緒に研究しようね。
+    </p>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+  </div>
+    <p class="says">ぜひ、お願いします！
     </p>
 </div>
 <div class="balloon_r">
