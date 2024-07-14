@@ -79,7 +79,7 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">先生、この<ruby>授業<rt>じゅぎょう</rt></ruby>では「おなら<ruby>通信<rt>つうしん</rt></ruby>」にチャレンジするって書いてあるけど、ほんとうにおならで<ruby>通信<rt>つうしん</rt></ruby>するの？</p>
+    <p class="says"><ruby>先生<rt>せんせい</rt></ruby>、この<ruby>授業<rt>じゅぎょう</rt></ruby>では「おなら<ruby>通信<rt>つうしん</rt></ruby>」にチャレンジするって書いてあるけど、ほんとうにおならで<ruby>通信<rt>つうしん</rt></ruby>するの？</p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
@@ -117,7 +117,7 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">早寝、早起き、毎日ぐっすりねむること。好ききらいなく、何でもよく食べること。
+    <p class="says">はやね、はやおき、毎日ぐっすりねむること。すききらいなく、何でもよく食べること。
     </p>
 </div>
 <div class="balloon_r">
@@ -145,7 +145,7 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">でも、先生、おならって声みたいに出そうとおもっても、　プ〜　って出ないよ。<ruby>授業<rt>じゅぎょう</rt></ruby>のときにおなら出ないかも。
+    <p class="says">でも、<ruby>先生<rt>せんせい</rt></ruby>、おならって声みたいに出そうとおもっても、　プ〜　って出ないよ。<ruby>授業<rt>じゅぎょう</rt></ruby>のときにおなら出ないかも。
     </p>
 </div>
 <div class="balloon_r">
@@ -215,7 +215,7 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">先生、おならでどうやって<ruby>通信<rt>つうしん</rt></ruby>するの？おしえて。
+    <p class="says"><ruby>先生<rt>せんせい</rt></ruby>、おならでどうやって<ruby>通信<rt>つうしん</rt></ruby>するの？おしえて。
     </p>
 </div><div class="balloon_r">
     <div class="faceicon">
@@ -277,7 +277,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">SOSは英語で私たちの船を助けてください（Save Our Ship）のことで遭難<ruby>信号<rt>しんごう</rt></ruby>（そうなんしんごう）なんだ。
+    <p class="says">SOSは英語で私たちの船を助けてください（Save Our Ship）のことで<ruby>遭難信号<rt>そうなんしんごう</rt></ruby>なんだ。
     </p>
 </div>
 <div class="balloon_l">
@@ -433,7 +433,7 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">先生、でも、おならの「<ruby>音<rt>おと</rt></ruby>」で<ruby>通信<rt>つうしん</rt></ruby>できるのなら、おならの「におい」でも<ruby>通信<rt>つうしん</rt></ruby>はできるの？
+    <p class="says"><ruby>先生<rt>せんせい</rt></ruby>、でも、おならの「<ruby>音<rt>おと</rt></ruby>」で<ruby>通信<rt>つうしん</rt></ruby>できるのなら、おならの「におい」でも<ruby>通信<rt>つうしん</rt></ruby>はできるの？
     </p>
 </div>
 <div class="balloon_r">
@@ -810,7 +810,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そう。名古屋大学だと<a href="http://www.semicond.nuee.nagoya-u.ac.jp/">天野・本田<ruby>研究室<rt>けんきゅうしつ</rt></ruby></a>の<a href="https://profs.provost.nagoya-u.ac.jp/html/100009220_ja.html">久志本真希先生</a>が<ruby>研究<rt>けんきゅう</rt></ruby>しているよ。<a href="https://www.imass.nagoya-u.ac.jp/news_information/07_kushimoto.html">世界最高速の発振回路</a>ができたって発表していたよ。
+    <p class="says">そう。名古屋大学だと<a href="http://www.semicond.nuee.nagoya-u.ac.jp/">天野・本田<ruby>研究室<rt>けんきゅうしつ</rt></ruby></a>の<a href="https://profs.provost.nagoya-u.ac.jp/html/100009220_ja.html"><ruby>久志本真希先生<rt>くしもとまきせんせい</rt></ruby></a>が<ruby>研究<rt>けんきゅう</rt></ruby>しているよ。<a href="https://www.imass.nagoya-u.ac.jp/news_information/07_kushimoto.html">世界最高速の発振回路</a>ができたって発表していたよ。
     </p>
 </div>
 <div class="balloon_l">
@@ -824,7 +824,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says"><ruby>光<rt>ひかり</rt></ruby>については<a href="https://www.nuee.nagoya-u.ac.jp/labs/optelelab/">西澤典彦先生</a>が<ruby>研究<rt>けんきゅう</rt></ruby>しているよ。名古屋大学テクノロジーフェスティバル<a href="https://tech.imass.nagoya-u.ac.jp/lecture.html#L3C">「すごい！ひかりのふしぎ、れーざーこうせんってすごい！」</a>の先生でもあるよ。
+    <p class="says"><ruby>光<rt>ひかり</rt></ruby>については<a href="https://www.nuee.nagoya-u.ac.jp/labs/optelelab/"><ruby>西澤典彦先生<rt>にしざわのりひこせんせい</rt></ruby></a>が<ruby>研究<rt>けんきゅう</rt></ruby>しているよ。名古屋大学テクノロジーフェスティバル<a href="https://tech.imass.nagoya-u.ac.jp/lecture.html#L3C">「すごい！ひかりのふしぎ、れーざーこうせんってすごい！」</a>の<ruby>先生<rt>せんせい</rt></ruby>でもあるよ。
     </p>
 </div>
 <div class="balloon_l">
@@ -832,15 +832,15 @@ tags:
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
     <p class="says">みんな、すごいね。
-    で、先生は何の<ruby>研究<rt>けんきゅう</rt></ruby>をやっているの？
+    で、<ruby>先生<rt>せんせい</rt></ruby>は何の<ruby>研究<rt>けんきゅう</rt></ruby>をやっているの？
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">僕は可視光<ruby>通信<rt>つうしん</rt></ruby>っていってね、目で見える<ruby>光<rt>ひかり</rt></ruby>を使った<ruby>通信<rt>つうしん</rt></ruby>を<ruby>研究<rt>けんきゅう</rt></ruby>しているんだ。この<ruby>授業<rt>じゅぎょう</rt></ruby>でデモもやるよ。天野浩先生が発明したLEDを使って<ruby>通信<rt>つうしん</rt></ruby>をするんだ。<br>
-    <a href="https://tech.imass.nagoya-u.ac.jp/lecture.html">天野先生の講演</a>はぜひ聴いてね。ちょっと難しいかもしれないけど、きっとワクワクすると思うよ。
+    <p class="says">僕は<ruby>可視光通信<rt>かしこうつうしん</rt></ruby>っていってね、目で見える<ruby>光<rt>ひかり</rt></ruby>を使った<ruby>通信<rt>つうしん</rt></ruby>を<ruby>研究<rt>けんきゅう</rt></ruby>しているんだ。この<ruby>授業<rt>じゅぎょう</rt></ruby>でデモもやるよ。<ruby>天野浩先生<rt>あまのひろしせんせい</rt></ruby>が発明したLEDを使って<ruby>通信<rt>つうしん</rt></ruby>をするんだ。<br>
+    <a href="https://tech.imass.nagoya-u.ac.jp/lecture.html"><ruby>天野先生<rt>あまのせんせい</rt></ruby>の講演</a>はぜひ聴いてね。ちょっと難しいかもしれないけど、きっとワクワクすると思うよ。
     </p>
 </div>
 <div class="balloon_l">
@@ -855,7 +855,7 @@ tags:
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
     <p class="says">もちろん。<br>
-    まずは<a href="https://sudalab.skr.jp/members/jun_suda/">須田 淳先生</a>の<a href="https://tech.imass.nagoya-u.ac.jp/lecture.html#L1B">「でんきのしくみ、作りかた。おもしろい！でんきのはなし」</a>を聴いてみては？きっと<ruby>研究<rt>けんきゅう</rt></ruby>の楽しさを教えてくれると思うよ。<br>
+    まずは<a href="https://sudalab.skr.jp/members/jun_suda/"><ruby>須田 淳先生<rt>すだ じゅんせんせい</rt></ruby></a>の<a href="https://tech.imass.nagoya-u.ac.jp/lecture.html#L1B">「でんきのしくみ、作りかた。おもしろい！でんきのはなし」</a>を聴いてみては？きっと<ruby>研究<rt>けんきゅう</rt></ruby>の楽しさを教えてくれると思うよ。<br>
     <ruby>研究<rt>けんきゅう</rt></ruby>はとっても楽しいし、やりがいもあるよ。ぜひ、一緒に<ruby>研究<rt>けんきゅう</rt></ruby>をやろう！でもね、実はなかなか思うようにいかなんだ！そういうところも楽しいのだけどね、ハハハ。
     </p>
 </div>
