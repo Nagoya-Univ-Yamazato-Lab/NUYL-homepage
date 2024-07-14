@@ -810,7 +810,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そう。名古屋大学だと<a href="http://www.semicond.nuee.nagoya-u.ac.jp/">天野・本田研究室</a>の<a href="https://profs.provost.nagoya-u.ac.jp/html/100009220_ja.html">久志本真希先生</a>が研究しているよ。<a href="https://www.imass.nagoya-u.ac.jp/news_information/07_kushimoto.html">世界最高速の発振回路</a>ができたって発表していたよ。
+    <p class="says">そう。名古屋大学だと<a href="http://www.semicond.nuee.nagoya-u.ac.jp/">天野・本田<ruby>研究室<rt>けんきゅうしつ</rt></ruby></a>の<a href="https://profs.provost.nagoya-u.ac.jp/html/100009220_ja.html">久志本真希先生</a>が<ruby>研究<rt>けんきゅう</rt></ruby>しているよ。<a href="https://www.imass.nagoya-u.ac.jp/news_information/07_kushimoto.html">世界最高速の発振回路</a>ができたって発表していたよ。
     </p>
 </div>
 <div class="balloon_l">
@@ -824,7 +824,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says"><ruby>光<rt>ひかり</rt></ruby>については<a href="https://www.nuee.nagoya-u.ac.jp/labs/optelelab/">西澤典彦先生</a>が研究しているよ。名古屋大学テクノロジーフェスティバル<a href="https://tech.imass.nagoya-u.ac.jp/lecture.html#L3C">「すごい！ひかりのふしぎ、れーざーこうせんってすごい！」</a>の先生でもあるよ。
+    <p class="says"><ruby>光<rt>ひかり</rt></ruby>については<a href="https://www.nuee.nagoya-u.ac.jp/labs/optelelab/">西澤典彦先生</a>が<ruby>研究<rt>けんきゅう</rt></ruby>しているよ。名古屋大学テクノロジーフェスティバル<a href="https://tech.imass.nagoya-u.ac.jp/lecture.html#L3C">「すごい！ひかりのふしぎ、れーざーこうせんってすごい！」</a>の先生でもあるよ。
     </p>
 </div>
 <div class="balloon_l">
@@ -832,14 +832,14 @@ tags:
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
     <p class="says">みんな、すごいね。
-    で、先生は何の研究をやっているの？
+    で、先生は何の<ruby>研究<rt>けんきゅう</rt></ruby>をやっているの？
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">僕は可視光<ruby>通信<rt>つうしん</rt></ruby>っていってね、目で見える<ruby>光<rt>ひかり</rt></ruby>を使った<ruby>通信<rt>つうしん</rt></ruby>を研究しているんだ。この授業でデモもやるよ。天野浩先生が発明したLEDを使って<ruby>通信<rt>つうしん</rt></ruby>をするんだ。<br>
+    <p class="says">僕は可視光<ruby>通信<rt>つうしん</rt></ruby>っていってね、目で見える<ruby>光<rt>ひかり</rt></ruby>を使った<ruby>通信<rt>つうしん</rt></ruby>を<ruby>研究<rt>けんきゅう</rt></ruby>しているんだ。この授業でデモもやるよ。天野浩先生が発明したLEDを使って<ruby>通信<rt>つうしん</rt></ruby>をするんだ。<br>
     <a href="https://tech.imass.nagoya-u.ac.jp/lecture.html">天野先生の講演</a>はぜひ聴いてね。ちょっと難しいかもしれないけど、きっとワクワクすると思うよ。
     </p>
 </div>
@@ -847,7 +847,7 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">うわぁ〜すごいなぁ〜。僕も研究できるようになるかな？
+    <p class="says">うわぁ〜すごいなぁ〜。僕も<ruby>研究<rt>けんきゅう</rt></ruby>できるようになるかな？
     </p>
 </div>
 <div class="balloon_r">
@@ -855,15 +855,15 @@ tags:
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
     <p class="says">もちろん。<br>
-    まずは<a href="https://sudalab.skr.jp/members/jun_suda/">須田 淳先生</a>の<a href="https://tech.imass.nagoya-u.ac.jp/lecture.html#L1B">「でんきのしくみ、作りかた。おもしろい！でんきのはなし」</a>を聴いてみては？きっと研究の楽しさを教えてくれると思うよ。<br>
-    研究はとっても楽しいし、やりがいもあるよ。ぜひ、一緒に研究をやろう！でもね、実はなかなか思うようにいかなんだ！そういうところも楽しいのだけどね、ハハハ。
+    まずは<a href="https://sudalab.skr.jp/members/jun_suda/">須田 淳先生</a>の<a href="https://tech.imass.nagoya-u.ac.jp/lecture.html#L1B">「でんきのしくみ、作りかた。おもしろい！でんきのはなし」</a>を聴いてみては？きっと<ruby>研究<rt>けんきゅう</rt></ruby>の楽しさを教えてくれると思うよ。<br>
+    <ruby>研究<rt>けんきゅう</rt></ruby>はとっても楽しいし、やりがいもあるよ。ぜひ、一緒に<ruby>研究<rt>けんきゅう</rt></ruby>をやろう！でもね、実はなかなか思うようにいかなんだ！そういうところも楽しいのだけどね、ハハハ。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">いいなぁ、ぼく、大きくなったら研究者になるからね。よろしくお願いします。将来、おなら<ruby>通信<rt>つうしん</rt></ruby>ができるように、毎日練習するね。まるで話すみたいに「プッ」と「プゥ〜」のおならができるようなれるといいなぁ〜。
+    <p class="says">いいなぁ、ぼく、大きくなったら<ruby>研究者<rt>けんきゅうしゃ</rt></ruby>になるからね。よろしくお願いします。将来、おなら<ruby>通信<rt>つうしん</rt></ruby>ができるように、毎日練習するね。まるで話すみたいに「プッ」と「プゥ〜」のおならができるようなれるといいなぁ〜。
     </p>
 </div>
 <div class="balloon_r">
