@@ -242,7 +242,7 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">知っているよ。ローザが乗っていた<ruby>船<rt>ふね</rt></ruby>でしょ。<ruby>氷山<rt>ひょうざん</rt></ruby>にぶつかって<ruby沈没><rt>ちんぼつ</rt></ruby>するのだよね。ザ・ドラえもんズ スペシャルで読んだよ。
+    <p class="says">知っているよ。ローザが乗っていた<ruby>船<rt>ふね</rt></ruby>でしょ。<ruby>氷山<rt>ひょうざん</rt></ruby>にぶつかって<ruby>沈没><rt>ちんぼつ</rt></ruby>するのだよね。ザ・ドラえもんズ スペシャルで読んだよ。
     </p>
 </div>
 <div class="balloon_r">
