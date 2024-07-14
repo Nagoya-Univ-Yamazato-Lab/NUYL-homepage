@@ -857,13 +857,15 @@ tags:
     </p>
 </div>
 
-<a id="">For-further-study</a>
+-----
+<a id="For-further-study"></a>
 
 ## さらに勉強するために
 
 通信についてさらに勉強するためのサイトをご紹介します。
 
-<a id="">the-fart-communication</a>
+-----
+<a id="the-fart-communication"></a>
 
 ## おなら通信のアイデアはここから生まれた？！
 
