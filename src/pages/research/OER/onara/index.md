@@ -61,7 +61,7 @@ tags:
 ## 目次　 <!-- omit in toc -->
 
 - [「おなら<ruby>通信<rt>つうしん</rt></ruby>」チャレンジ！](#fart-challenge)
-- [おならでSOSを<ruby>送<rt>おく</rt></ruby>ってみよう！（おなら<ruby>通信<rt>つうしん</rt></ruby>のしくみ）](#how-it-works)
+- [おならで<ruby>SOS<rt>エスオーエス</rt></ruby>を<ruby>送<rt>おく</rt></ruby>ってみよう！（おなら<ruby>通信<rt>つうしん</rt></ruby>のしくみ）](#how-it-works)
 - [おならのにおいでも<ruby>通信<rt>つうしん</rt></ruby>はできるの？（デジタル<ruby>通信<rt>つうしん</rt></ruby>の原理）](#smell-communication)
 - [もっと早い<ruby>通信<rt>つうしん</rt></ruby>はできるの？（<ruby>光<rt>ひかり</rt></ruby>をつかった<ruby>通信<rt>つうしん</rt></ruby>と<ruby>電波<rt>でんぱ</rt></ruby>をつかった<ruby>通信<rt>つうしん</rt></ruby>）](#wired-and-wireless-communication)
 - [さらに勉強するために](#For-further-study)
@@ -209,7 +209,7 @@ tags:
 
 <a id="how-it-works"></a>
 
-## おならでSOSを<ruby>送<rt>おく</rt></ruby>ってみよう！（おなら<ruby>通信<rt>つうしん</rt></ruby>のしくみ）
+## おならで<ruby>エスオーエス<rt>せかい</rt></ruby>を<ruby>送<rt>おく</rt></ruby>ってみよう！（おなら<ruby>通信<rt>つうしん</rt></ruby>のしくみ）
 
 <div class="balloon_l">
   <div class="faceicon">
@@ -263,21 +263,21 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そのタイタニック号から<ruby>世界<rt>せかい</rt></ruby>で初めてSOS<ruby>信号<rt>しんごう</rt></ruby>が<ruby>送<rt>おく</rt></ruby>られたんだ。注１）
+    <p class="says">そのタイタニック号から<ruby>世界<rt>せかい</rt></ruby>で初めて<ruby><rt>SOS</rt></ruby><ruby>信号<rt>しんごう</rt></ruby>が<ruby>送<rt>おく</rt></ruby>られたんだ。注１）
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">SOS<ruby>信号<rt>しんごう</rt></ruby>？
+    <p class="says"><ruby>SOS<rt>エスオーエス</rt></ruby><ruby>信号<rt>しんごう</rt></ruby>？
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">SOSは英語で私たちの船を助けてください（<ruby>Save Our Ship<rt>セーブ　アワ シップ</rt></ruby>）のことで<ruby>遭難信号<rt>そうなんしんごう</rt></ruby>なんだ。
+    <p class="says"><ruby>SOS<rt>エスオーエス</rt></ruby>は英語で私たちの船を助けてください（<ruby>Save Our Ship<rt>セーブ　アワ シップ</rt></ruby>）のことで<ruby>遭難信号<rt>そうなんしんごう</rt></ruby>なんだ。
     </p>
 </div>
 <div class="balloon_l">
@@ -291,7 +291,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">ハハハ、しゃれだね。<br>当時はSOS<ruby>信号<rt>しんごう</rt></ruby>を出すのに<ruby>火花<rt>ひばな</rt></ruby>をつかったんだ。
+    <p class="says">ハハハ、しゃれだね。<br>当時は<ruby>SOS信号<rt>エスオーエスしんごう</rt></ruby>を出すのに<ruby>火花<rt>ひばな</rt></ruby>をつかったんだ。
     </p>
 </div>
 <div class="balloon_l">
@@ -312,7 +312,7 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">でも、<ruby>火花<rt>ひばな</rt></ruby>でどうやってSOS<ruby>信号<rt>しんごう</rt></ruby>を表したの？
+    <p class="says">でも、<ruby>火花<rt>ひばな</rt></ruby>でどうやって<ruby>SOS信号<rt>エスオーエスしんごう</rt></ruby>を表したの？
     </p>
 </div>
 <div class="balloon_r">
@@ -334,14 +334,14 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そう。さらに<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>の<ruby>火花<rt>ひばな</rt></ruby>と少し<ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>の<ruby>火花<rt>ひばな</rt></ruby>とでSOS<ruby>信号<rt>しんごう</rt></ruby>を表したんだ。
+    <p class="says">そう。さらに<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>の<ruby>火花<rt>ひばな</rt></ruby>と少し<ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>の<ruby>火花<rt>ひばな</rt></ruby>とで<ruby>SOS信号<rt>エスオーエスしんごう</rt></ruby>を表したんだ。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says"><ruby>短<rt>みじか</rt></ruby>い<ruby>火花<rt>ひばな</rt></ruby>と<ruby>長<rt>なが</rt></ruby>い<ruby>火花<rt>ひばな</rt></ruby>？つまり<ruby>電波<rt>でんぱ</rt></ruby>が<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>のものと<ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>つづくものとでSOS<ruby>信号<rt>しんごう</rt></ruby>を表したの？
+    <p class="says"><ruby>短<rt>みじか</rt></ruby>い<ruby>火花<rt>ひばな</rt></ruby>と<ruby>長<rt>なが</rt></ruby>い<ruby>火花<rt>ひばな</rt></ruby>？つまり<ruby>電波<rt>でんぱ</rt></ruby>が<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>のものと<ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>つづくものとで<ruby>SOS信号<rt>エスオーエスしんごう</rt></ruby>を表したの？
     </p>
 </div>
 <div class="balloon_r">
@@ -351,7 +351,7 @@ tags:
     <p class="says">その通り。<br>
     <ruby>短<rt>みじか</rt></ruby>い<ruby>電波<rt>でんぱ</rt></ruby>は<ruby>音<rt>おと</rt></ruby>で表すと「ト」になるかな。<br>
     <ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>の<ruby>電波<rt>でんぱ</rt></ruby>は「ツー」。<br>
-    その２つの組み合わせで SOS <ruby>信号<rt>しんごう</rt></ruby>を表したんだ。
+    その２つの組み合わせで <ruby>SOS信号<rt>エスオーエスしんごう</rt></ruby>を表したんだ。
     </p>
 </div>
 <div class="balloon_l">
@@ -374,7 +374,7 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">ということは、SOSは<br>
+    <p class="says">ということは、<ruby>SOS<rt>エスオーエス</rt></ruby>は<br>
     「トトト　ツーツーツー　トトト」<br>
     になるの？
     </p>
@@ -405,7 +405,7 @@ tags:
     </p>
 </div>
 
-> 注１）上記で「タイタニック号が<ruby>世界初<rt>せかいはつ</rt></ruby>のSOSを発した」と説明しましたが、実際にはタイタニック号が最初ではありません。タイタニック号の悲劇と併せてSOSが最初と述べている書物も多いことからそのように書きました。印象に残りやすいですしね。より詳しく知りたい方は総務省の外郭団体である<ruby>電波<rt>でんぱ</rt></ruby>適正利用推進員協議会の[<ruby>電波<rt>でんぱ</rt></ruby>学習館](https://www.cleandenpa.net/museum/g_moku.html)・[第1回万国<ruby>無線<rt>むせん</rt></ruby>電信会議](https://www.cleandenpa.net/museum/gaku/gc.html)をご覧下さい。なお、同ページではタイタニック号の遭難モールス<ruby>信号<rt>しんごう</rt></ruby>も聞けるようになっていますが、私が確認したところではうまく動作しないようです。
+> 注１）上記で「タイタニック号が<ruby>世界初<rt>せかいはつ</rt></ruby>の<ruby>SOS<rt>エスオーエス</rt></ruby>を発した」と説明しましたが、実際にはタイタニック号が最初ではありません。タイタニック号の悲劇と併せて<ruby>SOS<rt>エスオーエス</rt></ruby>が最初と述べている書物も多いことからそのように書きました。印象に残りやすいですしね。より詳しく知りたい方は総務省の外郭団体である<ruby>電波<rt>でんぱ</rt></ruby>適正利用推進員協議会の[<ruby>電波<rt>でんぱ</rt></ruby>学習館](https://www.cleandenpa.net/museum/g_moku.html)・[第1回万国<ruby>無線<rt>むせん</rt></ruby>電信会議](https://www.cleandenpa.net/museum/gaku/gc.html)をご覧下さい。なお、同ページではタイタニック号の遭難モールス<ruby>信号<rt>しんごう</rt></ruby>も聞けるようになっていますが、私が確認したところではうまく動作しないようです。
 > 
 
 -----
@@ -418,14 +418,14 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">おなら<ruby>通信<rt>つうしん</rt></ruby>分かったもんね、へへへ。でも、SOSをおならでやるのは難しいなぁ。練習してもできないかも。
+    <p class="says">おなら<ruby>通信<rt>つうしん</rt></ruby>分かったもんね、へへへ。でも、<ruby>SOS<rt>エスオーエス</rt></ruby>をおならでやるのは難しいなぁ。練習してもできないかも。
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そうだね、普通の人には難しいと思うよ。でもね、おならで歌を歌うことができる人もいるんだよ。きっとこの人ならSOSも簡単にできると思うよ。このページの最後に紹介するね。
+    <p class="says">そうだね、普通の人には難しいと思うよ。でもね、おならで歌を歌うことができる人もいるんだよ。きっとこの人なら<ruby>SOS<rt>エスオーエス</rt></ruby>も簡単にできると思うよ。このページの最後に紹介するね。
     </p>
 </div>
 
@@ -640,7 +640,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">でもね、この方法だと「１」はおならのにおいがするからすぐに分かるけど、「０」のところ、つまり「おならをしていない」ことは分かりにくい場合があるんだ。おならのにおいが<ruby>長<rt>なが</rt></ruby>く続くこともあるからね。このため、さっきのSOSでは「プッ」と「プゥ〜」の<ruby>長<rt>なが</rt></ruby>さの違う２つの<ruby>信号<rt>しんごう</rt></ruby>をつかって表現したんだ。
+    <p class="says">でもね、この方法だと「１」はおならのにおいがするからすぐに分かるけど、「０」のところ、つまり「おならをしていない」ことは分かりにくい場合があるんだ。おならのにおいが<ruby>長<rt>なが</rt></ruby>く続くこともあるからね。このため、さっきの<ruby>SOS<rt>エスオーエス</rt></ruby>では「プッ」と「プゥ〜」の<ruby>長<rt>なが</rt></ruby>さの違う２つの<ruby>信号<rt>しんごう</rt></ruby>をつかって表現したんだ。
     </p>
 </div>
 <div class="balloon_l">
