@@ -79,7 +79,7 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says"><ruby>先生<rt>せんせい</rt></ruby>、この<ruby>授業<rt>じゅぎょう</rt></ruby>では「おなら<ruby>通信<rt>つうしん</rt></ruby>」にチャレンジするって書いてあるけど、ほんとうにおならで<ruby>通信<rt>つうしん</rt></ruby>するの？</p>
+    <p class="says"><ruby>先生<rt>せんせい</rt></ruby>、この<ruby>授業<rt>じゅぎょう</rt></ruby>では「おなら<ruby>通信<rt>つうしん</rt></ruby>」にチャレンジするって<ruby>書<rt>か</rt></ruby>いてあるけど、ほんとうにおならで<ruby>通信<rt>つうしん</rt></ruby>するの？</p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
