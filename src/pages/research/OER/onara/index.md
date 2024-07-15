@@ -510,7 +510,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そのとおり。<ruby>電波<rt>でんぱ</rt></ruby>の場合だと<ruby>電波<rt>でんぱ</rt></ruby>が「ある」か「ない」か。
+    <p class="says">そのとおり。<ruby>電波<rt>でんぱ</rt></ruby>の<ruby>場合<rt>ばあい</rt></ruby>だと<ruby>電波<rt>でんぱ</rt></ruby>が「ある」か「ない」か。
     </p>
 </div>
 <div class="balloon_l">
@@ -524,7 +524,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そのとおり。おならのにおいがする場合を「１」、しない場合を「０」とすればいいよ。
+    <p class="says">そのとおり。おならのにおいがする<ruby>場合<rt>ばあい</rt></ruby>を「１」、しない<ruby>場合<rt>ばあい</rt></ruby>を「０」とすればいいよ。
     </p>
 </div>
 <div class="balloon_l">
@@ -539,7 +539,7 @@ tags:
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
     <p class="says">さっすが、おならくん、そのとおりだよ。<br>
-    <ruby>情報<rt>じょうほう</rt></ruby>を<ruby>送<rt>おく</rt></ruby>る方と受け取る方とで２つの区別がつけば、<ruby>何<rt>なに</rt></ruby>をつかっても<ruby>通信<rt>つうしん</rt></ruby>ができるんだよ。この場合「１」と「０」をつかうのでデジタル<ruby>通信<rt>つうしん</rt></ruby>と言うんだ。
+    <ruby>情報<rt>じょうほう</rt></ruby>を<ruby>送<rt>おく</rt></ruby>る方と受け取る方とで２つの区別がつけば、<ruby>何<rt>なに</rt></ruby>をつかっても<ruby>通信<rt>つうしん</rt></ruby>ができるんだよ。この<ruby>場合<rt>ばあい</rt></ruby>「１」と「０」をつかうのでデジタル<ruby>通信<rt>つうしん</rt></ruby>と言うんだ。
     </p>
 </div>
 <div class="balloon_l">
@@ -567,7 +567,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">でもね、デジタル<ruby>通信<rt>つうしん</rt></ruby>にはもう一つ大事なことがあるんだ。
+    <p class="says">でもね、デジタル<ruby>通信<rt>つうしん</rt></ruby>にはもう一つ<ruby>大事<rt>だいじ</rt></ruby>なことがあるんだ。
     </p>
 </div>
 <div class="balloon_l">
@@ -609,21 +609,21 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">なるほど。その場合、「１」あるいは「０」は１分おきに<ruby>送<rt>おく</rt></ruby>ればよいね。
+    <p class="says">なるほど。その<ruby>場合<rt>ばあい</rt></ruby>、「１」あるいは「０」は１分おきに<ruby>送<rt>おく</rt></ruby>ればよいね。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">と言うことは、たとえば、「１」「１」と<ruby>送<rt>おく</rt></ruby>りたい場合は１分おきに「プゥ〜」「プゥ〜」とおならをすればいいのかな？
+    <p class="says">と言うことは、たとえば、「１」「１」と<ruby>送<rt>おく</rt></ruby>りたい<ruby>場合<rt>ばあい</rt></ruby>は１分おきに「プゥ〜」「プゥ〜」とおならをすればいいのかな？
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そのとおり。「１」「０」「１」の場合で考えてみようか。<br>
+    <p class="says">そのとおり。「１」「０」「１」の<ruby>場合<rt>ばあい</rt></ruby>で考えてみようか。<br>
     <ruby>最初<rt>さいしょ</rt></ruby>は「１」なのでおならを「プゥ〜」、<br>
     次の１分から２分までは「０」なので、おならをしないで「しーん（<ruby>音<rt>おと</rt></ruby>がしない）」、<br>
     <ruby>最後<rt>さいご</rt></ruby>の２分から３分までは「１」なので、また「プゥ〜」とおならをすればいいよ。
@@ -640,7 +640,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">でもね、この方法だと「１」はおならのにおいがするからすぐに分かるけど、「０」のところ、つまり「おならをしていない」ことは分かりにくい場合があるんだ。おならのにおいが<ruby>長<rt>なが</rt></ruby>く続くこともあるからね。このため、さっきの<ruby>SOS<rt>エスオーエス</rt></ruby>では「プッ」と「プゥ〜」の<ruby>長<rt>なが</rt></ruby>さの違う２つの<ruby>信号<rt>しんごう</rt></ruby>をつかってあらわしたんだ。
+    <p class="says">でもね、この方法だと「１」はおならのにおいがするからすぐに分かるけど、「０」のところ、つまり「おならをしていない」ことは分かりにくい<ruby>場合<rt>ばあい</rt></ruby>があるんだ。おならのにおいが<ruby>長<rt>なが</rt></ruby>く続くこともあるからね。このため、さっきの<ruby>SOS<rt>エスオーエス</rt></ruby>では「プッ」と「プゥ〜」の<ruby>長<rt>なが</rt></ruby>さの違う２つの<ruby>信号<rt>しんごう</rt></ruby>をつかってあらわしたんだ。
     </p>
 </div>
 <div class="balloon_l">
