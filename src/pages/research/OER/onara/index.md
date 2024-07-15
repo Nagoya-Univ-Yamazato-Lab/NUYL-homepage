@@ -475,14 +475,14 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">２つ？何か違うものが２つあれば<ruby>通信<rt>つうしん</rt></ruby>ができるの？
+    <p class="says">２つ？<ruby>何<rt>なに</rt></ruby>か違うものが２つあれば<ruby>通信<rt>つうしん</rt></ruby>ができるの？
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そう、そのとおり。「プッ」と「プゥ〜」の２つ。あるいは、単に「ブッ」ともう一つは何も<ruby>音<rt>おと</rt></ruby>がしないことでもいいよ。
+    <p class="says">そう、そのとおり。「プッ」と「プゥ〜」の２つ。あるいは、単に「ブッ」ともう一つは<ruby>何<rt>なに</rt></ruby>も<ruby>音<rt>おと</rt></ruby>がしないことでもいいよ。
     </p>
 </div>
 <div class="balloon_l">
@@ -539,7 +539,7 @@ tags:
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
     <p class="says">さっすが、おならくん、そのとおりだよ。<br>
-    <ruby>情報<rt>じょうほう</rt></ruby>を<ruby>送<rt>おく</rt></ruby>る方と受け取る方とで２つの区別がつけば、何をつかっても<ruby>通信<rt>つうしん</rt></ruby>ができるんだよ。この場合「１」と「０」をつかうのでデジタル<ruby>通信<rt>つうしん</rt></ruby>と言うんだ。
+    <ruby>情報<rt>じょうほう</rt></ruby>を<ruby>送<rt>おく</rt></ruby>る方と受け取る方とで２つの区別がつけば、<ruby>何<rt>なに</rt></ruby>をつかっても<ruby>通信<rt>つうしん</rt></ruby>ができるんだよ。この場合「１」と「０」をつかうのでデジタル<ruby>通信<rt>つうしん</rt></ruby>と言うんだ。
     </p>
 </div>
 <div class="balloon_l">
@@ -574,7 +574,7 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">えっ、それは何？
+    <p class="says">えっ、それは<ruby>何<rt>なに</rt></ruby>？
     </p>
 </div>
 <div class="balloon_r">
@@ -832,7 +832,7 @@ tags:
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
     <p class="says">みんな、すごいね。
-    で、<ruby>先生<rt>せんせい</rt></ruby>は何の<ruby>研究<rt>けんきゅう</rt></ruby>をやっているの？
+    で、<ruby>先生<rt>せんせい</rt></ruby>は<ruby>何<rt>なに</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>をやっているの？
     </p>
 </div>
 <div class="balloon_r">
