@@ -263,7 +263,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そのタイタニック<ruby>号<rt>ごう</rt></ruby>から<ruby>世界<rt>せかい</rt></ruby>ではじめて<ruby><rt>SOS</rt></ruby><ruby>信号<rt>しんごう</rt></ruby>が<ruby>送<rt>おく</rt></ruby>られたんだ。注１）
+    <p class="says">そのタイタニック<ruby>号<rt>ごう</rt></ruby>から<ruby>世界<rt>せかい</rt></ruby>ではじめて<ruby>SOS<rt>エスオーエス</rt></ruby><ruby>信号<rt>しんごう</rt></ruby>が<ruby>送<rt>おく</rt></ruby>られたんだ。注１）
     </p>
 </div>
 <div class="balloon_l">
