@@ -14,15 +14,15 @@ tags:
 #### なるほど！つうしんのしくみ
 
 - セッションコード：[L4B](https://tech.imass.nagoya-u.ac.jp/lecture.html#L4B)
-- 対象：小学（特に低学年・中学年におすすめ）
-- 定員：250名
-- 会場：<ruby>名古屋<rt>なごや</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>　<ruby>坂田<rt>さかた</rt></ruby>・<ruby>平田<rt>ひらた</rt></ruby>ホール
-- 日時：2024年8月28日（水）４時間目（15:20-16:50）
-- 担当：[教養教育院](https://www.ilas.nagoya-u.ac.jp)、[工学研究科情報・通信工学専攻](https://www.nuee.nagoya-u.ac.jp)　[教授　山里敬也](../../../team/Takaya-Yamazato)
+- <ruby>対象<rt>たいしょう</rt></ruby>：<ruby>小学生<rt>しょうがくせい</rt></ruby>（<ruby>特<rt>とく</rt></ruby>に<ruby>低学年<rt>ていがくねん</rt></ruby>・<ruby>中学年<rt>ちゅうがくねん</rt></ruby>におすすめ）
+- <ruby>定員<rt>ていいん</rt></ruby>：250<ruby>名<rt>めい</rt></ruby>
+- <ruby>会場<rt>かいじょう</rt></ruby>：<ruby>名古屋<rt>なごや</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>　<ruby>坂田<rt>さかた</rt></ruby>・<ruby>平田<rt>ひらた</rt></ruby>ホール
+- <ruby>日時<rt>にちじ</rt></ruby>：2024<ruby>年<rt>ねん</rt></ruby>８<ruby>月<rt>がつ</rt></ruby>２８<ruby>日<rt>にち</rt></ruby>（<ruby>水<rt>すい</rt></ruby>）４<ruby>時間目<rt>じかんめ</rt></ruby>（15:20-16:50）
+- <ruby>担当<rt>たんとう</rt></ruby>：[<ruby>教養教育院<rt>きょうようきょういくいん</rt></ruby>](https://www.ilas.nagoya-u.ac.jp)、[<ruby>工学研究科<rt>こうがくけんきゅうか</rt></ruby>・<ruby>情報・通信工学専攻<rt>じょうほう・つうしんこうがくせんこう</rt></ruby>](https://www.nuee.nagoya-u.ac.jp)　[<ruby>教授<rt>きょうじゅ</rt></ruby>　<ruby>山里敬也<rt>やまざとたかや</rt></ruby>](../../../team/Takaya-Yamazato)
 
 <!-- ![山里敬也](../../../team/TakayaYamazato2012.jpeg) -->
 
-## 概要
+## こんなことを<ruby>学<rt>まな</rt></ruby>ぶよ
 
 
 けいたい<ruby>電話<rt>でんわ</rt></ruby>は、<ruby>電波<rt>でんぱ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って<ruby>音<rt>おと</rt></ruby>を<ruby>遠<rt>とお</rt></ruby>くに<ruby>届<rt>とど</rt></ruby>けます。でも、<ruby>近<rt>ちか</rt></ruby>いところであれば、<ruby>糸<rt>いと</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っても<ruby>音<rt>おと</rt></ruby>を<ruby>届<rt>とど</rt></ruby>けることができます。そう、<ruby>糸電話<rt>いとでんわ</rt></ruby>ですね！じつは、<ruby>糸<rt>いと</rt></ruby>だけじゃなく、<ruby>光<rt>ひかり</rt></ruby>や<ruby>音<rt>おと</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っても<ruby>通信<rt>つうしん</rt></ruby>することができます。このしくみが<ruby>分<rt>わか</rt></ruby>かれば、「おなら」でも<ruby>通信<rt>つうしん</rt></ruby>ができるかもしれません。この<ruby>授業<rt>じゅぎょう</rt></ruby>では、「おなら<ruby>通信<rt>つうしん</rt></ruby>」にチャレンジします。みんな、おならで<ruby>通信<rt>つうしん</rt></ruby>はできるかな？
@@ -64,7 +64,7 @@ tags:
 - [おならで<ruby>SOS<rt>エスオーエス</rt></ruby>を<ruby>送<rt>おく</rt></ruby>ってみよう！（おなら<ruby>通信<rt>つうしん</rt></ruby>のしくみ）](#how-it-works)
 - [おならのにおいでも<ruby>通信<rt>つうしん</rt></ruby>はできるの？（デジタル<ruby>通信<rt>つうしん</rt></ruby>の<ruby>原理<rt>げんり</rt></ruby>）](#smell-communication)
 - [もっと<ruby>速<rt>はや</rt></ruby>い<ruby>通信<rt>つうしん</rt></ruby>はできるの？（<ruby>光<rt>ひかり</rt></ruby>をつかった<ruby>通信<rt>つうしん</rt></ruby>と<ruby>電波<rt>でんぱ</rt></ruby>をつかった<ruby>通信<rt>つうしん</rt></ruby>）](#wired-and-wireless-communication)
-- [さらに勉強するために](#For-further-study)
+- [さらに<ruby>名古屋<rt>なごや</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>するために](#For-further-study)
 - [おなら<ruby>通信<rt>つうしん</rt></ruby>のアイデアはここから生まれた？！](the-fart-communication)
 
 ---
@@ -256,14 +256,14 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says"><ruby>映画<rt>えいが</rt></ruby>はおかあさんがみたことあるって<ruby>話<rt>はな</rt></ruby>してた。ヒロインのローズが<ruby>船<rt>ふね</rt></ruby>の<ruby>先<rt>さき</rt></ruby>で<ruby>手<rt>て</rt></ruby>を<ruby>広<rt>ひろ</rt></ruby>げるシーンが<ruby>有名<rt>ゆうめい</rt></ruby>だって。
+    <p class="says"><ruby>映画<rt>えいが</rt></ruby>はお<ruby>母<rt>かあ</rt></ruby>さんがみたことあるって<ruby>話<rt>はな</rt></ruby>していたよ。ヒロインのローズが<ruby>船<rt>ふね</rt></ruby>の<ruby>先<rt>さき</rt></ruby>で<ruby>手<rt>て</rt></ruby>を<ruby>広<rt>ひろ</rt></ruby>げるシーンが<ruby>有名<rt>ゆうめい</rt></ruby>だって。
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そのタイタニック<ruby>号<rt>ごう</rt></ruby>から<ruby>世界<rt>せかい</rt></ruby>ではじめて<ruby>SOS<rt>エスオーエス</rt></ruby><ruby>信号<rt>しんごう</rt></ruby>が<ruby>送<rt>おく</rt></ruby>られたんだ。注１）
+    <p class="says">そのタイタニック<ruby>号<rt>ごう</rt></ruby>から<ruby>世界<rt>せかい</rt></ruby>ではじめて<ruby>SOS<rt>エスオーエス</rt></ruby><ruby>信号<rt>しんごう</rt></ruby>が<ruby>送<rt>おく</rt></ruby>られたんだ。
     </p>
 </div>
 <div class="balloon_l">
@@ -410,7 +410,7 @@ tags:
     </p>
 </div>
 
-> 注１）上記で「タイタニック号が<ruby>世界初<rt>せかいはつ</rt></ruby>の<ruby>SOS<rt>エスオーエス</rt></ruby>を発した」と説明しましたが、実際にはタイタニック号が最初ではありません。タイタニック号の悲劇と併せて<ruby>SOS<rt>エスオーエス</rt></ruby>が最初と述べている書物も多いことからそのように書きました。印象に残りやすいですしね。より詳しく知りたい方は総務省の外郭団体である<ruby>電波<rt>でんぱ</rt></ruby>適正利用推進員協議会の[<ruby>電波<rt>でんぱ</rt></ruby>学習館](https://www.cleandenpa.net/museum/g_moku.html)・[第1回万国<ruby>無線<rt>むせん</rt></ruby>電信会議](https://www.cleandenpa.net/museum/gaku/gc.html)をご覧下さい。なお、同ページではタイタニック号の遭難モールス<ruby>信号<rt>しんごう</rt></ruby>も聞けるようになっていますが、私が確認したところではうまく動作しないようです。
+> - 上記で「タイタニック号が世界初のSOSエスオーエスを発した」と説明しましたが、実際にはタイタニック号が最初ではありません。タイタニック号の悲劇と併せてSOSが最初と述べている書物も多いことからそのように書きました。印象に残りやすいですしね。より詳しく知りたい方は総務省の外郭団体である電波適正利用推進員協議会の[電波学習館](https://www.cleandenpa.net/museum/g_moku.html)・[第1回万国無線電信会議](https://www.cleandenpa.net/museum/gaku/gc.html)をご覧下さい。なお、同ページではタイタニック号の遭難モールス信号も聞けるようになっていますが、私が確認したところではうまく動作しないようです。
 > 
 
 -----
@@ -872,8 +872,8 @@ tags:
     </div>
     <p class="says">ぼくは<ruby>可視光通信<rt>かしこうつうしん</rt></ruby>っていってね、<ruby>目<rt>め</rt></ruby>で<ruby>見<rt>み</rt></ruby>える<ruby>光<rt>ひかり</rt></ruby>をつかった<ruby>通信<rt>つうしん</rt></ruby>を<ruby>研究<rt>けんきゅう</rt></ruby>しているんだ。<br>
     この<ruby>授業<rt>じゅぎょう</rt></ruby>でデモもやるよ。<br>
-    <ruby>天野<rt>あまの</rt><ruby>浩<rt>ひろし</rt><ruby>先生<rt>せんせい</rt></ruby>が<ruby>発明<rt>はつめい</rt></ruby>した<ruby>LED<rt>エル イー ディ</rt></ruby>をつかって<ruby>通信<rt>つうしん</rt></ruby>をするんだ。<br>
-    <a href="https://tech.imass.nagoya-u.ac.jp/lecture.html"><ruby>天野<rt>あまの</rt><ruby>先生<rt>せんせい</rt>/ruby>の講演</a>はぜひきいてね。ちょっとむずかしいかもしれないけど、きっとワクワクするとおもうよ。
+    <ruby>天野<rt>あまの</rt></ruby><ruby>浩<rt>ひろし</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>が<ruby>発明<rt>はつめい</rt></ruby>した<ruby>LED<rt>エル イー ディ</rt></ruby>をつかって<ruby>通信<rt>つうしん</rt></ruby>をするんだ。<br>
+    <a href="https://tech.imass.nagoya-u.ac.jp/lecture.html"><ruby>天野<rt>あまの</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>の講演</a>はぜひきいてね。ちょっとむずかしいかもしれないけど、きっとワクワクするとおもうよ。
     </p>
 </div>
 <div class="balloon_l">
@@ -915,9 +915,9 @@ tags:
 -----
 <a id="For-further-study"></a>
 
-## さらに勉強するために
+## さらに<ruby>勉強<rt>べんきょう</rt></ruby>するために
 
-<ruby>通信<rt>つうしん</rt></ruby>についてさらに勉強するためのサイトをご紹介します。
+<ruby>通信<rt>つうしん</rt></ruby>についてさらに<ruby>勉強<rt>べんきょう</rt></ruby>するためのサイトをご<ruby>紹介<rt>しょうかい</rt></ruby>します。
 
 -----
 <a id="the-fart-communication"></a>
