@@ -699,7 +699,7 @@ tags:
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
     <p class="says">そのとおり。さすがおならくん、すごいね！<br>
-    この世の中で<ruby>一番速<rt>いちばんはや</rt></ruby>いものは「<ruby>光<rt>ひかり</rt></ruby>」です。１<ruby>秒間<rt>びょうかん</rt></ruby>に<ruby>地球<rt>ちきゅう</rt></ruby>を７<ruby>回半<rt>かいはん</rt></ruby>も<ruby>回<rt>まわ</rt></ruby>る<ruby>速<rt>はや</rt></ruby>さだよ。
+    この<ruby>世<rt>よ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>一番速<rt>いちばんはや</rt></ruby>いものは「<ruby>光<rt>ひかり</rt></ruby>」です。１<ruby>秒間<rt>びょうかん</rt></ruby>に<ruby>地球<rt>ちきゅう</rt></ruby>を７<ruby>回半<rt>かいはん</rt></ruby>も<ruby>回<rt>まわ</rt></ruby>る<ruby>速<rt>はや</rt></ruby>さだよ。
     </p>
 </div>
 <div class="balloon_l">
