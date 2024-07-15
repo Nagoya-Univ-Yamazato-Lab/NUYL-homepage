@@ -754,7 +754,8 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">なるほど。じゃぁ<ruby>電波<rt>でんぱ</rt></ruby>は？
+    <p class="says">なるほど。<br>
+    じゃあ、<ruby>電波<rt>でんぱ</rt></ruby>は？
     </p>
 </div>
 <div class="balloon_r">
