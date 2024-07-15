@@ -305,7 +305,8 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そう。<ruby>火花<rt>ひばな</rt></ruby>が出るときに<ruby>電波<rt>でんぱ</rt></ruby>もいっしょにでるんだ。<ruby>電波<rt>でんぱ</rt></ruby>は<ruby>遠<rt>とお</rt></ruby>くまで<ruby>飛<rt>と</rt></ruby>ぶので<ruby>船<rt>ふね</rt></ruby>から<ruby>陸地<rt>りくち</rt></ruby>まで<ruby>信号<rt>しんごう</rt></ruby>をとどけることができるんだ。
+    <p class="says">そう。<br>
+    <ruby>火花<rt>ひばな</rt></ruby>が出るときに<ruby>電波<rt>でんぱ</rt></ruby>もいっしょにでるんだ。<ruby>電波<rt>でんぱ</rt></ruby>は<ruby>遠<rt>とお</rt></ruby>くまで<ruby>飛<rt>と</rt></ruby>ぶので<ruby>船<rt>ふね</rt></ruby>から<ruby>陸地<rt>りくち</rt></ruby>まで<ruby>信号<rt>しんごう</rt></ruby>をとどけることができるんだ。
     </p>
 </div>
 <div class="balloon_l">
@@ -334,7 +335,8 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そう。さらに<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>の<ruby>火花<rt>ひばな</rt></ruby>と少し<ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>つづく<ruby>火花<rt>ひばな</rt></ruby>の２つで<ruby>SOS信号<rt>エスオーエスしんごう</rt></ruby>をあらわしたんだ。
+    <p class="says">そう。<br>
+    さらに<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>の<ruby>火花<rt>ひばな</rt></ruby>と<ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>つづく<ruby>火花<rt>ひばな</rt></ruby>の２つで<ruby>SOS信号<rt>エスオーエスしんごう</rt></ruby>をあらわしたんだ。
     </p>
 </div>
 <div class="balloon_l">
@@ -540,7 +542,7 @@ tags:
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
     <p class="says">さっすが、おならくん、そのとおりだよ。<br>
-    <ruby>情報<rt>じょうほう</rt></ruby>を<ruby>送<rt>おく</rt></ruby>る方と受け取る方とで２つの区別がつけば、<ruby>何<rt>なに</rt></ruby>をつかっても<ruby>通信<rt>つうしん</rt></ruby>ができるんだよ。この<ruby>場合<rt>ばあい</rt></ruby>「１」と「０」をつかうのでデジタル<ruby>通信<rt>つうしん</rt></ruby>というんだ。
+    <ruby>情報<rt>じょうほう</rt></ruby>を<ruby>送<rt>おく</rt></ruby>る<ruby>方<rt>ほう</rt></ruby>と<ruby>受<rt>う</rt></ruby>けとる<ruby>方<rt>ほう</rt></ruby>とで２つの区別がつけば、<ruby>何<rt>なに</rt></ruby>をつかっても<ruby>通信<rt>つうしん</rt></ruby>ができるんだよ。この<ruby>場合<rt>ばあい</rt></ruby>「１」と「０」をつかうのでデジタル<ruby>通信<rt>つうしん</rt></ruby>というんだ。
     </p>
 </div>
 <div class="balloon_l">
@@ -676,7 +678,7 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">それは、おならのにおいが<ruby>無<rt>な</rt></ruby>くなるまでに<ruby>時間<rt>じかん</rt></ruby>がかかるからだよ。だって、そうしないと「０」がわからなくなるもん！
+    <p class="says">それは、おならのにおいがなくなるまでに<ruby>時間<rt>じかん</rt></ruby>がかかるからだよ。だって、<ruby>時間<rt>じかん</rt></ruby>が<ruby>短<rt>みじか</rt></ruby>いと、<ruby>前<rt>まえ</rt></ruby>のおならがにおって「０」がわからなくなるもん！
     </p>
 </div>
 <div class="balloon_r">
@@ -691,7 +693,8 @@ tags:
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
     <p class="says">この<ruby>世<rt>よ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>一番速<rt>いちばんはや</rt></ruby>いものをつかって「１」と「０」をあらわせばいいのだね。<br>
-    <ruby>一番速<rt>いちばんはや</rt></ruby>いもの、というと．．．わかった「<ruby>光<rt>ひかり</rt></ruby>」だね！
+    <ruby>一番速<rt>いちばんはや</rt></ruby>いもの、というと．．．
+    わかった「<ruby>光<rt>ひかり</rt></ruby>」だね！
     </p>
 </div>
 <div class="balloon_r">
@@ -811,7 +814,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そう。<ruby>名古屋大学<rt>なごやだいがく</rt></ruby>だと<a href="http://www.semicond.nuee.nagoya-u.ac.jp/"><ruby>天野・本田研究室<rt>あまの・ほんだ けんきゅうしつ</rt></ruby></a>の<a href="https://profs.provost.nagoya-u.ac.jp/html/100009220_ja.html"><ruby>久志本真希先生<rt>くしもと まき せんせい</rt></ruby></a>が<ruby>研究<rt>けんきゅう</rt></ruby>しているよ。<a href="https://www.imass.nagoya-u.ac.jp/news_information/07_kushimoto.html"><ruby>世界最高速<rt>せかいさいこうそく</rt></ruby>の<ruby>発振回路<rt>はっしんかいろ</rt></ruby></a>ができたって発表していたよ。
+    <p class="says">そう。<ruby>名古屋大学<rt>なごやだいがく</rt></ruby>だと<a href="http://www.semicond.nuee.nagoya-u.ac.jp/"><ruby>天野・本田研究室<rt>あまの・ほんだ けんきゅうしつ</rt></ruby></a>の<a href="https://profs.provost.nagoya-u.ac.jp/html/100009220_ja.html"><ruby>久志本<rt>くしもと</rt></ruby><ruby>真希<rt>まき</rt></ruby><ruby>先生<rt>せんせい</rt></ruby></a>が<ruby>研究<rt>けんきゅう</rt></ruby>しているよ。<a href="https://www.imass.nagoya-u.ac.jp/news_information/07_kushimoto.html"><ruby>世界最高速<rt>せかいさいこうそく</rt></ruby>の<ruby>発振回路<rt>はっしんかいろ</rt></ruby></a>ができたって発表していたよ。
     </p>
 </div>
 <div class="balloon_l">
@@ -856,7 +859,7 @@ tags:
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
     <p class="says">もちろん。<br>
-    まずは<a href="https://sudalab.skr.jp/members/jun_suda/"><ruby>須田 淳先生<rt>すだ じゅん せんせい</rt></ruby></a>の<a href="https://tech.imass.nagoya-u.ac.jp/lecture.html#L1B">「でんきのしくみ、作りかた。おもしろい！でんきのはなし」</a>を聴いてみては？きっと<ruby>研究<rt>けんきゅう</rt></ruby>の<ruby>楽<rt>たの</rt></ruby>しさをおしえてくれるとおもうよ。<br>
+    まずは<a href="https://sudalab.skr.jp/members/jun_suda/"><ruby>須田<rt>すだ</rt></ruby><ruby>淳<rt>じゅん</rt></ruby><ruby>先生<rt>せんせい</rt></ruby></a>の<a href="https://tech.imass.nagoya-u.ac.jp/lecture.html#L1B">「でんきのしくみ、作りかた。おもしろい！でんきのはなし」</a>を聴いてみては？きっと<ruby>研究<rt>けんきゅう</rt></ruby>の<ruby>楽<rt>たの</rt></ruby>しさをおしえてくれるとおもうよ。<br>
     <ruby>研究<rt>けんきゅう</rt></ruby>はとっても<ruby>楽<rt>たの</rt></ruby>しいし、やりがいもあるよ。ぜひ、いっしょに<ruby>研究<rt>けんきゅう</rt></ruby>をやろう！でもね、<ruby>実<rt>じつ</rt></ruby>はなかなかおもうようにいかなんだ！そういうところも<ruby>楽<rt>たの</rt></ruby>しいのだけどね、ハハハ。
     </p>
 </div>
