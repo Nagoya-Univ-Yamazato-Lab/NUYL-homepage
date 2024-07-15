@@ -698,7 +698,7 @@ tags:
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
     <p class="says">そのとおり。さすがおならくん、すごいね！<br>
-    この世の中で<ruby>一番速<rt>いちばんはや</rt></ruby>いものは「<ruby>光<rt>ひかり</rt></ruby>」です。１秒間に地球を7回半も回る<ruby>速<rt>はや</rt></ruby>さだよ。
+    この世の中で<ruby>一番速<rt>いちばんはや</rt></ruby>いものは「<ruby>光<rt>ひかり</rt></ruby>」です。１<ruby>秒間<rt>びょうかん</rt></ruby>に<ruby>地球<rt>ちきゅう</rt></ruby>を７<ruby>回半<rt>かいはん</rt></ruby>も<ruby>回<rt>まわ</rt></ruby>る<ruby>速<rt>はや</rt></ruby>さだよ。
     </p>
 </div>
 <div class="balloon_l">
@@ -719,7 +719,7 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says"><ruby>光<rt>ひかり</rt></ruby>と<ruby>電波<rt>でんぱ</rt></ruby>は仲間なんだね。
+    <p class="says"><ruby>光<rt>ひかり</rt></ruby>と<ruby>電波<rt>でんぱ</rt></ruby>は<ruby>仲間<rt>なかま</rt></ruby>なんだね。
     </p>
 </div>
 <div class="balloon_r">
