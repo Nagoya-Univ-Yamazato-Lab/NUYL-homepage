@@ -654,7 +654,7 @@ tags:
   <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">デジタル<ruby>通信<rt>つうしん</rt></ruby>は「１」と「０」で<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>伝<rt>つた</rt></ruby>えることができるのでかんたんなんだけど、「１」と「０」の<ruby>時間<rt>じかん</rt></ruby>がはっきりわかる<ruby>正確<rt>せいかく</rt></ruby>な<ruby>時計<rt>とけい</rt></ruby>も必要になるんだ。この<ruby>時計<rt>とけい</rt></ruby>が必要というところがデジタル<ruby>通信<rt>つうしん</rt></ruby>のポイントなんだよ。
+    <p class="says">デジタル<ruby>通信<rt>つうしん</rt></ruby>は「１」と「０」で<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>伝<rt>つた</rt></ruby>えることができるのでかんたんなんだけど、「１」と「０」の<ruby>時間<rt>じかん</rt></ruby>がはっきりわかる<ruby>正確<rt>せいかく</rt></ruby>な<ruby>時計<rt>とけい</rt></ruby>も<ruby>必要<rt>ひつよう</rt></ruby>になるんだ。この<ruby>時計<rt>とけい</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>というところがデジタル<ruby>通信<rt>つうしん</rt></ruby>のポイントなんだよ。
     </p>
 </div>
 
@@ -675,7 +675,7 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">それは、おならのにおいが無くなるまでに<ruby>時間<rt>じかん</rt></ruby>がかかるからだよ。だって、そうしないと「０」がわからなくなるもん！
+    <p class="says">それは、おならのにおいが<ruby>無<rt>な</rt></ruby>くなるまでに<ruby>時間<rt>じかん</rt></ruby>がかかるからだよ。だって、そうしないと「０」がわからなくなるもん！
     </p>
 </div>
 <div class="balloon_r">
@@ -768,7 +768,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">いや、そんなことないよ。でもね、さっきデジタル<ruby>通信<rt>つうしん</rt></ruby>で必要と言った<ruby>時計<rt>とけい</rt></ruby>が<ruby>難<rt>むずか</rt></ruby>しいんだ。
+    <p class="says">いや、そんなことないよ。でもね、さっきデジタル<ruby>通信<rt>つうしん</rt></ruby>で<ruby>必要<rt>ひつよう</rt></ruby>といった<ruby>時計<rt>とけい</rt></ruby>が<ruby>難<rt>むずか</rt></ruby>しいんだ。
     </p>
 </div>
 <div class="balloon_l">
@@ -782,35 +782,35 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そう<ruby>時計<rt>とけい</rt></ruby>。もっとちゃんというと「１」と「０」の<ruby>時間<rt>じかん</rt></ruby>を<ruby>正確<rt>せいかく</rt></ruby>にあらわすために基準となる<ruby>時間<rt>じかん</rt></ruby>のこと。この基準となる<ruby>時間<rt>じかん</rt></ruby>を作る装置のことを発振回路というんだ。
+    <p class="says">そう<ruby>時計<rt>とけい</rt></ruby>。もっとちゃんというと「１」と「０」の<ruby>時間<rt>じかん</rt></ruby>を<ruby>正確<rt>せいかく</rt></ruby>にあらわすために基準となる<ruby>時間<rt>じかん</rt></ruby>のこと。この基準となる<ruby>時間<rt>じかん</rt></ruby>を作る装置のことを<ruby>発振回路<rt>はっしん</rt></ruby>というんだ。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">発振回路？
+    <p class="says"><ruby>発振回路<rt>はっしん</rt></ruby>？
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そう、発振回路。発振回路が刻む<ruby>時間<rt>じかん</rt></ruby>にあわせて「１」か「０」のいずれかを<ruby>送<rt>おく</rt></ruby>るんだ。なので、発振回路が<ruby>正確<rt>せいかく</rt></ruby>に<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>で刻むことでが重要になるんだ。<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>で「１」と「０」を切り替えることができれば、それだけ<ruby>高速<rt>こうそく</rt></ruby>にたくさん<ruby>送<rt>おく</rt></ruby>ることができるからね。
+    <p class="says">そう、<ruby>発振回路<rt>はっしん</rt></ruby>。<ruby>発振回路<rt>はっしん</rt></ruby>が刻む<ruby>時間<rt>じかん</rt></ruby>にあわせて「１」か「０」のいずれかを<ruby>送<rt>おく</rt></ruby>るんだ。なので、<ruby>発振回路<rt>はっしん</rt></ruby>が<ruby>正確<rt>せいかく</rt></ruby>に<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>で刻むことでが重要になるんだ。<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>で「１」と「０」を切り替えることができれば、それだけ<ruby>高速<rt>こうそく</rt></ruby>にたくさん<ruby>送<rt>おく</rt></ruby>ることができるからね。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">なるほど、<ruby>高速<rt>こうそく</rt></ruby>な発振回路が必要なんだね。
+    <p class="says">なるほど、<ruby>高速<rt>こうそく</rt></ruby>な<ruby>発振回路<rt>はっしん</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>なんだね。
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そう。名古屋大学だと<a href="http://www.semicond.nuee.nagoya-u.ac.jp/">天野・本田<ruby>研究室<rt>けんきゅうしつ</rt></ruby></a>の<a href="https://profs.provost.nagoya-u.ac.jp/html/100009220_ja.html"><ruby>久志本真希先生<rt>くしもとまきせんせい</rt></ruby></a>が<ruby>研究<rt>けんきゅう</rt></ruby>しているよ。<a href="https://www.imass.nagoya-u.ac.jp/news_information/07_kushimoto.html"><ruby>世界最高速<rt>せかいさいこうそく</rt></ruby>の発振回路</a>ができたって発表していたよ。
+    <p class="says">そう。名古屋大学だと<a href="http://www.semicond.nuee.nagoya-u.ac.jp/">天野・本田<ruby>研究室<rt>けんきゅうしつ</rt></ruby></a>の<a href="https://profs.provost.nagoya-u.ac.jp/html/100009220_ja.html"><ruby>久志本真希先生<rt>くしもとまきせんせい</rt></ruby></a>が<ruby>研究<rt>けんきゅう</rt></ruby>しているよ。<a href="https://www.imass.nagoya-u.ac.jp/news_information/07_kushimoto.html"><ruby>世界最高速<rt>せかいさいこうそく</rt></ruby>の<ruby>発振回路<rt>はっしん</rt></ruby></a>ができたって発表していたよ。
     </p>
 </div>
 <div class="balloon_l">
