@@ -2,7 +2,7 @@
 templateKey: pages
 lang: ja
 title: おならでもつうしんできる？ーなるほど！つうしんのしくみー
-description: けいたいでんわは、でんぱをつかって音をとおくにとどけます。でも、ちかいところであれば、糸をつかっても音をとどけることができます。そう、糸でんわですね！じつは、糸だけじゃなく、光や音をつかってもつうしんすることができます。このしくみが分かれば、「おなら」でもつうしんができるかもしれません。このじゅぎょうでは、「おならつうしん」にチャレンジします。みんな、おならでつうしんはできるかな？
+description: けいたいでんわは、でんぱをつかって音をとおくにとどけます。でも、ちかいところであれば、糸をつかっても音をとどけることができます。そう、糸でんわですね！じつは、糸だけじゃなく、光や音をつかってもつうしんすることができます。このしくみがわかれば、「おなら」でもつうしんができるかもしれません。このじゅぎょうでは、「おならつうしん」にチャレンジします。みんな、おならでつうしんはできるかな？
 tags:
   - おならでもつうしんできる？
   - なるほど！つうしんのしくみ
@@ -595,28 +595,28 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そう、そのとおり。おならくんのおならのにおいはどの位続くのかな？
+    <p class="says">そう、そのとおり。<br>おならくんのおならのにおいはどのくらいの<ruby時間><rt>じかん</rt></ruby>、におっているかな？
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">そうだねぁ、だいたい１分ぐらいはにおっているかなぁ。
+    <p class="says">そうだねぁ、だいたい１<ruby>分<rt>ふん</rt></ruby>ぐらいはにおっているかなぁ。
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">なるほど。その<ruby>場合<rt>ばあい</rt></ruby>、「１」あるいは「０」は１分おきに<ruby>送<rt>おく</rt></ruby>ればよいね。
+    <p class="says">なるほど。その<ruby>場合<rt>ばあい</rt></ruby>、「１」あるいは「０」は１<ruby>分<rt>ふん</rt></ruby>おきに<ruby>送<rt>おく</rt></ruby>ればよいね。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">と言うことは、たとえば、「１」「１」と<ruby>送<rt>おく</rt></ruby>りたい<ruby>場合<rt>ばあい</rt></ruby>は１分おきに「プゥ〜」「プゥ〜」とおならをすればいいのかな？
+    <p class="says">と言うことは、たとえば、「１」「１」と<ruby>送<rt>おく</rt></ruby>りたい<ruby>場合<rt>ばあい</rt></ruby>は１<ruby>分<rt>ふん</rt></ruby>おきに「プゥ〜」「プゥ〜」とおならをすればいいのかな？
     </p>
 </div>
 <div class="balloon_r">
@@ -625,22 +625,22 @@ tags:
     </div>
     <p class="says">そのとおり。「１」「０」「１」の<ruby>場合<rt>ばあい</rt></ruby>で考えてみようか。<br>
     <ruby>最初<rt>さいしょ</rt></ruby>は「１」なのでおならを「プゥ〜」、<br>
-    次の１分から２分までは「０」なので、おならをしないで「しーん（<ruby>音<rt>おと</rt></ruby>がしない）」、<br>
-    <ruby>最後<rt>さいご</rt></ruby>の２分から３分までは「１」なので、また「プゥ〜」とおならをすればいいよ。
+    次の１<ruby>分<rt>ふん</rt></ruby>から２<ruby>分<rt>ふん</rt></ruby>までは「０」なので、おならをしないで「しーん（<ruby>音<rt>おと</rt></ruby>がしない）」、<br>
+    <ruby>最後<rt>さいご</rt></ruby>の２<ruby>分<rt>ふん</rt></ruby>から３<ruby>分<rt>ふん</rt></ruby>までは「１」なので、また「プゥ〜」とおならをすればいいよ。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">なるほど、時計にあわせて１分おきにおならを「する」、「しない」で<ruby>情報<rt>じょうほう</rt></ruby>の「１」と「０」を<ruby>送<rt>おく</rt></ruby>ることができるのだね。これがデジタル<ruby>通信<rt>つうしん</rt></ruby>なのか！なんだか凄い！
+    <p class="says">なるほど、時計にあわせて１<ruby>分<rt>ふん</rt></ruby>おきにおならを「する」、「しない」で<ruby>情報<rt>じょうほう</rt></ruby>の「１」と「０」を<ruby>送<rt>おく</rt></ruby>ることができるのだね。これがデジタル<ruby>通信<rt>つうしん</rt></ruby>なのか！なんだか凄い！
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">でもね、この方法だと「１」はおならのにおいがするからすぐに分かるけど、「０」のところ、つまり「おならをしていない」ことは分かりにくい<ruby>場合<rt>ばあい</rt></ruby>があるんだ。おならのにおいが<ruby>長<rt>なが</rt></ruby>く続くこともあるからね。このため、さっきの<ruby>SOS<rt>エスオーエス</rt></ruby>では「プッ」と「プゥ〜」の<ruby>長<rt>なが</rt></ruby>さの違う２つの<ruby>信号<rt>しんごう</rt></ruby>をつかってあらわしたんだ。
+    <p class="says">でもね、この方法だと「１」はおならのにおいがするからすぐにわかるけど、「０」のところ、つまり「おならをしていない」ことはわかりにくい<ruby>場合<rt>ばあい</rt></ruby>があるんだ。おならのにおいが<ruby>長<rt>なが</rt></ruby>く続くこともあるからね。このため、さっきの<ruby>SOS<rt>エスオーエス</rt></ruby>では「プッ」と「プゥ〜」の<ruby>長<rt>なが</rt></ruby>さの違う２つの<ruby>信号<rt>しんごう</rt></ruby>をつかってあらわしたんだ。
     </p>
 </div>
 <div class="balloon_l">
@@ -654,7 +654,7 @@ tags:
   <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">デジタル<ruby>通信<rt>つうしん</rt></ruby>は「１」と「０」で<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>伝<rt>つた</rt></ruby>えることができるのでかんたんなんだけど、「１」と「０」の<ruby>時間<rt>じかん</rt></ruby>がはっきり分かる正確な時計も必要になるんだ。この時計が必要というところがデジタル<ruby>通信<rt>つうしん</rt></ruby>のポイントなんだよ。
+    <p class="says">デジタル<ruby>通信<rt>つうしん</rt></ruby>は「１」と「０」で<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>伝<rt>つた</rt></ruby>えることができるのでかんたんなんだけど、「１」と「０」の<ruby>時間<rt>じかん</rt></ruby>がはっきりわかる正確な時計も必要になるんだ。この時計が必要というところがデジタル<ruby>通信<rt>つうしん</rt></ruby>のポイントなんだよ。
     </p>
 </div>
 
@@ -675,7 +675,7 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">それは、おならのにおいが無くなるまでに<ruby>時間<rt>じかん</rt></ruby>がかかるからだよ。だって、そうしないと「０」が分からなくなるもん！
+    <p class="says">それは、おならのにおいが無くなるまでに<ruby>時間<rt>じかん</rt></ruby>がかかるからだよ。だって、そうしないと「０」がわからなくなるもん！
     </p>
 </div>
 <div class="balloon_r">
