@@ -747,7 +747,7 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">たしかに<ruby>光<rt>ひかり</rt></ruby>は、パッとついたり消えたりできるから、おならのにおいみたいに<ruby>長<rt>なが</rt></ruby>い間においが続くことがないね。しかも、この世の中で<ruby>一番速<rt>いちばんはや</rt></ruby>い！
+    <p class="says">たしかに<ruby>光<rt>ひかり</rt></ruby>は、パッとついたり消えたりできるから、おならのにおいみたいに<ruby>長<rt>なが</rt></ruby>い<ruby>間<rt>あいだ</rt></ruby>においがつづくことがないね。しかも、この<ruby>世<rt>よ</rt></ruby>の<ruby>中<rt>なお</rt></ruby>で<ruby>一番速<rt>いちばん はやい</rt></ruby>い！
     </p>
 </div>
 <div class="balloon_r">
@@ -810,7 +810,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そう。名古屋大学だと<a href="http://www.semicond.nuee.nagoya-u.ac.jp/">天野・本田<ruby>研究室<rt>けんきゅうしつ</rt></ruby></a>の<a href="https://profs.provost.nagoya-u.ac.jp/html/100009220_ja.html"><ruby>久志本真希先生<rt>くしもと まき せんせい</rt></ruby></a>が<ruby>研究<rt>けんきゅう</rt></ruby>しているよ。<a href="https://www.imass.nagoya-u.ac.jp/news_information/07_kushimoto.html"><ruby>世界最高速<rt>せかいさいこうそく</rt></ruby>の<ruby>発振回路<rt>はっしんかいろ</rt></ruby></a>ができたって発表していたよ。
+    <p class="says">そう。名古屋大学だと<a href="http://www.semicond.nuee.nagoya-u.ac.jp/"><ruby>天野・本田研究室<rt>あまの・ほんだ けんきゅうしつ</rt></ruby></a>の<a href="https://profs.provost.nagoya-u.ac.jp/html/100009220_ja.html"><ruby>久志本真希先生<rt>くしもと まき せんせい</rt></ruby></a>が<ruby>研究<rt>けんきゅう</rt></ruby>しているよ。<a href="https://www.imass.nagoya-u.ac.jp/news_information/07_kushimoto.html"><ruby>世界最高速<rt>せかいさいこうそく</rt></ruby>の<ruby>発振回路<rt>はっしんかいろ</rt></ruby></a>ができたって発表していたよ。
     </p>
 </div>
 <div class="balloon_l">
@@ -855,7 +855,7 @@ tags:
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
     <p class="says">もちろん。<br>
-    まずは<a href="https://sudalab.skr.jp/members/jun_suda/"><ruby>須田 淳先生<rt>すだ じゅんせんせい</rt></ruby></a>の<a href="https://tech.imass.nagoya-u.ac.jp/lecture.html#L1B">「でんきのしくみ、作りかた。おもしろい！でんきのはなし」</a>を聴いてみては？きっと<ruby>研究<rt>けんきゅう</rt></ruby>の楽しさをおしえてくれると思うよ。<br>
+    まずは<a href="https://sudalab.skr.jp/members/jun_suda/"><ruby>須田 淳先生<rt>すだ じゅん せんせい</rt></ruby></a>の<a href="https://tech.imass.nagoya-u.ac.jp/lecture.html#L1B">「でんきのしくみ、作りかた。おもしろい！でんきのはなし」</a>を聴いてみては？きっと<ruby>研究<rt>けんきゅう</rt></ruby>の楽しさをおしえてくれると思うよ。<br>
     <ruby>研究<rt>けんきゅう</rt></ruby>はとっても楽しいし、やりがいもあるよ。ぜひ、一緒に<ruby>研究<rt>けんきゅう</rt></ruby>をやろう！でもね、<ruby>実<rt>じつ</rt></ruby>はなかなか思うようにいかなんだ！そういうところも楽しいのだけどね、ハハハ。
     </p>
 </div>
