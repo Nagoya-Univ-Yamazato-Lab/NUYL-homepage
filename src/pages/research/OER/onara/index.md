@@ -334,14 +334,15 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そう。さらに<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>の<ruby>火花<rt>ひばな</rt></ruby>と少し<ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>の<ruby>火花<rt>ひばな</rt></ruby>とで<ruby>SOS信号<rt>エスオーエスしんごう</rt></ruby>をあらわしたんだ。
+    <p class="says">そう。さらに<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>の<ruby>火花<rt>ひばな</rt></ruby>と少し<ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>つづく<ruby>火花<rt>ひばな</rt></ruby>の２つで<ruby>SOS信号<rt>エスオーエスしんごう</rt></ruby>をあらわしたんだ。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says"><ruby>短<rt>みじか</rt></ruby>い<ruby>火花<rt>ひばな</rt></ruby>と<ruby>長<rt>なが</rt></ruby>い<ruby>火花<rt>ひばな</rt></ruby>？つまり<ruby>電波<rt>でんぱ</rt></ruby>が<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>のものと<ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>つづくものとで<ruby>SOS信号<rt>エスオーエスしんごう</rt></ruby>をあらわしたの？
+    <p class="says"><ruby>短<rt>みじか</rt></ruby>い<ruby>火花<rt>ひばな</rt></ruby>と<ruby>長<rt>なが</rt></ruby>い<ruby>火花<rt>ひばな</rt></ruby>？<br>
+    つまり<ruby>電波<rt>でんぱ</rt></ruby>が<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>のものと<ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>つづくものとで<ruby>SOS信号<rt>エスオーエスしんごう</rt></ruby>をあらわしたの？
     </p>
 </div>
 <div class="balloon_r">
@@ -425,7 +426,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そうだね、ふつうの<ruby>人<rt>ひと</rt></ruby>には<ruby>難<rt>むずか</rt></ruby>しいと思うよ。でもね、おならで<ruby>歌<rt>うた</rt></ruby>を<ruby>歌<rt>うた</rt></ruby>うことができる<ruby>人<rt>れんしゅう</rt></ruby>もいるんだよ。きっとこの<ruby>人<rt>れんしゅう</rt></ruby>なら<ruby>SOS<rt>エスオーエス</rt></ruby>もかんたんにできるとおもうよ。このページの<ruby>最後<rt>さいご</rt></ruby>に<ruby>紹介<rt>しょうかい</rt></ruby>するね。
+    <p class="says">そうだね、ふつうの<ruby>人<rt>ひと</rt></ruby>には<ruby>難<rt>むずか</rt></ruby>しいと思うよ。でもね、おならで<ruby>歌<rt>うた</rt></ruby>を<ruby>歌<rt>うた</rt></ruby>うことができる<ruby>人<rt>ひと</rt></ruby>もいるんだよ。きっとこの<ruby>人<rt>ひと</rt></ruby>なら<ruby>SOS<rt>エスオーエス</rt></ruby>もかんたんにできるとおもうよ。このページの<ruby>最後<rt>さいご</rt></ruby>に<ruby>紹介<rt>しょうかい</rt></ruby>するね。
     </p>
 </div>
 
