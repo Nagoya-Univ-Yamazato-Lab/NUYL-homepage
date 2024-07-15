@@ -841,15 +841,20 @@ tags:
     </div>
     <p class="says">そう。<br>
     <ruby>名古屋<rt>なごや</rt></ruby>
-    <ruby>大学<rt>だいがく</rt></ruby>だと<a href="http://www.semicond.nuee.nagoya-u.ac.jp/">
-    <ruby>天野・本田研究室<rt>あまの・ほんだ けんきゅうしつ</rt></ruby></a>の<a href="https://profs.provost.nagoya-u.ac.jp/html/100009220_ja.html">
+    <ruby>大学<rt>だいがく</rt></ruby>だと
+    <a href="http://www.semicond.nuee.nagoya-u.ac.jp/">
+    <ruby>天野・本田研究室<rt>あまの・ほんだ けんきゅうしつ</rt></ruby>
+    </a>の
+    <a href="https://profs.provost.nagoya-u.ac.jp/html/100009220_ja.html">
     <ruby>久志本<rt>くしもと</rt></ruby>
     <ruby>真希<rt>まき</rt></ruby>
-    <ruby>先生<rt>せんせい</rt></ruby></a>が
+    <ruby>先生<rt>せんせい</rt></ruby>
+    </a>が
     <ruby>研究<rt>けんきゅう</rt></ruby>しているよ。
     <a href="https://www.imass.nagoya-u.ac.jp/news_information/07_kushimoto.html">
     <ruby>世界最高速<rt>せかいさいこうそく</rt></ruby>の
-    <ruby>発振回路<rt>はっしんかいろ</rt></ruby></a>ができたって
+    <ruby>発振回路<rt>はっしんかいろ</rt></ruby>
+    </a>ができたって
     <ruby>発表<rt>はっぴょう</rt></ruby>していたよ。
     </p>
 </div>
