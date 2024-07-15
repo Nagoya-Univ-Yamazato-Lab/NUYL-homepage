@@ -62,8 +62,8 @@ tags:
 
 - [「おなら<ruby>通信<rt>つうしん</rt></ruby>」チャレンジ！](#fart-challenge)
 - [おならで<ruby>SOS<rt>エスオーエス</rt></ruby>を<ruby>送<rt>おく</rt></ruby>ってみよう！（おなら<ruby>通信<rt>つうしん</rt></ruby>のしくみ）](#how-it-works)
-- [おならのにおいでも<ruby>通信<rt>つうしん</rt></ruby>はできるの？（デジタル<ruby>通信<rt>つうしん</rt></ruby>の原理）](#smell-communication)
-- [もっと早い<ruby>通信<rt>つうしん</rt></ruby>はできるの？（<ruby>光<rt>ひかり</rt></ruby>をつかった<ruby>通信<rt>つうしん</rt></ruby>と<ruby>電波<rt>でんぱ</rt></ruby>をつかった<ruby>通信<rt>つうしん</rt></ruby>）](#wired-and-wireless-communication)
+- [おならのにおいでも<ruby>通信<rt>つうしん</rt></ruby>はできるの？（デジタル<ruby>通信<rt>つうしん</rt></ruby>の<ruby>原理<rt>げんり</rt></ruby>）](#smell-communication)
+- [もっと<ruby>速<rt>はや</rt></ruby>い<ruby>通信<rt>つうしん</rt></ruby>はできるの？（<ruby>光<rt>ひかり</rt></ruby>をつかった<ruby>通信<rt>つうしん</rt></ruby>と<ruby>電波<rt>でんぱ</rt></ruby>をつかった<ruby>通信<rt>つうしん</rt></ruby>）](#wired-and-wireless-communication)
 - [さらに勉強するために](#For-further-study)
 - [おなら<ruby>通信<rt>つうしん</rt></ruby>のアイデアはここから生まれた？！](the-fart-communication)
 
@@ -412,7 +412,7 @@ tags:
 
 <a id="smell-communication"></a>
 
-## おならのにおいでも<ruby>通信<rt>つうしん</rt></ruby>はできるの？（デジタル<ruby>通信<rt>つうしん</rt></ruby>の原理）
+## おならのにおいでも<ruby>通信<rt>つうしん</rt></ruby>はできるの？（デジタル<ruby>通信<rt>つうしん</rt></ruby>の<ruby>原理<rt>げんり</rt></ruby>）
 
 <div class="balloon_l">
   <div class="faceicon">
@@ -553,7 +553,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">実はね、<ruby>通信<rt>つうしん</rt></ruby>の原理としてはデジタル<ruby>通信<rt>つうしん</rt></ruby>がもっともかんたんなの。
+    <p class="says">実はね、<ruby>通信<rt>つうしん</rt></ruby>の<ruby>原理<rt>げんり</rt></ruby>としてはデジタル<ruby>通信<rt>つうしん</rt></ruby>がもっともかんたんなの。
     </p>
 </div>
 <div class="balloon_l">
@@ -662,7 +662,7 @@ tags:
 
 <a id="wired-and-wireless-communication"></a>
 
-## もっと早い<ruby>通信<rt>つうしん</rt></ruby>はできるの？（<ruby>光<rt>ひかり</rt></ruby>をつかった<ruby>通信<rt>つうしん</rt></ruby>と<ruby>電波<rt>でんぱ</rt></ruby>をつかった<ruby>通信<rt>つうしん</rt></ruby>）
+## もっと<ruby>速<rt>はや</rt></ruby>い<ruby>通信<rt>つうしん</rt></ruby>はできるの？（<ruby>光<rt>ひかり</rt></ruby>をつかった<ruby>通信<rt>つうしん</rt></ruby>と<ruby>電波<rt>でんぱ</rt></ruby>をつかった<ruby>通信<rt>つうしん</rt></ruby>）
 
 <div class="balloon_r">
     <div class="faceicon">
@@ -682,23 +682,23 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そうだね。では、もっと速い<ruby>通信<rt>つうしん</rt></ruby>をするためにはどうすればいいと思う？
+    <p class="says">そうだね。では、もっと<ruby>速<rt>はや</rt></ruby>い<ruby>通信<rt>つうしん</rt></ruby>をするためにはどうすればいいと思う？
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">この世の中で一番速いものをつかって「１」と「０」をあらわせばいいのだね。<br>
-    一番速いもの、というと．．．分かった「<ruby>光<rt>ひかり</rt></ruby>」だね！
+    <p class="says">この世の中で<ruby>一番速<rt>いちばんはや</rt></ruby>いものをつかって「１」と「０」をあらわせばいいのだね。<br>
+    <ruby>一番速<rt>いちばんはや</rt></ruby>いもの、というと．．．わかった「<ruby>光<rt>ひかり</rt></ruby>」だね！
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そのとおり。さすがおならくん、凄いね！<br>
-    この世の中で最も速いものは「<ruby>光<rt>ひかり</rt></ruby>」です。１秒間に地球を7回半も回る速さだよ。
+    <p class="says">そのとおり。さすがおならくん、すごいね！<br>
+    この世の中で<ruby>一番速<rt>いちばんはや</rt></ruby>いものは「<ruby>光<rt>ひかり</rt></ruby>」です。１秒間に地球を7回半も回る<ruby>速<rt>はや</rt></ruby>さだよ。
     </p>
 </div>
 <div class="balloon_l">
@@ -726,7 +726,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says"><ruby>光<rt>ひかり</rt></ruby>をつかった<ruby>通信<rt>つうしん</rt></ruby>に<ruby>光<rt>ひかり</rt></ruby>ファイバー<ruby>通信<rt>つうしん</rt></ruby>があるんだ。きっとおならくんのお家にも<ruby>光<rt>ひかり</rt></ruby>ファイバーが入っているのでは？そこでつかわれていると思うよ。
+    <p class="says"><ruby>光<rt>ひかり</rt></ruby>をつかった<ruby>通信<rt>つうしん</rt></ruby>に<ruby>光<rt>ひかり</rt></ruby>ファイバー<ruby>通信<rt>つうしん</rt></ruby>があるんだ。きっとおならくんのおうちにも<ruby>光<rt>ひかり</rt></ruby>ファイバーが入っているのでは？そこでつかわれているとおもうよ。
     </p>
 </div>
 <div class="balloon_l">
@@ -740,28 +740,28 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says"><ruby>電波<rt>でんぱ</rt></ruby>はラジオやテレビ、けいたい電話などの<ruby>無線<rt>むせん</rt></ruby><ruby>通信<rt>つうしん</rt></ruby>でつかわれているよ。<ruby>光<rt>ひかり</rt></ruby>をつかう<ruby>光<rt>ひかり</rt></ruby>ファイバー<ruby>通信<rt>つうしん</rt></ruby>も<ruby>電波<rt>でんぱ</rt></ruby>をつかう<ruby>無線<rt>むせん</rt></ruby><ruby>通信<rt>つうしん</rt></ruby>のいずれもデジタル<ruby>通信<rt>つうしん</rt></ruby>だよ。
+    <p class="says"><ruby>電波<rt>でんぱ</rt></ruby>はラジオやテレビ、けいたい<ruby>電話<rt>でんわ</rt></ruby>などの<ruby>無線<rt>むせん</rt></ruby><ruby>通信<rt>つうしん</rt></ruby>でつかわれているよ。<ruby>光<rt>ひかり</rt></ruby>をつかう<ruby>光<rt>ひかり</rt></ruby>ファイバー<ruby>通信<rt>つうしん</rt></ruby>も<ruby>電波<rt>でんぱ</rt></ruby>をつかう<ruby>無線<rt>むせん</rt></ruby><ruby>通信<rt>つうしん</rt></ruby>のいずれもデジタル<ruby>通信<rt>つうしん</rt></ruby>だよ。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">たしかに<ruby>光<rt>ひかり</rt></ruby>は、パッとついたり消えたりできるから、おならのにおいみたいに<ruby>長<rt>なが</rt></ruby>い間においが続くことがないね。しかも、この世の中で最も速い！
+    <p class="says">たしかに<ruby>光<rt>ひかり</rt></ruby>は、パッとついたり消えたりできるから、おならのにおいみたいに<ruby>長<rt>なが</rt></ruby>い間においが続くことがないね。しかも、この世の中で<ruby>一番速<rt>いちばんはや</rt></ruby>い！
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そう。<ruby>電波<rt>でんぱ</rt></ruby>も<ruby>光<rt>ひかり</rt></ruby>と同じ<ruby>電磁波<rt>でんじは</rt></ruby>のひとつなので高速なんだ。
+    <p class="says">そう。<ruby>電波<rt>でんぱ</rt></ruby>も<ruby>光<rt>ひかり</rt></ruby>と同じ<ruby>電磁波<rt>でんじは</rt></ruby>のひとつなので<ruby>高速<rt>こうそく</rt></ruby>なんだ。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">むむむ、ということは、<ruby>光<rt>ひかり</rt></ruby>ファイバーも<ruby>無線<rt>むせん</rt></ruby>もこの世のなかで最も速い<ruby>電磁波<rt>でんじは</rt></ruby>をつかうので、もうこれ以上高速にはならないの？
+    <p class="says">むむむ、ということは、<ruby>光<rt>ひかり</rt></ruby>ファイバーも<ruby>無線<rt>むせん</rt></ruby>もこの世のなかで<ruby>一番速<rt>いちばんはや</rt></ruby>い<ruby>電磁波<rt>でんじは</rt></ruby>をつかうので、もっと<ruby>高速<rt>こうそく</rt></ruby>にはできないの？
     </p>
 </div>
 <div class="balloon_r">
@@ -796,14 +796,14 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そう、発振回路。発振回路が刻む<ruby>時間<rt>じかん</rt></ruby>にあわせて「１」か「０」のいずれかを<ruby>送<rt>おく</rt></ruby>るんだ。なので、発振回路が正確に<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>で刻むことでが重要になるんだ。<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>で「１」と「０」を切り替えることができれば、それだけ高速にたくさん<ruby>送<rt>おく</rt></ruby>ることができるからね。
+    <p class="says">そう、発振回路。発振回路が刻む<ruby>時間<rt>じかん</rt></ruby>にあわせて「１」か「０」のいずれかを<ruby>送<rt>おく</rt></ruby>るんだ。なので、発振回路が正確に<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>で刻むことでが重要になるんだ。<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>で「１」と「０」を切り替えることができれば、それだけ<ruby>高速<rt>こうそく</rt></ruby>にたくさん<ruby>送<rt>おく</rt></ruby>ることができるからね。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">なるほど、高速な発振回路が必要なんだね。
+    <p class="says">なるほど、<ruby>高速<rt>こうそく</rt></ruby>な発振回路が必要なんだね。
     </p>
 </div>
 <div class="balloon_r">
