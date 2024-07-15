@@ -425,7 +425,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そうだね、ふつうの<ruby>人<rt>ひと</rt></ruby>には<ruby>難<rt>むずか</rt></ruby>しいと思うよ。でもね、おならで歌を歌うことができる<ruby>人<rt>れんしゅう</rt></ruby>もいるんだよ。きっとこの<ruby>人<rt>れんしゅう</rt></ruby>なら<ruby>SOS<rt>エスオーエス</rt></ruby>もかんたんにできると思うよ。このページの最後に紹介するね。
+    <p class="says">そうだね、ふつうの<ruby>人<rt>ひと</rt></ruby>には<ruby>難<rt>むずか</rt></ruby>しいと思うよ。でもね、おならで<ruby>歌<rt>うた</rt></ruby>を<ruby>歌<rt>うた</rt></ruby>うことができる<ruby>人<rt>れんしゅう</rt></ruby>もいるんだよ。きっとこの<ruby>人<rt>れんしゅう</rt></ruby>なら<ruby>SOS<rt>エスオーエス</rt></ruby>もかんたんにできるとおもうよ。このページの<ruby>最後<rt>さいご</rt></ruby>に<ruby>紹介<rt>しょうかい</rt></ruby>するね。
     </p>
 </div>
 
@@ -440,7 +440,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">おならくん、いいところに気づいたね。さすがだよ。そう、おならのにおいでも<ruby>通信<rt>つうしん</rt></ruby>はできるよ。
+    <p class="says">おならくん、いいところに<ruby>気<rt>き</rt></ruby>づいたね。さすがだよ。そう、おならのにおいでも<ruby>通信<rt>つうしん</rt></ruby>はできるよ。
     </p>
 </div>
 <div class="balloon_l">
@@ -468,7 +468,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そう。実はこの２つというのがポイントなんだ。
+    <p class="says">そう。<ruby>実<rt>じつ</rt></ruby>はこの２つというのがポイントなんだ。
     </p>
 </div>
 <div class="balloon_l">
@@ -553,7 +553,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">実はね、<ruby>通信<rt>つうしん</rt></ruby>の<ruby>原理<rt>げんり</rt></ruby>としてはデジタル<ruby>通信<rt>つうしん</rt></ruby>がもっともかんたんなの。
+    <p class="says"><ruby>実<rt>じつ</rt></ruby>はね、<ruby>通信<rt>つうしん</rt></ruby>の<ruby>原理<rt>げんり</rt></ruby>としてはデジタル<ruby>通信<rt>つうしん</rt></ruby>がもっともかんたんなの。
     </p>
 </div>
 <div class="balloon_l">
@@ -712,7 +712,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そのとおり。実は、<ruby>光<rt>ひかり</rt></ruby>も<ruby>電波<rt>でんぱ</rt></ruby>も<ruby>電磁波<rt>でんじは</rt></ruby>のひとつなんだ。
+    <p class="says">そのとおり。<ruby>実<rt>じつ</rt></ruby>は、<ruby>光<rt>ひかり</rt></ruby>も<ruby>電波<rt>でんぱ</rt></ruby>も<ruby>電磁波<rt>でんじは</rt></ruby>のひとつなんだ。
     </p>
 </div>
 <div class="balloon_l">
@@ -768,7 +768,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">いや、そんなこと無いよ。でもね、さっきデジタル<ruby>通信<rt>つうしん</rt></ruby>で必要と言った時計が<ruby>難<rt>むずか</rt></ruby>しいんだ。
+    <p class="says">いや、そんなことないよ。でもね、さっきデジタル<ruby>通信<rt>つうしん</rt></ruby>で必要と言った時計が<ruby>難<rt>むずか</rt></ruby>しいんだ。
     </p>
 </div>
 <div class="balloon_l">
@@ -856,7 +856,7 @@ tags:
     </div>
     <p class="says">もちろん。<br>
     まずは<a href="https://sudalab.skr.jp/members/jun_suda/"><ruby>須田 淳先生<rt>すだ じゅんせんせい</rt></ruby></a>の<a href="https://tech.imass.nagoya-u.ac.jp/lecture.html#L1B">「でんきのしくみ、作りかた。おもしろい！でんきのはなし」</a>を聴いてみては？きっと<ruby>研究<rt>けんきゅう</rt></ruby>の楽しさをおしえてくれると思うよ。<br>
-    <ruby>研究<rt>けんきゅう</rt></ruby>はとっても楽しいし、やりがいもあるよ。ぜひ、一緒に<ruby>研究<rt>けんきゅう</rt></ruby>をやろう！でもね、実はなかなか思うようにいかなんだ！そういうところも楽しいのだけどね、ハハハ。
+    <ruby>研究<rt>けんきゅう</rt></ruby>はとっても楽しいし、やりがいもあるよ。ぜひ、一緒に<ruby>研究<rt>けんきゅう</rt></ruby>をやろう！でもね、<ruby>実<rt>じつ</rt></ruby>はなかなか思うようにいかなんだ！そういうところも楽しいのだけどね、ハハハ。
     </p>
 </div>
 <div class="balloon_l">
