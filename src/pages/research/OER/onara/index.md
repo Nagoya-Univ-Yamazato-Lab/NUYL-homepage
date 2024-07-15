@@ -418,14 +418,14 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">おなら<ruby>通信<rt>つうしん</rt></ruby>分かったもんね、へへへ。でも、<ruby>SOS<rt>エスオーエス</rt></ruby>をおならでやるのは難しいなぁ。練習してもできないかも。
+    <p class="says">おなら<ruby>通信<rt>つうしん</rt></ruby>わかったもんね、へへへ。でも、<ruby>SOS<rt>エスオーエス</rt></ruby>をおならでやるのは<ruby>難<rt>むずか</rt></ruby>しいなぁ。<ruby>練習<rt>れんしゅう</rt></ruby>してもできないかも。
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そうだね、ふつうの人には難しいと思うよ。でもね、おならで歌を歌うことができる人もいるんだよ。きっとこの人なら<ruby>SOS<rt>エスオーエス</rt></ruby>もかんたんにできると思うよ。このページの最後に紹介するね。
+    <p class="says">そうだね、ふつうの<ruby>人<rt>ひと</rt></ruby>には<ruby>難<rt>むずか</rt></ruby>しいと思うよ。でもね、おならで歌を歌うことができる<ruby>人<rt>れんしゅう</rt></ruby>もいるんだよ。きっとこの<ruby>人<rt>れんしゅう</rt></ruby>なら<ruby>SOS<rt>エスオーエス</rt></ruby>もかんたんにできると思うよ。このページの最後に紹介するね。
     </p>
 </div>
 
@@ -546,7 +546,7 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">「１」と「０」だからデジタル<ruby>通信<rt>つうしん</rt></ruby>なんだね。すごい。デジタルって言うからもっと難しいのかと思っていたよ。
+    <p class="says">「１」と「０」だからデジタル<ruby>通信<rt>つうしん</rt></ruby>なんだね。すごい。デジタルって言うからもっと<ruby>難<rt>むずか</rt></ruby>しいのかと思っていたよ。
     </p>
 </div>
 <div class="balloon_r">
@@ -768,7 +768,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">いや、そんなこと無いよ。でもね、さっきデジタル<ruby>通信<rt>つうしん</rt></ruby>で必要と言った時計が難しいんだ。
+    <p class="says">いや、そんなこと無いよ。でもね、さっきデジタル<ruby>通信<rt>つうしん</rt></ruby>で必要と言った時計が<ruby>難<rt>むずか</rt></ruby>しいんだ。
     </p>
 </div>
 <div class="balloon_l">
@@ -840,7 +840,7 @@ tags:
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
     <p class="says">僕は<ruby>可視光通信<rt>かしこうつうしん</rt></ruby>っていってね、目で見える<ruby>光<rt>ひかり</rt></ruby>をつかった<ruby>通信<rt>つうしん</rt></ruby>を<ruby>研究<rt>けんきゅう</rt></ruby>しているんだ。この<ruby>授業<rt>じゅぎょう</rt></ruby>でデモもやるよ。<ruby>天野浩先生<rt>あまのひろしせんせい</rt></ruby>が発明したLEDをつかって<ruby>通信<rt>つうしん</rt></ruby>をするんだ。<br>
-    <a href="https://tech.imass.nagoya-u.ac.jp/lecture.html"><ruby>天野先生<rt>あまのせんせい</rt></ruby>の講演</a>はぜひ聴いてね。ちょっと難しいかもしれないけど、きっとワクワクすると思うよ。
+    <a href="https://tech.imass.nagoya-u.ac.jp/lecture.html"><ruby>天野先生<rt>あまのせんせい</rt></ruby>の講演</a>はぜひ聴いてね。ちょっと<ruby>難<rt>むずか</rt></ruby>しいかもしれないけど、きっとワクワクすると思うよ。
     </p>
 </div>
 <div class="balloon_l">
@@ -863,7 +863,7 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">いいなぁ、ぼく、大きくなったら<ruby>研究者<rt>けんきゅうしゃ</rt></ruby>になるからね。よろしくお願いします。将来、おなら<ruby>通信<rt>つうしん</rt></ruby>ができるように、毎日練習するね。まるで話すみたいに「プッ」と「プゥ〜」のおならができるようなれるといいなぁ〜。
+    <p class="says">いいなぁ、ぼく、大きくなったら<ruby>研究者<rt>けんきゅうしゃ</rt></ruby>になるからね。よろしくお願いします。将来、おなら<ruby>通信<rt>つうしん</rt></ruby>ができるように、毎日<ruby>練習<rt>れんしゅう</rt></ruby>するね。まるで話すみたいに「プッ」と「プゥ〜」のおならができるようなれるといいなぁ〜。
     </p>
 </div>
 <div class="balloon_r">
@@ -888,7 +888,7 @@ tags:
 
 おなら<ruby>通信<rt>つうしん</rt></ruby>のアイデアはギネスの<ruby>世界記録<rt>せかいきろく</rt></ruby>から生まれました。僕もびっくりしましたが、おならでギネス<ruby>世界記録<rt>せかいきろく</rt></ruby>を狙えるのですね。
 
-ちなみに、おなら<ruby>通信<rt>つうしん</rt></ruby>を試したした人はいないみたいです(^_^)
+ちなみに、おなら<ruby>通信<rt>つうしん</rt></ruby>を試したした<ruby>人<rt>れんしゅう</rt></ruby>はいないみたいです(^_^)
 まぁ名乗っていないだけだとは思いますが、おなら<ruby>通信<rt>つうしん</rt></ruby>は<ruby>世界<rt>せかい</rt></ruby>初の試みかも知れません。さすがに、これでギネス<ruby>世界記録<rt>せかいきろく</rt></ruby>を狙えるとは思えませんが、面白いことには違いないですね。
 
 ### おならのギネス<ruby>世界記録<rt>せかいきろく</rt></ruby>
