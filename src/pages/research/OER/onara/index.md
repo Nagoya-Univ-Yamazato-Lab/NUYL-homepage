@@ -633,14 +633,14 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">なるほど、時計にあわせて１<ruby>分<rt>ふん</rt></ruby>おきにおならを「する」、「しない」で<ruby>情報<rt>じょうほう</rt></ruby>の「１」と「０」を<ruby>送<rt>おく</rt></ruby>ることができるのだね。これがデジタル<ruby>通信<rt>つうしん</rt></ruby>なのか！なんだかすごい！
+    <p class="says">なるほど、<ruby>時計<rt>とけい</rt></ruby>にあわせて１<ruby>分<rt>ふん</rt></ruby>おきにおならを「する」、「しない」で<ruby>情報<rt>じょうほう</rt></ruby>の「１」と「０」を<ruby>送<rt>おく</rt></ruby>ることができるのだね。これがデジタル<ruby>通信<rt>つうしん</rt></ruby>なのか！なんだかすごい！
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">でもね、この方法だと「１」はおならのにおいがするからすぐにわかるけど、「０」のところ、つまり「おならをしていない」ことはわかりにくい<ruby>場合<rt>ばあい</rt></ruby>があるんだ。おならのにおいが<ruby>長<rt>なが</rt></ruby>く続くこともあるからね。このため、さっきの<ruby>SOS<rt>エスオーエス</rt></ruby>では「プッ」と「プゥ〜」の<ruby>長<rt>なが</rt></ruby>さの違う２つの<ruby>信号<rt>しんごう</rt></ruby>をつかってあらわしたんだ。
+    <p class="says">でもね、この方法だと「１」はおならのにおいがするからすぐにわかるけど、「０」のところ、つまり「おならをしていない」ことはわかりにくい<ruby>場合<rt>ばあい</rt></ruby>があるんだ。おならのにおいが<ruby>長<rt>なが</rt></ruby>く続くこともあるからね。このため、さっきの<ruby>SOS<rt>エスオーエス</rt></ruby>では「プッ」と「プゥ〜」の<ruby>長<rt>なが</rt></ruby>さのちがう２つの<ruby>信号<rt>しんごう</rt></ruby>をつかってあらわしたんだ。
     </p>
 </div>
 <div class="balloon_l">
@@ -654,7 +654,7 @@ tags:
   <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">デジタル<ruby>通信<rt>つうしん</rt></ruby>は「１」と「０」で<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>伝<rt>つた</rt></ruby>えることができるのでかんたんなんだけど、「１」と「０」の<ruby>時間<rt>じかん</rt></ruby>がはっきりわかる正確な時計も必要になるんだ。この時計が必要というところがデジタル<ruby>通信<rt>つうしん</rt></ruby>のポイントなんだよ。
+    <p class="says">デジタル<ruby>通信<rt>つうしん</rt></ruby>は「１」と「０」で<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>伝<rt>つた</rt></ruby>えることができるのでかんたんなんだけど、「１」と「０」の<ruby>時間<rt>じかん</rt></ruby>がはっきりわかる<ruby>正確<rt>せいかく</rt></ruby>な<ruby>時計<rt>とけい</rt></ruby>も必要になるんだ。この<ruby>時計<rt>とけい</rt></ruby>が必要というところがデジタル<ruby>通信<rt>つうしん</rt></ruby>のポイントなんだよ。
     </p>
 </div>
 
@@ -768,21 +768,21 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">いや、そんなことないよ。でもね、さっきデジタル<ruby>通信<rt>つうしん</rt></ruby>で必要と言った時計が<ruby>難<rt>むずか</rt></ruby>しいんだ。
+    <p class="says">いや、そんなことないよ。でもね、さっきデジタル<ruby>通信<rt>つうしん</rt></ruby>で必要と言った<ruby>時計<rt>とけい</rt></ruby>が<ruby>難<rt>むずか</rt></ruby>しいんだ。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">時計？
+    <p class="says"><ruby>時計<rt>とけい</rt></ruby>？
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そう時計。もっとちゃんというと「１」と「０」の<ruby>時間<rt>じかん</rt></ruby>を正確にあらわすために基準となる<ruby>時間<rt>じかん</rt></ruby>のこと。この基準となる<ruby>時間<rt>じかん</rt></ruby>を作る装置のことを発振回路というんだ。
+    <p class="says">そう<ruby>時計<rt>とけい</rt></ruby>。もっとちゃんというと「１」と「０」の<ruby>時間<rt>じかん</rt></ruby>を<ruby>正確<rt>せいかく</rt></ruby>にあらわすために基準となる<ruby>時間<rt>じかん</rt></ruby>のこと。この基準となる<ruby>時間<rt>じかん</rt></ruby>を作る装置のことを発振回路というんだ。
     </p>
 </div>
 <div class="balloon_l">
@@ -796,7 +796,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そう、発振回路。発振回路が刻む<ruby>時間<rt>じかん</rt></ruby>にあわせて「１」か「０」のいずれかを<ruby>送<rt>おく</rt></ruby>るんだ。なので、発振回路が正確に<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>で刻むことでが重要になるんだ。<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>で「１」と「０」を切り替えることができれば、それだけ<ruby>高速<rt>こうそく</rt></ruby>にたくさん<ruby>送<rt>おく</rt></ruby>ることができるからね。
+    <p class="says">そう、発振回路。発振回路が刻む<ruby>時間<rt>じかん</rt></ruby>にあわせて「１」か「０」のいずれかを<ruby>送<rt>おく</rt></ruby>るんだ。なので、発振回路が<ruby>正確<rt>せいかく</rt></ruby>に<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>で刻むことでが重要になるんだ。<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>で「１」と「０」を切り替えることができれば、それだけ<ruby>高速<rt>こうそく</rt></ruby>にたくさん<ruby>送<rt>おく</rt></ruby>ることができるからね。
     </p>
 </div>
 <div class="balloon_l">
