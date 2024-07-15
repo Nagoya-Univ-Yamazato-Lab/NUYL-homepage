@@ -9,14 +9,14 @@ tags:
   - 名古屋大学 夏のテクノロジーフェスティバル
   - NU Tech Festival 2024 Summer
 ---
-# [名古屋大学 夏のテクノロジーフェスティバル](https://tech.imass.nagoya-u.ac.jp/)
+# [<ruby>名古屋<rt>なごや</rt></ruby><ruby>大学<rt>だいがく</rt></ruby> <ruby>夏<rt>なつ</rt></ruby>のテクノロジーフェスティバル](https://tech.imass.nagoya-u.ac.jp/)
 # [おならでもつうしんできる？](https://tech.imass.nagoya-u.ac.jp/lecture.html#L4B)
 #### なるほど！つうしんのしくみ
 
 - セッションコード：[L4B](https://tech.imass.nagoya-u.ac.jp/lecture.html#L4B)
 - 対象：小学（特に低学年・中学年におすすめ）
 - 定員：250名
-- 会場：名古屋大学　坂田・平田ホール
+- 会場：<ruby>名古屋<rt>なごや</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>　<ruby>坂田<rt>さかた</rt></ruby>・<ruby>平田<rt>ひらた</rt></ruby>ホール
 - 日時：2024年8月28日（水）４時間目（15:20-16:50）
 - 担当：[教養教育院](https://www.ilas.nagoya-u.ac.jp)、[工学研究科情報・通信工学専攻](https://www.nuee.nagoya-u.ac.jp)　[教授　山里敬也](../../../team/Takaya-Yamazato)
 
@@ -52,9 +52,9 @@ tags:
 
 ---
 
-このページでは[<ruby>名古屋<rt>なごや</rt></ruby><ruby>大学<rt>だいがく</rt></ruby> 夏のテクノロジーフェスティバル](https://tech.imass.nagoya-u.ac.jp/)の[おならでもつうしんできる？](https://tech.imass.nagoya-u.ac.jp/lecture.html)について、知っておいて欲しいことを書くね。
+このページでは[<ruby>名古屋<rt>なごや</rt></ruby><ruby>大学<rt>だいがく</rt></ruby> <ruby>夏<rt>なつ</rt></ruby>のテクノロジーフェスティバル](https://tech.imass.nagoya-u.ac.jp/)の[おならでもつうしんできる？](https://tech.imass.nagoya-u.ac.jp/lecture.html)について、<ruby>知<rt>し</rt></ruby>っておいてほしいことを<ruby>書<rt>か</rt></ruby>くね。
 
-お父さん、お母さんと一緒に読んでね！
+お<ruby>父<rt>とう</rt></ruby>さん、お<ruby>母<rt>かあ</rt></ruby>さんといっしょに<ruby>読<rt>よ</rt></ruby>んでね！
 
 ---
 
