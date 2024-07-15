@@ -351,7 +351,7 @@ tags:
     <p class="says">そのとおり。<br>
     <ruby>短<rt>みじか</rt></ruby>い<ruby>電波<rt>でんぱ</rt></ruby>は<ruby>音<rt>おと</rt></ruby>であらわすと「ト」になるかな。<br>
     <ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>の<ruby>電波<rt>でんぱ</rt></ruby>は「ツー」。<br>
-    その２つの<ruby><rt>組</rt>くみ</ruby>み<ruby>合<rt>あ</rt></ruby>わせで <ruby>SOS信号<rt>エスオーエスしんごう</rt></ruby>をあらわしたんだ。
+    その２つの<ruby>組<rt>くみ</rt></ruby>み<ruby>合<rt>あ</rt></ruby>わせで <ruby>SOS信号<rt>エスオーエスしんごう</rt></ruby>をあらわしたんだ。
     </p>
 </div>
 <div class="balloon_l">
