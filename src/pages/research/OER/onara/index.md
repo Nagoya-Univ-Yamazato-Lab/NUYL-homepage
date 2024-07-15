@@ -209,7 +209,7 @@ tags:
 
 <a id="how-it-works"></a>
 
-## おならで<ruby>エスオーエス<rt>せかい</rt></ruby>を<ruby>送<rt>おく</rt></ruby>ってみよう！（おなら<ruby>通信<rt>つうしん</rt></ruby>のしくみ）
+## おならで<ruby>SOS<rt>エスオーエス</rt></ruby>を<ruby>送<rt>おく</rt></ruby>ってみよう！（おなら<ruby>通信<rt>つうしん</rt></ruby>のしくみ）
 
 <div class="balloon_l">
   <div class="faceicon">
