@@ -445,14 +445,16 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">おならくん、いいところに<ruby>気<rt>き</rt></ruby>づいたね。さすがだよ。そう、おならのにおいでも<ruby>通信<rt>つうしん</rt></ruby>はできるよ。
+    <p class="says">おならくん、いいところに<ruby>気<rt>き</rt></ruby>づいたね。さすがだよ。<br>
+    そう、おならのにおいでも<ruby>通信<rt>つうしん</rt></ruby>はできるよ。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">どうやってやるの？おしえて。
+    <p class="says">どうやってやるの？<br>
+    おしえて。
     </p>
 </div>
 <div class="balloon_r">
