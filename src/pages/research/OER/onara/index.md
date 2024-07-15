@@ -539,14 +539,14 @@ tags:
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
     <p class="says">さっすが、おならくん、そのとおりだよ。<br>
-    <ruby>情報<rt>じょうほう</rt></ruby>を<ruby>送<rt>おく</rt></ruby>る方と受け取る方とで２つの区別がつけば、<ruby>何<rt>なに</rt></ruby>をつかっても<ruby>通信<rt>つうしん</rt></ruby>ができるんだよ。この<ruby>場合<rt>ばあい</rt></ruby>「１」と「０」をつかうのでデジタル<ruby>通信<rt>つうしん</rt></ruby>と言うんだ。
+    <ruby>情報<rt>じょうほう</rt></ruby>を<ruby>送<rt>おく</rt></ruby>る方と受け取る方とで２つの区別がつけば、<ruby>何<rt>なに</rt></ruby>をつかっても<ruby>通信<rt>つうしん</rt></ruby>ができるんだよ。この<ruby>場合<rt>ばあい</rt></ruby>「１」と「０」をつかうのでデジタル<ruby>通信<rt>つうしん</rt></ruby>というんだ。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">「１」と「０」だからデジタル<ruby>通信<rt>つうしん</rt></ruby>なんだね。すごい。デジタルって言うからもっと<ruby>難<rt>むずか</rt></ruby>しいのかと思っていたよ。
+    <p class="says">「１」と「０」だからデジタル<ruby>通信<rt>つうしん</rt></ruby>なんだね。すごい。デジタルっていうからもっと<ruby>難<rt>むずか</rt></ruby>しいのかと思っていたよ。
     </p>
 </div>
 <div class="balloon_r">
@@ -616,7 +616,7 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">と言うことは、たとえば、「１」「１」と<ruby>送<rt>おく</rt></ruby>りたい<ruby>場合<rt>ばあい</rt></ruby>は１<ruby>分<rt>ふん</rt></ruby>おきに「プゥ〜」「プゥ〜」とおならをすればいいのかな？
+    <p class="says">ということは、たとえば、「１」「１」と<ruby>送<rt>おく</rt></ruby>りたい<ruby>場合<rt>ばあい</rt></ruby>は１<ruby>分<rt>ふん</rt></ruby>おきに「プゥ〜」「プゥ〜」とおならをすればいいのかな？
     </p>
 </div>
 <div class="balloon_r">
@@ -633,7 +633,7 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">なるほど、時計にあわせて１<ruby>分<rt>ふん</rt></ruby>おきにおならを「する」、「しない」で<ruby>情報<rt>じょうほう</rt></ruby>の「１」と「０」を<ruby>送<rt>おく</rt></ruby>ることができるのだね。これがデジタル<ruby>通信<rt>つうしん</rt></ruby>なのか！なんだか凄い！
+    <p class="says">なるほど、時計にあわせて１<ruby>分<rt>ふん</rt></ruby>おきにおならを「する」、「しない」で<ruby>情報<rt>じょうほう</rt></ruby>の「１」と「０」を<ruby>送<rt>おく</rt></ruby>ることができるのだね。これがデジタル<ruby>通信<rt>つうしん</rt></ruby>なのか！なんだかすごい！
     </p>
 </div>
 <div class="balloon_r">
@@ -782,7 +782,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そう時計。もっとちゃんというと「１」と「０」の<ruby>時間<rt>じかん</rt></ruby>を正確にあらわすために基準となる<ruby>時間<rt>じかん</rt></ruby>のこと。この基準となる<ruby>時間<rt>じかん</rt></ruby>を作る装置のことを発振回路と言うんだ。
+    <p class="says">そう時計。もっとちゃんというと「１」と「０」の<ruby>時間<rt>じかん</rt></ruby>を正確にあらわすために基準となる<ruby>時間<rt>じかん</rt></ruby>のこと。この基準となる<ruby>時間<rt>じかん</rt></ruby>を作る装置のことを発振回路というんだ。
     </p>
 </div>
 <div class="balloon_l">
