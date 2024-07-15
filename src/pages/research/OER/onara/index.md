@@ -52,7 +52,7 @@ tags:
 
 ---
 
-このページでは[名古屋大学 夏のテクノロジーフェスティバル](https://tech.imass.nagoya-u.ac.jp/)の[おならでもつうしんできる？](https://tech.imass.nagoya-u.ac.jp/lecture.html)について、知っておいて欲しいことを書くね。
+このページでは[<ruby>名古屋<rt>なごや</rt></ruby><ruby>大学<rt>だいがく</rt></ruby> 夏のテクノロジーフェスティバル](https://tech.imass.nagoya-u.ac.jp/)の[おならでもつうしんできる？](https://tech.imass.nagoya-u.ac.jp/lecture.html)について、知っておいて欲しいことを書くね。
 
 お父さん、お母さんと一緒に読んでね！
 
@@ -838,7 +838,7 @@ tags:
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
     <p class="says">そう。<br>
-    <ruby>名古屋大学<rt>なごやだいがく</rt></ruby>だと<a href="http://www.semicond.nuee.nagoya-u.ac.jp/"><ruby>天野・本田研究室<rt>あまの・ほんだ けんきゅうしつ</rt></ruby></a>の<a href="https://profs.provost.nagoya-u.ac.jp/html/100009220_ja.html"><ruby>久志本<rt>くしもと</rt></ruby><ruby>真希<rt>まき</rt></ruby><ruby>先生<rt>せんせい</rt></ruby></a>が<ruby>研究<rt>けんきゅう</rt></ruby>しているよ。<a href="https://www.imass.nagoya-u.ac.jp/news_information/07_kushimoto.html"><ruby>世界最高速<rt>せかいさいこうそく</rt></ruby>の<ruby>発振回路<rt>はっしんかいろ</rt></ruby></a>ができたって<ruby>発表<rt>はっぴょう</rt></ruby>していたよ。
+    <ruby>名古屋<rt>なごや</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>だと<a href="http://www.semicond.nuee.nagoya-u.ac.jp/"><ruby>天野・本田研究室<rt>あまの・ほんだ けんきゅうしつ</rt></ruby></a>の<a href="https://profs.provost.nagoya-u.ac.jp/html/100009220_ja.html"><ruby>久志本<rt>くしもと</rt></ruby><ruby>真希<rt>まき</rt></ruby><ruby>先生<rt>せんせい</rt></ruby></a>が<ruby>研究<rt>けんきゅう</rt></ruby>しているよ。<a href="https://www.imass.nagoya-u.ac.jp/news_information/07_kushimoto.html"><ruby>世界最高速<rt>せかいさいこうそく</rt></ruby>の<ruby>発振回路<rt>はっしんかいろ</rt></ruby></a>ができたって<ruby>発表<rt>はっぴょう</rt></ruby>していたよ。
     </p>
 </div>
 <div class="balloon_l">
@@ -853,7 +853,7 @@ tags:
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
     <p class="says"><ruby>光<rt>ひかり</rt></ruby>については<a href="https://www.nuee.nagoya-u.ac.jp/labs/optelelab/"><ruby>西澤典彦先生<rt>にしざわ のりひこ せんせい</rt></ruby></a>が<ruby>研究<rt>けんきゅう</rt></ruby>しているよ。<br>
-    <ruby>名古屋大学<rt>なごやだいがく</rt></ruby>テクノロジーフェスティバル<a href="https://tech.imass.nagoya-u.ac.jp/lecture.html#L3C">「すごい！ひかりのふしぎ、れーざーこうせんってすごい！」</a>の<ruby>先生<rt>せんせい</rt></ruby>でもあるよ。
+    <ruby>名古屋<rt>なごや</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>テクノロジーフェスティバル<a href="https://tech.imass.nagoya-u.ac.jp/lecture.html#L3C">「すごい！ひかりのふしぎ、れーざーこうせんってすごい！」</a>の<ruby>先生<rt>せんせい</rt></ruby>でもあるよ。
     </p>
 </div>
 <div class="balloon_l">
@@ -870,8 +870,8 @@ tags:
     </div>
     <p class="says">ぼくは<ruby>可視光通信<rt>かしこうつうしん</rt></ruby>っていってね、<ruby>目<rt>め</rt></ruby>で<ruby>見<rt>み</rt></ruby>える<ruby>光<rt>ひかり</rt></ruby>をつかった<ruby>通信<rt>つうしん</rt></ruby>を<ruby>研究<rt>けんきゅう</rt></ruby>しているんだ。<br>
     この<ruby>授業<rt>じゅぎょう</rt></ruby>でデモもやるよ。<br>
-    <ruby>天野浩先生<rt>あまの ひろし せんせい</rt></ruby>が<ruby>発明<rt>はつめい</rt></ruby>した<ruby>LED<rt>エル イー ディ</rt></ruby>をつかって<ruby>通信<rt>つうしん</rt></ruby>をするんだ。<br>
-    <a href="https://tech.imass.nagoya-u.ac.jp/lecture.html"><ruby>天野先生<rt>あまの せんせい</rt></ruby>の講演</a>はぜひきいてね。ちょっとむずかしいかもしれないけど、きっとワクワクするとおもうよ。
+    <ruby>天野<rt>あまの</rt><ruby>浩<rt>ひろし</rt><ruby>先生<rt>せんせい</rt></ruby>が<ruby>発明<rt>はつめい</rt></ruby>した<ruby>LED<rt>エル イー ディ</rt></ruby>をつかって<ruby>通信<rt>つうしん</rt></ruby>をするんだ。<br>
+    <a href="https://tech.imass.nagoya-u.ac.jp/lecture.html"><ruby>天野<rt>あまの</rt><ruby>先生<rt>せんせい</rt>/ruby>の講演</a>はぜひきいてね。ちょっとむずかしいかもしれないけど、きっとワクワクするとおもうよ。
     </p>
 </div>
 <div class="balloon_l">
