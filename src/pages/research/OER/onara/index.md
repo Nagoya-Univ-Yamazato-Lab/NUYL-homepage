@@ -782,7 +782,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そう<ruby>時計<rt>とけい</rt></ruby>。もっとちゃんというと「１」と「０」の<ruby>時間<rt>じかん</rt></ruby>を<ruby>正確<rt>せいかく</rt></ruby>にあらわすために基準となる<ruby>時間<rt>じかん</rt></ruby>のこと。この基準となる<ruby>時間<rt>じかん</rt></ruby>を作る装置のことを<ruby>発振回路<rt>はっしん</rt></ruby>というんだ。
+    <p class="says">そう<ruby>時計<rt>とけい</rt></ruby>。もっとちゃんというと「１」と「０」の<ruby>時間<rt>じかん</rt></ruby>を<ruby>正確<rt>せいかく</rt></ruby>にあらわすために基準となる<ruby>時間<rt>じかん</rt></ruby>のこと。この<ruby>基準<rt>きじゅん</rt></ruby>となる<ruby>時間<rt>じかん</rt></ruby>を<ruby>作<rt>つく</rt></ruby>る<ruby>装置<rt>そうち</rt></ruby>のことを<ruby>発振回路<rt>はっしん</rt></ruby>というんだ。
     </p>
 </div>
 <div class="balloon_l">
@@ -796,7 +796,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そう、<ruby>発振回路<rt>はっしん</rt></ruby>。<ruby>発振回路<rt>はっしん</rt></ruby>が刻む<ruby>時間<rt>じかん</rt></ruby>にあわせて「１」か「０」のいずれかを<ruby>送<rt>おく</rt></ruby>るんだ。なので、<ruby>発振回路<rt>はっしん</rt></ruby>が<ruby>正確<rt>せいかく</rt></ruby>に<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>で刻むことでが重要になるんだ。<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>で「１」と「０」を切り替えることができれば、それだけ<ruby>高速<rt>こうそく</rt></ruby>にたくさん<ruby>送<rt>おく</rt></ruby>ることができるからね。
+    <p class="says">そう、<ruby>発振回路<rt>はっしん</rt></ruby>。<ruby>発振回路<rt>はっしん</rt></ruby>が<ruby>刻<rt>きざ</rt></ruby>む<ruby>時間<rt>じかん</rt></ruby>にあわせて「１」か「０」のいずれかを<ruby>送<rt>おく</rt></ruby>るんだ。なので、<ruby>発振回路<rt>はっしん</rt></ruby>が<ruby>正確<rt>せいかく</rt></ruby>に<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>で<ruby>刻<rt>きざ</rt></ruby>むことでがだいじになるんだ。<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>で「１」と「０」を切り替えることができれば、それだけ<ruby>高速<rt>こうそく</rt></ruby>にたくさん<ruby>送<rt>おく</rt></ruby>ることができるからね。
     </p>
 </div>
 <div class="balloon_l">
