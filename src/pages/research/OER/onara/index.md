@@ -690,7 +690,7 @@ tags:
   <div class="faceicon">
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
-    <p class="says">この世の中で<ruby>一番速<rt>いちばんはや</rt></ruby>いものをつかって「１」と「０」をあらわせばいいのだね。<br>
+    <p class="says">この<ruby>世<rt>よ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>一番速<rt>いちばんはや</rt></ruby>いものをつかって「１」と「０」をあらわせばいいのだね。<br>
     <ruby>一番速<rt>いちばんはや</rt></ruby>いもの、というと．．．わかった「<ruby>光<rt>ひかり</rt></ruby>」だね！
     </p>
 </div>
