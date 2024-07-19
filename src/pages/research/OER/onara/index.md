@@ -67,7 +67,7 @@ tags:
 - [おならで<ruby>SOS<rt>エスオーエス</rt></ruby>を<ruby>送<rt>おく</rt></ruby>ってみよう！（おなら<ruby>通信<rt>つうしん</rt></ruby>のしくみ）](#how-it-works)
 - [おならのにおいでも<ruby>通信<rt>つうしん</rt></ruby>はできるの？（デジタル<ruby>通信<rt>つうしん</rt></ruby>の<ruby>原理<rt>げんり</rt></ruby>）](#smell-communication)
 - [もっと<ruby>速<rt>はや</rt></ruby>い<ruby>通信<rt>つうしん</rt></ruby>はできるの？（<ruby>光<rt>ひかり</rt></ruby>をつかった<ruby>通信<rt>つうしん</rt></ruby>と<ruby>電波<rt>でんぱ</rt></ruby>をつかった<ruby>通信<rt>つうしん</rt></ruby>）](#wired-and-wireless-communication)
-- [さらに<ruby>名古屋<rt>なごや</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>するために](#For-further-study)
+- [さらに<ruby>勉強<rt>べんきょう</rt></ruby>するために](#For-further-study)
 - [おなら<ruby>通信<rt>つうしん</rt></ruby>のアイデアはここから生まれた？！](the-fart-communication)
 
 ---
