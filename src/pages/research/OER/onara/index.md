@@ -936,9 +936,10 @@ tags:
 
 ## さらに<ruby>勉強<rt>べんきょう</rt></ruby>するために
 
+かんせいまで、もうすこし、まってね。
+
 <ruby>通信<rt>つうしん</rt></ruby>についてさらに<ruby>勉強<rt>べんきょう</rt></ruby>するためのサイトをご<ruby>紹介<rt>しょうかい</rt></ruby>します。
 
-かんせいまで、もうすこし、まってね。
 
 -----
 <a id="the-fart-communication"></a>
