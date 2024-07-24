@@ -464,7 +464,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">おならの<ruby>音<rt>おと</rt></ruby>をつかった<ruby>通信<rt>つうしん</rt></ruby>では、<ruby>短<rt>みじか</rt></ruby>いおならの<ruby>音<rt>おと</rt></ruby>「プッｔ」と<ruby>長<rt>なが</rt></ruby>いおならの<ruby>音<rt>おと</rt></ruby>「プゥ〜」の２つの<ruby>音<rt>おと</rt></ruby>をつかったよね。
+    <p class="says">おならの<ruby>音<rt>おと</rt></ruby>をつかった<ruby>通信<rt>つうしん</rt></ruby>では、<ruby>短<rt>みじか</rt></ruby>いおならの<ruby>音<rt>おと</rt></ruby>「プッ」と<ruby>長<rt>なが</rt></ruby>いおならの<ruby>音<rt>おと</rt></ruby>「プゥ〜」の２つの<ruby>音<rt>おと</rt></ruby>をつかったよね。
     </p>
 </div>
 <div class="balloon_l">
@@ -645,7 +645,7 @@ tags:
     </div>
     <p class="says">そのとおり。「１」「０」「１」の<ruby>場合<rt>ばあい</rt></ruby>で考えてみようか。<br>
     <ruby>最初<rt>さいしょ</rt></ruby>は「１」なのでおならを「プゥ〜」、<br>
-    次の１<ruby>分<rt>ぷん</rt></ruby>から２<ruby>分<rt>ふん</rt></ruby>までは「０」なので、おならをしないで「しーん（<ruby>音<rt>おと</rt></ruby>がしない）」、<br>
+    次の１<ruby>分<rt>ぷん</rt></ruby>から２<ruby>分<rt>ふん</rt></ruby>までは「０」なので、おならをしないで「しーん（においがしない）」、<br>
     <ruby>最後<rt>さいご</rt></ruby>の２<ruby>分<rt>ふん</rt></ruby>から３<ruby>分<rt>ぷん</rt></ruby>までは「１」なので、また「プゥ〜」とおならをすればいいよ。
     </p>
 </div>
