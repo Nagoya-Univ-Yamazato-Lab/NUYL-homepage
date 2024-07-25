@@ -766,7 +766,7 @@ tags:
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
     <p class="says"><ruby>電波<rt>でんぱ</rt></ruby>はラジオやテレビ、けいたい<ruby>電話<rt>でんわ</rt></ruby>などの<ruby>無線<rt>むせん</rt></ruby><ruby>通信<rt>つうしん</rt></ruby>でつかわれているよ。<br>
-    <ruby>光<rt>ひかり</rt></ruby>をつかう<ruby>光<rt>ひかり</rt></ruby>ファイバー<ruby>通信<rt>つうしん</rt></ruby>も<ruby>電波<rt>でんぱ</rt></ruby>をつかう<ruby>無線<rt>むせん</rt></ruby><ruby>通信<rt>つうしん</rt></ruby>のいずれもデジタル<ruby>通信<rt>つうしん</rt></ruby>だよ。
+    <ruby>光<rt>ひかり</rt></ruby>をつかう<ruby>光<rt>ひかり</rt></ruby>ファイバー<ruby>通信<rt>つうしん</rt></ruby>も<ruby>電波<rt>でんぱ</rt></ruby>をつかう<ruby>無線<rt>むせん</rt></ruby><ruby>通信<rt>つうしん</rt></ruby>のいずれもデジタル<ruby>通信<rt>つうしん</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いんだよ。
     </p>
 </div>
 <div class="balloon_l">
