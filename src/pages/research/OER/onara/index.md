@@ -939,7 +939,7 @@ tags:
 <ruby>通信<rt>つうしん</rt></ruby>についてさらに<ruby>勉強<rt>べんきょう</rt></ruby>するためのサイトをご<ruby>紹介<rt>しょうかい</rt></ruby>します。
 
 このリストはアップデートしていくので、ときどき、<ruby>見<rt>み</rt></ruby>に<ruby>来<rt>き</rt></ruby>てね。
-また、<ruby>お薦<rt>すす</rt></ruby>めの<ruby>サイト<rt>さいと</rt></ruby>があれば<ruby>是非<rt>ぜひ</rt></ruby><ruby>教<rt>おし</rt></ruby>えてください！
+また、お<ruby>薦<rt>すす</rt></ruby>めの<ruby>サイト<rt>さいと</rt></ruby>があれば<ruby>是非<rt>ぜひ</rt></ruby><ruby>教<rt>おし</rt></ruby>えてください！
 
 1. [<ruby>総務省<rt>そうむしょう</rt></ruby> <ruby>子供<rt>こども</rt></ruby>のための<ruby>情報通信白書<rt>じょうほうつうしんはくしょ</rt></ruby>](https://www.soumu.go.jp/hakusho-kids/)
    - https://www.soumu.go.jp/hakusho-kids/
