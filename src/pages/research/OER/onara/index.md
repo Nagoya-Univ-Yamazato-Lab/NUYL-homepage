@@ -963,7 +963,7 @@ tags:
    - インターネットや<ruby>コンピュータ<rt>こんぴゅーた</rt></ruby>について、<ruby>楽<rt>たの</rt></ruby>しい<ruby>記事<rt>きじ</rt></ruby>や<ruby>特集<rt>とくしゅう</rt></ruby>がいっぱいのサイト。たとえば[<ruby>衛星通信<rt>えいせいつうしん</rt></ruby><ruby>大研究<rt>だいけんきゅう</rt></ruby>](https://www.kodomonokagaku.com/eisei/)はとてもおもしろいよ。ほかにも、[ノーベル<ruby>賞<rt>しょう</rt></ruby>スペシャルサイト](https://www.kodomonokagaku.com/read/27909/)では<ruby>天野<rt>あまの</rt></ruby><ruby>浩<rt>ひろし</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>のことも<ruby>学<rt>まな</rt></ruby>べるよ。
 
 1. [月間FBニュース](https://www.fbnews.jp/)　子供の<ruby>無線教室<rt>むせんきょうしつ</rt></ruby> ～<ruby>電波<rt>でんぱ</rt></ruby>のフシギをやさしく<ruby>学<rt>まな</rt></ruby>ぼう～
-   - <ruby>無線通信<rt>むせんつうしん</rt></ruby>の<ruby>仕組<rt>しく</rt></ruby>みを<ruby>楽<rt>たの</rt></ruby>しく<ruby>学<rt>まな</rt></ruby>ぶことができるよ。<ruby>全部<rt>ぜんぶ</rt></ruby>で10<ruby>回<rt>かい</rt></ruby>のシリーズになっていて<ruby>電波<rt>でんぱ</rt></ruby>、<ruby>アンテナ<rt>あんてな</rt></ruby>から<ruby>無線機<rt>むせんき</rt></ruby>までくわしい<ruby>説明<rt>せつめい</rt></ruby>があるよ。
+   - <ruby>全部<rt>ぜんぶ</rt></ruby>で10<ruby>回<rt>かい</rt></ruby>のシリーズになっていて<ruby>電波<rt>でんぱ</rt></ruby>、<ruby>アンテナ<rt>あんてな</rt></ruby>から<ruby>無線機<rt>むせんき</rt></ruby>までくわしい<ruby>説明<rt>せつめい</rt></ruby>があるよ。<ruby>無線通信<rt>むせんつうしん</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しく<ruby>学<rt>まな</rt></ruby>ぶことができるよ。
      - [第1回「<ruby>電波<rt>でんぱ</rt></ruby>ってなあに?」](https://www.fbnews.jp/201701/musenkyoushitsu/)
      - [第2回「<ruby>電波<rt>でんぱ</rt></ruby>の<ruby>発見<rt>はっけん</rt></ruby>と<ruby>利用<rt>りよう</rt></ruby>の<ruby>歴史<rt>れきし</rt></ruby>」](https://www.fbnews.jp/201702/musenkyoushitsu/index.html)
      - [第3回「<ruby>電波<rt>でんぱ</rt></ruby>はどうやって<ruby>伝<rt>つた</rt></ruby>わるの？」](https://www.fbnews.jp/201703/musenkyoushitsu/index.html)
