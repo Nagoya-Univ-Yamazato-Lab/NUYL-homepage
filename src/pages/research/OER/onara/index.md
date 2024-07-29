@@ -958,6 +958,11 @@ tags:
    - https://www.ieice.org/~cs-edit/magazine/howto.html
    - デモをやる[<ruby>可視光通信<rt>かしこうつうしん</rt></ruby>](https://www.jstage.jst.go.jp/article/bplus/12/3/12_174/_pdf)はここに<ruby>載<rt></rt></ruby>っているのとおなじだよ。LEDをピカピカ<ruby>光<rt>ひか</rt></ruby>らせて<ruby>（音声）信号<rt>（おんせい）しんごう</rt></ruby>を<ruby>送<rt></rt></ruby>り、<ruby>太陽電池<rt>たいようでんち</rt></ruby>で<ruby>受信<rt>じゅしん</rt></ruby>するんだよ。
 
+1. [<ruby>電波<rt>でんぱ</rt></ruby><ruby>適正<rt>てきせい</rt></ruby><ruby>利用<rt>りよう</rt></ruby><ruby>推進<rt>すいしん</rt></ruby><ruby>員<rt>いん</rt></ruby><ruby>協議会<rt>きょうぎかい</rt></ruby>　<ruby>電波<rt>でんぱ</rt></ruby><ruby>学習館<rt>がくしゅうかん</rt></ruby>](https://www.cleandenpa.net/museum/g_moku.html)
+   - https://www.cleandenpa.net/museum/g_moku.html
+   - ガウス、マックスウェル、アンペール、ヘルツ、ファラデーなど<ruby>電波<rt>でんぱ</rt></ruby>を<ruby>発見<rt>はっけん</rt></ruby>した<ruby>偉人<rt>いじん</rt></ruby>とその<ruby>業績<rt>ぎょうせき</rt></ruby>の<ruby>説明<rt>せつめい</rt></ruby>や、マルコーニによる<ruby>初期<rt>しょき</rt></ruby>の<ruby>無線通信<rt>むせんつうしん</rt></ruby>の<ruby>仕組<rt>しく</rt></ruby>みなどの<ruby>説明<rt>せつめい</rt></ruby>があるよ。また、<ruby>鉱石<rt>こうせき</rt></ruby><ruby>ラジオ<rt>らじお</rt></ruby>の<ruby>作<rt>つ</rt></ruby>り<ruby>方<rt>かた</rt></ruby>もあるので<ruby>試<rt>ため</rt></ruby>してみると<ruby>楽<rt>たの</rt></ruby>しいよ。
+
+
 1. [<ruby>子供<rt>こども</rt></ruby>の<ruby>科学<rt>かがく</rt></ruby>](https://www.kodomonokagaku.com)
    - https://www.kodomonokagaku.com
    - インターネットや<ruby>コンピュータ<rt>こんぴゅーた</rt></ruby>について、<ruby>楽<rt>たの</rt></ruby>しい<ruby>記事<rt>きじ</rt></ruby>や<ruby>特集<rt>とくしゅう</rt></ruby>がいっぱいのサイト。たとえば[<ruby>衛星通信<rt>えいせいつうしん</rt></ruby><ruby>大研究<rt>だいけんきゅう</rt></ruby>](https://www.kodomonokagaku.com/eisei/)はとてもおもしろいよ。ほかにも、[ノーベル<ruby>賞<rt>しょう</rt></ruby>スペシャルサイト](https://www.kodomonokagaku.com/read/27909/)では[<ruby>赤崎 勇<rt>あかさき いさむ</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>、<ruby>天野<rt>あまの</rt></ruby><ruby>浩<rt>ひろし</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>、<ruby>中村 修二<rt>なかむら しゅうじ</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>が発明した[青色LED](https://www.kodomonokagaku.com/read/28115/)のことも<ruby>学<rt>まな</rt></ruby>べるよ。ぜひ、<ruby>読<rt>よ</rt></ruby>んでね。
@@ -991,12 +996,17 @@ tags:
 
 ## 平賀源内とおなら
 
-![「平賀鳩渓肖像」 木村黙老著『戯作者考補遺』（写本）より、慶應義塾図書館所蔵](../../../../img/A_Portrait_of_Kyūkei_Hiraga_cropped.jpg)
-
-
-
 平賀 源内（享保13（1728）年 - 安永8（1780）年）は、江戸時代の学者であり発明家、作家としても知られています。
 「土用の丑の日」を作った人と言うと分かるかな？
+
+<div align="center">
+<img
+  src="A_Portrait_of_Kyūkei_Hiraga.jpg"
+  alt="「平賀鳩渓肖像」 木村黙老著『戯作者考補遺』（写本）より、慶應義塾図書館所蔵" />
+<br />
+「平賀鳩渓肖像」 木村黙老著『戯作者考補遺』（写本）より、慶應義塾図書館所蔵
+</div><br />
+
 
 ### 土用の丑の日
 
@@ -1010,15 +1020,40 @@ NHKの面白い動画がありますので、どうぞご覧下さい。
 ### エレキテル
 
 さて、この授業でタイタニック号の無線機を紹介しました。火花で電波を飛ばす装置のことです。この火花を出す装置を作って一躍人気者になったのが源内です。
-源内は、オランダで病気の治療などに使われていた機械ををまねて、エレキテルを作りました。エレキテルは摩擦によって電気（火花）を発生できる機械です。エレキテルで発生した電気を導線で離れた人へ送り火花を散らす見世物が評判になりました。
 
-こちらもNHKの動画です。
+<div align="center">
+<img
+  src="Elekiter_replica.jpg"
+  alt="平賀源内作のエレキテル（複製）、国立科学博物館" />
+<br />
+平賀源内作のエレキテル（複製）、国立科学博物館
+</div><br />
+
+源内は、オランダで病気の治療などに使われていた機械ををまねて、エレキテルを作りました。エレキテルは摩擦によって火花（正確には静電気）を発生できる静電気発生装置です。
+
+<div align="center">
+<!-- ![1787年発行の蘭学書「紅毛雑話」に描かれたエレキテル](./Erekiteru-demonstration.gif) -->
+<img
+  src="Erekiteru-demonstration.gif"
+  alt="1787年発行の蘭学書「紅毛雑話」に描かれたエレキテル" />
+<br />
+1787年発行の蘭学書「紅毛雑話」に描かれたエレキテル
+</div><br />
+
+上図は森島中良の『紅毛雑話』に描かれた江戸時代の見世物です。とても評判だったようです。
+
+右にいる人が箱の外についたハンドルを回転させています。ハンドルが回ると箱の中にあるガラス瓶がこすれて、摩擦で電気が発生します。
+発生した電気は、くさり(導線)を通して左の台へ送られます。すると、台に座っている人の頭から火花が出ます。
+
+この図だと分かりにくいので、詳しくはこちらのNHK動画をご覧下さい。エレキテルの見世物がご覧頂けます。
 
 - [NHK for School 平賀源内](https://www2.nhk.or.jp/school/watch/clip/?das_id=D0005310506_00000)
 
-江戸時代中頃の人物。本草学者、地質学者、蘭学者、医者、殖産事業家、戯作者、浄瑠璃作者、俳人、蘭画家、発明家。
+### 放屁論と放屁論後編
+
+さて、好奇心旺盛な源内は安永3年（1774年）に「放屁論」を書きます。ここに登場するのが屁芸で江戸を沸かせた放屁男（霧降花咲男）です。
 
 ### おならのギネス<ruby>世界記録<rt>せかいきろく</rt></ruby>
 
-かんせいまで、もうすこし、まってね。
+
 
