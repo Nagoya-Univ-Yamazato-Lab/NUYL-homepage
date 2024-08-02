@@ -990,7 +990,7 @@ tags:
 
 1. [電気通信大学60年史　前編](http://www.museum.uec.ac.jp/60th-anniversary/zenpen/)
    - http://www.museum.uec.ac.jp/60th-anniversary/zenpen/index.html
-   - タイタニックの無線機について、もっと知りたい方はこちらも読んでね。ちょっと難しいと思います。
+   - タイタニックの<ruby>無線機<rt>むせんき</rt></ruby>（マルコーニ<ruby>無線機<rt>むせんき</rt></ruby>）について、もっと<ruby>知<rt>し</rt></ruby>りたい<ruby>方<rt>かた</rt></ruby>はこちらも<ruby>読<rt>よ</rt></ruby>んでね。でも、ちょっと<ruby>難<rt>むず</rt></ruby>しいです。
 
 
 -----
@@ -1001,8 +1001,8 @@ tags:
 
 「おなら」とは、「<ruby>鳴<rt>な</rt></ruby>らす」に「お」をつけて、「す」を取った<ruby>言葉<rt>ことば</rt></ruby>です。<ruby>昔<rt>むかし</rt></ruby>、<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が「<ruby>屁<rt>へ</rt></ruby>」と<ruby>言<rt>い</rt></ruby>うのが<ruby>恥<rt>は</rt></ruby>ずかしかったので、おならの<ruby>音<rt>おと</rt></ruby>を<ruby>鳴<rt>なら</rt></ruby>したことを「お<ruby>鳴<rt>なら</rt></ruby>ら」と<ruby>上品<rt>じょうひん</rt></ruby>に<ruby>言<rt>い</rt></ruby>ったのが<ruby>始<rt>はじ</rt></ruby>まりです。<ruby>面白<rt>おもしろ</rt></ruby>いですね。
 
-おなら<ruby>通信<rt>つうしん</rt></ruby>のアイデアは<ruby>平賀源内<rt>ひらがげんない</rt></ruby>から生まれました。
-僕もびっくりしましたが、<ruby>平賀源内<rt>ひらがげんない</rt></ruby>はおならが<ruby>大好<rt>だいす</rt></ruby>きだったみたいです。
+おなら<ruby>通信<rt>つうしん</rt></ruby>のアイデアは<ruby>平賀源内<rt>ひらがげんない</rt></ruby>から<ruby>生<rt>う</rt></ruby>まれました。
+ぼくもびっくりしましたが、<ruby>平賀源内<rt>ひらがげんない</rt></ruby>はおならが<ruby>大好<rt>だいす</rt></ruby>きだったみたいです。
 
 <!-- ギネスの<ruby>世界記録<rt>せかいきろく</rt></ruby>から生まれました。僕もびっくりしましたが、おならでギネス<ruby>世界記録<rt>せかいきろく</rt></ruby>を狙えるのですね。
 
