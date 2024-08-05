@@ -1253,7 +1253,7 @@ NHKの面白い動画がありますので、どうぞご覧下さい。
   - 吉本興業所属の芸人（放屁師）です。自由自在におならをこくことができます。日本より海外で有名かも。ゴットタレントの動画は抱腹絶倒です。
 
 - ミスターメタン（Mr Methane）
-  - イギリスの放屁師です。放屁師のことを英語で Flatulist と言います。さて、この方、なんと、[ギネスの世界記録保持者](https://www.guinnessworldrecords.jp/world-records/651584-longest-career-as-a-flatulist)です。しかも「おなら芸」で、です。
+  - イギリスの放屁師です。放屁師のことを英語で Flatulist と言います。さて、この方、なんと、[ギネスの世界記録保持者](https://www.guinnessworldrecords.jp/world-records/651584-longest-career-as-a-flatulist)です。しかも「おなら」で。すごいですね。
 
 この方々であれば、おなら通信はできますね。でも、こんな特技の無い人はどうすれば良いのでしょうか？
 練習してできるものでもありませんし・・・
