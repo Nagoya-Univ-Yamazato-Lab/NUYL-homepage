@@ -17,7 +17,7 @@ tags:
 - <ruby>対象<rt>たいしょう</rt></ruby>：<ruby>小学生<rt>しょうがくせい</rt></ruby>（<ruby>特<rt>とく</rt></ruby>に<ruby>低学年<rt>ていがくねん</rt></ruby>・<ruby>中学年<rt>ちゅうがくねん</rt></ruby>におすすめ）
 - <ruby>定員<rt>ていいん</rt></ruby>：250<ruby>名<rt>めい</rt></ruby>
 - <ruby>会場<rt>かいじょう</rt></ruby>：<ruby>名古屋<rt>なごや</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>　<ruby>坂田<rt>さかた</rt></ruby>・<ruby>平田<rt>ひらた</rt></ruby>ホール
-- <ruby>日時<rt>にちじ</rt></ruby>：2024<ruby>年<rt>ねん</rt></ruby>８<ruby>月<rt>がつ</rt></ruby>２８<ruby>日<rt>にち</rt></ruby>（<ruby>水<rt>すい</rt></ruby>）４<ruby>時間目<rt>じかんめ</rt></ruby>（15:20-16:50）
+- <ruby>日時<rt>にちじ</rt></ruby>：2024<ruby>年<rt>ねん</rt></ruby>8<ruby>月<rt>がつ</rt></ruby>28<ruby>日<rt>にち</rt></ruby>（<ruby>水<rt>すい</rt></ruby>）４<ruby>時間目<rt>じかんめ</rt></ruby>（15:20-16:50）
 - <ruby>担当<rt>たんとう</rt></ruby>：[<ruby>教養教育院<rt>きょうようきょういくいん</rt></ruby>](https://www.ilas.nagoya-u.ac.jp)、[<ruby>工学研究科<rt>こうがくけんきゅうか</rt></ruby>・<ruby>情報・通信工学専攻<rt>じょうほう・つうしんこうがくせんこう</rt></ruby>](https://www.nuee.nagoya-u.ac.jp)　[<ruby>教授<rt>きょうじゅ</rt></ruby>　<ruby>山里敬也<rt>やまざとたかや</rt></ruby>](../../../team/Takaya-Yamazato)
 
 <!-- ![山里敬也](../../../team/TakayaYamazato2012.jpeg) -->
@@ -973,9 +973,9 @@ tags:
 
 1. [<ruby>子供<rt>こども</rt></ruby>の<ruby>科学<rt>かがく</rt></ruby>](https://www.kodomonokagaku.com)
    - https://www.kodomonokagaku.com
-   - インターネットや<ruby>コンピュータ<rt>こんぴゅーた</rt></ruby>について、<ruby>楽<rt>たの</rt></ruby>しい<ruby>記事<rt>きじ</rt></ruby>や<ruby>特集<rt>とくしゅう</rt></ruby>がいっぱいのサイト。たとえば[<ruby>衛星通信<rt>えいせいつうしん</rt></ruby><ruby>大研究<rt>だいけんきゅう</rt></ruby>](https://www.kodomonokagaku.com/eisei/)はとてもおもしろいよ。ほかにも、[ノーベル<ruby>賞<rt>しょう</rt></ruby>スペシャルサイト](https://www.kodomonokagaku.com/read/27909/)では<ruby>赤崎 勇<rt>あかさき いさむ</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>、<ruby>天野<rt>あまの</rt></ruby><ruby>浩<rt>ひろし</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>、<ruby>中村 修二<rt>なかむら しゅうじ</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>が発明した[青色LED](https://www.kodomonokagaku.com/read/28115/)のことも<ruby>学<rt>まな</rt></ruby>べるよ。ぜひ、<ruby>読<rt>よ</rt></ruby>んでね。
+   - インターネットや<ruby>コンピュータ<rt>こんぴゅーた</rt></ruby>について、<ruby>楽<rt>たの</rt></ruby>しい<ruby>記事<rt>きじ</rt></ruby>や<ruby>特集<rt>とくしゅう</rt></ruby>がいっぱいのサイト。たとえば[<ruby>衛星通信<rt>えいせいつうしん</rt></ruby><ruby>大研究<rt>だいけんきゅう</rt></ruby>](https://www.kodomonokagaku.com/eisei/)はとてもおもしろいよ。ほかにも、[ノーベル<ruby>賞<rt>しょう</rt></ruby>スペシャルサイト](https://www.kodomonokagaku.com/read/27909/)では<ruby>赤崎 勇<rt>あかさき いさむ</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>、<ruby>天野<rt>あまの</rt></ruby><ruby>浩<rt>ひろし</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>、<ruby>中村 修二<rt>なかむら しゅうじ</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>が発明した[<ruby>青色<rt>あおいろ</rt></ruby><ruby>LED<rt>エルイーディ</rt></ruby>](https://www.kodomonokagaku.com/read/28115/)のことも<ruby>学<rt>まな</rt></ruby>べるよ。ぜひ、<ruby>読<rt>よ</rt></ruby>んでね。
 
-1. [月間FBニュース](https://www.fbnews.jp/)　子供の<ruby>無線教室<rt>むせんきょうしつ</rt></ruby> ～<ruby>電波<rt>でんぱ</rt></ruby>のフシギをやさしく<ruby>学<rt>まな</rt></ruby>ぼう～
+1. [<ruby>月間<rt>げっかん</rt></ruby><ruby>FB<rt>エフビー</rt></ruby>ニュース](https://www.fbnews.jp/)　子供の<ruby>無線教室<rt>むせんきょうしつ</rt></ruby> ～<ruby>電波<rt>でんぱ</rt></ruby>のフシギをやさしく<ruby>学<rt>まな</rt></ruby>ぼう～
    - <ruby>全部<rt>ぜんぶ</rt></ruby>で10<ruby>回<rt>かい</rt></ruby>のシリーズになっていて、<ruby>電波<rt>でんぱ</rt></ruby>、<ruby>アンテナ<rt>あんてな</rt></ruby>から<ruby>無線機<rt>むせんき</rt></ruby>までくわしい<ruby>説明<rt>せつめい</rt></ruby>があるよ。<ruby>電波<rt>でんぱ</rt></ruby>や<ruby>無線通信<rt>むせんつうしん</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しく<ruby>学<rt>まな</rt></ruby>ぶことができるよ。
      - [第1回「<ruby>電波<rt>でんぱ</rt></ruby>ってなあに?」](https://www.fbnews.jp/201701/musenkyoushitsu/)
      - [第2回「<ruby>電波<rt>でんぱ</rt></ruby>の<ruby>発見<rt>はっけん</rt></ruby>と<ruby>利用<rt>りよう</rt></ruby>の<ruby>歴史<rt>れきし</rt></ruby>」](https://www.fbnews.jp/201702/musenkyoushitsu/index.html)
@@ -988,9 +988,9 @@ tags:
      - [第9回「<ruby>アンテナ<rt>あんてな</rt></ruby>の<ruby>形<rt>かたち</rt></ruby>や<ruby>大<rt>おお</rt></ruby>きさに<ruby>注目<rt>ちゅうもく</rt></ruby>！！」](https://www.fbnews.jp/201709/musenkyoushitsu/index.html)
      - [最終回「<ruby>アマチュア無線<rt>あまちゅあむせん</rt></ruby>の<ruby>免許<rt>めんきょ</rt></ruby>を<ruby>取<rt>と</rt></ruby>ろう！」](https://www.fbnews.jp/201701/musenkyoushitsu/)
 
-1. [電気通信大学60年史　前編](http://www.museum.uec.ac.jp/60th-anniversary/zenpen/)
+1. [<ruby>電気通信大学<rt>でんきつうしんだいがく</rt></ruby>60<ruby>年史<rt>ねんし</rt></ruby>　<ruby>前編<rt>ぜんへん</rt></ruby>](http://www.museum.uec.ac.jp/60th-anniversary/zenpen/)
    - http://www.museum.uec.ac.jp/60th-anniversary/zenpen/index.html
-   - タイタニックの<ruby>無線機<rt>むせんき</rt></ruby>（マルコーニ<ruby>無線機<rt>むせんき</rt></ruby>）について、もっと<ruby>知<rt>し</rt></ruby>りたい<ruby>方<rt>かた</rt></ruby>はこちらも<ruby>読<rt>よ</rt></ruby>んでね。でも、ちょっと<ruby>難<rt>むず</rt></ruby>しいです。
+   - タイタニックの<ruby>無線機<rt>むせんき</rt></ruby>（マルコーニ<ruby>無線機<rt>むせんき</rt></ruby>）について、もっと<ruby>知<rt>し</rt></ruby>りたい<ruby>方<rt>かた</rt></ruby>はこちらも<ruby>読<rt>よ</rt></ruby>んでね。でも、ちょっと<ruby>難<rt>むずか</rt></ruby>しいです。
 
 
 -----
@@ -999,7 +999,7 @@ tags:
 ## おなら<ruby>通信<rt>つうしん</rt></ruby>のアイデアはここから生まれた？！
 
 
-「おなら」とは、「<ruby>鳴<rt>な</rt></ruby>らす」に「お」をつけて、「す」を取った<ruby>言葉<rt>ことば</rt></ruby>です。<ruby>昔<rt>むかし</rt></ruby>、<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が「<ruby>屁<rt>へ</rt></ruby>」と<ruby>言<rt>い</rt></ruby>うのが<ruby>恥<rt>は</rt></ruby>ずかしかったので、おならの<ruby>音<rt>おと</rt></ruby>を<ruby>鳴<rt>なら</rt></ruby>したことを「お<ruby>鳴<rt>なら</rt></ruby>ら」と<ruby>上品<rt>じょうひん</rt></ruby>に<ruby>言<rt>い</rt></ruby>ったのが<ruby>始<rt>はじ</rt></ruby>まりです。<ruby>面白<rt>おもしろ</rt></ruby>いですね。
+「おなら」とは、「<ruby>鳴<rt>な</rt></ruby>らす」に「お」をつけて、「す」を取った<ruby>言葉<rt>ことば</rt></ruby>です。<ruby>昔<rt>むかし</rt></ruby>、<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が「<ruby>屁<rt>へ</rt></ruby>」と<ruby>言<rt>い</rt></ruby>うのが<ruby>恥<rt>は</rt></ruby>ずかしかったので、おならの<ruby>音<rt>おと</rt></ruby>を<ruby>鳴<rt>なら</rt></ruby>したことを「お<ruby>鳴<rt>な</rt></ruby>ら」と<ruby>上品<rt>じょうひん</rt></ruby>に<ruby>言<rt>い</rt></ruby>ったのが<ruby>始<rt>はじ</rt></ruby>まりです。<ruby>面白<rt>おもしろ</rt></ruby>いですね。
 
 おなら<ruby>通信<rt>つうしん</rt></ruby>のアイデアは<ruby>平賀源内<rt>ひらがげんない</rt></ruby>から<ruby>生<rt>う</rt></ruby>まれました。
 ぼくもびっくりしましたが、<ruby>平賀源内<rt>ひらがげんない</rt></ruby>はおならが<ruby>大好<rt>だいす</rt></ruby>きだったみたいです。
