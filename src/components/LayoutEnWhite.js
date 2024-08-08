@@ -17,7 +17,7 @@ const TemplateWrapper = ({ children }) => {
     <div>
       <Helmet>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <html lang={lang} />
+        <html lang={lang} data-theme="light"/>
         <title>{title}</title>
         <meta name="description" content={description} />
         <script

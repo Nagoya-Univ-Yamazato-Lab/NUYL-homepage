@@ -41,12 +41,10 @@ const Navbar = class extends React.Component {
 
   render() {
     return (
-      <nav
-        className="navbar is-info"
-        role="navigation"
-        aria-label="main-navigation"
-      >
+      <section className="hero is-medium">
+      <div className="hero-head">
         <div className="container">
+          <nav className="navbar">
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
               <img src={logo} alt="NUYL" style={{ width: '88px' }} />
@@ -64,20 +62,6 @@ const Navbar = class extends React.Component {
               <span></span>
             </button>
           </div>
-          {/*
-      <div class="navbar-menu" id="navMenu">
-          <div class="navbar-end">
-              <div class="navbar-item has-dropdown is-hoverable"><a class="navbar-link">Account</a>
-              <div class="navbar-dropdown"><a class="navbar-item">Dashboard</a><a class="navbar-item">Profile</a><a class="navbar-item">Settings</a>
-              <hr class="navbar-divider" />
-              <div class="navbar-item">Logout</div>
-          </div>
-      </div>
-  </div>
-</div>
-</div>
-</nav> */}
-
           <div
             id="navMenu"
             className={`navbar-menu ${this.state.navBarActiveClass}`}
@@ -135,8 +119,10 @@ const Navbar = class extends React.Component {
               </div>
             </div>
           </div>
-        </div>
       </nav>
+          </div>
+        </div>
+      </section>
     )
   }
 }
