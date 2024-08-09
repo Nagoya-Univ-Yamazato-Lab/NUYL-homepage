@@ -1129,9 +1129,6 @@ NHKの<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>動画<rt>どうが</rt><
 - [NHK for School 平賀源内](https://www2.nhk.or.jp/school/watch/clip/?das_id=D0005310506_00000) 
 -->
 
-以下に、すべての漢字にルビを振ったテキストをお示しします。
-
----
 
 ### エレキテル
 
