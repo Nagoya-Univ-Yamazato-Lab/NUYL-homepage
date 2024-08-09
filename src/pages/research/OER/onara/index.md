@@ -1393,6 +1393,7 @@ NHKの<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>動画<rt>どうが</rt><
 
 <a id="onara-daisuki"></a>
 
+<!-- 
 ## 江戸の庶民はおならが大好き？！
 
 <div align="center">
@@ -1403,8 +1404,6 @@ NHKの<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>動画<rt>どうが</rt><
 仙厓和尚の自画自賛（「屁なりとてあだなるものと思うなよ　ぶっという字は仏なり」）<br />
 出展：佐藤清彦、おなら考、青弓社、1994年、P.37 より引用
 </div><br />
-
-<!-- さて、平賀源内の「放屁論」に影響を与えた寄書「薫響集」（1757年）に「屁なりとてあだなるものと思うなよ　ぶっという字は仏なり」 -->
 
 一休が、奈良の片田舎にいおりを結んでいるとき、在家の庄左衛門という男が訪ねてきた。帰るとき、はたと手を打って尋ねた。
 「大事なことを忘れていました。どのようにすれば仏になれるのでしょうか。」
@@ -1424,16 +1423,53 @@ NHKの<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>動画<rt>どうが</rt><
 </div><br />
 
 最後にご紹介するのが、放屁合戦を題材にした絵巻です。江戸時代末期のものだそうです。
-上図は一部のみ掲載しています。なんせ、絵巻ですのでとても長いです。出展にリンクを貼ってありますので、ぜひ、クリックして全体をごらんください。
+上図は一部のみ掲載しています。なんせ、絵巻ですのでとても長いです。出展にリンクを貼ってありますので、ぜひ、クリックして全体をごらんください。 
+-->
+
+## <ruby>江戸<rt>えど</rt></ruby>の<ruby>庶民<rt>しょみん</rt></ruby>はおならが<ruby>大好<rt>だいす</rt></ruby>き？！
+
+<div align="center">
+<img
+  src="sengai-osho.jpg"
+  alt="仙厓和尚の自画自賛（「屁なりとてあだなるものと思うなよ　ぶっという字は仏なり」）" />
+<br />
+<ruby>仙厓和尚<rt>せんがいおしょう</rt></ruby>の<ruby>自画自賛<rt>じがじさん</rt></ruby>（「<ruby>屁<rt>へ</rt></ruby>なりとてあだなるものと<ruby>思<rt>おも</rt></ruby>うなよ　ぶっという<ruby>字<rt>じ</rt></ruby>は<ruby>仏<rt>ほとけ</rt></ruby>なり」）<br />
+<ruby>出展<rt>しゅってん</rt></ruby>：<ruby>佐藤清彦<rt>さとうきよひこ</rt></ruby>、おなら<ruby>考<rt>こう</rt></ruby>、<ruby>青弓社<rt>せいきゅうしゃ</rt></ruby>、1994<ruby>年<rt>ねん</rt></ruby>、P.37 より<ruby>引用<rt>いんよう</rt></ruby>
+</div><br />
+
+<ruby>一休<rt>いっきゅう</rt></ruby>が、<ruby>奈良<rt>なら</rt></ruby>の<ruby>片田舎<rt>かたいなか</rt></ruby>にいおりを<ruby>結<rt>むす</rt></ruby>んでいるとき、<ruby>在家<rt>ざいけ</rt></ruby>の<ruby>庄左衛門<rt>しょうざえもん</rt></ruby>という<ruby>男<rt>おとこ</rt></ruby>が<ruby>訪<rt>たず</rt></ruby>ねてきた。
+
+<ruby>帰<rt>かえ</rt></ruby>るとき、はたと<ruby>手<rt>て</rt></ruby>を<ruby>打<rt>う</rt></ruby>って<ruby>尋<rt>たず</rt></ruby>ねた。
+「<ruby>大事<rt>だいじ</rt></ruby>なことを<ruby>忘<rt>わす</rt></ruby>れていました。どのようにすれば<ruby>仏<rt>ほとけ</rt></ruby>になれるのでしょうか。」
+
+<ruby>一休<rt>いっきゅう</rt></ruby>は、「それは<ruby>簡単<rt>かんたん</rt></ruby>なことだ」と、いきなり、お<ruby>尻<rt>しり</rt></ruby>を<ruby>出<rt>だ</rt></ruby>すと<ruby>雷<rt>かみなり</rt></ruby>のようなおならを<ruby>一発<rt>いっぱつ</rt></ruby>。
+
+「<ruby>仏<rt>ほとけ</rt></ruby>には、ここにてなるは」と<ruby>答<rt>こた</rt></ruby>えた。
+
+<div align="center">
+<a href="https://www.wul.waseda.ac.jp/kotenseki/html/chi04/chi04_01029/index.html" alt="屁合戦絵巻、早稲田大学図書館">
+<img
+  src="houhi-gassen.jpg"
+  alt="放屁合戦" />
+<br />
+<ruby>放屁合戦<rt>ほうひがっせん</rt></ruby>（<ruby>一部<rt>いちぶ</rt></ruby>のみ<ruby>掲載<rt>けいさい</rt></ruby>）</a><br />
+<ruby>出展<rt>しゅってん</rt></ruby>：<a href="https://www.wul.waseda.ac.jp/kotenseki/html/chi04/chi04_01029/index.html" alt="屁合戦絵巻、早稲田大学図書館"><ruby>屁合戦絵巻<rt>ほうひがっせんえまき</rt></ruby>、<ruby>早稲田大学<rt>わせだだいがく</rt></ruby><ruby>図書館<rt>としょかん</rt></ruby></a><br />
+<a href="https://ja.wikipedia.org/wiki/放屁合戦" alt="放屁合戦">https://ja.wikipedia.org/wiki/<ruby>放屁合戦<rt>ほうひがっせん</rt></ruby></a>
+</div><br />
+
+<ruby>最後<rt>さいご</rt></ruby>にご<ruby>紹介<rt>しょうかい</rt></ruby>するのが、<ruby>放屁合戦<rt>ほうひがっせん</rt></ruby>を<ruby>題材<rt>だいざい</rt></ruby>にした<ruby>絵巻<rt>えまき</rt></ruby>です。<ruby>江戸時代末期<rt>えどじだいまっき</rt></ruby>のものだそうです。
+<ruby>上図<rt>じょうず</rt></ruby>は<ruby>一部<rt>いちぶ</rt></ruby>のみ<ruby>掲載<rt>けいさい</rt></ruby>しています。なんせ、<ruby>絵巻<rt>えまき</rt></ruby>ですのでとても<ruby>長<rt>なが</rt></ruby>いです。<ruby>出展<rt>しゅってん</rt></ruby>にリンクを<ruby>貼<rt>は</rt></ruby>ってありますので、ぜひ、クリックして<ruby>全体<rt>ぜんたい</rt></ruby>をごらんください。
 
 ---
 
 <a id="houhishi"></a>
 
+<!-- 
 ## 放屁師（屁男）
 
 おならを自由自在に操る人がいます。
-さらに、芸にまで高めていた人がいました。この芸のことを曲屁（きょくべ）と言います。
+さらに、芸にまで高めていた人がいます。
+この芸のことを曲屁（きょくべ）と言います。
 おならの音の高さや長さ、強さをさまざまに変えることができるのです。
 
 霧降花咲男のように、おならをすることで人を楽しませる芸人を放屁師（ほうひし）または屁男（へっぴりおとこ）と言います。
@@ -1443,8 +1479,27 @@ NHKの<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>動画<rt>どうが</rt><
    - [猿猴庵合纂四集 屁男](https://www.toyo-bunko.org/gazou/2010/gazo2010_read.php?TGName=3-I-b-12_04&iTargetPage=19&size=1000)
    - https://www.toyo-bunko.org
 
-最後に、現在の放屁師として有名な方をご紹介します。
+最後に、現在の放屁師として有名な方をご紹介します。 
+-->
 
+## <ruby>放屁師<rt>ほうひし</rt></ruby>（<ruby>屁男<rt>へっぴりおとこ</rt></ruby>）
+
+おならを<ruby>自由自在<rt>じゆうじざい</rt></ruby>に<ruby>操<rt>あやつ</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>がいます。
+さらに、<ruby>芸<rt>げい</rt></ruby>にまで<ruby>高<rt>たか</rt></ruby>めていた<ruby>人<rt>ひと</rt></ruby>がいました。この<ruby>芸<rt>げい</rt></ruby>のことを<ruby>曲屁<rt>きょくべ</rt></ruby>と<ruby>言<rt>い</rt></ruby>います。
+おならの<ruby>音<rt>おと</rt></ruby>の<ruby>高<rt>たか</rt></ruby>さや<ruby>長<rt>なが</rt></ruby>さ、<ruby>強<rt>つよ</rt></ruby>さをさまざまに<ruby>変<rt>か</rt></ruby>えることができるのです。
+
+<ruby>霧降花咲男<rt>きりふりはなさきおとこ</rt></ruby>のように、おならをすることで<ruby>人<rt>ひと</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しませる<ruby>芸人<rt>げいにん</rt></ruby>を<ruby>放屁師<rt>ほうひし</rt></ruby>または<ruby>屁男<rt>へっぴりおとこ</rt></ruby>と<ruby>言<rt>い</rt></ruby>います。
+
+<ruby>尾張藩士<rt>おわりはんし</rt></ruby>で<ruby>江戸時代<rt>えどじだい</rt></ruby>の<ruby>名古屋<rt>なごや</rt></ruby>の<ruby>浮世絵師<rt>うきよえし</rt></ruby>の<ruby>猿猴庵<rt>えんこうあん</rt></ruby>が<ruby>描<rt>えが</rt></ruby>いた<ruby>猿猴庵合纂四集<rt>えんこうあんごうさんよんしゅう</rt></ruby> 19<ruby>ページ<rt>ぺーじ</rt></ruby>に<ruby>屁男<rt>へっぴりおとこ</rt></ruby>の<ruby>説明<rt>せつめい</rt></ruby>がありますので、クリックしてご<ruby>覧<rt>らん</rt></ruby>ください。
+
+- [<ruby>財団法人<rt>ざいだんほうじん</rt></ruby> <ruby>東洋文庫<rt>とうようぶんこ</rt></ruby> <ruby>所蔵<rt>しょぞう</rt></ruby>　<ruby>画像<rt>がぞう</rt></ruby>データベース（<ruby>東洋学多言語資料<rt>とうようがくたげんごしりょう</rt></ruby>のマルチメディア<ruby>電子図書館<rt>でんしとしょかん</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby>システム）](https://www.toyo-bunko.org/gazou/index_img.php?tg=H3&c1=あ)
+   - [<ruby>猿猴庵合纂四集<rt>えんこうあんごうさんよんしゅう</rt></ruby> <ruby>屁男<rt>へっぴりおとこ</rt></ruby>](https://www.toyo-bunko.org/gazou/2010/gazo2010_read.php?TGName=3-I-b-12_04&iTargetPage=19&size=1000)
+   - https://www.toyo-bunko.org
+
+
+<ruby>最後<rt>さいご</rt></ruby>に、<ruby>現在<rt>げんざい</rt></ruby>の<ruby>放屁師<rt>ほうひし</rt></ruby>として<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>方<rt>かた</rt></ruby>をご<ruby>紹介<rt>しょうかい</rt></ruby>します。
+
+<!--
 - 松下誠司
   - ドリフにおならの音を提供したことがあるレジェンドです。レコードも出していて、志村けんのお気に入りだったとか。おなら音源専門店もやっています。
 
@@ -1457,10 +1512,26 @@ NHKの<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>動画<rt>どうが</rt><
 この方々であれば、おなら通信はできますね。でも、こんな特技の無い人はどうすれば良いのでしょうか？
 練習してできるものでもありませんし・・・
 
-ドラえもんの「[音楽イモ](https://ja.wikipedia.org/wiki/ドラえもんのひみつ道具_(おは-おん)#音楽イモ)」を食べるしかないかも、です。ハハハ。
+ドラえもんの「[音楽イモ](https://ja.wikipedia.org/wiki/ドラえもんのひみつ道具_(おは-おん)#音楽イモ)」を食べるしかないかも、です。ハハハ。 
+-->
 
+- <ruby>松下誠司<rt>まつしたせいじ</rt></ruby>
+  - ドリフにおならの<ruby>音<rt>おと</rt></ruby>を<ruby>提供<rt>ていきょう</rt></ruby>したことがある<ruby>レジェンド<rt>れじぇんど</rt></ruby>です。<ruby>レコード<rt>れこーど</rt></ruby>も<ruby>出<rt>だ</rt></ruby>していて、<ruby>志村<rt>しむら</rt></ruby>けんのお<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>りだったとか。おなら<ruby>音源<rt>おんげん</rt></ruby><ruby>専門店<rt>せんもんてん</rt></ruby>もやっています。
+
+- <ruby>市川<rt>いちかわ</rt></ruby>こいくち
+  - <ruby>吉本興業<rt>よしもとこうぎょう</rt></ruby><ruby>所属<rt>しょぞく</rt></ruby>の<ruby>芸人<rt>げいにん</rt></ruby>（<ruby>放屁師<rt>ほうひし</rt></ruby>）です。<ruby>自由自在<rt>じゆうじざい</rt></ruby>におならをこくことができます。<ruby>日本<rt>にほん</rt></ruby>より<ruby>海外<rt>かいがい</rt></ruby>で<ruby>有名<rt>ゆうめい</rt></ruby>かも。ゴットタレントの<ruby>動画<rt>どうが</rt></ruby>は<ruby>抱腹絶倒<rt>ほうふくぜっとう</rt></ruby>です。
+
+- ミスターメタン（Mr Methane）
+  - イギリスの<ruby>放屁師<rt>ほうひし</rt></ruby>です。<ruby>放屁師<rt>ほうひし</rt></ruby>のことを<ruby>英語<rt>えいご</rt></ruby>で Flatulist と<ruby>言<rt>い</rt></ruby>います。さて、この<ruby>方<rt>かた</rt></ruby>、なんと、[ギネスの<ruby>世界記録保持者<rt>せかいきろくほじしゃ</rt></ruby>](https://www.guinnessworldrecords.jp/world-records/651584-longest-career-as-a-flatulist)です。しかも「おなら」で。すごいですね。
+
+この<ruby>方々<rt>かたがた</rt></ruby>であれば、おなら<ruby>通信<rt>つうしん</rt></ruby>はできますね。
+でも、こんな<ruby>特技<rt>とくぎ</rt></ruby>の<ruby>無<rt>な</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>はどうすれば<ruby>良<rt>よ</rt></ruby>いのでしょうか？
+<ruby>練習<rt>れんしゅう</rt></ruby>してできるものでもありませんし・・・
+
+ドラえもんの「[<ruby>音楽イモ<rt>おんがくいも</rt></ruby>](https://ja.wikipedia.org/wiki/ドラえもんのひみつ道具_(おは-おん)#音楽イモ)」を<ruby>食<rt>た</rt></ruby>べるしかないかも、です。ハハハ。
 
  ----
+ <!-- 
  #### 参考文献
 
 - 責任編集　芳賀徹、「日本の名著22 杉田玄白、平賀源内、司馬江漢」、中央公論社、昭和46年
@@ -1470,5 +1541,16 @@ NHKの<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>動画<rt>どうが</rt><
 - 佐藤清彦、「おなら考」、青弓社、1994年
 - 浅暮三文、「我が尻よ、高らかに謳え、愛の唄を」、河出書房新社、2022年
 
-書籍以外の参考文献は本文中にリンクと共に記載してあります。
+書籍以外の参考文献は本文中にリンクと共に記載してあります。 
+-->
 
+#### <ruby>参考文献<rt>さんこうぶんけん</rt></ruby>
+
+- <ruby>責任編集<rt>せきにんへんしゅう</rt></ruby>　<ruby>芳賀徹<rt>はがとおる</rt></ruby>、「<ruby>日本<rt>にほん</rt></ruby>の<ruby>名著<rt>めいちょ</rt></ruby>22 <ruby>杉田玄白<rt>すぎたげんぱく</rt></ruby>、<ruby>平賀源内<rt>ひらがげんない</rt></ruby>、<ruby>司馬江漢<rt>しばこうかん</rt></ruby>」、<ruby>中央公論社<rt>ちゅうおうこうろんしゃ</rt></ruby>、<ruby>昭和<rt>しょうわ</rt></ruby>46<ruby>年<rt>ねん</rt></ruby>
+  - <ruby>平賀源内<rt>ひらがげんない</rt></ruby>「<ruby>放屁論<rt>ほうひろん</rt></ruby>」<ruby>樽林忠男<rt>たるばやしただお</rt></ruby><ruby>訳<rt>やく</rt></ruby>、<ruby>平賀源内<rt>ひらがげんない</rt></ruby>「<ruby>放屁論後編<rt>ほうひろんごへん</rt></ruby>」<ruby>樽林忠男<rt>たるばやしただお</rt></ruby><ruby>訳<rt>やく</rt></ruby>
+- <ruby>責任編集<rt>せきにんへんしゅう</rt></ruby>　<ruby>久松潜一<rt>ひさまつせんいち</rt></ruby><ruby>他<rt>た</rt></ruby>、「<ruby>日本<rt>にほん</rt></ruby>の<ruby>古典<rt>こてん</rt></ruby>25　<ruby>江戸小説集<rt>えどしょうせつしゅう</rt></ruby>II」、<ruby>河出書房新社<rt>かわでしょぼうしんしゃ</rt></ruby>、<ruby>昭和<rt>しょうわ</rt></ruby>49<ruby>年<rt>ねん</rt></ruby>
+  - <ruby>風来山人<rt>ふうらいさんじん</rt></ruby>「<ruby>放屁論<rt>ほうひろん</rt></ruby>」いいだ・もも<ruby>訳<rt>やく</rt></ruby>、<ruby>風来山人<rt>ふうらいさんじん</rt></ruby>「<ruby>放屁論後編<rt>ほうひろんごへん</rt></ruby>」いいだ・もも<ruby>訳<rt>やく</rt></ruby>
+- <ruby>佐藤清彦<rt>さとうきよひこ</rt></ruby>、「おなら<ruby>考<rt>こう</rt></ruby>」、<ruby>青弓社<rt>せいきゅうしゃ</rt></ruby>、1994<ruby>年<rt>ねん</rt></ruby>
+- <ruby>浅暮三文<rt>あさくれさんもん</rt></ruby>、「<ruby>我<rt>わ</rt></ruby>が<ruby>尻<rt>しり</rt></ruby>よ、<ruby>高<rt>たか</rt></ruby>らかに<ruby>謳<rt>うた</rt></ruby>え、<ruby>愛<rt>あい</rt></ruby>の<ruby>唄<rt>うた</rt></ruby>を」、<ruby>河出書房新社<rt>かわでしょぼうしんしゃ</rt></ruby>、2022<ruby>年<rt>ねん</rt></ruby>
+
+<ruby>書籍<rt>しょせき</rt></ruby>い<ruby>外<rt>がい</rt></ruby>の<ruby>参考文献<rt>さんこうぶんけん</rt></ruby>は<ruby>本文<rt>ほんぶん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>にリンクと<ruby>共<rt>とも</rt></ruby>に<ruby>記載<rt>きさい</rt></ruby>してあります。
