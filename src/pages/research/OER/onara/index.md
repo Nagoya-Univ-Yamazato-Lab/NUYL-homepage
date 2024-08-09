@@ -1019,6 +1019,7 @@ tags:
 
 <a id="hiraga-gennai"></a>
 
+<!--
 ## 平賀源内
 
 平賀 源内（享保13（1728）年 - 安永8（1780）年）は、江戸時代の学者であり発明家、作家としても知られています。
@@ -1036,19 +1037,51 @@ tags:
 源内は通称で、たくさんの名前を使い分けていました。たとえば、絵は鳩渓（きゅうけい）、戯作者は風来山人（ふうらいさんじん）、浄瑠璃作者としては福内鬼外（ふくうちきがい）、そして、生活に窮して細工物を作り売りした頃には貧家銭内（ひんかぜにない）と名のっていました。
 
 「京都三条糸屋の娘　姉は十八妹は十五　諸国大名弓矢で殺す　糸屋の娘は目で殺す」の作者とのうわさもあります。
+-->
 
-<a id="doyou-no-ushino-hi"></a>
 
+## <ruby>平賀<rt>ひらが</rt></ruby><ruby>源内<rt>げんない</rt></ruby>
+
+<ruby>平賀<rt>ひらが</rt></ruby><ruby>源内<rt>げんない</rt></ruby>（<ruby>享保<rt>きょうほう</rt></ruby>13（1728）<ruby>年<rt>ねん</rt></ruby> - <ruby>安永<rt>あんえい</rt></ruby>8（1780）<ruby>年<rt>ねん</rt></ruby>）は、<ruby>江戸<rt>えど</rt></ruby><ruby>時代<rt>じだい</rt></ruby>の<ruby>学者<rt>がくしゃ</rt></ruby>であり<ruby>発明家<rt>はつめいか</rt></ruby>、<ruby>作家<rt>さっか</rt></ruby>としても<ruby>知<rt>し</rt></ruby>られています。
+「<ruby>土用<rt>どよう</rt></ruby>の<ruby>丑<rt>うし</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>」を<ruby>作<rt>つく</rt></ruby>った<ruby>人<rt>ひと</rt></ruby>と<ruby>言<rt>い</rt></ruby>うと<ruby>分<rt>わ</rt></ruby>かるかな？
+
+<div align="center">
+<img
+  src="A_Portrait_of_Kyūkei_Hiraga.jpg"
+  alt="「<ruby>平賀<rt>ひらが</rt></ruby><ruby>鳩渓<rt>きゅうけい</rt></ruby><ruby>肖像<rt>しょうぞう</rt></ruby>」 <ruby>木村<rt>きむら</rt></ruby><ruby>黙老<rt>もくろう</rt></ruby><ruby>著<rt>ちょ</rt></ruby>『<ruby>戯作者<rt>げさくしゃ</rt></ruby><ruby>考補遺<rt>こうほい</rt></ruby>』（<ruby>写本<rt>しゃほん</rt></ruby>）より、<ruby>慶應<rt>けいおう</rt></ruby><ruby>義塾<rt>ぎじゅく</rt></ruby><ruby>図書館<rt>としょかん</rt></ruby><ruby>所蔵<rt>しょぞう</rt></ruby>" />
+<br />
+「<ruby>平賀<rt>ひらが</rt></ruby><ruby>鳩渓<rt>きゅうけい</rt></ruby><ruby>肖像<rt>しょうぞう</rt></ruby>」 <ruby>木村<rt>きむら</rt></ruby><ruby>黙老<rt>もくろう</rt></ruby><ruby>著<rt>ちょ</rt></ruby>『<ruby>戯作者<rt>げさくしゃ</rt></ruby><ruby>考補遺<rt>こうほい</rt></ruby>』（<ruby>写本<rt>しゃほん</rt></ruby>）より、<ruby>慶應<rt>けいおう</rt></ruby><ruby>義塾<rt>ぎじゅく</rt></ruby><ruby>図書館<rt>としょかん</rt></ruby><ruby>所蔵<rt>しょぞう</rt></ruby><br />
+<ruby>出展<rt>しゅってん</rt></ruby>：<a href="https://ja.wikipedia.org/wiki/平賀源内" alt="平賀源内">https://ja.wikipedia.org/wiki/平賀源内</a>
+</div><br />
+
+<ruby>源内<rt>げんない</rt></ruby>は<ruby>通称<rt>つうしょう</rt></ruby>で、たくさんの<ruby>名前<rt>なまえ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>い<ruby>分<rt>わ</rt></ruby>けていました。たとえば、<ruby>絵<rt>え</rt></ruby>は<ruby>鳩渓<rt>きゅうけい</rt></ruby>、<ruby>戯作者<rt>げさくしゃ</rt></ruby>は<ruby>風来山人<rt>ふうらいさんじん</rt></ruby>、<ruby>浄瑠璃<rt>じょうるり</rt></ruby><ruby>作者<rt>さっか</rt></ruby>としては<ruby>福内鬼外<rt>ふくうちきがい</rt></ruby>、そして、<ruby>生活<rt>せいかつ</rt></ruby>に<ruby>窮<rt>きゅう</rt></ruby>して<ruby>細工物<rt>さいくもの</rt></ruby>を<ruby>作<rt>つく</rt></ruby>り<ruby>売<rt>う</rt></ruby>りした<ruby>頃<rt>ころ</rt></ruby>には<ruby>貧家銭内<rt>ひんかぜにない</rt></ruby>と<ruby>名<rt>な</rt></ruby>のっていました。
+
+「<ruby>京都<rt>きょうと</rt></ruby><ruby>三条<rt>さんじょう</rt></ruby><ruby>糸屋<rt>いとや</rt></ruby>の<ruby>娘<rt>むすめ</rt></ruby>　<ruby>姉<rt>あね</rt></ruby>は<ruby>十八<rt>じゅうはち</rt></ruby><ruby>妹<rt>いもうと</rt></ruby>は<ruby>十五<rt>じゅうご</rt></ruby>　<ruby>諸国<rt>しょこく</rt></ruby><ruby>大名<rt>だいみょう</rt></ruby><ruby>弓矢<rt>ゆみや</rt></ruby>で<ruby>殺<rt>ころ</rt></ruby>す　<ruby>糸屋<rt>いとや</rt></ruby>の<ruby>娘<rt>むすめ</rt></ruby>は<ruby>目<rt>め</rt></ruby>で<ruby>殺<rt>ころ</rt></ruby>す」の<ruby>作者<rt>さっか</rt></ruby>とのうわさもあります。
+
+
+<!-- 
 ### 土用の丑の日
 
 源内先生は、夏の暑い日に、あるうなぎ屋の店主からうなぎが売れないので困っている、何とかして欲しいと相談されました。
 そこで、「本日土用丑の日」と書いて、店先のよく見えるところに貼りだすように店主に言いました。
 そして、土用丑の日に「う」のつくものを食べると「無病息災」になる、と広めたところ、うなぎが飛ぶように売れ、以後、土用の丑の日にうなぎを食べる習慣が広まりました。
-<!-- 暑い夏を乗り切るにはうなぎを食べて栄養をつけると良い、ということで多くの人々に受け入れられました。 -->
 
 NHKの面白い動画がありますので、どうぞご覧下さい。
 
 - [江戸時代屈指のマルチクリエイター！「土用の丑」のキャッチコピーで有名な【平賀源内】の年収は？| 今野浩喜のなりきり偉人伝 | 偉人の年収 How much？| NHK](https://www.youtube.com/watch?v=EoypW-o3s1g)
+-->
+
+<a id="doyou-no-ushino-hi"></a>
+
+### <ruby>土用<rt>どよう</rt></ruby>の<ruby>丑<rt>うし</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>
+
+<ruby>源内<rt>げんない</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>は、<ruby>夏<rt>なつ</rt></ruby>の<ruby>暑<rt>あつ</rt></ruby>い<ruby>日<rt>ひ</rt></ruby>に、ある<ruby>鰻屋<rt>うなぎや</rt></ruby>の<ruby>店主<rt>てんしゅ</rt></ruby>からうなぎが<ruby>売<rt>う</rt></ruby>れないので<ruby>困<rt>こま</rt></ruby>っている、<ruby>何<rt>なん</rt></ruby>とかして<ruby>欲<rt>ほ</rt></ruby>しいと<ruby>相談<rt>そうだん</rt></ruby>されました。
+そこで、「<ruby>本日<rt>ほんじつ</rt></ruby><ruby>土用丑<rt>どよううし</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>」と<ruby>書<rt>か</rt></ruby>いて、<ruby>店先<rt>みせさき</rt></ruby>のよく<ruby>見<rt>み</rt></ruby>えるところに<ruby>貼<rt>は</rt></ruby>りだすように<ruby>店主<rt>てんしゅ</rt></ruby>に<ruby>言<rt>い</rt></ruby>いました。
+そして、<ruby>土用丑<rt>どよううし</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>に「う」のつくものを<ruby>食<rt>た</rt></ruby>べると「<ruby>無病息災<rt>むびょうそくさい</rt></ruby>」になる、と<ruby>広<rt>ひろ</rt></ruby>めたところ、うなぎが<ruby>飛<rt>と</rt></ruby>ぶように<ruby>売<rt>う</rt></ruby>れ、<ruby>以後<rt>いご</rt></ruby>、<ruby>土用<rt>どよう</rt></ruby>の<ruby>丑<rt>うし</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>にうなぎを<ruby>食<rt>た</rt></ruby>べる<ruby>習慣<rt>しゅうかん</rt></ruby>が<ruby>広<rt>ひろ</rt></ruby>まりました。
+
+NHKの<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>動画<rt>どうが</rt></ruby>がありますので、どうぞご<ruby>覧<rt>らん</rt></ruby>ください。
+
+- [<ruby>江戸時代屈指<rt>えどじだいくっし</rt></ruby>の<ruby>マルチクリエイター<rt></rt></ruby>！「<ruby>土用<rt>どよう</rt></ruby>の<ruby>丑<rt>うし</rt></ruby>」の<ruby>キャッチコピー<rt></rt></ruby>で<ruby>有名<rt>ゆうめい</rt></ruby>な【<ruby>平賀源内<rt>ひらがげんない</rt></ruby>】の<ruby>年収<rt>ねんしゅう</rt></ruby>は？| <ruby>今野浩喜<rt>こんのひろき</rt></ruby>のなりきり<ruby>偉人伝<rt>いじんでん</rt></ruby> | <ruby>偉人<rt>いじん</rt></ruby>の<ruby>年収<rt>ねんしゅう</rt></ruby> How much？| NHK](https://www.youtube.com/watch?v=EoypW-o3s1g)
 
 <a id="erekiteru"></a>
 
