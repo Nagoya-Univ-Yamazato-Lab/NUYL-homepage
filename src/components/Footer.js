@@ -26,7 +26,7 @@ const width = 300
 const Footer = class extends React.Component {
   render() {
     return (
-      <footer className="footer has-background-info has-text-white-ter">
+      <footer className="footer has-text-white-ter">
         <div className="content has-text-centered">
           <Link to="/">
             <StaticImage
@@ -40,11 +40,11 @@ const Footer = class extends React.Component {
           <br />
           <br />
         </div>
-        <div className="content has-text-centered has-background-info has-text-white-ter">
-          <div className="container has-background-info has-text-white-ter">
+        <div className="content has-text-centered has-text-white-ter">
+          <div className="container has-text-white-ter">
             <div className="columns">
               <div className="column is-4">
-                <section className="menu">
+                <section>
                   <ul className="menu-list">
                     <li>
                       <Link
