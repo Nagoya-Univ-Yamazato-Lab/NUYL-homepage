@@ -1532,8 +1532,8 @@ NHKの<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>動画<rt>どうが</rt><
 ドラえもんの「[<ruby>音楽イモ<rt>おんがくいも</rt></ruby>](https://ja.wikipedia.org/wiki/ドラえもんのひみつ道具_(おは-おん)#音楽イモ)」を<ruby>食<rt>た</rt></ruby>べるしかないかも、です。ハハハ。
 
  ----
- <!-- 
- #### 参考文献
+
+#### 参考文献
 
 - 責任編集　芳賀徹、「日本の名著22 杉田玄白、平賀源内、司馬江漢」、中央公論社、昭和46年
   - 平賀源内「放屁論」樽林忠男訳、平賀源内「放屁論後編」樽林忠男訳
@@ -1543,8 +1543,9 @@ NHKの<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>動画<rt>どうが</rt><
 - 浅暮三文、「我が尻よ、高らかに謳え、愛の唄を」、河出書房新社、2022年
 
 書籍以外の参考文献は本文中にリンクと共に記載してあります。 
--->
 
+
+<!-- 
 #### <ruby>参考文献<rt>さんこうぶんけん</rt></ruby>
 
 - <ruby>責任編集<rt>せきにんへんしゅう</rt></ruby>　<ruby>芳賀徹<rt>はがとおる</rt></ruby>、「<ruby>日本<rt>にほん</rt></ruby>の<ruby>名著<rt>めいちょ</rt></ruby>22 <ruby>杉田玄白<rt>すぎたげんぱく</rt></ruby>、<ruby>平賀源内<rt>ひらがげんない</rt></ruby>、<ruby>司馬江漢<rt>しばこうかん</rt></ruby>」、<ruby>中央公論社<rt>ちゅうおうこうろんしゃ</rt></ruby>、<ruby>昭和<rt>しょうわ</rt></ruby>46<ruby>年<rt>ねん</rt></ruby>
@@ -1554,4 +1555,5 @@ NHKの<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>動画<rt>どうが</rt><
 - <ruby>佐藤清彦<rt>さとうきよひこ</rt></ruby>、「おなら<ruby>考<rt>こう</rt></ruby>」、<ruby>青弓社<rt>せいきゅうしゃ</rt></ruby>、1994<ruby>年<rt>ねん</rt></ruby>
 - <ruby>浅暮三文<rt>あさくれさんもん</rt></ruby>、「<ruby>我<rt>わ</rt></ruby>が<ruby>尻<rt>しり</rt></ruby>よ、<ruby>高<rt>たか</rt></ruby>らかに<ruby>謳<rt>うた</rt></ruby>え、<ruby>愛<rt>あい</rt></ruby>の<ruby>唄<rt>うた</rt></ruby>を」、<ruby>河出書房新社<rt>かわでしょぼうしんしゃ</rt></ruby>、2022<ruby>年<rt>ねん</rt></ruby>
 
-<ruby>書籍<rt>しょせき</rt></ruby>い<ruby>外<rt>がい</rt></ruby>の<ruby>参考文献<rt>さんこうぶんけん</rt></ruby>は<ruby>本文<rt>ほんぶん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>にリンクと<ruby>共<rt>とも</rt></ruby>に<ruby>記載<rt>きさい</rt></ruby>してあります。
+<ruby>書籍<rt>しょせき</rt></ruby>い<ruby>外<rt>がい</rt></ruby>の<ruby>参考文献<rt>さんこうぶんけん</rt></ruby>は<ruby>本文<rt>ほんぶん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>にリンクと<ruby>共<rt>とも</rt></ruby>に<ruby>記載<rt>きさい</rt></ruby>してあります。 
+-->
