@@ -1162,7 +1162,16 @@ NHKの<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>動画<rt>どうが</rt><
 <br />
 1787<ruby>年<rt>ねん</rt></ruby><ruby>発行<rt>はっこう</rt></ruby>の<ruby>蘭学書<rt>らんがくしょ</rt></ruby>「<ruby>紅毛雑話<rt>こうもうざつわ</rt></ruby>」に<ruby>描<rt>えが</rt></ruby>かれた<ruby>エレキテル<rt></rt></ruby><br />
 <ruby>出展<rt>しゅってん</rt></ruby>：<a href="https://ja.wikipedia.org/wiki/エレキテル" alt="エレキテル">https://ja.wikipedia.org/wiki/エレキテル</a>
-</div><br>
+</div><br />
+
+この<ruby>浮世絵<rt>うきよえ</rt></ruby>は<ruby>森島中良<rt>もりしまちゅうりょう</rt></ruby>の『<ruby>紅毛雑話<rt>こうもうざつわ</rt></ruby>』に<ruby>描<rt>か</rt></ruby>かれた<ruby>江戸時代<rt>えどじだい</rt></ruby>の<ruby>見世物<rt>みせもの</rt></ruby>です。エレキテルはとても<ruby>評判<rt>ひょうばん</rt></ruby>だったようです。
+
+<ruby>右<rt>みぎ</rt></ruby>にいる<ruby>人<rt>ひと</rt></ruby>がエレキテルについたハンドルを<ruby>回転<rt>かいてん</rt></ruby>させています。ハンドルが<ruby>回<rt>まわ</rt></ruby>るとエレキテルの<ruby>中<rt>なか</rt></ruby>にある<ruby>ガラス瓶<rt>がらすびん</rt></ruby>がこすれて、<ruby>摩擦<rt>まさつ</rt></ruby>で<ruby>電気<rt>でんき</rt></ruby>が<ruby>発生<rt>はっせい</rt></ruby>します。
+<ruby>発生<rt>はっせい</rt></ruby>した<ruby>電気<rt>でんき</rt></ruby>は、<ruby>導線<rt>どうせん</rt></ruby>を<ruby>通<rt>とお</rt></ruby>して、<ruby>台<rt>だい</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>っている<ruby>左<rt>ひだり</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>へ<ruby>送<rt>おく</rt></ruby>られます。すると、その<ruby>人<rt>ひと</rt></ruby>の<ruby>頭<rt>あたま</rt></ruby>から<ruby>火花<rt>ひばな</rt></ruby>が<ruby>出<rt>で</rt></ruby>ます。
+
+この<ruby>図<rt>ず</rt></ruby>だと<ruby>分<rt>わ</rt></ruby>かりにくいので、<ruby>詳<rt>くわ</rt></ruby>しくは<ruby>こちら<rt>こちら</rt></ruby>のNHK<ruby>動画<rt>どうが</rt></ruby>をご<ruby>覧<rt>らん</rt></ruby>ください。
+
+- [NHK for School <ruby>平賀源内<rt>ひらがげんない</rt></ruby>](https://www2.nhk.or.jp/school/watch/clip/?das_id=D0005310506_00000)
 
 <a id="houhiron"></a>
 
@@ -1179,14 +1188,12 @@ NHKの<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>動画<rt>どうが</rt><
 昔語花咲男（霧降花咲男）<br />
 出展：「日本の名著22 杉田玄白、平賀源内、司馬江漢」中央公論社、昭和46年<br />
 平賀源内「放屁論」樽林忠男訳、P.381 より引用<br />
-<!-- 放屁論では源内は霧降花咲男では無く昔語花咲男と書いているが、放屁論後編では霧降花咲男と書いている。 -->
 </div><br />
 
 この浮世絵は、両国橋のほとりにある見世物小屋でおこなれているおなら芸の様子が描かれています。
 のぼりに書いてあるのが「昔語花咲男（霧降花咲男）」です。たくさんの人がおなら芸の見物に訪れています。
 上にいる霧降花咲男のおしりからは、ぷぅ〜とばかりに、左から、はしご、「へ」と書いた何か、そしてかすれて分かりにくいですが、何やらにわとりも描いてありますね。
 
-<!-- 以下、平賀源内「放屁論」を簡単にご紹介しまししょう。 -->
 
 霧降花咲男は、まず最初にめでたい三番叟（さんばそう）にあわせて、おならを「トッハヒョロヒョロヒッヒッヒッ」と拍子もよく奏でると、次に鶏の鳴く音「コッケ コッコー」にあわせて「ブッブ ブッブー」。
 その後が水車で「ブゥブゥ」とおならをしながら、自分の体をくるくると宙返りさせ、まるで水車が水の勢いにおされ、次々と水をくみ上げては流すおどりを舞います。
@@ -1237,7 +1244,8 @@ NHKの<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>動画<rt>どうが</rt><
 
 ようするに、源内先生は、ただ世の決まりや価値観に無批判に従うだけの多くの人に比べて、オリジナリティに溢れ、我が道を突き進む人（霧降花咲男）をほめ讃えているのです。
 
-さすが源内先生、研究者はこうでなくちゃ！
+さすが源内先生、研究者はこうでなくちゃ！ 
+
 
 <a id="houhiron-kouhen"></a>
 
