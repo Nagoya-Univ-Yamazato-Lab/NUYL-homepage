@@ -1170,7 +1170,7 @@ NHKの<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>動画<rt>どうが</rt><
 <ruby>右<rt>みぎ</rt></ruby>にいる<ruby>人<rt>ひと</rt></ruby>がエレキテルについたハンドルを<ruby>回転<rt>かいてん</rt></ruby>させています。ハンドルが<ruby>回<rt>まわ</rt></ruby>るとエレキテルの<ruby>中<rt>なか</rt></ruby>にある<ruby>ガラス瓶<rt>がらすびん</rt></ruby>がこすれて、<ruby>摩擦<rt>まさつ</rt></ruby>で<ruby>電気<rt>でんき</rt></ruby>が<ruby>発生<rt>はっせい</rt></ruby>します。
 <ruby>発生<rt>はっせい</rt></ruby>した<ruby>電気<rt>でんき</rt></ruby>は、<ruby>導線<rt>どうせん</rt></ruby>を<ruby>通<rt>とお</rt></ruby>して、<ruby>台<rt>だい</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>っている<ruby>左<rt>ひだり</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>へ<ruby>送<rt>おく</rt></ruby>られます。すると、その<ruby>人<rt>ひと</rt></ruby>の<ruby>頭<rt>あたま</rt></ruby>から<ruby>火花<rt>ひばな</rt></ruby>が<ruby>出<rt>で</rt></ruby>ます。
 
-この<ruby>図<rt>ず</rt></ruby>だと<ruby>分<rt>わ</rt></ruby>かりにくいので、<ruby>詳<rt>くわ</rt></ruby>しくは<ruby>こちら<rt>こちら</rt></ruby>のNHK<ruby>動画<rt>どうが</rt></ruby>をご<ruby>覧<rt>らん</rt></ruby>ください。
+この<ruby>図<rt>ず</rt></ruby>だと<ruby>分<rt>わ</rt></ruby>かりにくいので、<ruby>詳<rt>くわ</rt></ruby>しくはこちらのNHK<ruby>動画<rt>どうが</rt></ruby>をご<ruby>覧<rt>らん</rt></ruby>ください。
 
 - [NHK for School <ruby>平賀源内<rt>ひらがげんない</rt></ruby>](https://www2.nhk.or.jp/school/watch/clip/?das_id=D0005310506_00000)
 
@@ -1455,8 +1455,8 @@ NHKの<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>動画<rt>どうが</rt><
   alt="放屁合戦" />
 <br />
 <ruby>放屁合戦<rt>ほうひがっせん</rt></ruby>（<ruby>一部<rt>いちぶ</rt></ruby>のみ<ruby>掲載<rt>けいさい</rt></ruby>）</a><br />
-<ruby>出展<rt>しゅってん</rt></ruby>：<a href="https://www.wul.waseda.ac.jp/kotenseki/html/chi04/chi04_01029/index.html" alt="屁合戦絵巻、早稲田大学図書館"><ruby>屁合戦絵巻<rt>ほうひがっせんえまき</rt></ruby>、<ruby>早稲田大学<rt>わせだだいがく</rt></ruby><ruby>図書館<rt>としょかん</rt></ruby></a><br />
-<a href="https://ja.wikipedia.org/wiki/放屁合戦" alt="放屁合戦">https://ja.wikipedia.org/wiki/<ruby>放屁合戦<rt>ほうひがっせん</rt></ruby></a>
+出展：<a href="https://www.wul.waseda.ac.jp/kotenseki/html/chi04/chi04_01029/index.html" alt="屁合戦絵巻、早稲田大学図書館"><ruby>屁合戦絵巻<rt>ほうひがっせんえまき</rt></ruby>、<ruby>早稲田大学<rt>わせだだいがく</rt></ruby><ruby>図書館<rt>としょかん</rt></ruby></a><br />
+<a href="https://ja.wikipedia.org/wiki/放屁合戦" alt="放屁合戦">https://ja.wikipedia.org/wiki/放屁合戦</a>
 </div><br />
 
 <ruby>最後<rt>さいご</rt></ruby>にご<ruby>紹介<rt>しょうかい</rt></ruby>するのが、<ruby>放屁合戦<rt>ほうひがっせん</rt></ruby>を<ruby>題材<rt>だいざい</rt></ruby>にした<ruby>絵巻<rt>えまき</rt></ruby>です。<ruby>江戸時代末期<rt>えどじだいまっき</rt></ruby>のものだそうです。
