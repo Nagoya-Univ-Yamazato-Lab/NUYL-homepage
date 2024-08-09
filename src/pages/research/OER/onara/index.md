@@ -996,8 +996,11 @@ tags:
 -----
 <a id="the-fart-communication"></a>
 
-## おなら<ruby>通信<rt>つうしん</rt></ruby>のアイデアはここから生まれた？！
+# おまけ
 
+ここからは、ちょっと<ruby>難<rt>むず</rt>かしいと<ruby>思<rt>おも</rt></ruby>うので、お<ruby>父<rt>とう</rt></ruby>さん、お<ruby>母<rt>かあ</rt></ruby>さんと<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>読<rt>よ</rt></ruby>んでね。
+
+## おなら<ruby>通信<rt>つうしん</rt></ruby>のアイデアはここから生まれた？！
 
 「おなら」とは、「<ruby>鳴<rt>な</rt></ruby>らす」に「お」をつけて、「す」を取った<ruby>言葉<rt>ことば</rt></ruby>です。<ruby>昔<rt>むかし</rt></ruby>、<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が「<ruby>屁<rt>へ</rt></ruby>」と<ruby>言<rt>い</rt></ruby>うのが<ruby>恥<rt>は</rt></ruby>ずかしかったので、おならの<ruby>音<rt>おと</rt></ruby>を<ruby>鳴<rt>なら</rt></ruby>したことを「お<ruby>鳴<rt>な</rt></ruby>ら」と<ruby>上品<rt>じょうひん</rt></ruby>に<ruby>言<rt>い</rt></ruby>ったのが<ruby>始<rt>はじ</rt></ruby>まりです。<ruby>面白<rt>おもしろ</rt></ruby>いですね。
 
@@ -1013,7 +1016,6 @@ tags:
 ここから、<ruby>平賀源内<rt>ひらがげんない</rt></ruby>と<ruby>彼<rt>かれ</rt></ruby>を<ruby>感服<rt>かんぷく</rt></ruby>させた<ruby>霧降<rt>きりふり</rt></ruby><ruby>花咲男<rt>はなさきおとこ</rt></ruby>について<ruby>書<rt>か</rt></ruby>いていきます。
 <ruby>平賀源内<rt>ひらがげんない</rt></ruby>は、<ruby>霧降<rt>きりふり</rt></ruby><ruby>花咲男<rt>はなさきおとこ</rt></ruby>について「<ruby>放屁論<rt>ほうひろん</rt></ruby>」と「<ruby>放屁論後編<rt>ほうひろんこうへん</rt></ruby>」いう<ruby>本<rt>ほん</rt></ruby>を<ruby>書<rt>か</rt></ruby>くぐらいですから、よっぽど<ruby>好<rt>す</rt></ruby>きだったのでしょうね。びっくりです。
 
-ちょっと<ruby>難<rt>むず</rt>かしいと<ruby>思<rt>おも</rt></ruby>うので、お<ruby>父<rt>とう</rt></ruby>さん、お<ruby>母<rt>かあ</rt></ruby>さんと<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>読<rt>よ</rt></ruby>んでね。
 
 <a id="hiraga-gennai"></a>
 
