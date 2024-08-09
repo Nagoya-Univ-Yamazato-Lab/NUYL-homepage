@@ -70,17 +70,17 @@ tags:
 - [さらに<ruby>勉強<rt>べんきょう</rt></ruby>するために](#For-further-study)
 
 #### おまけ 　 <!-- omit in toc -->
-- [おなら<ruby>通信<rt>つうしん</rt></ruby>のアイデアはここから生まれた？！](#the-fart-communication)
-  - [平賀源内](#hiraga-gennai)
-    - [土用の丑の日](#doyou-no-ushino-hi)
-    - [エレキテル](#erekiteru)
-    - [放屁論](#houhiron)
-    - [放屁論後編](#houhiron-kouhen)
-  - [江戸の庶民はおならが大好き？！](#onara-daisuki)
-  - [放屁師（屁男）](#houhishi)
----
 
-<!-- <p>中国にとって<ruby>熊猫<rt>パンダ</rt></ruby>は国宝です。</p> -->
+- [おなら<ruby>通信<rt>つうしん</rt></ruby>のアイデアはここから<ruby>生<rt>う</rt></ruby>まれた？！](#the-fart-communication)
+  - [<ruby>平賀源内<rt>ひらがげんない</rt></ruby>](#hiraga-gennai)
+    - [<ruby>土用<rt>どよう</rt></ruby>の<ruby>丑<rt>うし</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>](#doyou-no-ushino-hi)
+    - [<ruby>エレキテル<rt>えれきてる</rt></ruby>](#erekiteru)
+    - [<ruby>放屁論<rt>ほうひろん</rt></ruby>](#houhiron)
+    - [<ruby>放屁論後編<rt>ほうひろんこうへん</rt></ruby>](#houhiron-kouhen)
+  - [<ruby>江戸<rt>えど</rt></ruby>の<ruby>庶民<rt>しょみん</rt></ruby>はおならが<ruby>大好<rt>だいす</rt></ruby>き？！](#onara-daisuki)
+  - [<ruby>放屁師<rt>ほうひし</rt></ruby>（<ruby>屁男<rt>へっぴりおとこ</rt></ruby>）](#houhishi)
+
+---
 
 <a id="fart-challenge"></a>
 
