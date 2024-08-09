@@ -951,7 +951,7 @@ tags:
 
 1. [<ruby>総務省<rt>そうむしょう</rt></ruby> <ruby>子供<rt>こども</rt></ruby>のための<ruby>情報通信白書<rt>じょうほうつうしんはくしょ</rt></ruby>](https://www.soumu.go.jp/hakusho-kids/)
    - https://www.soumu.go.jp/hakusho-kids/
-   - <ruby>インターネット<rt>いんたーねっと</rt></ruby>や<ruby>スマホ<rt>すまほ</rt></ruby>の<ruby>仕組<rt>しく</rt></ruby>みについて、わかりやすく<ruby>説明<rt>せつめい</rt></ruby>しているよ。インターネットがどうやってつながるのか、どんなふうに<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>送<rt>おく</rt></ruby>られるのかを<ruby>楽<rt>たの</rt></ruby>しく<ruby>学<rt>まな</rt></ruby>べるよ。ここの[<ruby>情報通信用語集<rt>じょうほうつうしんようごしゅう</rt></ruby>](https://www.soumu.go.jp/main_sosiki/cybersecurity/kokumin/glossary/)も<ruby>充実<rt>じゅうじつ</rt></ruby>しているので、わからない<ruby>言葉<rt>ことば</rt></ruby>があればこのサイトで<ruby>調<rt>しら</rt></ruby>べることができるよ。
+   - インターネットやスマホの<ruby>仕組<rt>しく</rt></ruby>みについて、わかりやすく<ruby>説明<rt>せつめい</rt></ruby>しているよ。インターネットがどうやってつながるのか、どんなふうに<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>送<rt>おく</rt></ruby>られるのかを<ruby>楽<rt>たの</rt></ruby>しく<ruby>学<rt>まな</rt></ruby>べるよ。ここの[<ruby>情報通信用語集<rt>じょうほうつうしんようごしゅう</rt></ruby>](https://www.soumu.go.jp/main_sosiki/cybersecurity/kokumin/glossary/)も<ruby>充実<rt>じゅうじつ</rt></ruby>しているので、わからない<ruby>言葉<rt>ことば</rt></ruby>があればこのサイトで<ruby>調<rt>しら</rt></ruby>べることができるよ。
 
 
 1. [<ruby>総務省<rt>そうむしょう</rt></ruby> インターネットを<ruby>利用<rt>りよう</rt></ruby>したサービス](https://www.soumu.go.jp/main_sosiki/cybersecurity/kokumin/basic/service/)
@@ -973,7 +973,7 @@ tags:
 
 1. [<ruby>子供<rt>こども</rt></ruby>の<ruby>科学<rt>かがく</rt></ruby>](https://www.kodomonokagaku.com)
    - https://www.kodomonokagaku.com
-   - インターネットや<ruby>コンピュータ<rt>こんぴゅーた</rt></ruby>について、<ruby>楽<rt>たの</rt></ruby>しい<ruby>記事<rt>きじ</rt></ruby>や<ruby>特集<rt>とくしゅう</rt></ruby>がいっぱいのサイト。たとえば[<ruby>衛星通信<rt>えいせいつうしん</rt></ruby><ruby>大研究<rt>だいけんきゅう</rt></ruby>](https://www.kodomonokagaku.com/eisei/)はとてもおもしろいよ。ほかにも、[ノーベル<ruby>賞<rt>しょう</rt></ruby>スペシャルサイト](https://www.kodomonokagaku.com/read/27909/)では<ruby>赤崎 勇<rt>あかさき いさむ</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>、<ruby>天野<rt>あまの</rt></ruby><ruby>浩<rt>ひろし</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>、<ruby>中村 修二<rt>なかむら しゅうじ</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>が発明した[<ruby>青色<rt>あおいろ</rt></ruby><ruby>LED<rt>エルイーディ</rt></ruby>](https://www.kodomonokagaku.com/read/28115/)のことも<ruby>学<rt>まな</rt></ruby>べるよ。ぜひ、<ruby>読<rt>よ</rt></ruby>んでね。
+   - インターネットやコンピュータについて、<ruby>楽<rt>たの</rt></ruby>しい<ruby>記事<rt>きじ</rt></ruby>や<ruby>特集<rt>とくしゅう</rt></ruby>がいっぱいのサイト。たとえば[<ruby>衛星通信<rt>えいせいつうしん</rt></ruby><ruby>大研究<rt>だいけんきゅう</rt></ruby>](https://www.kodomonokagaku.com/eisei/)はとてもおもしろいよ。ほかにも、[ノーベル<ruby>賞<rt>しょう</rt></ruby>スペシャルサイト](https://www.kodomonokagaku.com/read/27909/)では<ruby>赤崎 勇<rt>あかさき いさむ</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>、<ruby>天野<rt>あまの</rt></ruby><ruby>浩<rt>ひろし</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>、<ruby>中村 修二<rt>なかむら しゅうじ</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>が発明した[<ruby>青色<rt>あおいろ</rt></ruby><ruby>LED<rt>エルイーディ</rt></ruby>](https://www.kodomonokagaku.com/read/28115/)のことも<ruby>学<rt>まな</rt></ruby>べるよ。ぜひ、<ruby>読<rt>よ</rt></ruby>んでね。
 
 1. [<ruby>月間<rt>げっかん</rt></ruby><ruby>FB<rt>エフビー</rt></ruby>ニュース](https://www.fbnews.jp/)　子供の<ruby>無線教室<rt>むせんきょうしつ</rt></ruby> ～<ruby>電波<rt>でんぱ</rt></ruby>のフシギをやさしく<ruby>学<rt>まな</rt></ruby>ぼう～
    - <ruby>全部<rt>ぜんぶ</rt></ruby>で10<ruby>回<rt>かい</rt></ruby>のシリーズになっていて、<ruby>電波<rt>でんぱ</rt></ruby>、<ruby>アンテナ<rt>あんてな</rt></ruby>から<ruby>無線機<rt>むせんき</rt></ruby>までくわしい<ruby>説明<rt>せつめい</rt></ruby>があるよ。<ruby>電波<rt>でんぱ</rt></ruby>や<ruby>無線通信<rt>むせんつうしん</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しく<ruby>学<rt>まな</rt></ruby>ぶことができるよ。
