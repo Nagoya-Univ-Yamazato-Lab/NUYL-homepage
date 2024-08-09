@@ -1043,6 +1043,7 @@ tags:
 ## <ruby>平賀<rt>ひらが</rt></ruby><ruby>源内<rt>げんない</rt></ruby>
 
 <ruby>平賀<rt>ひらが</rt></ruby><ruby>源内<rt>げんない</rt></ruby>（<ruby>享保<rt>きょうほう</rt></ruby>13（1728）<ruby>年<rt>ねん</rt></ruby> - <ruby>安永<rt>あんえい</rt></ruby>8（1780）<ruby>年<rt>ねん</rt></ruby>）は、<ruby>江戸<rt>えど</rt></ruby><ruby>時代<rt>じだい</rt></ruby>の<ruby>学者<rt>がくしゃ</rt></ruby>であり<ruby>発明家<rt>はつめいか</rt></ruby>、<ruby>作家<rt>さっか</rt></ruby>としても<ruby>知<rt>し</rt></ruby>られています。
+
 「<ruby>土用<rt>どよう</rt></ruby>の<ruby>丑<rt>うし</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>」を<ruby>作<rt>つく</rt></ruby>った<ruby>人<rt>ひと</rt></ruby>と<ruby>言<rt>い</rt></ruby>うと<ruby>分<rt>わ</rt></ruby>かるかな？
 
 <div align="center">
@@ -1051,7 +1052,7 @@ tags:
   alt="「平賀鳩渓肖像」 木村黙老著『戯作者考補遺』（写本）より、慶應義塾図書館所蔵" />
 <br />
 「<ruby>平賀<rt>ひらが</rt></ruby><ruby>鳩渓<rt>きゅうけい</rt></ruby><ruby>肖像<rt>しょうぞう</rt></ruby>」 <ruby>木村<rt>きむら</rt></ruby><ruby>黙老<rt>もくろう</rt></ruby><ruby>著<rt>ちょ</rt></ruby>『<ruby>戯作者<rt>げさくしゃ</rt></ruby><ruby>考補遺<rt>こうほい</rt></ruby>』（<ruby>写本<rt>しゃほん</rt></ruby>）より、<ruby>慶應<rt>けいおう</rt></ruby><ruby>義塾<rt>ぎじゅく</rt></ruby><ruby>図書館<rt>としょかん</rt></ruby><ruby>所蔵<rt>しょぞう</rt></ruby><br />
-<ruby>出展<rt>しゅってん</rt></ruby>：<a href="https://ja.wikipedia.org/wiki/平賀源内" alt="平賀源内">https://ja.wikipedia.org/wiki/平賀源内</a>
+出展：<a href="https://ja.wikipedia.org/wiki/平賀源内" alt="平賀源内">https://ja.wikipedia.org/wiki/平賀源内</a>
 </div><br />
 
 <ruby>源内<rt>げんない</rt></ruby>は<ruby>通称<rt>つうしょう</rt></ruby>で、たくさんの<ruby>名前<rt>なまえ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>い<ruby>分<rt>わ</rt></ruby>けていました。たとえば、<ruby>絵<rt>え</rt></ruby>は<ruby>鳩渓<rt>きゅうけい</rt></ruby>、<ruby>戯作者<rt>げさくしゃ</rt></ruby>は<ruby>風来山人<rt>ふうらいさんじん</rt></ruby>、<ruby>浄瑠璃<rt>じょうるり</rt></ruby><ruby>作者<rt>さっか</rt></ruby>としては<ruby>福内鬼外<rt>ふくうちきがい</rt></ruby>、そして、<ruby>生活<rt>せいかつ</rt></ruby>に<ruby>窮<rt>きゅう</rt></ruby>して<ruby>細工物<rt>さいくもの</rt></ruby>を<ruby>作<rt>つく</rt></ruby>り<ruby>売<rt>う</rt></ruby>りした<ruby>頃<rt>ころ</rt></ruby>には<ruby>貧家銭内<rt>ひんかぜにない</rt></ruby>と<ruby>名<rt>な</rt></ruby>のっていました。
@@ -1149,7 +1150,7 @@ NHKの<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>動画<rt>どうが</rt><
   alt="平賀源内作のエレキテル（複製）、国立科学博物館" />
 <br />
 <ruby>平賀源内<rt>ひらがげんない</rt></ruby><ruby>作<rt>さく</rt></ruby>の<ruby>エレキテル<rt></rt></ruby>（<ruby>複製<rt>ふくせい</rt></ruby>）、<ruby>国立科学博物館<rt>こくりつかがくはくぶつかん</rt></ruby><br />
-<ruby>出展<rt>しゅってん</rt></ruby>：<a href="https://ja.wikipedia.org/wiki/平賀源内" alt="平賀源内">https://ja.wikipedia.org/wiki/平賀源内</a>
+出展：<a href="https://ja.wikipedia.org/wiki/平賀源内" alt="平賀源内">https://ja.wikipedia.org/wiki/平賀源内</a>
 </div><br />
 
 さて、<ruby>源内<rt>げんない</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>は、<ruby>オランダ<rt></rt></ruby>で<ruby>病気<rt>びょうき</rt></ruby>の<ruby>治療<rt>ちりょう</rt></ruby>などに<ruby>使<rt>つか</rt></ruby>われていた<ruby>機械<rt>きかい</rt></ruby>をまねて、<ruby>エレキテル<rt></rt></ruby>を<ruby>作<rt>つく</rt></ruby>りました。
@@ -1161,7 +1162,7 @@ NHKの<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>動画<rt>どうが</rt><
   alt="1787年発行の蘭学書「紅毛雑話」に描かれたエレキテル" />
 <br />
 1787<ruby>年<rt>ねん</rt></ruby><ruby>発行<rt>はっこう</rt></ruby>の<ruby>蘭学書<rt>らんがくしょ</rt></ruby>「<ruby>紅毛雑話<rt>こうもうざつわ</rt></ruby>」に<ruby>描<rt>えが</rt></ruby>かれた<ruby>エレキテル<rt></rt></ruby><br />
-<ruby>出展<rt>しゅってん</rt></ruby>：<a href="https://ja.wikipedia.org/wiki/エレキテル" alt="エレキテル">https://ja.wikipedia.org/wiki/エレキテル</a>
+出展：<a href="https://ja.wikipedia.org/wiki/エレキテル" alt="エレキテル">https://ja.wikipedia.org/wiki/エレキテル</a>
 </div><br />
 
 この<ruby>浮世絵<rt>うきよえ</rt></ruby>は<ruby>森島中良<rt>もりしまちゅうりょう</rt></ruby>の『<ruby>紅毛雑話<rt>こうもうざつわ</rt></ruby>』に<ruby>描<rt>か</rt></ruby>かれた<ruby>江戸時代<rt>えどじだい</rt></ruby>の<ruby>見世物<rt>みせもの</rt></ruby>です。エレキテルはとても<ruby>評判<rt>ひょうばん</rt></ruby>だったようです。
@@ -1215,11 +1216,11 @@ NHKの<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>動画<rt>どうが</rt><
   src="hanasaki-otoko.jpg"
   alt="霧降花咲男" />
 <br />
-
 <ruby>昔語花咲男<rt>むかしがたりはなさきおとこ</rt></ruby>（<ruby>霧降花咲男<rt>きりふりはなさきおとこ</rt></ruby>）<br />
-<ruby>出展<rt>しゅってん</rt></ruby>：「<ruby>日本<rt>にほん</rt></ruby>の<ruby>名著<rt>めいちょ</rt></ruby>22 <ruby>杉田玄白<rt>すぎたげんぱく</rt></ruby>、<ruby>平賀源内<rt>ひらがげんない</rt></ruby>、<ruby>司馬江漢<rt>しばこうかん</rt></ruby>」<ruby>中央公論社<rt>ちゅうおうこうろんしゃ</rt></ruby>、<ruby>昭和<rt>しょうわ</rt></ruby>46<ruby>年<rt>ねん</rt></ruby><br />
-<ruby>平賀源内<rt>ひらがげんない</rt></ruby>「<ruby>放屁論<rt>ほうひろん</rt></ruby>」<ruby>樽林忠男訳<rt>たるばやしただおやく</rt></ruby>、P.381 より<ruby>引用<rt>いんよう</rt></ruby><br />
+出展：「日本の名著22 杉田玄白、平賀源内、司馬江漢」中央公論社、昭和46年<br />
+平賀源内「放屁論」樽林忠男訳、P.381 より引用<br />
 </div><br />
+
 この<ruby>浮世絵<rt>うきよえ</rt></ruby>は、<ruby>両国橋<rt>りょうごくばし</rt></ruby>のほとりにある<ruby>見世物小屋<rt>みせものごや</rt></ruby>でおこなれているおなら<ruby>芸<rt>げい</rt></ruby>の<ruby>様子<rt>ようす</rt></ruby>が<ruby>描<rt>えが</rt></ruby>かれています。
 のぼりに<ruby>書<rt>か</rt></ruby>いてあるのが「<ruby>昔語花咲男<rt>むかしがたりはなさきおとこ</rt></ruby>（<ruby>霧降花咲男<rt>きりふりはなさきおとこ</rt></ruby>）」です。たくさんの<ruby>人<rt>ひと</rt></ruby>がおなら<ruby>芸<rt>げい</rt></ruby>の<ruby>見物<rt>けんぶつ</rt></ruby>に<ruby>訪<rt>おとず</rt></ruby>れています。
 <ruby>上<rt>うえ</rt></ruby>にいる<ruby>霧降花咲男<rt>きりふりはなさきおとこ</rt></ruby>のおしりからは、ぷぅ〜とばかりに、<ruby>左<rt>ひだり</rt></ruby>から、はしご、「へ」と<ruby>書<rt>か</rt></ruby>いた<ruby>何<rt>なに</rt></ruby>か、そしてかすれて<ruby>分<rt>わ</rt></ruby>かりにくいですが、<ruby>何<rt>なん</rt></ruby>やらにわとりも<ruby>描<rt>か</rt></ruby>いてありますね。
@@ -1517,7 +1518,7 @@ NHKの<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>動画<rt>どうが</rt><
 -->
 
 - <ruby>松下誠司<rt>まつしたせいじ</rt></ruby>
-  - ドリフにおならの<ruby>音<rt>おと</rt></ruby>を<ruby>提供<rt>ていきょう</rt></ruby>したことがある<ruby>レジェンド<rt>れじぇんど</rt></ruby>です。<ruby>レコード<rt>れこーど</rt></ruby>も<ruby>出<rt>だ</rt></ruby>していて、<ruby>志村<rt>しむら</rt></ruby>けんのお<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>りだったとか。おなら<ruby>音源<rt>おんげん</rt></ruby><ruby>専門店<rt>せんもんてん</rt></ruby>もやっています。
+  - ドリフにおならの<ruby>音<rt>おと</rt></ruby>を<ruby>提供<rt>ていきょう</rt></ruby>したことがあるレジェンドです。レコードも<ruby>出<rt>だ</rt></ruby>していて、<ruby>志村<rt>しむら</rt></ruby>けんのお<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>りだったとか。おなら<ruby>音源<rt>おんげん</rt></ruby><ruby>専門店<rt>せんもんてん</rt></ruby>もやっています。
 
 - <ruby>市川<rt>いちかわ</rt></ruby>こいくち
   - <ruby>吉本興業<rt>よしもとこうぎょう</rt></ruby><ruby>所属<rt>しょぞく</rt></ruby>の<ruby>芸人<rt>げいにん</rt></ruby>（<ruby>放屁師<rt>ほうひし</rt></ruby>）です。<ruby>自由自在<rt>じゆうじざい</rt></ruby>におならをこくことができます。<ruby>日本<rt>にほん</rt></ruby>より<ruby>海外<rt>かいがい</rt></ruby>で<ruby>有名<rt>ゆうめい</rt></ruby>かも。ゴットタレントの<ruby>動画<rt>どうが</rt></ruby>は<ruby>抱腹絶倒<rt>ほうふくぜっとう</rt></ruby>です。
