@@ -1084,7 +1084,7 @@ NHKの<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>動画<rt>どうが</rt><
 - [<ruby>江戸時代屈指<rt>えどじだいくっし</rt></ruby>の<ruby>マルチクリエイター<rt></rt></ruby>！「<ruby>土用<rt>どよう</rt></ruby>の<ruby>丑<rt>うし</rt></ruby>」の<ruby>キャッチコピー<rt></rt></ruby>で<ruby>有名<rt>ゆうめい</rt></ruby>な【<ruby>平賀源内<rt>ひらがげんない</rt></ruby>】の<ruby>年収<rt>ねんしゅう</rt></ruby>は？| <ruby>今野浩喜<rt>こんのひろき</rt></ruby>のなりきり<ruby>偉人伝<rt>いじんでん</rt></ruby> | <ruby>偉人<rt>いじん</rt></ruby>の<ruby>年収<rt>ねんしゅう</rt></ruby> How much？| NHK](https://www.youtube.com/watch?v=EoypW-o3s1g)
 
 <a id="erekiteru"></a>
-
+<!-- 
 ### エレキテル
 
 さて、この授業では、タイタニック号の無線機を紹介しました。火花で電波を飛ばす装置のことです。
@@ -1111,7 +1111,6 @@ NHKの<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>動画<rt>どうが</rt><
 エレキテルは摩擦によって火花（正確には静電気）を発生できる静電気発生装置です。
 
 <div align="center">
-<!-- ![1787年発行の蘭学書「紅毛雑話」に描かれたエレキテル](./Erekiteru-demonstration.gif) -->
 <img
   src="Erekiteru-demonstration.gif"
   alt="1787年発行の蘭学書「紅毛雑話」に描かれたエレキテル" />
@@ -1127,8 +1126,46 @@ NHKの<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>動画<rt>どうが</rt><
 
 この図だと分かりにくいので、詳しくはこちらのNHK動画をご覧下さい。
 
-- [NHK for School 平賀源内](https://www2.nhk.or.jp/school/watch/clip/?das_id=D0005310506_00000)
+- [NHK for School 平賀源内](https://www2.nhk.or.jp/school/watch/clip/?das_id=D0005310506_00000) 
+-->
 
+以下に、すべての漢字にルビを振ったテキストをお示しします。
+
+---
+
+### エレキテル
+
+さて、この<ruby>授業<rt>じゅぎょう</rt></ruby>では、<ruby>タイタニック<rt></rt></ruby><ruby>号<rt>ごう</rt></ruby>の<ruby>無線機<rt>むせんき</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>しました。<ruby>火花<rt>ひばな</rt></ruby>で<ruby>電波<rt>でんぱ</rt></ruby>を<ruby>飛<rt>と</rt></ruby>ばす<ruby>装置<rt>そうち</rt></ruby>のことです。
+この<ruby>火花<rt>ひばな</rt></ruby>を<ruby>出<rt>だ</rt></ruby>す<ruby>装置<rt>そうち</rt></ruby>を<ruby>作<rt>つく</rt></ruby>って<ruby>一躍<rt>いちやく</rt></ruby><ruby>人気者<rt>にんきもの</rt></ruby>になったのが<ruby>平賀源内<rt>ひらがげんない</rt></ruby>です。
+
+ちなみに<ruby>電波<rt>でんぱ</rt></ruby>があることを<ruby>世界<rt>せかい</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めて<ruby>予言<rt>よげん</rt></ruby>したのは<ruby>イギリス<rt></rt></ruby>の<ruby>理論物理学者<rt>りろんぶつりがくしゃ</rt></ruby>、<ruby>ジェームス<rt></rt></ruby>・<ruby>クラーク<rt></rt></ruby>・<ruby>マクスウェル<rt></rt></ruby>です。
+その<ruby>後<rt>ご</rt></ruby>、<ruby>同<rt>おな</rt></ruby>じく<ruby>ドイツ<rt></rt></ruby>の<ruby>科学者<rt>かがくしゃ</rt></ruby><ruby>ハインリヒ<rt></rt></ruby>・<ruby>ルドルフ<rt></rt></ruby>・<ruby>ヘルツ<rt></rt></ruby>が、<ruby>自宅<rt>じたく</rt></ruby>の<ruby>実験室<rt>じっけんしつ</rt></ruby>で<ruby>電波<rt>でんぱ</rt></ruby>の<ruby>存在<rt>そんざい</rt></ruby>を<ruby>初<rt>はじ</rt></ruby>めて<ruby>実証<rt>じっしょう</rt></ruby>しました。
+その<ruby>頃<rt>ころ</rt></ruby>の<ruby>日本<rt>にほん</rt></ruby>は<ruby>新撰組<rt>しんせんぐみ</rt></ruby>が<ruby>活躍<rt>かつやく</rt></ruby>していた<ruby>江戸時代末期<rt>えどじだいまっき</rt></ruby>。<ruby>詳<rt>くわ</rt></ruby>しくは<ruby>以下<rt>いか</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んでね。
+
+- [<ruby>子供<rt>こども</rt></ruby>の<ruby>無線教室<rt>むせんきょうしつ</rt></ruby> ～<ruby>電波<rt>でんぱ</rt></ruby>のフシギをやさしく<ruby>学<rt>まな</rt></ruby>ぼう～ <ruby>第2回<rt>だいにかい</rt></ruby> 「<ruby>電波<rt>でんぱ</rt></ruby>の<ruby>発見<rt>はっけん</rt></ruby>と<ruby>利用<rt>りよう</rt></ruby>の<ruby>歴史<rt>れきし</rt></ruby>」](https://www.fbnews.jp/201702/musenkyoushitsu/)
+
+<ruby>源内<rt>げんない</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>が<ruby>生<rt>い</rt></ruby>きていたときには、まだ<ruby>電波<rt>でんぱ</rt></ruby>も<ruby>発見<rt>はっけん</rt></ruby>されていないです。ようやく<ruby>火花<rt>ひばな</rt></ruby>を<ruby>出<rt>だ</rt></ruby>すことができるようになったころのお<ruby>話<rt>はな</rt></ruby>しです。
+
+<div align="center">
+<img
+  src="Elekiter_replica.jpg"
+  alt="<ruby>平賀源内<rt>ひらがげんない</rt></ruby><ruby>作<rt>さく</rt></ruby>の<ruby>エレキテル<rt></rt></ruby>（<ruby>複製<rt>ふくせい</rt></ruby>）、<ruby>国立科学博物館<rt>こくりつかがくはくぶつかん</rt></ruby>" />
+<br />
+<ruby>平賀源内<rt>ひらがげんない</rt></ruby><ruby>作<rt>さく</rt></ruby>の<ruby>エレキテル<rt></rt></ruby>（<ruby>複製<rt>ふくせい</rt></ruby>）、<ruby>国立科学博物館<rt>こくりつかがくはくぶつかん</rt></ruby><br />
+<ruby>出展<rt>しゅってん</rt></ruby>：<a href="https://ja.wikipedia.org/wiki/平賀源内" alt="平賀源内">https://ja.wikipedia.org/wiki/平賀源内</a>
+</div><br />
+
+さて、<ruby>源内<rt>げんない</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>は、<ruby>オランダ<rt></rt></ruby>で<ruby>病気<rt>びょうき</rt></ruby>の<ruby>治療<rt>ちりょう</rt></ruby>などに<ruby>使<rt>つか</rt></ruby>われていた<ruby>機械<rt>きかい</rt></ruby>をまねて、<ruby>エレキテル<rt></rt></ruby>を<ruby>作<rt>つく</rt></ruby>りました。
+<ruby>エレキテル<rt></rt></ruby>は<ruby>摩擦<rt>まさつ</rt></ruby>によって<ruby>火花<rt>ひばな</rt></ruby>（<ruby>正確<rt>せいかく</rt></ruby>には<ruby>静電気<rt>せいでんき</rt></ruby>）を<ruby>発生<rt>はっせい</rt></ruby>できる<ruby>静電気発生装置<rt>せいでんきはっせいそうち</rt></ruby>です。
+
+<div align="center">
+<img
+  src="Erekiteru-demonstration.gif"
+  alt="1787<ruby>年<rt>ねん</rt></ruby><ruby>発行<rt>はっこう</rt></ruby>の<ruby>蘭学書<rt>らんがくしょ</rt></ruby>「<ruby>紅毛雑話<rt>こうもうざつわ</rt></ruby>」に<ruby>描<rt>えが</rt></ruby>かれた<ruby>エレキテル<rt></rt></ruby>" />
+<br />
+1787<ruby>年<rt>ねん</rt></ruby><ruby>発行<rt>はっこう</rt></ruby>の<ruby>蘭学書<rt>らんがくしょ</rt></ruby>「<ruby>紅毛雑話<rt>こうもうざつわ</rt></ruby>」に<ruby>描<rt>えが</rt></ruby>かれた<ruby>エレキテル<rt></rt></ruby><br />
+<ruby>出展<rt>しゅってん</rt></ruby>：<a href="https://ja.wikipedia.org/wiki/エレキテル" alt="エレキテル">https://ja.wikipedia.org/wiki/エレキテル</a>
+</div><br>
 
 <a id="houhiron"></a>
 
