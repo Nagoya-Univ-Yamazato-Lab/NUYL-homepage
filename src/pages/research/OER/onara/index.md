@@ -1339,8 +1339,9 @@ NHKの<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>動画<rt>どうが</rt><
 
 <a id="houhiron-kouhen"></a>
 
-### 放屁論後編
+### <ruby>放屁論<rt>ほうひろん</rt></ruby><ruby>後編<rt>こうへん</rt></ruby>
 
+<!-- 
 源内先生のおならの話はまだまだ続きます。今度はエレキテルが出てきます。
 登場人物は貧家銭内という見るもみすぼらしい浪人。何の取り柄も無い男だったが、そのうちにエレキテルセイリテイトとかいう、人の体から火を出して病気を治す発電機を作り出した。
 
@@ -1350,8 +1351,22 @@ NHKの<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>動画<rt>どうが</rt><
 その本の表紙には「昔語花咲男放屁論」と書かれていた。銭内はさっそく「放屁論」、すなわち、花咲男のおなら芸のことを、長々と話しはじめるのである。
 花咲男の生い立ちから始まり、どのようにしておなら芸を身に付けたのか、また、おなら芸がいかに素晴らしく、また、評判なのか、などなど。
 
-これを聞いていた儒者は、「わたしは、おならの講釈を聞きに来たのではない。例のエレキテルより火が出る道理を聞きたいのである。さては、わたしのことを屁のようにバカされてはおられるのでは無いか。」とかんかんになって怒りだした。
+これを聞いていた儒者は、「わたしは、おならの講釈を聞きに来たのではない。例のエレキテルより火が出る道理を聞きたいのである。さては、わたしのことを屁のようにバカされてはおられるのでは無いか。」とかんかんになって怒りだした。 
+-->
 
+<ruby>源内先生<rt>げんないせんせい</rt></ruby>のおならの<ruby>話<rt>はなし</rt></ruby>はまだまだ<ruby>続<rt>つづ</rt></ruby>きます。
+<ruby>今度<rt>こんど</rt></ruby>はエレキテルが<ruby>出<rt>で</rt></ruby>てきます。
+
+<ruby>登場人物<rt>とうじょうじんぶつ</rt></ruby>は<ruby>貧家銭内<rt>ひんかぜにない</rt></ruby>という<ruby>見る<rt>み</rt></ruby>も<ruby>見<rt>みすぼ</rt></ruby>らしい<ruby>浪人<rt>ろうにん</rt></ruby>。<ruby>何<rt>なん</rt></ruby>の<ruby>取柄<rt>とりえ</rt></ruby>も<ruby>無<rt>な</rt></ruby>い<ruby>男<rt>おとこ</rt></ruby>だったが、そのうちにエレキテルセイリテイトとかいう、<ruby>人<rt>ひと</rt></ruby>の<ruby>体<rt>からだ</rt></ruby>から<ruby>火<rt>ひ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>して<ruby>病気<rt>びょうき</rt></ruby>を<ruby>治<rt>なお</rt></ruby>す<ruby>発電機<rt>はつでんき</rt></ruby>を<ruby>作<rt>つく</rt></ruby>り<ruby>出<rt>だ</rt></ruby>した。
+
+<ruby>ある日<rt>あるひ</rt></ruby>、なんとかという<ruby>屋敷<rt>やしき</rt></ruby>に<ruby>勤<rt>つと</rt></ruby>める<ruby>儒者<rt>じゅしゃ</rt></ruby>がやってきて、このエレキテルを<ruby>眺<rt>なが</rt></ruby>めていたが、そのあげく、どのような<ruby>原理<rt>げんり</rt></ruby>によって<ruby>火<rt>ひ</rt></ruby>が<ruby>出<rt>で</rt></ruby>るのか、<ruby>後学<rt>こうがく</rt></ruby>のために<ruby>知<rt>し</rt></ruby>りたいというのである。
+
+すると、この<ruby>家<rt>いえ</rt></ruby>の<ruby>主人<rt>しゅじん</rt></ruby>である<ruby>銭内<rt>ぜにない</rt></ruby>は、こっくりとうなずいて、「<ruby>書物<rt>しょもつ</rt></ruby>を<ruby>読<rt>よ</rt></ruby>むことばかりが<ruby>学問<rt>がくもん</rt></ruby>ではありませんが」と<ruby>言<rt>い</rt></ruby>いつつ<ruby>一冊<rt>いっさつ</rt></ruby>の<ruby>本<rt>ほん</rt></ruby>を<ruby>取<rt>と</rt></ruby>り<ruby>出<rt>だ</rt></ruby>す。その<ruby>本<rt>ほん</rt></ruby>の<ruby>表紙<rt>ひょうし</rt></ruby>には「<ruby>昔語花咲男放屁論<rt>むかしがたりはなさかおとこほうひろん</rt></ruby>」と<ruby>書<rt>か</rt></ruby>かれていた。<ruby>銭内<rt>ぜにない</rt></ruby>はさっそく「<ruby>放屁論<rt>ほうひろん</rt></ruby>」、すなわち、<ruby>花咲男<rt>はなさかおとこ</rt></ruby>のおなら<ruby>芸<rt>げい</rt></ruby>のことを、<ruby>長々<rt>ながなが</rt></ruby>と<ruby>話<rt>はな</rt></ruby>しはじめるのである。
+<ruby>花咲男<rt>はなさかおとこ</rt></ruby>の<ruby>生<rt>う</rt></ruby>い<ruby>立<rt>た</rt></ruby>ちから<ruby>始<rt>はじ</rt></ruby>まり、どのようにしておなら<ruby>芸<rt>げい</rt></ruby>を<ruby>身<rt>み</rt></ruby>に<ruby>付<rt>つ</rt></ruby>けたのか、また、おなら<ruby>芸<rt>げい</rt></ruby>がいかに<ruby>素晴<rt>すば</rt></ruby>らしく、また、<ruby>評判<rt>ひょうばん</rt></ruby>なのか、などなど。
+
+これを<ruby>聞<rt>き</rt></ruby>いていた<ruby>儒者<rt>じゅしゃ</rt></ruby>は、「わたしは、おならの<ruby>講釈<rt>こうしゃく</rt></ruby>を<ruby>聞<rt>き</rt></ruby>きに<ruby>来<rt>き</rt></ruby>たのではない。<ruby>例<rt>れい</rt></ruby>のエレキテルより<ruby>火<rt>ひ</rt></ruby>が<ruby>出<rt>で</rt></ruby>る<ruby>道理<rt>どうり</rt></ruby>を<ruby>聞<rt>き</rt></ruby>きたいのである。さては、わたしのことを<ruby>屁<rt>へ</rt></ruby>のようにバカされてはおられるのでは<ruby>無<rt>な</rt></ruby>いか。」とかんかんになって<ruby>怒<rt>おこ</rt></ruby>りだした。
+
+<!-- 
 銭内はことばを和らげて、「エレキテルから火がでる道理をお聞きしたいとのことですが、この全世界をひっくるめての大理論ですから、一朝一夕に論ずるわけにはゆきません。もっとも手頃な身近なたとえをあげてお教えしようと思ったので、この放屁論をとりあげたのです。
 
 おならが出ても火が出ても、すべてそれらはこの体という小天地から出たもの、別に不思議がることはないのです。ところが、ものの道理を良く知らない連中は、火打ち石から出る火はいつも見なれているので変に思わず、エレキテルより出る火は、まるで邪法や魔術のように考え、からくりや操り人形と同じように思ってしまいます。
@@ -1360,7 +1375,19 @@ NHKの<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>動画<rt>どうが</rt><
 自分のおならの臭いは、自分自身には分からないですよね。これと同じで、たとえ火が出たとしても大したことはありません。」
 と、まじめに説明したのであります。
 
-源内先生は、よほど、霧降花咲男のおなら芸が気に入っていたようですね。
+源内先生は、よほど、霧降花咲男のおなら芸が気に入っていたようですね。 
+-->
+
+<ruby>銭内<rt>ぜにない</rt></ruby>はことばを<ruby>和<rt>やわ</rt></ruby>らげて、「エレキテルから<ruby>火<rt>ひ</rt></ruby>がでる<ruby>道理<rt>どうり</rt></ruby>をお<ruby>聞<rt>き</rt></ruby>きしたいとのことですが、この<ruby>全世界<rt>ぜんせかい</rt></ruby>をひっくるめての<ruby>大理論<rt>だいりろん</rt></ruby>ですから、<ruby>一朝一夕<rt>いっちょういっせき</rt></ruby>に<ruby>論<rt>ろん</rt></ruby>ずるわけにはゆきません。もっとも<ruby>手頃<rt>てごろ</rt></ruby>な<ruby>身近<rt>みぢか</rt></ruby>なたとえをあげてお<ruby>教<rt>おし</rt></ruby>えしようと<ruby>思<rt>おも</rt></ruby>ったので、この<ruby>放屁論<rt>ほうひろん</rt></ruby>をとりあげたのです。
+
+おならが<ruby>出<rt>で</rt></ruby>ても<ruby>火<rt>ひ</rt></ruby>が<ruby>出<rt>で</rt></ruby>ても、すべてそれらはこの<ruby>体<rt>からだ</rt></ruby>という<ruby>小天地<rt>しょうてんち</rt></ruby>から<ruby>出<rt>で</rt></ruby>たもの、<ruby>別<rt>べつ</rt></ruby>に<ruby>不思議<rt>ふしぎ</rt></ruby>がることはないのです。ところが、ものの<ruby>道理<rt>どうり</rt></ruby>を<ruby>良<rt>よ</rt></ruby>く<ruby>知<rt>し</rt></ruby>らない<ruby>連中<rt>れんちゅう</rt></ruby>は、<ruby>火打<rt>ひう</rt></ruby>ち<ruby>石<rt>いし</rt></ruby>から<ruby>出<rt>で</rt></ruby>る<ruby>火<rt>ひ</rt></ruby>はいつも<ruby>見慣<rt>みな</rt></ruby>れているので<ruby>変<rt>へん</rt></ruby>に<ruby>思<rt>おも</rt></ruby>わず、エレキテルより<ruby>出<rt>で</rt></ruby>る<ruby>火<rt>ひ</rt></ruby>は、まるで<ruby>邪法<rt>じゃほう</rt></ruby>や<ruby>魔術<rt>まじゅつ</rt></ruby>のように<ruby>考<rt>かんが</rt></ruby>え、からくりや<ruby>操<rt>あやつ</rt></ruby>り<ruby>人形<rt>にんぎょう</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じように<ruby>思<rt>おも</rt></ruby>ってしまいます。
+
+<ruby>結局<rt>けっきょく</rt></ruby>のところ、エレキテルを<ruby>使<rt>つか</rt></ruby>うことで<ruby>人<rt>ひと</rt></ruby>の<ruby>体<rt>からだ</rt></ruby>から<ruby>火<rt>ひ</rt></ruby>が<ruby>出<rt>で</rt></ruby>る<ruby>道理<rt>どうり</rt></ruby>も、おならが<ruby>出<rt>で</rt></ruby>るのと<ruby>同<rt>おな</rt></ruby>じなのであります。どちらも<ruby>体<rt>からだ</rt></ruby>から<ruby>出<rt>で</rt></ruby>るもの、<ruby>同<rt>おな</rt></ruby>じです。エレキテルもヘレキテルと<ruby>名前<rt>なまえ</rt></ruby>を<ruby>替<rt>か</rt></ruby>えれば<ruby>良<rt>よ</rt></ruby>いのかも<ruby>知<rt>し</rt></ruby>れません。
+<ruby>自分<rt>じぶん</rt></ruby>のおならの<ruby>臭<rt>にお</rt></ruby>いは、<ruby>自分自身<rt>じぶんじしん</rt></ruby>には<ruby>分<rt>わ</rt></ruby>からないですよね。これと<ruby>同<rt>おな</rt></ruby>じで、たとえ<ruby>火<rt>ひ</rt></ruby>が<ruby>出<rt>で</rt></ruby>たとしても<ruby>大<rt>たい</rt></ruby>したことはありません。」
+と、まじめに<ruby>説明<rt>せつめい</rt></ruby>したのであります。
+
+<ruby>源内先生<rt>げんないせんせい</rt></ruby>は、よほど、<ruby>霧降花咲男<rt>きりふりはなさかおとこ</rt></ruby>のおなら<ruby>芸<rt>げい</rt></ruby>が<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>っていたようですね。
+
 
 ---
 
