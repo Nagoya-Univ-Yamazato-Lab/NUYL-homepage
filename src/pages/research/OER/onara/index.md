@@ -1048,7 +1048,7 @@ tags:
 <div align="center">
 <img
   src="A_Portrait_of_Kyūkei_Hiraga.jpg"
-  alt="「<ruby>平賀<rt>ひらが</rt></ruby><ruby>鳩渓<rt>きゅうけい</rt></ruby><ruby>肖像<rt>しょうぞう</rt></ruby>」 <ruby>木村<rt>きむら</rt></ruby><ruby>黙老<rt>もくろう</rt></ruby><ruby>著<rt>ちょ</rt></ruby>『<ruby>戯作者<rt>げさくしゃ</rt></ruby><ruby>考補遺<rt>こうほい</rt></ruby>』（<ruby>写本<rt>しゃほん</rt></ruby>）より、<ruby>慶應<rt>けいおう</rt></ruby><ruby>義塾<rt>ぎじゅく</rt></ruby><ruby>図書館<rt>としょかん</rt></ruby><ruby>所蔵<rt>しょぞう</rt></ruby>" />
+  alt="「平賀鳩渓肖像」 木村黙老著『戯作者考補遺』（写本）より、慶應義塾図書館所蔵" />
 <br />
 「<ruby>平賀<rt>ひらが</rt></ruby><ruby>鳩渓<rt>きゅうけい</rt></ruby><ruby>肖像<rt>しょうぞう</rt></ruby>」 <ruby>木村<rt>きむら</rt></ruby><ruby>黙老<rt>もくろう</rt></ruby><ruby>著<rt>ちょ</rt></ruby>『<ruby>戯作者<rt>げさくしゃ</rt></ruby><ruby>考補遺<rt>こうほい</rt></ruby>』（<ruby>写本<rt>しゃほん</rt></ruby>）より、<ruby>慶應<rt>けいおう</rt></ruby><ruby>義塾<rt>ぎじゅく</rt></ruby><ruby>図書館<rt>としょかん</rt></ruby><ruby>所蔵<rt>しょぞう</rt></ruby><br />
 <ruby>出展<rt>しゅってん</rt></ruby>：<a href="https://ja.wikipedia.org/wiki/平賀源内" alt="平賀源内">https://ja.wikipedia.org/wiki/平賀源内</a>
@@ -1146,7 +1146,7 @@ NHKの<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>動画<rt>どうが</rt><
 <div align="center">
 <img
   src="Elekiter_replica.jpg"
-  alt="<ruby>平賀源内<rt>ひらがげんない</rt></ruby><ruby>作<rt>さく</rt></ruby>の<ruby>エレキテル<rt></rt></ruby>（<ruby>複製<rt>ふくせい</rt></ruby>）、<ruby>国立科学博物館<rt>こくりつかがくはくぶつかん</rt></ruby>" />
+  alt="平賀源内作のエレキテル（複製）、国立科学博物館" />
 <br />
 <ruby>平賀源内<rt>ひらがげんない</rt></ruby><ruby>作<rt>さく</rt></ruby>の<ruby>エレキテル<rt></rt></ruby>（<ruby>複製<rt>ふくせい</rt></ruby>）、<ruby>国立科学博物館<rt>こくりつかがくはくぶつかん</rt></ruby><br />
 <ruby>出展<rt>しゅってん</rt></ruby>：<a href="https://ja.wikipedia.org/wiki/平賀源内" alt="平賀源内">https://ja.wikipedia.org/wiki/平賀源内</a>
@@ -1158,7 +1158,7 @@ NHKの<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>動画<rt>どうが</rt><
 <div align="center">
 <img
   src="Erekiteru-demonstration.gif"
-  alt="1787<ruby>年<rt>ねん</rt></ruby><ruby>発行<rt>はっこう</rt></ruby>の<ruby>蘭学書<rt>らんがくしょ</rt></ruby>「<ruby>紅毛雑話<rt>こうもうざつわ</rt></ruby>」に<ruby>描<rt>えが</rt></ruby>かれた<ruby>エレキテル<rt></rt></ruby>" />
+  alt="1787年発行の蘭学書「紅毛雑話」に描かれたエレキテル" />
 <br />
 1787<ruby>年<rt>ねん</rt></ruby><ruby>発行<rt>はっこう</rt></ruby>の<ruby>蘭学書<rt>らんがくしょ</rt></ruby>「<ruby>紅毛雑話<rt>こうもうざつわ</rt></ruby>」に<ruby>描<rt>えが</rt></ruby>かれた<ruby>エレキテル<rt></rt></ruby><br />
 <ruby>出展<rt>しゅってん</rt></ruby>：<a href="https://ja.wikipedia.org/wiki/エレキテル" alt="エレキテル">https://ja.wikipedia.org/wiki/エレキテル</a>
@@ -1215,6 +1215,7 @@ NHKの<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>動画<rt>どうが</rt><
   src="hanasaki-otoko.jpg"
   alt="霧降花咲男" />
 <br />
+
 <ruby>昔語花咲男<rt>むかしがたりはなさきおとこ</rt></ruby>（<ruby>霧降花咲男<rt>きりふりはなさきおとこ</rt></ruby>）<br />
 <ruby>出展<rt>しゅってん</rt></ruby>：「<ruby>日本<rt>にほん</rt></ruby>の<ruby>名著<rt>めいちょ</rt></ruby>22 <ruby>杉田玄白<rt>すぎたげんぱく</rt></ruby>、<ruby>平賀源内<rt>ひらがげんない</rt></ruby>、<ruby>司馬江漢<rt>しばこうかん</rt></ruby>」<ruby>中央公論社<rt>ちゅうおうこうろんしゃ</rt></ruby>、<ruby>昭和<rt>しょうわ</rt></ruby>46<ruby>年<rt>ねん</rt></ruby><br />
 <ruby>平賀源内<rt>ひらがげんない</rt></ruby>「<ruby>放屁論<rt>ほうひろん</rt></ruby>」<ruby>樽林忠男訳<rt>たるばやしただおやく</rt></ruby>、P.381 より<ruby>引用<rt>いんよう</rt></ruby><br />
