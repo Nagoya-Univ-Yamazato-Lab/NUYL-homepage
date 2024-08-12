@@ -1532,6 +1532,8 @@ NHKの<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>動画<rt>どうが</rt><
 
 ドラえもんの「[<ruby>音楽イモ<rt>おんがくいも</rt></ruby>](https://ja.wikipedia.org/wiki/ドラえもんのひみつ道具_(おは-おん)#音楽イモ)」を<ruby>食<rt>た</rt></ruby>べるしかないかも、です。ハハハ。
 
+ちなみに、お<ruby>魚<rt>さかな</rt></ruby>のニシンはおならで<ruby>会話<rt>かいわ</rt></ruby>をするそうです。<ruby>片山先生<rt>かたやませんせい</rt></ruby>に<ruby>教<rt>おしえ</rt></ruby>えてもらいました。すごいですね！
+
  ----
 
 #### 参考文献
