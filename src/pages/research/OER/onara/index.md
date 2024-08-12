@@ -1308,7 +1308,7 @@ NHKの<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>動画<rt>どうが</rt><
 
 たかがおなら、されどおならであります。
 
-まったく<ruby>役<rt>やく</rt></ruby>に立たないおならであっても、心をこめて<ruby>修行<rt>しゅぎょう</rt></ruby>をすればこんなに<ruby>素晴<rt>すば</rt></ruby>らしい<ruby>芸<rt>げい</rt></ruby>になるのだから、もし、<ruby>賢人<rt>けんじん</rt></ruby>がいて、このおならのようにいろいろと<ruby>工夫<rt>くふう</rt></ruby>をし、天下の人を救うことがあるならば、その<ruby>功績<rt>こうせき</rt></ruby>はどんなに<ruby>大<rt>おお</rt></ruby>きいことだろうかとかんがえます。
+まったく<ruby>役<rt>やく</rt></ruby>に立たないおならであっても、心をこめて<ruby>修行<rt>しゅぎょう</rt></ruby>をすればこんなに<ruby>素晴<rt>すば</rt></ruby>らしい<ruby>芸<rt>げい</rt></ruby>になるのだから、もし、<ruby>賢人<rt>けんじん</rt></ruby>がいて、このおならのようにいろいろと<ruby>工夫<rt>くふう</rt></ruby>をし、<ruby>天下<rt>てんか</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>を<ruby>救<rt>すく</rt></ruby>うことがあるならば、その<ruby>功績<rt>こうせき</rt></ruby>はどんなに<ruby>大<rt>おお</rt></ruby>きいことだろうかとかんがえます。
 <ruby>思慮<rt>しりょ</rt></ruby>をめぐらしながら<ruby>修行<rt>しゅぎょう</rt></ruby>をすれば、おならでさえも、このように<ruby>役<rt>やく</rt></ruby>にたつものです。
 
 わたしは、このおならの<ruby>音<rt>おと</rt></ruby>をかりて、<ruby>自暴自棄<rt>じぼうじき</rt></ruby>・<ruby>未熟<rt>みじゅく</rt></ruby>・<ruby>無精<rt>ぶしょう</rt></ruby>のものたちの<ruby>眠<rt>ねむ</rt></ruby>りをさましたいのです。
