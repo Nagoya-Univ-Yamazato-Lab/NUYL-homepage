@@ -1283,7 +1283,7 @@ NHKの<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>動画<rt>どうが</rt><
 私がこのおなら<ruby>男<rt>おとこ</rt></ruby>をもちあげるのも、それなりの<ruby>理由<rt>りゆう</rt></ruby>があるからであります。
 
 そもそも<ruby>天地<rt>てんち</rt></ruby>にあるものの中でもっとも<ruby>下品<rt>げひん</rt></ruby>なものといえば<ruby>大小便<rt>だいしょうべん</rt></ruby>にとどめを<ruby>刺<rt>さ</rt></ruby>すでしょう。
-ところが、<ruby>糞小便<rt>くそしょうべん</rt></ruby>といった<ruby>汚<rt>よご</rt></ruby>いものでも、すべて<ruby>五穀<rt>ごこく</rt></ruby>を<ruby>実<rt>み</rt></ruby>らせる<ruby>肥<rt>こやし</rt></ruby>となり、<ruby>万民<rt>ばんみん</rt></ruby>を<ruby>養<rt>やしな</rt></ruby>うもとになるのです。
+ところが、<ruby>糞小便<rt>くそしょうべん</rt></ruby>といった<ruby>汚<rt>きたな</rt></ruby>いものでも、すべて<ruby>五穀<rt>ごこく</rt></ruby>を<ruby>実<rt>み</rt></ruby>らせる<ruby>肥<rt>こやし</rt></ruby>となり、<ruby>万民<rt>ばんみん</rt></ruby>を<ruby>養<rt>やしな</rt></ruby>うもとになるのです。
 
 ところが、このおならばっかりは、ひった<ruby>者<rt>もの</rt></ruby>がしばらくはお<ruby>腹<rt>なか</rt></ruby>がすっきりして<ruby>気持<rt>きも</rt></ruby>ちがいいだけで、まったく<ruby>無益<rt>むえき</rt></ruby><ruby>無能<rt>むのう</rt></ruby>の<ruby>不要物<rt>ふようぶつ</rt></ruby>なのです。
 
