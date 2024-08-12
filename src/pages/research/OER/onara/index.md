@@ -1524,7 +1524,7 @@ NHKの<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>動画<rt>どうが</rt><
   - <ruby>吉本興業<rt>よしもとこうぎょう</rt></ruby><ruby>所属<rt>しょぞく</rt></ruby>の<ruby>芸人<rt>げいにん</rt></ruby>（<ruby>放屁師<rt>ほうひし</rt></ruby>）です。<ruby>自由自在<rt>じゆうじざい</rt></ruby>におならをこくことができます。<ruby>日本<rt>にほん</rt></ruby>より<ruby>海外<rt>かいがい</rt></ruby>で<ruby>有名<rt>ゆうめい</rt></ruby>かも。ゴットタレントの<ruby>動画<rt>どうが</rt></ruby>は<ruby>抱腹絶倒<rt>ほうふくぜっとう</rt></ruby>です。
 
 - ミスターメタン（Mr Methane）
-  - イギリスの<ruby>放屁師<rt>ほうひし</rt></ruby>です。<ruby>放屁師<rt>ほうひし</rt></ruby>のことを<ruby>英語<rt>えいご</rt></ruby>で Flatulist と<ruby>言<rt>い</rt></ruby>います。さて、この<ruby>方<rt>かた</rt></ruby>、なんと、[ギネスの<ruby>世界記録保持者<rt>せかいきろくほじしゃ</rt></ruby>](https://www.guinnessworldrecords.jp/world-records/651584-longest-career-as-a-flatulist)です。しかも「おなら」で。すごいですね。
+  - イギリスの<ruby>放屁師<rt>ほうひし</rt></ruby>です。<ruby>放屁師<rt>ほうひし</rt></ruby>のことを<ruby>英語<rt>えいご</rt></ruby>で Flatulist と<ruby>言<rt>い</rt></ruby>います。さて、この<ruby>方<rt>かた</rt></ruby>、なんと、[ギネスの<ruby>世界記録保持者<rt>せかいきろくほじしゃ</rt></ruby>](https://www.guinnessworldrecords.jp/world-records/651584-longest-career-as-a-flatulist)です。しかも「おなら」で。すごいですね。ちなみに、ギネスの<ruby>説明文<rt>せつめいぶん</rt></ruby>に<ruby>霧降花咲男<rt>きりふりはなさかおとこ</rt></ruby>も<ruby>書<rt>か</rt></ruby>いてあります。すごいですね。
 
 この<ruby>方々<rt>かたがた</rt></ruby>であれば、おなら<ruby>通信<rt>つうしん</rt></ruby>はできますね。
 でも、こんな<ruby>特技<rt>とくぎ</rt></ruby>の<ruby>無<rt>な</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>はどうすれば<ruby>良<rt>よ</rt></ruby>いのでしょうか？
