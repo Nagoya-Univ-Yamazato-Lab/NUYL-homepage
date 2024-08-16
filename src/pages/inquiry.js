@@ -130,6 +130,7 @@ function ContactForm() {
                 type="text"
                 onChange={(event) => setMessage(event.target.value)}
                 className="textarea"
+                aria-label="inquiry: label"
                 required
               />
             </label>
@@ -150,6 +151,7 @@ function ContactForm() {
                 type="text"
                 value={name}
                 onChange={(event) => setName(event.target.value)}
+                aria-label="inquiry: name"
                 required
               />
 
@@ -177,6 +179,7 @@ function ContactForm() {
                 type="email"
                 name="email"
                 value={email}
+                aria-label="inquiry: email"
                 onChange={(event) => setEmail(event.target.value)}
                 required
               />
