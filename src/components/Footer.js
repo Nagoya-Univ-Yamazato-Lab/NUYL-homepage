@@ -229,6 +229,7 @@ const Footer = class extends React.Component {
                     target="_blank"
                     rel="noopener noreferrer"
                     title="Vimeo: Takaya Yamazato"
+                    aria-label="Vimeo: Takaya Yamazato"
                   >
                     <FaVimeoV />
                   </a>

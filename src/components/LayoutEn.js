@@ -11,7 +11,7 @@ import './all.sass'
 import useSiteMetadata from './SiteMetadata'
 
 const TemplateWrapper = ({ children }) => {
-  const { title, description, lang } = useSiteMetadata()
+  const { title, description } = useSiteMetadata()
 
   return (
     <div>
