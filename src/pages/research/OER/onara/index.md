@@ -43,7 +43,8 @@ tags:
 > 
 > 準備の都合上、~~８月１９日（月）~~までにお送りいただけますと助かります。
 >
-> <span style="color: red; font-weight: bold; text-decoration: underline;">締切を 8月23日（金）まで延長します。</span>たくさんの「おなら音」をお送りください。
+> <span style="color: red; font-weight: bold; text-decoration: underline;">締切を 8月23日（金）まで延長します。
+> </span>たくさんの「おなら音」をお送りください。
 >
 >「おならの音」のご提供は、もちろん任意ですが、多数の方にご協力いただけますと幸いです。
 >
