@@ -41,7 +41,7 @@ tags:
 >
 > までご連絡ください。折り返しアップロード用URLをお送りします。
 > 
-> 準備の都合上、~~８月１９日（月）~~までにお送りいただけますと助かります。
+> 準備の都合上、<span style="text-decoration: line-through; ">８月１９日（月）</span>までにお送りいただけますと助かります。
 >
 > <span style="color: red; font-weight: bold; text-decoration: underline;">締切を 8月23日（金）まで延長します。
 > </span>たくさんの「おなら音」をお送りください。
