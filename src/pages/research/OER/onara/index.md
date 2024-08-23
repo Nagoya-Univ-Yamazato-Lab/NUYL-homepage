@@ -45,7 +45,7 @@ tags:
 >
 > <span style="color: red; font-weight: bold; text-decoration: underline;">締切を 
 >  8月25日（日）まで延長します。</span>たくさんの「おなら音」をお送りください。
-> <span style="text-decoration: line-through; ">8月23日（金）</span>
+<!-- > <span style="text-decoration: line-through; ">8月23日（金）</span> -->
 >
 >「おならの音」のご提供は、もちろん任意ですが、多数の方にご協力いただけますと幸いです。
 >
