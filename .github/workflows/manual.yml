@@ -28,6 +28,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           # node-version: "latest"
+          # node-version: "22.4.1"
           node-version-file: 'package.json'
           cache: "yarn"
       # Node の実行（npm install, npm run build）
