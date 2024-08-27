@@ -78,7 +78,7 @@ tags:
 - [おなら<ruby>通信<rt>つうしん</rt></ruby>のアイデアはここから<ruby>生<rt>う</rt></ruby>まれた？！](#the-fart-communication)
   - [<ruby>平賀源内<rt>ひらがげんない</rt></ruby>](#hiraga-gennai)
     - [<ruby>土用<rt>どよう</rt></ruby>の<ruby>丑<rt>うし</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>](#doyou-no-ushino-hi)
-    - [<ruby>エレキテル<rt>えれきてる</rt></ruby>](#erekiteru)
+    - [エレキテル](#erekiteru)
     - [<ruby>放屁論<rt>ほうひろん</rt></ruby>](#houhiron)
     - [<ruby>放屁論後編<rt>ほうひろんこうへん</rt></ruby>](#houhiron-kouhen)
   - [<ruby>江戸<rt>えど</rt></ruby>の<ruby>庶民<rt>しょみん</rt></ruby>はおならが<ruby>大好<rt>だいす</rt></ruby>き？！](#onara-daisuki)
@@ -500,7 +500,7 @@ tags:
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
     <p class="says">２つ？<br>
-    <ruby>何<rt>なに</rt></ruby>か違うものが２つあれば<ruby>通信<rt>つうしん</rt></ruby>ができるの？
+    <ruby>何<rt>なに</rt></ruby>か<ruby>違<rt>ちが</rt></ruby>うものが２つあれば<ruby>通信<rt>つうしん</rt></ruby>ができるの？
     </p>
 </div>
 <div class="balloon_r">
@@ -508,7 +508,7 @@ tags:
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
     <p class="says">そう、そのとおり。<br>
-    「プッ」と「プゥ〜」の２つ。あるいは、単に「プッ」ともう一つは<ruby>何<rt>なに</rt></ruby>も<ruby>音<rt>おと</rt></ruby>がしないことでもいいよ。
+    「プッ」と「プゥ〜」の２つ。あるいは、<ruby>単<rt>たん</rt></ruby>に「プッ」ともう一つは<ruby>何<rt>なに</rt></ruby>も<ruby>音<rt>おと</rt></ruby>がしないことでもいいよ。
     </p>
 </div>
 <div class="balloon_l">
@@ -568,7 +568,7 @@ tags:
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
     <p class="says">さすが、おならくん、そのとおりだよ。<br>
-    <ruby>情報<rt>じょうほう</rt></ruby>を<ruby>送<rt>おく</rt></ruby>る<ruby>方<rt>ほう</rt></ruby>と<ruby>受<rt>う</rt></ruby>けとる<ruby>方<rt>ほう</rt></ruby>とで２つの区別がつけば、<ruby>何<rt>なに</rt></ruby>をつかっても<ruby>通信<rt>つうしん</rt></ruby>ができるんだよ。この<ruby>場合<rt>ばあい</rt></ruby>「１」と「０」をつかうのでデジタル<ruby>通信<rt>つうしん</rt></ruby>というんだ。
+    <ruby>情報<rt>じょうほう</rt></ruby>を<ruby>送<rt>おく</rt></ruby>る<ruby>方<rt>ほう</rt></ruby>と<ruby>受<rt>う</rt></ruby>けとる<ruby>方<rt>ほう</rt></ruby>とで２つの<ruby>区別<rt>くべつ</rt></ruby>がつけば、<ruby>何<rt>なに</rt></ruby>をつかっても<ruby>通信<rt>つうしん</rt></ruby>ができるんだよ。この<ruby>場合<rt>ばあい</rt></ruby>「１」と「０」をつかうのでデジタル<ruby>通信<rt>つうしん</rt></ruby>というんだ。
     </p>
 </div>
 <div class="balloon_l">
@@ -590,7 +590,7 @@ tags:
     <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
   </div>
     <p class="says">おならのにおいでデジタル<ruby>通信<rt>つうしん</rt></ruby>ができるなんて、ちょっと、びっくりしちゃうな。<br>
-    おならのにおいがする、しないが「１」と「０」をあらわすのだね。<br>
+    おならのにおいがする、しないが「１」と「０」をあらわすんだね。<br>
     なんだかすごいね！
     </p>
 </div>
@@ -655,7 +655,7 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">そのとおり。「１」「０」「１」の<ruby>場合<rt>ばあい</rt></ruby>で考えてみようか。<br>
+    <p class="says">そのとおり。「１」「０」「１」の<ruby>場合<rt>ばあい</rt></ruby>で<ruby>考<rt>かんが</rt></ruby>えてみようか。<br>
     <ruby>最初<rt>さいしょ</rt></ruby>は「１」なのでおならを「プゥ〜」、<br>
     次の１<ruby>分<rt>ぷん</rt></ruby>から２<ruby>分<rt>ふん</rt></ruby>までは「０」なので、おならをしないで「しーん（においがしない）」、<br>
     <ruby>最後<rt>さいご</rt></ruby>の２<ruby>分<rt>ふん</rt></ruby>から３<ruby>分<rt>ぷん</rt></ruby>までは「１」なので、また「プゥ〜」とおならをすればいいよ。
@@ -841,7 +841,7 @@ tags:
     <p class="says">そう、<ruby>発振回路<rt>はっしんかいろ</rt></ruby>。<br>
     <ruby>発振回路<rt>はっしんかいろ</rt></ruby>が<ruby>刻<rt>きざ</rt></ruby>む<ruby>時間<rt>じかん</rt></ruby>にあわせて「１」か「０」のいずれかを<ruby>送<rt>おく</rt></ruby>るんだ。<br>
     なので、<ruby>発振回路<rt>はっしんかいろ</rt></ruby>が<ruby>正確<rt>せいかく</rt></ruby>に<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>で<ruby>刻<rt>きざ</rt></ruby>むことでがだいじになるんだ。<br>
-    <ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>で「１」と「０」を切り替えることができれば、それだけ<ruby>高速<rt>こうそく</rt></ruby>にたくさんの<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>送<rt>おく</rt></ruby>ることができるからね。
+    <ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>で「１」と「０」を<ruby>切<rt>き</rt></ruby>り<ruby>替<rt>か</rt></ruby>えることができれば、それだけ<ruby>高速<rt>こうそく</rt></ruby>にたくさんの<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>送<rt>おく</rt></ruby>ることができるからね。
     </p>
 </div>
 <div class="balloon_l">
@@ -904,7 +904,7 @@ tags:
     <p class="says">ぼくは<ruby>可視光通信<rt>かしこうつうしん</rt></ruby>っていってね、<ruby>目<rt>め</rt></ruby>で<ruby>見<rt>み</rt></ruby>える<ruby>光<rt>ひかり</rt></ruby>をつかった<ruby>通信<rt>つうしん</rt></ruby>を<ruby>研究<rt>けんきゅう</rt></ruby>しているんだ。<br>
     この<ruby>授業<rt>じゅぎょう</rt></ruby>でデモもやるよ。<br>
     <ruby>天野<rt>あまの</rt></ruby><ruby>浩<rt>ひろし</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>が<ruby>発明<rt>はつめい</rt></ruby>した<ruby>LED<rt>エル イー ディ</rt></ruby>をつかって<ruby>通信<rt>つうしん</rt></ruby>をするんだ。<br>
-    <a href="https://tech.imass.nagoya-u.ac.jp/lecture.html"><ruby>天野<rt>あまの</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>の講演</a>はぜひきいてね。ちょっとむずかしいかもしれないけど、きっとワクワクするとおもうよ。
+    <a href="https://tech.imass.nagoya-u.ac.jp/lecture.html"><ruby>天野<rt>あまの</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>の<ruby>講演<rt>こうえん</rt></ruby></a>はぜひきいてね。ちょっとむずかしいかもしれないけど、きっとワクワクするとおもうよ。
     </p>
 </div>
 <div class="balloon_l">
@@ -920,7 +920,7 @@ tags:
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
     <p class="says">もちろん。<br>
-    まずは<a href="https://sudalab.skr.jp/members/jun_suda/"><ruby>須田<rt>すだ</rt></ruby><ruby>淳<rt>じゅん</rt></ruby><ruby>先生<rt>せんせい</rt></ruby></a>の<a href="https://tech.imass.nagoya-u.ac.jp/lecture.html#L1B">「でんきのしくみ、作りかた。おもしろい！でんきのはなし」</a>をきいてみたら？きっと<ruby>研究<rt>けんきゅう</rt></ruby>の<ruby>楽<rt>たの</rt></ruby>しさをおしえてくれるとおもうよ。<br>
+    まずは<a href="https://sudalab.skr.jp/members/jun_suda/"><ruby>須田<rt>すだ</rt></ruby><ruby>淳<rt>じゅん</rt></ruby><ruby>先生<rt>せんせい</rt></ruby></a>の<a href="https://tech.imass.nagoya-u.ac.jp/lecture.html#L1B">「でんきのしくみ、<ruby>作<rt>つく</rt></ruby>りかた。おもしろい！でんきのはなし」</a>をきいてみたら？きっと<ruby>研究<rt>けんきゅう</rt></ruby>の<ruby>楽<rt>たの</rt></ruby>しさをおしえてくれるとおもうよ。<br>
     <ruby>研究<rt>けんきゅう</rt></ruby>はとっても<ruby>楽<rt>たの</rt></ruby>しいし、やりがいもあるよ。ぜひ、いっしょに<ruby>研究<rt>けんきゅう</rt></ruby>をやろう！<br>
     でもね、<ruby>実<rt>じつ</rt></ruby>はなかなかおもうようにいかなんだ！そういうところも<ruby>楽<rt>たの</rt></ruby>しいんだけどね、ハハハ。
     </p>
@@ -968,18 +968,18 @@ tags:
 
 1. [<ruby>電子情報通信学会<rt>でんしじょうほうつうしんがっかい</rt></ruby>　こどもに<ruby>教<rt>おし</rt></ruby>えたい<ruby>通信<rt>つうしん</rt></ruby>のしくみ](https://www.ieice.org/~cs-edit/magazine/howto.html)
    - https://www.ieice.org/~cs-edit/magazine/howto.html
-   - デモをやる[<ruby>可視光通信<rt>かしこうつうしん</rt></ruby>](https://www.jstage.jst.go.jp/article/bplus/12/3/12_174/_pdf)はここに<ruby>載<rt></rt></ruby>っているのとおなじだよ。LEDをピカピカ<ruby>光<rt>ひか</rt></ruby>らせて<ruby>（音声）信号<rt>（おんせい）しんごう</rt></ruby>を<ruby>送<rt></rt></ruby>り、<ruby>太陽電池<rt>たいようでんち</rt></ruby>で<ruby>受信<rt>じゅしん</rt></ruby>するんだよ。
+   - デモをやる[<ruby>可視光通信<rt>かしこうつうしん</rt></ruby>](https://www.jstage.jst.go.jp/article/bplus/12/3/12_174/_pdf)はここに<ruby>載<rt>の</rt></ruby>っているのとおなじだよ。LEDをピカピカ<ruby>光<rt>ひか</rt></ruby>らせて<ruby>（音声）信号<rt>（おんせい）しんごう</rt></ruby>を<ruby>送<rt></rt></ruby>り、<ruby>太陽電池<rt>たいようでんち</rt></ruby>で<ruby>受信<rt>じゅしん</rt></ruby>するんだよ。
 
 1. [<ruby>電波<rt>でんぱ</rt></ruby><ruby>適正<rt>てきせい</rt></ruby><ruby>利用<rt>りよう</rt></ruby><ruby>推進<rt>すいしん</rt></ruby><ruby>員<rt>いん</rt></ruby><ruby>協議会<rt>きょうぎかい</rt></ruby>　<ruby>電波<rt>でんぱ</rt></ruby><ruby>学習館<rt>がくしゅうかん</rt></ruby>](https://www.cleandenpa.net/museum/g_moku.html)
    - https://www.cleandenpa.net/museum/g_moku.html
-   - ガウス、マックスウェル、アンペール、ヘルツ、ファラデーなど<ruby>電波<rt>でんぱ</rt></ruby>を<ruby>発見<rt>はっけん</rt></ruby>した<ruby>偉人<rt>いじん</rt></ruby>とその<ruby>業績<rt>ぎょうせき</rt></ruby>の<ruby>説明<rt>せつめい</rt></ruby>や、マルコーニによる<ruby>初期<rt>しょき</rt></ruby>の<ruby>無線通信<rt>むせんつうしん</rt></ruby>の<ruby>仕組<rt>しく</rt></ruby>みなどの<ruby>説明<rt>せつめい</rt></ruby>があるよ。また、<ruby>鉱石<rt>こうせき</rt></ruby><ruby>ラジオ<rt>らじお</rt></ruby>の<ruby>作<rt>つ</rt></ruby>り<ruby>方<rt>かた</rt></ruby>もあるので<ruby>試<rt>ため</rt></ruby>してみると<ruby>楽<rt>たの</rt></ruby>しいよ。
+   - ガウス、マックスウェル、アンペール、ヘルツ、ファラデーなど<ruby>電波<rt>でんぱ</rt></ruby>を<ruby>発見<rt>はっけん</rt></ruby>した<ruby>偉人<rt>いじん</rt></ruby>とその<ruby>業績<rt>ぎょうせき</rt></ruby>の<ruby>説明<rt>せつめい</rt></ruby>や、マルコーニによる<ruby>初期<rt>しょき</rt></ruby>の<ruby>無線通信<rt>むせんつうしん</rt></ruby>の<ruby>仕組<rt>しく</rt></ruby>みなどの<ruby>説明<rt>せつめい</rt></ruby>があるよ。また、<ruby>鉱石<rt>こうせき</rt></ruby><ruby>ラジオ<rt>らじお</rt></ruby>の<ruby>作<rt>つく</rt></ruby>り<ruby>方<rt>かた</rt></ruby>もあるので<ruby>試<rt>ため</rt></ruby>してみると<ruby>楽<rt>たの</rt></ruby>しいよ。
 
 
 1. [<ruby>子供<rt>こども</rt></ruby>の<ruby>科学<rt>かがく</rt></ruby>](https://www.kodomonokagaku.com)
    - https://www.kodomonokagaku.com
-   - インターネットやコンピュータについて、<ruby>楽<rt>たの</rt></ruby>しい<ruby>記事<rt>きじ</rt></ruby>や<ruby>特集<rt>とくしゅう</rt></ruby>がいっぱいのサイト。たとえば[<ruby>衛星通信<rt>えいせいつうしん</rt></ruby><ruby>大研究<rt>だいけんきゅう</rt></ruby>](https://www.kodomonokagaku.com/eisei/)はとてもおもしろいよ。ほかにも、[ノーベル<ruby>賞<rt>しょう</rt></ruby>スペシャルサイト](https://www.kodomonokagaku.com/read/27909/)では<ruby>赤崎 勇<rt>あかさき いさむ</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>、<ruby>天野<rt>あまの</rt></ruby><ruby>浩<rt>ひろし</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>、<ruby>中村 修二<rt>なかむら しゅうじ</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>が発明した[<ruby>青色<rt>あおいろ</rt></ruby><ruby>LED<rt>エルイーディ</rt></ruby>](https://www.kodomonokagaku.com/read/28115/)のことも<ruby>学<rt>まな</rt></ruby>べるよ。ぜひ、<ruby>読<rt>よ</rt></ruby>んでね。
+   - インターネットやコンピュータについて、<ruby>楽<rt>たの</rt></ruby>しい<ruby>記事<rt>きじ</rt></ruby>や<ruby>特集<rt>とくしゅう</rt></ruby>がいっぱいのサイト。たとえば[<ruby>衛星通信<rt>えいせいつうしん</rt></ruby><ruby>大研究<rt>だいけんきゅう</rt></ruby>](https://www.kodomonokagaku.com/eisei/)はとてもおもしろいよ。ほかにも、[ノーベル<ruby>賞<rt>しょう</rt></ruby>スペシャルサイト](https://www.kodomonokagaku.com/read/27909/)では<ruby>赤崎 勇<rt>あかさき いさむ</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>、<ruby>天野<rt>あまの</rt></ruby><ruby>浩<rt>ひろし</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>、<ruby>中村 修二<rt>なかむら しゅうじ</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>が<ruby>発明<rt>はつめい</rt></ruby>した[<ruby>青色<rt>あおいろ</rt></ruby><ruby>LED<rt>エルイーディ</rt></ruby>](https://www.kodomonokagaku.com/read/28115/)のことも<ruby>学<rt>まな</rt></ruby>べるよ。ぜひ、<ruby>読<rt>よ</rt></ruby>んでね。
 
-1. [<ruby>月間<rt>げっかん</rt></ruby><ruby>FB<rt>エフビー</rt></ruby>ニュース](https://www.fbnews.jp/)　子供の<ruby>無線教室<rt>むせんきょうしつ</rt></ruby> ～<ruby>電波<rt>でんぱ</rt></ruby>のフシギをやさしく<ruby>学<rt>まな</rt></ruby>ぼう～
+1. [<ruby>月間<rt>げっかん</rt></ruby><ruby>FB<rt>エフビー</rt></ruby>ニュース](https://www.fbnews.jp/)　<ruby>子供<rt>こども</rt></ruby>の<ruby>無線教室<rt>むせんきょうしつ</rt></ruby> ～<ruby>電波<rt>でんぱ</rt></ruby>のフシギをやさしく<ruby>学<rt>まな</rt></ruby>ぼう～
    - <ruby>全部<rt>ぜんぶ</rt></ruby>で10<ruby>回<rt>かい</rt></ruby>のシリーズになっていて、<ruby>電波<rt>でんぱ</rt></ruby>、<ruby>アンテナ<rt>あんてな</rt></ruby>から<ruby>無線機<rt>むせんき</rt></ruby>までくわしい<ruby>説明<rt>せつめい</rt></ruby>があるよ。<ruby>電波<rt>でんぱ</rt></ruby>や<ruby>無線通信<rt>むせんつうしん</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しく<ruby>学<rt>まな</rt></ruby>ぶことができるよ。
      - [第1回「<ruby>電波<rt>でんぱ</rt></ruby>ってなあに?」](https://www.fbnews.jp/201701/musenkyoushitsu/)
      - [第2回「<ruby>電波<rt>でんぱ</rt></ruby>の<ruby>発見<rt>はっけん</rt></ruby>と<ruby>利用<rt>りよう</rt></ruby>の<ruby>歴史<rt>れきし</rt></ruby>」](https://www.fbnews.jp/201702/musenkyoushitsu/index.html)
@@ -1440,7 +1440,9 @@ NHKの<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>動画<rt>どうが</rt><
   alt="仙厓和尚の自画自賛（「屁なりとてあだなるものと思うなよ　ぶっという字は仏なり」）" />
 <br />
 <ruby>仙厓和尚<rt>せんがいおしょう</rt></ruby>の<ruby>自画自賛<rt>じがじさん</rt></ruby>（「<ruby>屁<rt>へ</rt></ruby>なりとてあだなるものと<ruby>思<rt>おも</rt></ruby>うなよ　ぶっという<ruby>字<rt>じ</rt></ruby>は<ruby>仏<rt>ほとけ</rt></ruby>なり」）<br />
-<ruby>出展<rt>しゅってん</rt></ruby>：<ruby>佐藤清彦<rt>さとうきよひこ</rt></ruby>、おなら<ruby>考<rt>こう</rt></ruby>、<ruby>青弓社<rt>せいきゅうしゃ</rt></ruby>、1994<ruby>年<rt>ねん</rt></ruby>、P.37 より<ruby>引用<rt>いんよう</rt></ruby>
+<!-- <ruby>出展<rt>しゅってん</rt></ruby>：<ruby>佐藤清彦<rt>さとうきよひこ</rt></ruby>、おなら<ruby>考<rt>こう</rt></ruby>、<ruby>青弓社<rt>せいきゅうしゃ</rt></ruby>、1994<ruby>年<rt>ねん</rt></ruby>、P.37 より<ruby>引用<rt>いんよう</rt></ruby>
+</div><br /> -->
+出展：佐藤清彦、おなら考、青弓社、1994年、P.37 より引用
 </div><br />
 
 <ruby>一休<rt>いっきゅう</rt></ruby>が、<ruby>奈良<rt>なら</rt></ruby>の<ruby>片田舎<rt>かたいなか</rt></ruby>にいおりを<ruby>結<rt>むす</rt></ruby>んでいるとき、<ruby>在家<rt>ざいけ</rt></ruby>の<ruby>庄左衛門<rt>しょうざえもん</rt></ruby>という<ruby>男<rt>おとこ</rt></ruby>が<ruby>訪<rt>たず</rt></ruby>ねてきた。
@@ -1459,7 +1461,10 @@ NHKの<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>動画<rt>どうが</rt><
   alt="放屁合戦" />
 <br />
 <ruby>放屁合戦<rt>ほうひがっせん</rt></ruby>（<ruby>一部<rt>いちぶ</rt></ruby>のみ<ruby>掲載<rt>けいさい</rt></ruby>）</a><br />
-出展：<a href="https://www.wul.waseda.ac.jp/kotenseki/html/chi04/chi04_01029/index.html" alt="屁合戦絵巻、早稲田大学図書館"><ruby>屁合戦絵巻<rt>ほうひがっせんえまき</rt></ruby>、<ruby>早稲田大学<rt>わせだだいがく</rt></ruby><ruby>図書館<rt>としょかん</rt></ruby></a><br />
+<!-- 出展：<a href="https://www.wul.waseda.ac.jp/kotenseki/html/chi04/chi04_01029/index.html" alt="屁合戦絵巻、早稲田大学図書館"><ruby>屁合戦絵巻<rt>ほうひがっせんえまき</rt></ruby>、<ruby>早稲田大学<rt>わせだだいがく</rt></ruby><ruby>図書館<rt>としょかん</rt></ruby></a><br />
+<a href="https://ja.wikipedia.org/wiki/放屁合戦" alt="放屁合戦">https://ja.wikipedia.org/wiki/放屁合戦</a>
+</div><br /> -->
+出展：<a href="https://www.wul.waseda.ac.jp/kotenseki/html/chi04/chi04_01029/index.html" alt="屁合戦絵巻、早稲田大学図書館">屁合戦絵巻、早稲田大学図書館</a><br />
 <a href="https://ja.wikipedia.org/wiki/放屁合戦" alt="放屁合戦">https://ja.wikipedia.org/wiki/放屁合戦</a>
 </div><br />
 
@@ -1525,7 +1530,7 @@ NHKの<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>動画<rt>どうが</rt><
   - ドリフにおならの<ruby>音<rt>おと</rt></ruby>を<ruby>提供<rt>ていきょう</rt></ruby>したことがあるレジェンドです。レコードも<ruby>出<rt>だ</rt></ruby>していて、<ruby>志村<rt>しむら</rt></ruby>けんのお<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>りだったとか。おなら<ruby>音源<rt>おんげん</rt></ruby><ruby>専門店<rt>せんもんてん</rt></ruby>もやっています。
 
 - <ruby>市川<rt>いちかわ</rt></ruby>こいくち
-  - <ruby>吉本興業<rt>よしもとこうぎょう</rt></ruby><ruby>所属<rt>しょぞく</rt></ruby>の<ruby>芸人<rt>げいにん</rt></ruby>（<ruby>放屁師<rt>ほうひし</rt></ruby>）です。<ruby>自由自在<rt>じゆうじざい</rt></ruby>におならをこくことができます。<ruby>日本<rt>にほん</rt></ruby>より<ruby>海外<rt>かいがい</rt></ruby>で<ruby>有名<rt>ゆうめい</rt></ruby>かも。ゴットタレントの<ruby>動画<rt>どうが</rt></ruby>は<ruby>抱腹絶倒<rt>ほうふくぜっとう</rt></ruby>です。
+  - <ruby>吉本興業<rt>よしもとこうぎょう</rt></ruby><ruby>所属<rt>しょぞく</rt></ruby>の<ruby>芸人<rt>げいにん</rt></ruby>（<ruby>放屁師<rt>ほうひし</rt></ruby>）です。<ruby>自由自在<rt>じゆうじざい</rt></ruby>におならをだすことができます。<ruby>日本<rt>にほん</rt></ruby>より<ruby>海外<rt>かいがい</rt></ruby>で<ruby>有名<rt>ゆうめい</rt></ruby>かも。ゴットタレントの<ruby>動画<rt>どうが</rt></ruby>は<ruby>抱腹絶倒<rt>ほうふくぜっとう</rt></ruby>です。
 
 - ミスターメタン（Mr Methane）
   - イギリスの<ruby>放屁師<rt>ほうひし</rt></ruby>です。<ruby>放屁師<rt>ほうひし</rt></ruby>のことを<ruby>英語<rt>えいご</rt></ruby>で Flatulist と<ruby>言<rt>い</rt></ruby>います。さて、この<ruby>方<rt>かた</rt></ruby>、なんと、[ギネスの<ruby>世界記録保持者<rt>せかいきろくほじしゃ</rt></ruby>](https://www.guinnessworldrecords.jp/world-records/651584-longest-career-as-a-flatulist)です。しかも「おなら」で。すごいですね。ちなみに、ギネスの<ruby>説明文<rt>せつめいぶん</rt></ruby>に<ruby>霧降花咲男<rt>きりふりはなさかおとこ</rt></ruby>も<ruby>書<rt>か</rt></ruby>いてあります。すごいですね。
