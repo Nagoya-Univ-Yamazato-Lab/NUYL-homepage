@@ -807,8 +807,8 @@ tags:
     <div class="faceicon">
       <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
     </div>
-    <p class="says">もちろん、できるんだけどね・・・<br>
-    でもね、さっきデジタル<ruby>通信<rt>つうしん</rt></ruby>で<ruby>必要<rt>ひつよう</rt></ruby>といった<ruby>時計<rt>とけい</rt></ruby>が<ruby>難<rt>むずか</rt></ruby>しいんだ。
+    <p class="says">じつは、<ruby>電磁波<rt>でんじは</rt></ruby>があいてに<ruby>届<rt>とど</rt></ruby>くのは<ruby>速<rt>はや</rt>いけど、<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>届<rt>とど</rt></ruby>くのは、まだまだ遅いんだ。<br>
+    じつは、さっき、デジタル<ruby>通信<rt>つうしん</rt></ruby>で<ruby>必要<rt>ひつよう</rt></ruby>といった<ruby>時計<rt>とけい</rt></ruby>が<ruby>難<rt>むずか</rt></ruby>しいんだ。
     </p>
 </div>
 <div class="balloon_l">
