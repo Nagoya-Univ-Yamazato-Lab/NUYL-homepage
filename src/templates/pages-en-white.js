@@ -16,7 +16,7 @@ const PagesTemplateEnWhite = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <SeO
         title={post.frontmatter.title}
-        description={post.frontmatter.description || post.excerpt}
+        description={post.frontmatter.description}
       />
       <section className="section">
         <header>
@@ -67,7 +67,6 @@ export const pageQuery = graphql`
     }
     markdownRemark(id: { eq: $id }) {
       id
-      excerpt(pruneLength: 160)
       html
       frontmatter {
         lang

@@ -59,7 +59,6 @@ export default function IndexRollQuery() {
           ) {
             edges {
               node {
-                excerpt(pruneLength: 100)
                 id
                 fields {
                   slug
