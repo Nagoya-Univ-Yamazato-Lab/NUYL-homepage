@@ -13,31 +13,21 @@ tags:
 
 ## 略歴
 
-<!-- 1998 年、オーストラリア・シドニーで開催された IEEE GLOBECOM で「Introduction to CDMA ALOHA」と題した半日チュートリアルを行う。
-2006 年、IEEE Communication Society の Best Tutorial Paper Award を受賞。
-IEEE ICC 2009 の Wireless Communication Symposia の co-chair を務め、IEEE ICC 2011 の Selected Areas in Communication Symposia の co-chair を務める。
-2008〜2010 年、IEEE Communication Society Satellite and Space Communication Technical Committee の Chair。
-2011 年には、京都で開催された IEEE ICC 2011 において、「可視光通信」と題した半日チュートリアルを行う。
-2009〜2011 年まで，電子情報通信学会文論文誌 B 編集委員長。
-2016〜2017 年まで，IEEE Communication Society、Asia/Pacific Board Director．
-第 8 回および第 9 回 IEEE GLOBECOM Workshop on Optical Wireless Communications（OWC'18、OWC'20）の共同議長を務める。
-第 76 回（令和元年度）電子情報通信学会論文賞．
-2020〜2021 年まで電子情報通信学会通信ソサイエティ編集長を務める。
-現在、電子情報通信学会東海支部長、通信ソサイエティ執行委員会特別委員． -->
 
 - 昭 63 信州大・工・電子工卒.
 - 平 02 信州大学院修士課程了．
-- 平 05 慶大大学院博士課程了．博士（工学）．<br />
-  &emsp;&emsp;&emsp;同年，名大・工・電子情報・助手．
+- 平 05 慶大大学院博士課程了．博士（工学）．
+  - 同年，名大・工・電子情報・助手．
 - 平 09 より平 10 まで, ドイツカイザースラウテルン大・客員研究員．
 - 平 10 名大・情報メディア教育センター・助教授，
 - 平 16 名大・エコトピア科学研究機構，
 - 平 19 名大・エコトピア科学研究所・准教授，
 - 平 22 名大・教養教育院・教授，
-- 令 04 名大・教養教育院・副院長，現在に至る.<br />
-  &emsp;&emsp;&emsp;名大・工学研究科　情報・通信工学専攻，<br />
-  &emsp;&emsp;&emsp;名大・情報基盤センター　教育情報メディア研究部門，<br />
-  &emsp;&emsp;&emsp;を兼務．
+- 令 04 名大・教養教育院・副院長，現在に至る.
+  - 名大・工学研究科　情報・通信工学専攻，
+  - 名大・情報基盤センター　教育情報メディア研究部門，
+  
+  を兼務．
 
 研究テーマは、可視光通信、ITS、確率共鳴など。
 

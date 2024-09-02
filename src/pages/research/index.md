@@ -16,7 +16,7 @@ tags:
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/902135247?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="あいちITSワールド2023"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-<br />
+
 現在取り組んでいる可視光通信の研究についてご覧いただけます．
 
 B4の近藤君が作ってくれました．ちなみに表紙右下にある研究室ロゴ，またこのHPのヘッダ・フッタのロゴも近藤君がデザインしたものです．いいセンスしていますね！素晴らしい．
@@ -26,20 +26,19 @@ B4の近藤君が作ってくれました．ちなみに表紙右下にある研
 
 - [展示パネル](20231123-Aichi-ITS-World-2023.pdf) ※ 15 MB ありますのでご注意ください．
 
-<hr />
 
 ## 2021 年度オープンキャンパスの研究紹介ビデオ
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/631918341?h=edbf01e210&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="open-campus_yamazato"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-<br />
+
 2021 年度オープンキャンパス向けに作成した研究紹介ビデオです．
 
 研究室のメンバー（学生さん）に各自の研究についての紹介ビデオを作ってもらい，それを繋ぎあわせてあります．
 
 現在，取り組んでいる研究をご覧頂けます．
 
-<hr />
+------
 
 # 可視光通信
 
@@ -54,14 +53,14 @@ B4の近藤君が作ってくれました．ちなみに表紙右下にある研
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/631908435?h=ebe66dc0ed&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="IV21_Nagoya_University_Yamazato"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-<br />
+
 こちらは英語になります．
 
 2021 年に開催された[23rd IEEE Intelligent Vehicle Symposium (IV21) ](https://2021.ieee-iv.org/ "23rd IEEE Intelligent Vehicle Symposium (IV21) ")での IEEE ITS Nagoya Chapter の活動の一環として作成したビデオです．
 
 当方が取り組んでいる可視光通信の ITS 応用について紹介しています．
 
-<hr />
+--------
 
 # 確率共鳴
 
@@ -78,7 +77,7 @@ B4の近藤君が作ってくれました．ちなみに表紙右下にある研
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/499501573?h=57a52fd782&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="確率共鳴（Stochastic Resonance）"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-<br />
+
 ビデオの後半に簡単なデモがあります．雑音を利用することで受信限界を下回る信号を検出する様子がご覧頂けます．
 
 ---

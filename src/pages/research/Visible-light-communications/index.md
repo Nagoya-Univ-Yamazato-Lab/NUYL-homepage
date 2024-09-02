@@ -74,7 +74,7 @@ LED は半導体デバイスであるため、人の目には見えないほど�
 - **<span style="color: red; ">[Eighth](http://yamazato.nuee.nagoya-u.ac.jp/owc2018/index.html) held at Globecom 2018, Abu Dhabi, UAE, Dec 9, 2018</span>**
 - **<span style="color: red; ">[Ninth](http://yamazato.nuee.nagoya-u.ac.jp/owc2020/) held at Globecom 2020, Taipei, Taiwan, [Monday, Dec 7, 2020](https://globecom2020.ieee-globecom.org/workshop/ws-01-workshop-optical-wireless-communications-owc)</span>**
 
-<br />
+
 
 また，可視光通信協会（現：日本フォトニクス協議会　可視光通信分科会）が主催した 2nd ICEVLC
 

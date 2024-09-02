@@ -19,11 +19,11 @@ tags:
 
 私たちは、オープン教材について研究しています。とりわけ、名古屋大学において教材の無償公開を行っているサイト「[名大の授業](https://ocw.nagoya-u.jp/ "Nagoya University’s OpenCourseWare (NUOCW)")」の管理・運用に係わっています。
 
-<br />
+
 
 名大の授業（NUOCW）の詳細は [こちら](https://ocw.nagoya-u.jp/about "About NUOCW")をご覧下さい．
 
-<br />
+
 以下，お薦めのコースです．
 
 - [Studium Generale 2021 Fall](https://ocw.nagoya-u.jp/en/courses/838-studium-generale-2021-fall-2022-1/ "Studium Generale 2021 Fall")
@@ -36,11 +36,11 @@ tags:
 
 - [Academic English (Advanced)](https://ocw.nagoya-u.jp/en/courses/867-academic-english-advanced-2022/ "Academic English (Advanced)")
 
-<br />
+
 
 名大の授業（NUOCW）は学生スタッフによってサイトのデザイン，システム構築が行われています．
 
-<hr>
+-------
 
 以下，オープン教材として公開している[教材リスト](/research/OER/list/)です．
 

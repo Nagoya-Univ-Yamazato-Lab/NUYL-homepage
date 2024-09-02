@@ -20,12 +20,12 @@ tags:
     - 日時：2024 年 7 月 22 日（月），23 日（火） 時間：10：30～12：00 13:00-14:30
     - 場 所：名古屋大学教養教育院 CALL 教室（[キャンパスマップB4-1](https://www.nagoya-u.ac.jp/extra/map/index.html)の2階にあります）
     - この講義の教材は[こちら](/research/OER/wwl/)です．
-      <br /><br />
+
 
 - [授業目的公衆送信補償金制度の概要](research/OER/../../PDF/授業目的公衆送信補償金制度の概要.pdf)
 
   - 2021 年 3 月 23 日に開催された「アカデミック・セントラル主催 Webinar」の資料です
-    <br /><br />
+
 
 - [流体力学問題集](/research/OER/Fluid-Mechanics-Problems/)
   - 僕の父が作った問題集です．

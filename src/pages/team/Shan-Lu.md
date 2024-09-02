@@ -27,5 +27,4 @@ tags:
 
 こちらもご覧ください。
 
-
-- <a href="https://researchmap.jp/shanlu" target="_blank">Research map</a>
+- [Research map](https://researchmap.jp/shanlu)
