@@ -2,7 +2,8 @@
 templateKey: blog-post
 title: 近藤君，中野君が令和5年度IEICE東海支部卒研発表優秀賞，磯崎君が学生研究奨励賞を受賞しました．
 date: 2024-06-14T13:30:00.096Z
-description: 近藤君，中野君が令和5年度IEICE東海支部卒研発表優秀賞，磯崎君が学生研究奨励賞を受賞し，表彰式が行われました．
+description: >-
+  近藤君，中野君が令和5年度IEICE東海支部卒研発表優秀賞，磯崎君が学生研究奨励賞を受賞し，表彰式が行われました．
 featuredpost: true
 featuredimage: /img/coffee.png
 tags:

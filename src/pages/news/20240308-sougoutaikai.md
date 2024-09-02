@@ -2,7 +2,8 @@
 templateKey: blog-post
 title: 山里研メンバーが2023年度電子情報通信学会総合大会で発表しました．
 date: 2024-03-08T13:30:00.096Z
-description: 広島大学東広島キャンパスにて開催された2024年電子情報通信学会総合大会で山里研メンバーが発表を行いました．
+description: >-
+  広島大学東広島キャンパスにて開催された2024年電子情報通信学会総合大会で山里研メンバーが発表を行いました．
 featuredpost: true
 featuredimage: /img/coffee.png
 tags:

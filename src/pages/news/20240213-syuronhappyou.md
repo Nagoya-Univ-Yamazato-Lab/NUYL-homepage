@@ -2,7 +2,8 @@
 templateKey: blog-post
 title: M2メンバーが修論発表会で発表しました．
 date: 2024-02-13T13:30:00.096Z
-description: 2024年2月13日に開催された名古屋大学大学院情報・通信工学専攻修士論文発表会でM2メンバーの小鹿君，江原君，鄭君の3名が発表を行いました．
+description: >-
+  2024年2月13日に開催された名古屋大学大学院情報・通信工学専攻修士論文発表会でM2メンバーの小鹿君，江原君，鄭君の3名が発表を行いました．
 featuredpost: true
 featuredimage: /img/coffee.png
 tags:

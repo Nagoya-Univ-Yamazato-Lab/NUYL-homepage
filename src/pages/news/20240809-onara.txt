@@ -2,8 +2,8 @@
 templateKey: blog-post
 title: おならでもつうしんできる？なるほど！つうしんのしくみ
 date: 2024-08-09T18:22:39.789Z
-description: >-
-  名古屋大学 夏のテクノロジーフェスティバルの教材を公開しました
+description: >- 
+  名古屋大学夏のテクノロジーフェスティバルの教材を公開しました．
 featuredpost: true
 featuredimage: /img/coffee.png
 tags:
@@ -12,6 +12,9 @@ tags:
   - 名古屋大学 夏のテクノロジーフェスティバル
   - NU Tech Festival 2024 Summer
 ---
+ おならでもつうしんできる？なるほど！つうしんのしくみ
+
+L4B「おならでもつうしんできる？なるほど！つうしんのしくみ」へご参加のみなさまは是非，この教材をご一読ください．
 
 - セッションコード：[L4B](https://tech.imass.nagoya-u.ac.jp/lecture.html#L4B)
 - <ruby>対象<rt>たいしょう</rt></ruby>：<ruby>小学生<rt>しょうがくせい</rt></ruby>（<ruby>特<rt>とく</rt></ruby>に<ruby>低学年<rt>ていがくねん</rt></ruby>・<ruby>中学年<rt>ちゅうがくねん</rt></ruby>におすすめ）
@@ -19,6 +22,9 @@ tags:
 - <ruby>会場<rt>かいじょう</rt></ruby>：<ruby>名古屋<rt>なごや</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>　<ruby>坂田<rt>さかた</rt></ruby>・<ruby>平田<rt>ひらた</rt></ruby>ホール
 - <ruby>日時<rt>にちじ</rt></ruby>：2024<ruby>年<rt>ねん</rt></ruby>8<ruby>月<rt>がつ</rt></ruby>28<ruby>日<rt>にち</rt></ruby>（<ruby>水<rt>すい</rt></ruby>）４<ruby>時間目<rt>じかんめ</rt></ruby>（15:20-16:50）
 - <ruby>教材<rt>きょうざい</rt></ruby>：[ここからアクセスして、よんでね。](../../research/OER/onara/)
+
+
+
 ----
 
 **おならくん**：　せんせい、このじゅぎょうでは「おならつうしん」にチャレンジするってかいてあるけど、ほんとうにおならでつうしんするの？
