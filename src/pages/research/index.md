@@ -56,7 +56,7 @@ B4の近藤君が作ってくれました．ちなみに表紙右下にある研
 
 こちらは英語になります．
 
-2021 年に開催された[23rd IEEE Intelligent Vehicle Symposium (IV21) ](https://2021.ieee-iv.org/ "23rd IEEE Intelligent Vehicle Symposium (IV21) ")での IEEE ITS Nagoya Chapter の活動の一環として作成したビデオです．
+2021 年に開催された[23rd IEEE Intelligent Vehicle Symposium (IV21) ](https://2021.ieee-iv.org/)での IEEE ITS Nagoya Chapter の活動の一環として作成したビデオです．
 
 当方が取り組んでいる可視光通信の ITS 応用について紹介しています．
 
