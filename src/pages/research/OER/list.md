@@ -10,7 +10,8 @@ tags:
   - 名大の授業
 ---
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+
 このページに掲載している教材は <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">クリエイティブ・コモンズ 表示 4.0 国際 ライセンス（CC BY 4.0）</a>の下に提供します．
 
 - ＷＷＬ採択高校の１・２年生を対象とした名古屋大学附属高等学校・教養教育院共催「高大接続探究セミナー」
