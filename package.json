@@ -24,7 +24,6 @@
     "gatsby-transformer-csv": "^5.13.1",
     "gatsby-transformer-remark": "^6.13.1",
     "gatsby-transformer-sharp": "^5.13.1",
-    "katex": "^0.16.11",
     "lodash": "^4.17.21",
     "lodash-webpack-plugin": "^0.11.6",
     "prop-types": "^15.8.1",
