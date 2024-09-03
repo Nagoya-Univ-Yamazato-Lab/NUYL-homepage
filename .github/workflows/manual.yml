@@ -31,12 +31,14 @@ jobs:
           # node-version: "22.4.1"
           node-version-file: 'package.json'
           # cache: "yarn"
+          cache: "npm"
       # Node の実行（npm install, npm run build）
       - name: Build Project
         run: |
           # yarn install
           # yarn run build
           npm install
+          npm audit fix
           npm run build
       # 確認のためのリスト表示　必要なければ削除
       - name: List output files
