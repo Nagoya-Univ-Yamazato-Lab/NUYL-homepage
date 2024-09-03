@@ -8,10 +8,10 @@ featuredimage: /img/coffee.png
 tags:
   - VTC2023-spring-Award
 ---
-
-
----
+小鹿君，やったね！
 
 ![IEEE VTS Tokyo/Japan Chapter Young Researchers' Encouragement Award](20230621-VTS-Award.png)
 
 ![VTC2023 Student Travel Award](20230621-Student-travel-award.png)
+
+----
