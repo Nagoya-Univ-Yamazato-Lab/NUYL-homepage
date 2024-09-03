@@ -10,23 +10,23 @@ tags:
   - Nagoya University’s OpenCourseWare (NUOCW)
 ---
 
-We also manage [Nagoya University’s OpenCourseWare (NUOCW)](https://ocw.nagoya-u.jp/en "Nagoya University’s OpenCourseWare (NUOCW)") site, which provides teaching materials used in selected courses available free of charge over the Internet to the public.
+We also manage [Nagoya University’s OpenCourseWare (NUOCW)](https://ocw.nagoya-u.jp/en) site, which provides teaching materials used in selected courses available free of charge over the Internet to the public.
 
 
-For detail of NUOCW, please visit [here](https://ocw.nagoya-u.jp/en/about "About NUOCW").
+For detail of NUOCW, please visit [here](https://ocw.nagoya-u.jp/en/about).
 
 Here are some intereting courses:
 
 
-- [Studium Generale 2021 Fall](https://ocw.nagoya-u.jp/en/courses/838-studium-generale-2021-fall-2022-1/ "Studium Generale 2021 Fall")
+- [Studium Generale 2021 Fall](https://ocw.nagoya-u.jp/en/courses/838-studium-generale-2021-fall-2022-1/)
 
-- [Academic Japanese (in Japanese)](https://ocw.nagoya-u.jp/courses/441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%88%E8%AA%AD%E8%A7%A3%E3%83%BB%E6%96%87%E7%AB%A0%E8%A1%A8%E7%8F%BE%EF%BC%89%EF%BC%95%EF%BC%8F%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90-2018/ "Academic Japanese (in Japanese")
+- [Academic Japanese (in Japanese)](https://ocw.nagoya-u.jp/courses/441-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%83%E3%82%AF%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%88%E8%AA%AD%E8%A7%A3%E3%83%BB%E6%96%87%E7%AB%A0%E8%A1%A8%E7%8F%BE%EF%BC%89%EF%BC%95%EF%BC%8F%E6%BC%A2%E5%AD%97%EF%BC%92%EF%BC%92%EF%BC%90%EF%BC%90-2018/)
 
-- [World and Image in Japanese Narrative I-IV](https://ocw.nagoya-u.jp/en/courses/472-World-and-Image-in-Japanese-Narrative-I-IV-2013/ "World and Image in Japanese Narrative I-IV")
+- [World and Image in Japanese Narrative I-IV](https://ocw.nagoya-u.jp/en/courses/472-World-and-Image-in-Japanese-Narrative-I-IV-2013/)
 
-- [Power Electronics](https://ocw.nagoya-u.jp/en/courses/422-Power-Electronics-2013/ "Power Electronics")
+- [Power Electronics](https://ocw.nagoya-u.jp/en/courses/422-Power-Electronics-2013/)
 
-- [Academic English (Advanced)](https://ocw.nagoya-u.jp/en/courses/867-academic-english-advanced-2022/ "Academic English (Advanced)")
+- [Academic English (Advanced)](https://ocw.nagoya-u.jp/en/courses/867-academic-english-advanced-2022/)
 
 
 [NUOCW](https://ocw.nagoya-u.jp) site is organized and maintained by NUOCW student staff.
