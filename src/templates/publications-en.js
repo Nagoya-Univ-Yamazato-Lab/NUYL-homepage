@@ -65,9 +65,9 @@ export default function PublicationsEn() {
                     href="https://www.katayama.nuee.nagoya-u.ac.jp/dbase/show-e.php"
                     target="_blank"
                     rel="noopener noreferrer"
-                    title="Katayama Laboratory / Yamazato Laboratory research results page"
+                    title="Okada Laboratory / Yamazato Laboratory research results page"
                   >
-                    Katayama Laboratory / Yamazato Laboratory research results
+                    Okada Laboratory / Yamazato Laboratory research results
                     page
                   </a>
                   .

@@ -66,9 +66,9 @@ export default function Publications() {
                     href="https://www.katayama.nuee.nagoya-u.ac.jp/dbase/show.php"
                     target="_blank"
                     rel="noopener noreferrer"
-                    title="片山研究室／山里研究室 研究業績"
+                    title="岡田G／山里研究室 研究業績"
                   >
-                    片山研究室／山里研究室 研究業績
+                    岡田G／山里研究室 研究業績
                   </a>
                   のページもご参照ください．
                 </p>
