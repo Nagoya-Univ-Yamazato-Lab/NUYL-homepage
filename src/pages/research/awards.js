@@ -47,7 +47,7 @@ export default function Award() {
                   rel="noopener noreferrer"
                   title="片山研究室／山里研究室 受賞"
                 >
-                  片山研究室／山里研究室 受賞
+                  岡田G／山里研究室 受賞
                 </a>
                 のページもご参照ください．
                 <ul>
