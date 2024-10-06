@@ -222,7 +222,9 @@ const IndexPageTemplate = ({ data }) => (
               <div className="column post is-3">
                 <article className="columns is-multiline">
                   <div className="column is-12 featured-content ">
-                    <h1 className="heading post-category">博士研究員（ポスドク）</h1>
+                    <h1 className="heading post-category">
+                      博士研究員（ポスドク）
+                    </h1>
                     <h1>
                       <FaUserGraduate />
                     </h1>

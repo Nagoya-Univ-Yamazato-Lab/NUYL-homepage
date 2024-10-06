@@ -42,84 +42,84 @@ const Navbar = class extends React.Component {
   render() {
     return (
       <section className="hero is-medium">
-      <div className="hero-head">
-        <div className="container">
-          <nav className="navbar">
-          <div className="navbar-brand">
-            <Link to="/" className="navbar-item" title="Logo">
-              <img src={logo} alt="NUYL" style={{ width: '88px' }} />
-            </Link>
-            {/* Hamburger menu */}
-            <button
-              className={`navbar-burger burger ${this.state.navBarActiveClass}`}
-              aria-label="Nav button"
-              data-target="navMenu"
-              onClick={() => this.toggleHamburger()}
-              tabIndex={0}
-            >
-              <span></span>
-              <span></span>
-              <span></span>
-            </button>
-          </div>
-          <div
-            id="navMenu"
-            className={`navbar-menu ${this.state.navBarActiveClass}`}
-          >
-            <div className="navbar-start">
-              <Link className="navbar-item" to="/news/" title="News">
-                ニュース
-              </Link>
-              <Link className="navbar-item" to="/research/" title="Reseach">
-                研究
-              </Link>
-              <Link
-                className="navbar-item"
-                to="/research/publications/"
-                title="Publications"
-              >
-                業績
-              </Link>
-              <Link
-                className="navbar-item"
-                to="/research/awards/"
-                title="Awards"
-              >
-                受賞
-              </Link>
-              <Link
-                className="navbar-item"
-                to="/research/OER/list/"
-                title="Open Educational Resources"
-              >
-                教材
-              </Link>
-            </div>
-            <div className="navbar-end">
-              <Link
-                className="navbar-item"
-                to="/en/"
-                title="go to English page"
-              >
-                English
-              </Link>
-              <Link className="navbar-item" to="/#team" title="Team">
-                <FaUserFriends />
-              </Link>
-              <Link className="navbar-item" to="/#contact" title="Contact">
-                <FaEnvelope />
-              </Link>
-              <Link className="navbar-item" to="/#access" title="Access">
-                <FaSubway />
-              </Link>
-              <div className="navbar-item">
-                <ClientOnly>
-                  <Search />
-                </ClientOnly>
+        <div className="hero-head">
+          <div className="container">
+            <nav className="navbar">
+              <div className="navbar-brand">
+                <Link to="/" className="navbar-item" title="Logo">
+                  <img src={logo} alt="NUYL" style={{ width: '88px' }} />
+                </Link>
+                {/* Hamburger menu */}
+                <button
+                  className={`navbar-burger burger ${this.state.navBarActiveClass}`}
+                  aria-label="Nav button"
+                  data-target="navMenu"
+                  onClick={() => this.toggleHamburger()}
+                  tabIndex={0}
+                >
+                  <span></span>
+                  <span></span>
+                  <span></span>
+                </button>
               </div>
-            </div>
-          </div>
-      </nav>
+              <div
+                id="navMenu"
+                className={`navbar-menu ${this.state.navBarActiveClass}`}
+              >
+                <div className="navbar-start">
+                  <Link className="navbar-item" to="/news/" title="News">
+                    ニュース
+                  </Link>
+                  <Link className="navbar-item" to="/research/" title="Reseach">
+                    研究
+                  </Link>
+                  <Link
+                    className="navbar-item"
+                    to="/research/publications/"
+                    title="Publications"
+                  >
+                    業績
+                  </Link>
+                  <Link
+                    className="navbar-item"
+                    to="/research/awards/"
+                    title="Awards"
+                  >
+                    受賞
+                  </Link>
+                  <Link
+                    className="navbar-item"
+                    to="/research/OER/list/"
+                    title="Open Educational Resources"
+                  >
+                    教材
+                  </Link>
+                </div>
+                <div className="navbar-end">
+                  <Link
+                    className="navbar-item"
+                    to="/en/"
+                    title="go to English page"
+                  >
+                    English
+                  </Link>
+                  <Link className="navbar-item" to="/#team" title="Team">
+                    <FaUserFriends />
+                  </Link>
+                  <Link className="navbar-item" to="/#contact" title="Contact">
+                    <FaEnvelope />
+                  </Link>
+                  <Link className="navbar-item" to="/#access" title="Access">
+                    <FaSubway />
+                  </Link>
+                  <div className="navbar-item">
+                    <ClientOnly>
+                      <Search />
+                    </ClientOnly>
+                  </div>
+                </div>
+              </div>
+            </nav>
           </div>
         </div>
       </section>

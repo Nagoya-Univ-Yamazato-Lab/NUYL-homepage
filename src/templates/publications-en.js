@@ -67,8 +67,7 @@ export default function PublicationsEn() {
                     rel="noopener noreferrer"
                     title="Okada Laboratory / Yamazato Laboratory research results page"
                   >
-                    Okada Laboratory / Yamazato Laboratory research results
-                    page
+                    Okada Laboratory / Yamazato Laboratory research results page
                   </a>
                   .
                 </p>

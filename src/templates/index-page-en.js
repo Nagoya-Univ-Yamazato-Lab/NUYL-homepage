@@ -235,13 +235,13 @@ const IndexPageTemplateEN = ({ data }) => (
               <div className="column post is-3">
                 <article className="columns is-multiline">
                   <div className="column is-12 featured-content ">
-                    <h1 className="heading post-category">Postdoctoral Researcher</h1>
+                    <h1 className="heading post-category">
+                      Postdoctoral Researcher
+                    </h1>
                     <h1 className="title post-title">
                       <FaUserGraduate />
                     </h1>
-                    <p className="post-excerpt">
-                      &nbsp; &nbsp;Zhengqiang TANG
-                    </p>
+                    <p className="post-excerpt">&nbsp; &nbsp;Zhengqiang TANG</p>
                   </div>
                 </article>
               </div>
