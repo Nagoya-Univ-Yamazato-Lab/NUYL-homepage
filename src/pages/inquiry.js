@@ -217,6 +217,32 @@ const FormPage = () => {
                 お問い合わせ
               </h1>
               <ContactForm />
+              {/*  吹き出しのサンプル */}
+              <div class="balloon_l">
+  <div className="faceicon">
+    <img src="https://stand-4u.com/stand-4u/wp-content/uploads/2019/09/s4man.png" alt="" />
+  </div>
+  <p className="says">これは左側の吹き出しサンプル！HTMLはシンプルな構造。</p>
+</div>
+<div className="balloon_r">
+  <div className="faceicon">
+    <img src="https://stand-4u.com/stand-4u/wp-content/uploads/2019/09/s4man.png" alt="" />
+  </div>
+    <div className="says"><p>これは右側の吹き出しサンプル。</p><p>吹き出しの中身にPの段落を入れることも可能。吹き出しの中身をPにする場合は、外側をDIVで作ればOKだ。</p></div>
+</div>
+<div class="balloon_l">
+  <div class="faceicon">
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
+  </div>
+    <p class="says"><ruby>先生<rt>せんせい</rt></ruby>、この<ruby>授業<rt>じゅぎょう</rt></ruby>では「おなら<ruby>通信<rt>つうしん</rt></ruby>」にチャレンジするって<ruby>書<rt>か</rt></ruby>いてあるけど、ほんとうにおならで<ruby>通信<rt>つうしん</rt></ruby>するの？</p>
+</div>
+<div class="balloon_r">
+    <div class="faceicon">
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
+    </div>
+    <p class="says">もちろん。</p>
+</div>
+              {/*  吹き出しのサンプル ここまで　*/}
             </div>
           </div>
         </div>

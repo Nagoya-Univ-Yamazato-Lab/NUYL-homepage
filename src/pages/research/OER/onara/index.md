@@ -93,129 +93,129 @@ tags:
 
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says"><ruby>先生<rt>せんせい</rt></ruby>、この<ruby>授業<rt>じゅぎょう</rt></ruby>では「おなら<ruby>通信<rt>つうしん</rt></ruby>」にチャレンジするって<ruby>書<rt>か</rt></ruby>いてあるけど、ほんとうにおならで<ruby>通信<rt>つうしん</rt></ruby>するの？</p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">もちろん。</p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says">でも、<ruby>授業中<rt>じゅぎょうちゅう</rt></ruby>にみんなが　プッ　プッ　プー　とおならしたら、<ruby>教室<rt>きょうしつ</rt></ruby>がおならでいっぱいになってたいへんだよ。マスクをもってくるようにアナウンスしなきゃ。</p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">それはこまったなぁ、どうしよう・・・</p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says">だいじょうぶだよ。ぼく、くさくないおならのしかた<ruby>知<rt>し</rt></ruby>っているもん。ぜんぜんくさくないよ。
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">え、どうやるの。おしえて。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says">はやね、はやおき、<ruby>毎日<rt>まいにち</rt></ruby>ぐっすりねむること。すききらいなく、なんでもよく<ruby>食<rt>た</rt></ruby>べること。
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">なるほど。お<ruby>肉<rt>にく</rt></ruby>ばっかり<ruby>食<rt>た</rt></ruby>べていると、つぎの<ruby>日<rt>ひ</rt></ruby>のおならはくさいからね。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says">うん。お<ruby>肉<rt>にく</rt></ruby>じゃなくお<ruby>野菜<rt>やさい</rt></ruby>をたくさん<ruby>食<rt>た</rt></ruby>べるといいよ。あと<ruby>体<rt>からだ</rt></ruby>をうごかして、<ruby>運動<rt>うんどう</rt></ruby>するのもいいよ。ぼくは<ruby>毎日<rt>まいにち</rt></ruby>ラジオたいそうをやっているよ。
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says"><ruby>健康的<rt>けんこうてき</rt></ruby>でいいね。おならくんすごい！
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says">でも、<ruby>先生<rt>せんせい</rt></ruby>、おならって<ruby>声<rt>こえ</rt></ruby>みたいにだそうとおもっても、　プ〜　ってでないよ。<ruby>授業<rt>じゅぎょう</rt></ruby>のときにおならでないかも・・・
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">それはこまったなぁ、おならがでないと<ruby>通信<rt>つうしん</rt></ruby>もできないぞ。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says">おならの<ruby>音<rt>おと</rt></ruby>を<ruby>録音<rt>ろくおん</rt></ruby>して<ruby>使<rt>つか</rt></ruby>ったらどう？ぼくのおならは　プ〜　って、<ruby>明<rt>あか</rt></ruby>るく<ruby>元気<rt>げんき</rt></ruby>な<ruby>音<rt>おと</rt></ruby>がするよ。<ruby>録音<rt>ろくおん</rt></ruby>したおならの<ruby>音<rt>おと</rt></ruby>はつかえる？
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">いいね！みんなにおならの<ruby>音<rt>おと</rt></ruby>を<ruby>録音<rt>ろくおん</rt></ruby>して<ruby>送<rt>おく</rt></ruby>ってもらおうか。それをつかった<ruby>通信<rt>つうしん</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えるね。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says">ぼく、おもちゃのラッパをもっているけど、パフパフってぼくのおならの<ruby>音<rt>おと</rt></ruby>とにてるよ。
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">パフパフラッパならくさくないから<ruby>教室<rt>きょうしつ</rt></ruby>にもってきても<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>だね。それをつかって「おなら<ruby>通信<rt>つうしん</rt></ruby>」をためしてみよう。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says">なんだか、すごく<ruby>楽<rt>たの</rt></ruby>しそうな<ruby>授業<rt>じゅぎょう</rt></ruby>だね！きたいしてもいい？
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">もちろん！みんなのおならの<ruby>音<rt>おと</rt></ruby>で<ruby>通信<rt>つうしん</rt></ruby>しちゃうね。おならの<ruby>音<rt>おと</rt></ruby>をたくさん<ruby>送<rt>おく</rt></ruby>ってね！
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says">うん、わかった。プゥ〜って<ruby>元気<rt>げんき</rt></ruby>な大きな<ruby>音<rt>おと</rt></ruby>のおならを<ruby>録音<rt>ろくおん</rt></ruby>できるようにがんばるね！
     </p>
@@ -229,97 +229,97 @@ tags:
 
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says"><ruby>先生<rt>せんせい</rt></ruby>、おならでどうやって<ruby>通信<rt>つうしん</rt></ruby>するの？おしえて。
     </p>
 </div><div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">それは<ruby>授業<rt>じゅぎょう</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>までお<ruby>楽<rt>たの</rt></ruby>しみにして。でも、ちょっとだけおしえるね。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says">わくわく。
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">おならくんはタイタニック<ruby>号<rt>ごう</rt></ruby>ってしってる？
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says">しっているよ。ローザがのっていた<ruby>船<rt>ふね</rt></ruby>でしょ。<ruby>氷山<rt>ひょうざん</rt></ruby>にぶつかって<ruby>沈没<rt>ちんぼつ</rt></ruby>するんだよね。ザ・ドラえもんズ スペシャルでよんだよ。
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">おぉ、おならくんすごい。よくしっているね。<ruby>映画<rt>えいが</rt></ruby>のほうが<ruby>有名<rt>ゆうめい</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>うけど、ドラえもんにものっているんだね。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says"><ruby>映画<rt>えいが</rt></ruby>はお<ruby>母<rt>かあ</rt></ruby>さんがみたことあるって<ruby>話<rt>はな</rt></ruby>していたよ。ヒロインのローズが<ruby>船<rt>ふね</rt></ruby>の<ruby>先<rt>さき</rt></ruby>で<ruby>手<rt>て</rt></ruby>を<ruby>広<rt>ひろ</rt></ruby>げるシーンが<ruby>有名<rt>ゆうめい</rt></ruby>だって。
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">そのタイタニック<ruby>号<rt>ごう</rt></ruby>から<ruby>世界<rt>せかい</rt></ruby>ではじめて<ruby>SOS<rt>エスオーエス</rt></ruby><ruby>信号<rt>しんごう</rt></ruby>が<ruby>送<rt>おく</rt></ruby>られたんだ。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says"><ruby>SOS<rt>エスオーエス</rt></ruby><ruby>信号<rt>しんごう</rt></ruby>？
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says"><ruby>SOS<rt>エスオーエス</rt></ruby>は<ruby>英語<rt>えいご</rt></ruby>でわたしたちの<ruby>船<rt>ふね</rt></ruby>を<ruby>助<rt>たすけ</rt></ruby>けてください（<ruby>Save Our Ship<rt>セーブ　アワ シップ</rt></ruby>）のことで<ruby>遭難信号<rt>そうなんしんごう</rt></ruby>なんだ。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says">そうなんだ。
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">ハハハ、しゃれだね。<br><ruby>当時<rt>とうじ</rt></ruby>は<ruby>SOS信号<rt>エスオーエスしんごう</rt></ruby>をだすのに<ruby>火花<rt>ひばな</rt></ruby>をつかったんだ。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says"><ruby>火花<rt>ひばな</rt></ruby>？<ruby>電波<rt>でんぱ</rt></ruby>じゃないの？
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">そう。<br>
     <ruby>火花<rt>ひばな</rt></ruby>が出るときに<ruby>電波<rt>でんぱ</rt></ruby>もいっしょにでるんだ。<br>
@@ -329,14 +329,14 @@ tags:
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says">でも、<ruby>火花<rt>ひばな</rt></ruby>でどうやって<ruby>SOS信号<rt>エスオーエスしんごう</rt></ruby>をあらわしたの？
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">おならくん、いいところに<ruby>気<rt>き</rt></ruby>づいたね。<br>
     <ruby>火花<rt>ひばな</rt></ruby>をだしたり、<ruby>火花<rt>ひばな</rt></ruby>を<ruby>消<rt>け</rt></ruby>したりしたの。そうすると、<ruby>電波<rt>でんぱ</rt></ruby>もでたり、でなかったりするでしょ。
@@ -344,14 +344,14 @@ tags:
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says">なるほど、<ruby>電波<rt>でんぱ</rt></ruby>をだしたり、ださなかったりしたんだね。
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">そう。<br>
     さらに<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>の<ruby>火花<rt>ひばな</rt></ruby>と<ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>つづく<ruby>火花<rt>ひばな</rt></ruby>の２つで<ruby>SOS信号<rt>エスオーエスしんごう</rt></ruby>をあらわしたんだ。
@@ -359,7 +359,7 @@ tags:
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says"><ruby>短<rt>みじか</rt></ruby>い<ruby>火花<rt>ひばな</rt></ruby>と<ruby>長<rt>なが</rt></ruby>い<ruby>火花<rt>ひばな</rt></ruby>？<br>
     つまり、<ruby>電波<rt>でんぱ</rt></ruby>が<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>のものと<ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>つづくものとで<ruby>SOS信号<rt>エスオーエスしんごう</rt></ruby>をあらわしたの？
@@ -367,7 +367,7 @@ tags:
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">そのとおり。<br>
     <ruby>短<rt>みじか</rt></ruby>い<ruby>電波<rt>でんぱ</rt></ruby>は<ruby>音<rt>おと</rt></ruby>であらわすと「ト」になるかな。<br>
@@ -377,14 +377,14 @@ tags:
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says">「ト」と「ツー」。
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">そう。<br>
     <ruby>S<rt>エス</rt></ruby>は「ト」を３<ruby>回<rt>かい</rt></ruby>、つまり「トトト」。<br>
@@ -393,7 +393,7 @@ tags:
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says">ということは、<ruby>SOS<rt>エスオーエス</rt></ruby>は<br>
     「トトト　ツーツーツー　トトト」<br>
@@ -402,14 +402,14 @@ tags:
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">そのとおり。おならくんはすばらしいね！
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says">えへへ。<br>
     ということは、おならでやると<br>
@@ -419,7 +419,7 @@ tags:
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">おぉ、すばらしい。よくわかったね。<br>
     ・・・うぅん、それにしても、ちょっとだけ<ruby>種明<rt>たねあ</rt></ruby>かしをするつもりだったけど、ぜんぶバレちゃったなぁ。ハハハ。
@@ -437,14 +437,14 @@ tags:
 
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says">おなら<ruby>通信<rt>つうしん</rt></ruby>わかったもんね、へへへ。でも、<ruby>SOS<rt>エスオーエス</rt></ruby>をおならでやるのは<ruby>難<rt>むずか</rt></ruby>しいなぁ。<ruby>練習<rt>れんしゅう</rt></ruby>してもできないかも。
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">そうだね、ふつうの<ruby>人<rt>ひと</rt></ruby>には<ruby>難<rt>むずか</rt></ruby>しいと思うよ。でもね、おならで<ruby>歌<rt>うた</rt></ruby>を<ruby>歌<rt>うた</rt></ruby>うことができる<ruby>人<rt>ひと</rt></ruby>もいるんだよ。きっとこの<ruby>人<rt>ひと</rt></ruby>なら<ruby>SOS<rt>エスオーエス</rt></ruby>もかんたんにできるとおもうよ。このページの<ruby>最後<rt>さいご</rt></ruby>に<ruby>紹介<rt>しょうかい</rt></ruby>するね。
     </p>
@@ -452,14 +452,14 @@ tags:
 
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says"><ruby>先生<rt>せんせい</rt></ruby>、もしかして、おならの「<ruby>音<rt>おと</rt></ruby>」で<ruby>通信<rt>つうしん</rt></ruby>できるのなら、おならの「におい」でも<ruby>通信<rt>つうしん</rt></ruby>はできるの？
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">おならくん、いいところに<ruby>気<rt>き</rt></ruby>づいたね。さすがだよ。<br>
     そう、おならのにおいでも<ruby>通信<rt>つうしん</rt></ruby>はできるよ。
@@ -467,7 +467,7 @@ tags:
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says">どうやってやるの？<br>
     おしえて。
@@ -475,14 +475,14 @@ tags:
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">おならの<ruby>音<rt>おと</rt></ruby>をつかった<ruby>通信<rt>つうしん</rt></ruby>では、<ruby>短<rt>みじか</rt></ruby>いおならの<ruby>音<rt>おと</rt></ruby>「プッ」と<ruby>長<rt>なが</rt></ruby>いおならの<ruby>音<rt>おと</rt></ruby>「プゥ〜」の２つの<ruby>音<rt>おと</rt></ruby>をつかったよね。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says">うん。<br>
     「プッ」と「プゥ〜」だね。
@@ -490,7 +490,7 @@ tags:
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">そう。<br>
     <ruby>実<rt>じつ</rt></ruby>はこの２つというのがポイントなんだ。
@@ -498,7 +498,7 @@ tags:
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says">２つ？<br>
     <ruby>何<rt>なに</rt></ruby>か<ruby>違<rt>ちが</rt></ruby>うものが２つあれば<ruby>通信<rt>つうしん</rt></ruby>ができるの？
@@ -506,7 +506,7 @@ tags:
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">そう、そのとおり。<br>
     「プッ」と「プゥ〜」の２つ。あるいは、<ruby>単<rt>たん</rt></ruby>に「プッ」ともう一つは<ruby>何<rt>なに</rt></ruby>も<ruby>音<rt>おと</rt></ruby>がしないことでもいいよ。
@@ -514,14 +514,14 @@ tags:
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says">「プッ」と「しーん（<ruby>音<rt>おと</rt></ruby>がしない）」ってこと？
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">そう。<br>
     <ruby>音<rt>おと</rt></ruby>が「する」か「しない」か。これを「１」と「０」であらわすの。
@@ -529,14 +529,14 @@ tags:
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says">「する」、「しない」を「１」と「０」？
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">そのとおり。<br>
     <ruby>電波<rt>でんぱ</rt></ruby>の<ruby>場合<rt>ばあい</rt></ruby>だと<ruby>電波<rt>でんぱ</rt></ruby>が「ある」か「ない」か。
@@ -544,14 +544,14 @@ tags:
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says">ということは、おならのにおいだと「においがする」か「においがしない」なのかな？
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">そのとおり。<br>
     おならのにおいがする<ruby>場合<rt>ばあい</rt></ruby>を「１」、しない<ruby>場合<rt>ばあい</rt></ruby>を「０」とすればいいよ。
@@ -559,14 +559,14 @@ tags:
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says">「１」と「０」ということは、これがデジタルなの？
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">さすが、おならくん、そのとおりだよ。<br>
     <ruby>情報<rt>じょうほう</rt></ruby>を<ruby>送<rt>おく</rt></ruby>る<ruby>方<rt>ほう</rt></ruby>と<ruby>受<rt>う</rt></ruby>けとる<ruby>方<rt>ほう</rt></ruby>とで２つの<ruby>区別<rt>くべつ</rt></ruby>がつけば、<ruby>何<rt>なに</rt></ruby>をつかっても<ruby>通信<rt>つうしん</rt></ruby>ができるんだよ。この<ruby>場合<rt>ばあい</rt></ruby>「１」と「０」をつかうのでデジタル<ruby>通信<rt>つうしん</rt></ruby>というんだ。
@@ -574,21 +574,21 @@ tags:
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says">「１」と「０」だからデジタル<ruby>通信<rt>つうしん</rt></ruby>なんだね。すごい。デジタルっていうからもっと<ruby>難<rt>むずか</rt></ruby>しいのかと思っていたよ。
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says"><ruby>実<rt>じつ</rt></ruby>はね、<ruby>通信<rt>つうしん</rt></ruby>の<ruby>原理<rt>げんり</rt></ruby>としてはデジタル<ruby>通信<rt>つうしん</rt></ruby>がもっともかんたんなの。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says">おならのにおいでデジタル<ruby>通信<rt>つうしん</rt></ruby>ができるなんて、ちょっと、びっくりしちゃうな。<br>
     おならのにおいがする、しないが「１」と「０」をあらわすんだね。<br>
@@ -597,35 +597,35 @@ tags:
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">でもね、デジタル<ruby>通信<rt>つうしん</rt></ruby>にはもう一つ<ruby>大事<rt>だいじ</rt></ruby>なことがあるんだ。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says">えっ、それは<ruby>何<rt>なに</rt></ruby>？
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">それはね、<ruby>時間<rt>じかん</rt></ruby>のことなんだ。どこからどこまでが「１」の<ruby>時間<rt>じかん</rt></ruby>で、どこからどこまでが「０」の<ruby>時間<rt>じかん</rt></ruby>なのか、ってこと。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says">おならのにおいがする<ruby>時間<rt>じかん</rt></ruby>としない<ruby>時間<rt>じかん</rt></ruby>？
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">そう、そのとおり。<br>
     おならくんのおならのにおいはどのくらいの<ruby>時間<rt>じかん</rt></ruby>、におっているかな？
@@ -633,28 +633,28 @@ tags:
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says">そうだなぁ、だいたい１<ruby>分<rt>ぷん</rt></ruby>ぐらいはにおっているかなぁ。
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">なるほど。その<ruby>場合<rt>ばあい</rt></ruby>、「１」あるいは「０」は１<ruby>分<rt>ぷん</rt></ruby>おきに<ruby>送<rt>おく</rt></ruby>ればよいね。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says">ということは、たとえば、「１」「１」と<ruby>送<rt>おく</rt></ruby>りたい<ruby>場合<rt>ばあい</rt></ruby>は１<ruby>分<rt>ぷん</rt></ruby>おきに「プゥ〜」「プゥ〜」とおならをすればいいのかな？
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">そのとおり。「１」「０」「１」の<ruby>場合<rt>ばあい</rt></ruby>で<ruby>考<rt>かんが</rt></ruby>えてみようか。<br>
     <ruby>最初<rt>さいしょ</rt></ruby>は「１」なのでおならを「プゥ〜」、<br>
@@ -664,7 +664,7 @@ tags:
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says">なるほど、<ruby>時計<rt>とけい</rt></ruby>にあわせて１<ruby>分<rt>ぷん</rt></ruby>おきにおならを「する」、「しない」で<ruby>情報<rt>じょうほう</rt></ruby>の「１」と「０」を<ruby>送<rt>おく</rt></ruby>ることができるのだね。<br>
     これがデジタル<ruby>通信<rt>つうしん</rt></ruby>なのか！なんだかすごい！
@@ -672,7 +672,7 @@ tags:
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">でもね、この<ruby>方法<rt>ほうほう</rt></ruby>だと「１」はおならのにおいがするからすぐにわかるけど、「０」のところ、つまり「おならをしていない」ことはわかりにくい<ruby>場合<rt>ばあい</rt></ruby>があるんだ。おならのにおいが<ruby>長<rt>なが</rt></ruby>くつづくこともあるからね。<br>
     このため、さっきの<ruby>SOS<rt>エスオーエス</rt></ruby>では「プッ」と「プゥ〜」の<ruby>長<rt>なが</rt></ruby>さのちがう２つの<ruby>信号<rt>しんごう</rt></ruby>をつかってあらわしたんだ。
@@ -680,14 +680,14 @@ tags:
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says">なるほど、さすが、かしこいね！
     </p>
 </div>
 <div class="balloon_r">
   <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">デジタル<ruby>通信<rt>つうしん</rt></ruby>は「１」と「０」で<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>伝<rt>つた</rt></ruby>えることができるのでかんたんなんだけど、「１」と「０」を<ruby>切<rt>き</rt></ruby>り<ruby>替<rt>か</rt></ruby>える<ruby>時間<rt>じかん</rt></ruby>がはっきりわかる<ruby>正確<rt>せいかく</rt></ruby>な<ruby>時計<rt>とけい</rt></ruby>も<ruby>必要<rt>ひつよう</rt></ruby>になるんだ。この<ruby>時計<rt>とけい</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>というところがデジタル<ruby>通信<rt>つうしん</rt></ruby>のポイントなんだよ。
     </p>
@@ -701,28 +701,28 @@ tags:
 
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">「おならのにおい」<ruby>通信<rt>つうしん</rt></ruby>は<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>伝<rt>つた</rt></ruby>えるのに<ruby>時間<rt>じかん</rt></ruby>がかかるよね。なぜ<ruby>時間<rt>じかん</rt></ruby>がかかると思う？
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says">それは、おならのにおいがなくなるまでに<ruby>時間<rt>じかん</rt></ruby>がかかるからだよ。だって、<ruby>時間<rt>じかん</rt></ruby>が<ruby>短<rt>みじか</rt></ruby>いと、<ruby>前<rt>まえ</rt></ruby>のおならがにおって「０」がわからなくなるもん！
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">そうだね。では、もっと<ruby>速<rt>はや</rt></ruby>い<ruby>通信<rt>つうしん</rt></ruby>をするためにはどうすればいいと思う？
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says">この<ruby>世<rt>よ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>一番速<rt>いちばんはや</rt></ruby>いものをつかって「１」と「０」をあらわせばいいのだね。<br>
     <ruby>一番速<rt>いちばんはや</rt></ruby>いもの、というと・・・
@@ -731,7 +731,7 @@ tags:
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">そのとおり。さすがおならくん、すごいね！<br>
     この<ruby>世<rt>よ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>一番速<rt>いちばんはや</rt></ruby>いものは「<ruby>光<rt>ひかり</rt></ruby>」です。<br>
@@ -740,35 +740,35 @@ tags:
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says">ということは「<ruby>光<rt>ひかり</rt></ruby>がある」、「なし」、で<ruby>通信<rt>つうしん</rt></ruby>をすればいいのかな？
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">そのとおり。<ruby>実<rt>じつ</rt></ruby>は、<ruby>光<rt>ひかり</rt></ruby>も<ruby>電波<rt>でんぱ</rt></ruby>も<ruby>電磁波<rt>でんじは</rt></ruby>のひとつなんだ。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says"><ruby>光<rt>ひかり</rt></ruby>と<ruby>電波<rt>でんぱ</rt></ruby>は<ruby>仲間<rt>なかま</rt></ruby>なんだね。
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says"><ruby>光<rt>ひかり</rt></ruby>をつかった<ruby>通信<rt>つうしん</rt></ruby>に<ruby>光<rt>ひかり</rt></ruby>ファイバー<ruby>通信<rt>つうしん</rt></ruby>があるんだ。きっとおならくんのおうちにも<ruby>光<rt>ひかり</rt></ruby>ファイバーが入っているのでは？そこでつかわれているとおもうよ。
     </p>
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says">なるほど。<br>
     じゃあ、<ruby>電波<rt>でんぱ</rt></ruby>は？
@@ -776,7 +776,7 @@ tags:
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says"><ruby>電波<rt>でんぱ</rt></ruby>はラジオやテレビ、けいたい<ruby>電話<rt>でんわ</rt></ruby>などの<ruby>無線<rt>むせん</rt></ruby><ruby>通信<rt>つうしん</rt></ruby>でつかわれているよ。<br>
     <ruby>光<rt>ひかり</rt></ruby>をつかう<ruby>光<rt>ひかり</rt></ruby>ファイバー<ruby>通信<rt>つうしん</rt></ruby>も<ruby>電波<rt>でんぱ</rt></ruby>をつかう<ruby>無線<rt>むせん</rt></ruby><ruby>通信<rt>つうしん</rt></ruby>のいずれもデジタル<ruby>通信<rt>つうしん</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いんだよ。
@@ -784,14 +784,14 @@ tags:
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says">たしかに<ruby>光<rt>ひかり</rt></ruby>は、パッとついたり<ruby>消<rt>き</rt></ruby>えたりできるから、おならのにおいみたいに<ruby>長<rt>なが</rt></ruby>い<ruby>間<rt>あいだ</rt></ruby>においがつづくことがないね。しかも、この<ruby>世<rt>よ</rt></ruby>の<ruby>中<rt>なお</rt></ruby>で<ruby>一番速<rt>いちばん はやい</rt></ruby>い！
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">そう。<br>
     <ruby>電波<rt>でんぱ</rt></ruby>も<ruby>光<rt>ひかり</rt></ruby>と同じ<ruby>電磁波<rt>でんじは</rt></ruby>のひとつなので<ruby>高速<rt>こうそく</rt></ruby>なんだ。
@@ -799,14 +799,14 @@ tags:
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says">むむむ、ということは、<ruby>光<rt>ひかり</rt></ruby>ファイバーも<ruby>無線<rt>むせん</rt></ruby>もこの<ruby>世<rt>よ</rt></ruby>のなかで<ruby>一番速<rt>いちばんはや</rt></ruby>い<ruby>電磁波<rt>でんじは</rt></ruby>をつかうので、もっと<ruby>高速<rt>こうそく</rt></ruby>にはできないの？
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">じつは<ruby>電磁波<rt>でんじは</rt></ruby>があいてに<ruby>届<rt>とど</rt></ruby>くのは<ruby>速<rt>はや</rt>いけど、<ruby>情報<rt>じょうほう</rt></ruby>が<ruby>届<rt>とど</rt></ruby>くのは、まだまだ遅いんだ。<br>
     さっき、デジタル<ruby>通信<rt>つうしん</rt></ruby>で<ruby>必要<rt>ひつよう</rt></ruby>といった<ruby>時計<rt>とけい</rt></ruby>が<ruby>難<rt>むずか</rt></ruby>しいんだ。
@@ -814,14 +814,14 @@ tags:
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says"><ruby>時計<rt>とけい</rt></ruby>？
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">そう<ruby>時計<rt>とけい</rt></ruby>。<br>
     もっとちゃんというと「１」と「０」の<ruby>時間<rt>じかん</rt></ruby>を<ruby>正確<rt>せいかく</rt></ruby>にあらわすために<ruby>基準<rt>きじゅん</rt></ruby>となる<ruby>時間<rt>じかん</rt></ruby>のこと。<br>
@@ -830,14 +830,14 @@ tags:
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says"><ruby>発振回路<rt>はっしんかいろ</rt></ruby>？
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">そう、<ruby>発振回路<rt>はっしんかいろ</rt></ruby>。<br>
     <ruby>発振回路<rt>はっしんかいろ</rt></ruby>が<ruby>刻<rt>きざ</rt></ruby>む<ruby>時間<rt>じかん</rt></ruby>にあわせて「１」か「０」のいずれかを<ruby>送<rt>おく</rt></ruby>るんだ。<br>
@@ -847,14 +847,14 @@ tags:
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says">なるほど、<ruby>高速<rt>こうそく</rt></ruby>な<ruby>発振回路<rt>はっしんかいろ</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>なんだね。
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">そう。<br>
     <ruby>名古屋<rt>なごや</rt></ruby>
@@ -877,14 +877,14 @@ tags:
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says">うわぁ〜すごい！
     </p>
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says"><ruby>光<rt>ひかり</rt></ruby>については<a href="https://www.nuee.nagoya-u.ac.jp/labs/optelelab/"><ruby>西澤典彦先生<rt>にしざわ のりひこ せんせい</rt></ruby></a>が<ruby>研究<rt>けんきゅう</rt></ruby>しているよ。<br>
     <ruby>名古屋<rt>なごや</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>テクノロジーフェスティバル<a href="https://tech.imass.nagoya-u.ac.jp/lecture.html#L3C">「すごい！ひかりのふしぎ、れーざーこうせんってすごい！」</a>の<ruby>先生<rt>せんせい</rt></ruby>でもあるよ。
@@ -892,7 +892,7 @@ tags:
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says">みんな、すごいね。<br>
     で、<ruby>先生<rt>せんせい</rt></ruby>は<ruby>何<rt>なに</rt></ruby>の<ruby>研究<rt>けんきゅう</rt></ruby>をやっているの？
@@ -900,7 +900,7 @@ tags:
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">ぼくは<ruby>可視光通信<rt>かしこうつうしん</rt></ruby>っていってね、<ruby>目<rt>め</rt></ruby>で<ruby>見<rt>み</rt></ruby>える<ruby>光<rt>ひかり</rt></ruby>をつかった<ruby>通信<rt>つうしん</rt></ruby>を<ruby>研究<rt>けんきゅう</rt></ruby>しているんだ。<br>
     この<ruby>授業<rt>じゅぎょう</rt></ruby>でデモもやるよ。<br>
@@ -910,7 +910,7 @@ tags:
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says">うわぁ〜すごいなぁ〜。<br>
     ぼくも<ruby>研究<rt>けんきゅう</rt></ruby>できるようになるかな？
@@ -918,7 +918,7 @@ tags:
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">もちろん。<br>
     まずは<a href="https://sudalab.skr.jp/members/jun_suda/"><ruby>須田<rt>すだ</rt></ruby><ruby>淳<rt>じゅん</rt></ruby><ruby>先生<rt>せんせい</rt></ruby></a>の<a href="https://tech.imass.nagoya-u.ac.jp/lecture.html#L1B">「でんきのしくみ、<ruby>作<rt>つく</rt></ruby>りかた。おもしろい！でんきのはなし」</a>をきいてみたら？きっと<ruby>研究<rt>けんきゅう</rt></ruby>の<ruby>楽<rt>たの</rt></ruby>しさをおしえてくれるとおもうよ。<br>
@@ -928,7 +928,7 @@ tags:
 </div>
 <div class="balloon_l">
   <div class="faceicon">
-    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" >
+    <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/fart.jpg" alt="おならくん" width="80px" height="80px" />
   </div>
     <p class="says">いいなぁ、ぼく、<ruby>大<rt>おお</rt></ruby>きくなったら<ruby>研究者<rt>けんきゅうしゃ</rt></ruby>になるからね。<br>
     よろしくおねがいします。<br>
@@ -938,7 +938,7 @@ tags:
 </div>
 <div class="balloon_r">
     <div class="faceicon">
-      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" >
+      <img src="https://yamazato.nuee.nagoya-u.ac.jp/img/Yamazato.jpg" alt="やまざと" width="80px" />
     </div>
     <p class="says">ハハハ。なんかちがうけど、がんばって！
     </p>
