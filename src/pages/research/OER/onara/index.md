@@ -1118,12 +1118,13 @@ NHKの<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>動画<rt>どうが</rt><
 
 <div align="center">
 <img
-  src="Erekiteru-demonstration.gif"
+  src="Erekiteru-demonstration.jpg"
   alt="1787年発行の蘭学書「紅毛雑話」に描かれたエレキテル" />
 <br />
 1787年発行の蘭学書「紅毛雑話」に描かれたエレキテル<br />
 出展：<a href="https://ja.wikipedia.org/wiki/エレキテル" alt="エレキテル">https://ja.wikipedia.org/wiki/エレキテル</a>
 </div><br />
+<img src="Erekiteru-demonstration.gif" />
 
 この浮世絵は森島中良の『紅毛雑話』に描かれた江戸時代の見世物です。エレキテルはとても評判だったようです。
 
@@ -1163,7 +1164,7 @@ NHKの<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>動画<rt>どうが</rt><
 
 <div align="center">
 <img
-  src="Erekiteru-demonstration.gif"
+  src="Erekiteru-demonstration.jpg"
   alt="1787年発行の蘭学書「紅毛雑話」に描かれたエレキテル" />
 <br />
 1787<ruby>年<rt>ねん</rt></ruby><ruby>発行<rt>はっこう</rt></ruby>の<ruby>蘭学書<rt>らんがくしょ</rt></ruby>「<ruby>紅毛雑話<rt>こうもうざつわ</rt></ruby>」に<ruby>描<rt>えが</rt></ruby>かれた<ruby>エレキテル<rt></rt></ruby><br />
