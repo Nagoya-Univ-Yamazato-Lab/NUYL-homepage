@@ -57,7 +57,7 @@ tags:
 
 実際には図形の一辺とその角度として扱いますので，三角形の性質が分かれば十分ですが，
 これらが分からないと，せっかくの講義も*ちんぷんかんぷん*で，ちっとも面白くありません．
-とりわけ，[1 日目の講義](Turtle_Graphics_Day_One.pdf)では，亀さんに皆さんのイニシャル（アルファベット）を描いてもらいますが，座標や図形の基本的なことが分からないと何もできないまま終わってしまいます．
+とりわけ，[1 日目の講義](/PDF/Turtle_Graphics_Day_One.pdf)では，亀さんに皆さんのイニシャル（アルファベット）を描いてもらいますが，座標や図形の基本的なことが分からないと何もできないまま終わってしまいます．
 
 以下，簡単に本講義で必要となる座標と図形について説明していきます．
 なお，座標と図形の基本的な知識の殆どが，中学校で習ったことですので高校生の皆さんにとっては何も難しくありません．
@@ -94,12 +94,12 @@ tags:
 
 - 2024年度　ベーシックコース
   - [ベーシックコースの資料](/PDF/2024_Turtle_Graphics_Basic.pdf)
-    - [Colabのファイル](Turtle_Graphics_Basic.ipynb)
+    - [Colabのファイル](/PDF/Turtle_Graphics_Basic.ipynb)
 - 2024年度　アドバンスコース
   - [1日目の資料（ベーシックコースの資料を使います）](/PDF/2024_Turtle_Graphics_Basic.pdf)
-    - [Colabのファイル](Turtle_Graphics_Basic.ipynb)
+    - [Colabのファイル](/PDF/Turtle_Graphics_Basic.ipynb)
   - [2日目の資料](/PDF/2024_Turtle_Graphics_Advanced.pdf)
-    - [Colabのファイル](Turtle_Graphics_Advanced.ipynb)
+    - [Colabのファイル](/PDF/Turtle_Graphics_Advanced.ipynb)
 
 
 以下に目次を示します．
