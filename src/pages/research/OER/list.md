@@ -31,3 +31,5 @@ tags:
 - [流体力学問題集](/research/OER/Fluid-Mechanics-Problems/)
   - 僕の父が作った問題集です．
 
+- [The Secret of the Eyes of Mona Lisa -- The Review Policy and Current Status of the IEICE Transactions --](/PDF/Secret-of-the-Eyes-of-Mona-Lisa.pdf)
+  - APCC2024@Bali, Indonesia で発表したスライドです。電子情報通信学会英文論文誌BとComEXについて話しました。
