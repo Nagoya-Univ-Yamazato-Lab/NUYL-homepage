@@ -48,7 +48,7 @@ jobs:
       - name: rsync deployments
         uses: burnett01/rsync-deployments@5.2.1
         with:
-          switches: -avzr --delete --exclude="owc2018/" --exclude="icevlc2018/" --exclude="owc2020/" --exclude="owc2022/" --exclude="owc2023/" --exclude="owc2024/" --exclude="IEEE-ComSoc-Tokyo-Joint-Chapter/" --exclude="TEFS2024/"
+          switches: -avzr --delete --exclude="owc2018/" --exclude="icevlc2018/" --exclude="owc2020/" --exclude="owc2022/" --exclude="owc2023/" --exclude="owc2024/"  --exclude="owc2025/" --exclude="IEEE-ComSoc-Tokyo-Joint-Chapter/" --exclude="TEFS2024/" 
           path: public/
           remote_path: ${{ secrets.REMOTE_PATH }}
           remote_host: ${{ secrets.REMOTE_HOST }}
