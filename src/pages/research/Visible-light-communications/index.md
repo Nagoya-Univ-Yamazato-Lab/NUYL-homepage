@@ -46,7 +46,9 @@ LED は半導体デバイスであるため、人の目には見えないほど�
 
 ### VTC Workshop
 
-- **<span style="color: red; ">[Workshop on Optical Wireless Communications (OWC’24) for 6G](http://yamazato.nuee.nagoya-u.ac.jp/owc2024/index.html) will be held in Singapore, June 24-27, 2024, in association with [IEEE 99th Vehicular Technology Conference (VTC2024-Spring)](https://events.vtsociety.org/vtc2024-spring/).</span>**
+- **<span style="color: red; ">[Second Workshop on Optical Wireless Communications for 6G (OWC’25)](http://yamazato.nuee.nagoya-u.ac.jp/owc2025/)</span>** will be held in association with [The 2025 IEEE 101st Vehicular Technology Conference, VTC2025-Spring in Oslo, Norway, 17 - 20 June 2025.](https://events.vtsociety.org/vtc2025-spring/).
+
+- **[First](http://yamazato.nuee.nagoya-u.ac.jp/owc2024/)** held at Singapore in association with [IEEE 99th Vehicular Technology Conference (VTC2024-Spring), Singapore](https://events.vtsociety.org/vtc2024-spring/).
 
 ### ISCC Workshop
 
