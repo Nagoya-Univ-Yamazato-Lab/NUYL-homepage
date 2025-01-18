@@ -183,11 +183,11 @@ const Footer = class extends React.Component {
                     <li>
                       <Link
                         className="navbar-item"
-                        to="/owc2024/"
-                        title="OWC’24"
+                        to="/owc2025/"
+                        title="OWC’25"
                       >
-                        IEEE VTC Workshop on Optical Wireless Communications
-                        (OWC’24) for 6G
+                        2nd IEEE VTC Workshop on Optical Wireless Communications
+                        (OWC’25) for 6G
                       </Link>
                     </li>
                   </ul>
