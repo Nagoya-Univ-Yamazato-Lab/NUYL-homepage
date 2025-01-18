@@ -172,6 +172,17 @@ const Footer = class extends React.Component {
                       </Link>
                     </li>
                     <li>
+                      <a
+                        className="navbar-item"
+                        href="https://www.ieice.org/cs/aa-its/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        title="IEICE AA-ITS 特別研専"
+                      >
+                        IEICE AA-ITS 特別研専
+                      </a>
+                    </li>
+                    <li>
                       <Link
                         className="navbar-item"
                         to="/IEEE-ComSoc-Tokyo-Joint-Chapter/"
