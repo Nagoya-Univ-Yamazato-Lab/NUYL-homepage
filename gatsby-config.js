@@ -115,7 +115,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
-        siteUrl: `https://yamazato.nuee.nagoya-u.ac.jp`,
+        siteUrl: `https://yamazato.nuee.nagoya-u.ac.jp/`,
         stripQueryString: true,
       },
     },
@@ -125,7 +125,7 @@ module.exports = {
       resolve: `gatsby-plugin-purgecss`, // purges all unused/unreferenced css rules
       options: {
         develop: true, // Activates purging in npm run develop
-        purgeOnly: ['/all.sass'], // applies purging only on the bulma css file
+        // purgeOnly: ['/all.sass'], // applies purging only on the bulma css file
       },
     }, // must be after other CSS plugins
   ],
