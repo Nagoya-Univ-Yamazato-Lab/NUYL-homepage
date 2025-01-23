@@ -28,6 +28,14 @@ exports.createPages = ({ actions, graphql }) => {
       result.errors.forEach((e) => console.error(e.toString()))
       return Promise.reject(result.errors)
     }
+  
+    createPage({
+  
+          path: "/",
+  
+          component: require.resolve("./src/pages/404.js"),
+  
+      })
 
     const posts = result.data.allMarkdownRemark.edges
 
