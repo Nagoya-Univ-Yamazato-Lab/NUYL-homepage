@@ -21,7 +21,7 @@ const TemplateWrapper = ({ children }) => {
         <html lang={lang} data-theme="light" class="has-navbar-fixed-top"/>
         <title>{title}</title>
         <meta name="description" content={description} />
-        <meta name="algolia-site-verification"  content="C4B4AD75101BCAA0" />
+        <meta name="algolia-site-verification"  content="0BFC32FE87FDA075" />
         <script
           src="https://kit.fontawesome.com/15181efa86.js"
           crossorigin="anonymous"
