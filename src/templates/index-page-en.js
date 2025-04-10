@@ -203,7 +203,7 @@ const IndexPageTemplateEN = ({ data }) => (
             <h2 id="team" className="title post-title">
               <Link to="/en/team/"> Our Team</Link>
             </h2>
-            <p className="has-text-info is-size-5">Dr. Hiraku Okada was appointed as a professor in the <a
+            <p className="has-text-light is-size-5">Dr. Hiraku Okada was appointed as a professor in the <a
                           href="https://www.meijo-u.ac.jp/academics/sci_tech/electrical/educator.html"
                           title="Department of Electrical and Electronic Engineering, Faculty of Science and Technology, Meijo University"
                           target="_blank"
