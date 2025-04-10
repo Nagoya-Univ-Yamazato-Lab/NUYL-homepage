@@ -192,6 +192,14 @@ const IndexPageTemplate = ({ data }) => (
             <h1 id="team">
               <Link to="/team/">&nbsp;チーム</Link>
             </h1>
+            <p className="is-size-5">岡田啓先生は2025年4月1日付けで<a
+                          href="https://www.meijo-u.ac.jp/academics/sci_tech/electrical/educator.html"
+                          title="名城大学理工学部電気電子工学科"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          名城大学理工学部電気電子工学科
+                        </a>の教授に就任されました．</p>
             <div className="columns is-multiline">
               <div className="column post is-3">
                 <article className="columns is-multiline">
