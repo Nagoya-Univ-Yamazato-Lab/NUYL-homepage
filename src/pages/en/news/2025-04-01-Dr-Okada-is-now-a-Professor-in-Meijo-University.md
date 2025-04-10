@@ -1,6 +1,6 @@
 ---
-templateKey: blog-post
-title: Professor Okada Has Been Promoted to Full Professor at Meijo University
+templateKey: blog-post-en
+title: Professor Okada has been promoted to full professor at Meijo University
 date: 2025-4-1T13:30:00.096Z
 description: >-
   As of April 1, 2025, Dr. Kei Okada has been appointed as a full professor in the Department of Electrical and Electronic Engineering, Faculty of Science and Technology, Meijo University.

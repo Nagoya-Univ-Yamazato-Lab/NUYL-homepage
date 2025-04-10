@@ -192,7 +192,7 @@ const IndexPageTemplateEN = ({ data }) => (
               <div className="column post is-12">
                 <BlogRoll />
                 <div className="column is-12 has-text-centered">
-                  <Link className="btn" to="/news">
+                  <Link className="btn" to="/en/news">
                     Read more "News and Updates" →
                   </Link>
                 </div>
