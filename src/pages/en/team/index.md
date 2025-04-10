@@ -1,11 +1,11 @@
 ---
 templateKey: pages-en-white
 lang: en
-title: 2023 Team
+title: 2025 Team
 description: Our team at Yamazato Lab.
-date: 2023-04-01T07:57:21.383Z
+date: 2025-04-01T07:57:21.383Z
 tags:
-  - Team 2023
+  - Team 2025
   - Team
 ---
 
@@ -25,34 +25,49 @@ Secretary:
 Ph.D Candidates
 
 - D3:
-  - Zhengqiang TANG
+  - IYODA Yuki
+
+- D1:
+  - ISHIDA Takumi
 
 Graduate Students
 
 - M2:
 
-  - Fumiya OJIKA
-  - Jinxing ZHENG
-  - Daiki EHARA
+  - AKAI Sotaro
+  - ASAOKA Shin
+  - SHI Tianhao
+  - OKAWA Chieri
+  - OWAKI Takaaki
+  - KONDO Ryota
+  - NAKANO Kosuke
 
 - M1:
-  - Arata ISOZAKI
-  - Ayumu OTSUKA
-  - Cao CHENYU
+  - ASANO Tomoharu
+  - ABE Eisuke
+  - SAKAI Masaru
+  - SAWADA Aoi
+  - SOGA Ryota
+  - FUJISAWA Moyu
+  - YANG Haoran
+  - LU Qi Ming
 
 Undergraduate Students
 
 - B4:
-  - Eiki GO
-  - Ryota KONDO
-  - Hina NAGAI
-  - Kosuke NAKANO
+  - KUBO Ryoya
+  - SATO Motoya
+  - SAWADA Aoi
+  - SHIBAYAMA Yuto
+  - TOMIYASU Masaki
 
 - Research student:
-  - Tianhao SHI
+  - LIU Yize
+  - SUN Yu
 
 ## Alumni
 
+- [2024](/en/team/2024/)
 - [2023](/en/team/2023/)
 - [2022](/en/team/2022/)
 - [2021](/en/team/2021/)

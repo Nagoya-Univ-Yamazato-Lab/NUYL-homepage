@@ -223,13 +223,18 @@ const IndexPageTemplate = ({ data }) => (
                 <article className="columns is-multiline">
                   <div className="column is-12 featured-content ">
                     <h1 className="heading post-category">
-                      博士研究員（ポスドク）
+                      博士後期課程
                     </h1>
                     <h1>
                       <FaUserGraduate />
                     </h1>
                     <p className="is-size-5">
-                      &nbsp; &nbsp;唐 正強
+                      D3 <br />
+                      &nbsp; &nbsp;伊与田 友貴
+                      <br />
+                      <br />
+                      D1 <br />
+                      &nbsp; &nbsp;石田 匠
                       <br />
                     </p>
                   </div>
@@ -244,21 +249,43 @@ const IndexPageTemplate = ({ data }) => (
                     </h1>
                     <p className="is-size-5">
                       M2 <br />
-                      &nbsp; &nbsp;磯崎 新
+                      &nbsp; &nbsp;赤井 壮太郎
                       <br />
-                      &nbsp; &nbsp;大塚 鮎陸
-                      <br />
-                      &nbsp; &nbsp;曹 晨宇
-                      <br />
-                      <br />
-                      M1 <br />
                       &nbsp; &nbsp;浅岡 新
                       <br />
-                      &nbsp; &nbsp;石 天昊
+                      &nbsp; &nbsp;石 天昊<br />
+                      &nbsp; &nbsp;(SHI Tianhao)
+                      <br />
+                      &nbsp; &nbsp;大河 知恵里
+                      <br />
+                      &nbsp; &nbsp;大脇 孝明
                       <br />
                       &nbsp; &nbsp;近藤 涼太
                       <br />
                       &nbsp; &nbsp;中野 幸亮
+                      <br />
+                      <br />
+                      M1 <br />
+                      &nbsp; &nbsp;浅野 智晴
+                      <br />
+                      &nbsp; &nbsp;阿邊 瑛佑 
+                      <br />
+                      &nbsp; &nbsp;酒井 優
+                      <br />
+                      &nbsp; &nbsp;小林 正尚
+                      <br />
+                      &nbsp; &nbsp;曽我 亮太
+                      <br />
+                      &nbsp; &nbsp;藤澤 萌夢
+                      <br />
+                      &nbsp; &nbsp;楊 皓冉
+                      <br />
+                      &nbsp; &nbsp;(YANG Haoran)
+                      <br />
+                      &nbsp; &nbsp;陸 啓明
+                      <br />
+                      &nbsp; &nbsp;(LIU Qi Ming)
+                      <br />                    
                     </p>
                   </div>
                 </article>
@@ -272,14 +299,25 @@ const IndexPageTemplate = ({ data }) => (
                     </h1>
                     <p className="is-size-5">
                       B4 <br />
-                      &nbsp; &nbsp;阿邊 瑛佑
+                      &nbsp; &nbsp;久保 綾也
                       <br />
-                      &nbsp; &nbsp;小林 正尚
+                      &nbsp; &nbsp;佐藤 心哉
                       <br />
-                      &nbsp; &nbsp;曽我 亮太
+                      &nbsp; &nbsp;澤田 蒼生
                       <br />
-                      &nbsp; &nbsp;森田 光貴
+                      &nbsp; &nbsp;柴山 裕翔
                       <br />
+                      &nbsp; &nbsp;冨安 将生
+                      <br />
+                      <br />
+                      研究生<br />
+                      &nbsp; &nbsp;劉 訳沢
+                      <br />
+                      &nbsp; &nbsp;(LIU Yize)
+                      <br />
+                      &nbsp; &nbsp;孙 瑜
+                      <br />
+                      &nbsp; &nbsp;(SUN Yu)
                       <br />
                     </p>
                   </div>
@@ -295,6 +333,9 @@ const IndexPageTemplate = ({ data }) => (
                   <div className="column is-12 featured-content ">
                     <p>
                       <ul>
+                      <li>
+                          &nbsp; &nbsp;<Link to="/team/2024/">2024</Link>
+                        </li>
                         <li>
                           &nbsp; &nbsp;<Link to="/team/2023/">2023</Link>
                         </li>
@@ -347,7 +388,7 @@ const IndexPageTemplate = ({ data }) => (
               <br />
               <h2 id="access">アクセス</h2>
               <p className="is-size-5">
-                山里研究室は IB電子情報館 5Fにあります．
+                山里研究室は IB電子情報館 9Fにあります．
                 <br />
                 <a href="https://www.nagoya-u.ac.jp/extra/map/index.html">
                   キャンパスマップ

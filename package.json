@@ -4,10 +4,10 @@
   "version": "1.1.8",
   "author": "Takaya Yamazato",
   "dependencies": {
-    "@formspree/react": "2.5.1",
+    "@formspree/react": "3.0.0",
     "@react-icons/all-files": "^4.1.0",
     "bulma": "1.0.3",
-    "gatsby": "^5.14.1",
+    "gatsby": "^5.14.3",
     "gatsby-plugin-canonical-urls": "^5.14.0",
     "gatsby-plugin-google-gtag": "^5.14.0",
     "gatsby-plugin-image": "^3.14.0",
@@ -29,10 +29,10 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-helmet": "^6.1.0",
-    "react-hook-form": "^7.54.2",
-    "react-scroll": "^1.9.0",
-    "sass": "^1.83.4",
-    "uuid": "^11.0.5"
+    "react-hook-form": "^7.55.0",
+    "react-scroll": "^1.9.3",
+    "sass": "^1.86.3",
+    "uuid": "^11.1.0"
   },
   "keywords": [
     "Nagoya Univeristy",
@@ -60,7 +60,7 @@
     "npm package update": "ncu -u && rm -rf node_modules yarn.lock && npm install && npm run build"
   },
   "devDependencies": {
-    "prettier": "^3.4.2"
+    "prettier": "^3.5.3"
   },
   "engines": {
     "node": ">= 14.15.0"

@@ -211,7 +211,7 @@ const IndexPageTemplateEN = ({ data }) => (
                     <h1 className="title post-title">
                       <FaUserTie />
                     </h1>
-                    <p className="post-excerpt">
+                    <p className="post-excerpt is-size-6">
                       Professor <br />
                       &nbsp; &nbsp;
                       <Link to="/en/team/Takaya-Yamazato/">
@@ -236,12 +236,20 @@ const IndexPageTemplateEN = ({ data }) => (
                 <article className="columns is-multiline">
                   <div className="column is-12 featured-content ">
                     <h1 className="heading post-category">
-                      Postdoctoral Researcher
+                      Ph. D. Candidates
                     </h1>
                     <h1 className="title post-title">
                       <FaUserGraduate />
                     </h1>
-                    <p className="post-excerpt">&nbsp; &nbsp;Zhengqiang TANG</p>
+                    <p className="post-excerpt is-size-6">
+                      D3 <br />
+                      &nbsp; &nbsp;IYODA Yuki
+                      <br />
+                      <br />
+                      D2 <br />
+                      &nbsp; &nbsp;ISHIDA Takumi
+                      <br />
+                    </p>
                   </div>
                 </article>
               </div>
@@ -252,24 +260,37 @@ const IndexPageTemplateEN = ({ data }) => (
                     <h1 className="title post-title">
                       <FaUserGraduate />
                     </h1>
-                    <p className="post-excerpt">
+                    <p className="post-excerpt is-size-6">
                       M2 <br />
-                      &nbsp; &nbsp;Arata ISOZAKI
+                      &nbsp; &nbsp;AKAI Sotaro
                       <br />
-                      &nbsp; &nbsp;Ayumu OTSUKA
+                      &nbsp; &nbsp;ASAOKA Shin
                       <br />
-                      &nbsp; &nbsp;Cao CHENYU
+                      &nbsp; &nbsp;SHI Tianhao
+                      <br />
+                      &nbsp; &nbsp;OKAWA Chieri
+                      <br />
+                      &nbsp; &nbsp;KONDO Ryota
+                      <br />
+                      &nbsp; &nbsp;NAKANO Kosuke
                       <br />
                       <br />
                       M1 <br />
-                      &nbsp; &nbsp;Shin ASAOKA
+                      &nbsp; &nbsp;ASANO Tomoharu
                       <br />
-                      &nbsp; &nbsp;Tianhao SHI
+                      &nbsp; &nbsp;ABE Eisuke
                       <br />
-                      &nbsp; &nbsp;Ryota KONDO
+                      &nbsp; &nbsp;SAKAI Masaru
                       <br />
-                      &nbsp; &nbsp;Kosuke NAKANO
+                      &nbsp; &nbsp;SAWADA Aoi
                       <br />
+                      &nbsp; &nbsp;SOGA Ryota
+                      <br />
+                      &nbsp; &nbsp;FUJISAWA Moyu
+                      <br />
+                      &nbsp; &nbsp;YANG Haoran
+                      <br />
+                      &nbsp; &nbsp;LU Qi Ming
                     </p>
                   </div>
                 </article>
@@ -283,18 +304,24 @@ const IndexPageTemplateEN = ({ data }) => (
                     <h1 className="title post-title">
                       <FaUserFriends />
                     </h1>
-                    <p className="post-excerpt">
+                    <p className="post-excerpt is-size-6">
                       B4 <br />
-                      &nbsp; &nbsp;Eisuke ABE
+                      &nbsp; &nbsp;KUBO Ryoya
                       <br />
-                      &nbsp; &nbsp;Masataka KOBAYASHI
+                      &nbsp; &nbsp;SATO Motoya
                       <br />
-                      &nbsp; &nbsp;Ryota SOGA
+                      &nbsp; &nbsp;SAWADA Aoi
                       <br />
-                      &nbsp; &nbsp;Koki MORITA
+                      &nbsp; &nbsp;SHIBAYAMA Yuto
+                      <br />
+                      &nbsp; &nbsp;TOMIYASU Masaki
                       <br />
                       <br />
-                    </p>
+                      Research students <br />
+                      &nbsp; &nbsp;LIU Yize
+                      <br />
+                      &nbsp; &nbsp;SUN Yu
+                    </p>  
                   </div>
                 </article>
               </div>
@@ -308,14 +335,17 @@ const IndexPageTemplateEN = ({ data }) => (
                   <div className="column is-12 featured-content ">
                     <p>
                       <ul>
-                        <li>
-                          &nbsp; &nbsp;<Link to="/team/2023/">2023</Link>
+                      <li>
+                          &nbsp; &nbsp;<Link to="/en/team/2024/">2024</Link>
                         </li>
                         <li>
-                          &nbsp; &nbsp;<Link to="/team/2022/">2022</Link>
+                          &nbsp; &nbsp;<Link to="/en/team/2023/">2023</Link>
                         </li>
                         <li>
-                          &nbsp; &nbsp;<Link to="/team/2021/">2021</Link>
+                          &nbsp; &nbsp;<Link to="/en/team/2022/">2022</Link>
+                        </li>
+                        <li>
+                          &nbsp; &nbsp;<Link to="/en/team/2021/">2021</Link>
                         </li>
                       </ul>
                     </p>
@@ -353,7 +383,7 @@ const IndexPageTemplateEN = ({ data }) => (
                 Access:{' '}
               </h3>
               <p className="post-excerpt">
-                YAMAZATO Laboratory is located at 5th Floor of the North IB
+                YAMAZATO Laboratory is located at 9th Floor of the North IB
                 Building.
                 <br />
                 See also our{' '}
