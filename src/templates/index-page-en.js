@@ -299,7 +299,7 @@ const IndexPageTemplateEN = ({ data }) => (
                       <br />
                       &nbsp; &nbsp;YANG Haoran
                       <br />
-                      &nbsp; &nbsp;LU Qi Ming
+                      &nbsp; &nbsp;LU Qiming
                     </p>
                   </div>
                 </article>

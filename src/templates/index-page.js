@@ -292,7 +292,7 @@ const IndexPageTemplate = ({ data }) => (
                       <br />
                       &nbsp; &nbsp;陸 啓明
                       <br />
-                      &nbsp; &nbsp;(LIU Qi Ming)
+                      &nbsp; &nbsp;(LU Qiming)
                       <br />                    
                     </p>
                   </div>

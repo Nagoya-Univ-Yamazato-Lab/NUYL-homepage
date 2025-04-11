@@ -50,7 +50,7 @@ Graduate Students
   - SOGA Ryota
   - FUJISAWA Moyu
   - YANG Haoran
-  - LU Qi Ming
+  - LU Qiming
 
 Undergraduate Students
 
