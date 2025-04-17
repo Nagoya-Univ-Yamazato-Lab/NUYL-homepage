@@ -380,9 +380,6 @@ const IndexPageTemplateEN = ({ data }) => (
                 &nbsp; &nbsp;Furo-cho, Chikusa-ku, Nagoya 464-8063 JAPAN
                 <br />
                 <FaPhoneAlt />
-                &nbsp; &nbsp;Laboratory: +81-52-789-3173
-                <br />
-                <FaPhoneAlt />
                 &nbsp; &nbsp;Secretary: +81-52-789-2743
                 <br />
               </p>

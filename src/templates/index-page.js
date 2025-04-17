@@ -384,11 +384,11 @@ const IndexPageTemplate = ({ data }) => (
                 <br />
                 名古屋大学大学院工学研究科 情報・通信工学専攻 山里研究室
                 <br />
-                研究室（学生）：IB電子情報館5F&nbsp; &nbsp;
+                研究室（学生）：IB電子情報館北棟9F&nbsp; &nbsp;
                 <FaPhoneAlt />
                 &nbsp; &nbsp;052-789-3173
                 <br />
-                秘書：IB電子情報館9F片山研&nbsp; &nbsp;
+                秘書：IB電子情報館北棟9F&nbsp; &nbsp;
                 <FaPhoneAlt />
                 &nbsp; &nbsp;052-789-2743
                 <br />
