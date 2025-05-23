@@ -36,7 +36,7 @@ tags:
 - <a href="https://www.ilas.nagoya-u.ac.jp/en/faculty.html" target="_blank">Faculty page of Institute of Liberal Arts and Sciences, Nagoya University</a>
 - <a href="https://profs.provost.nagoya-u.ac.jp/html/100001840_ja.html" target="_blank">名古屋大学研究者総覧</a>
 - <a href="https://orcid.org/0000-0001-5256-4965" target="\_blank">ORCID</a>
-- <a href="https://researchmap.jp/read0042505/" target="_blank">Research map</a>
+- <a href="https://researchmap.jp/yamazato" target="_blank">Research map</a>
 - <a href="https://scholar.google.co.jp/citations?user=huzxGUAAAAAJ&amp;hl=ja&amp;oi=ao" target="_blank">Google Scholar</a>
 
 ## 学会活動
