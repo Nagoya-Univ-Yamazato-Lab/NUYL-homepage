@@ -13,10 +13,11 @@ tags:
 
 Short Biography:
 
-In 1998, he gave a half-day tutorial entitled "Introduction to CDMA ALOHA" at the IEEE GLOBECOM held in Sydney, Australia. In 2006, he received the IEEE Communication Society's Best Tutorial Paper Award. He served as the co-chair of the Wireless Communication Symposia of the IEEE ICC 2009 and is the co-chair of Selected Areas in Communication Symposia of the IEEE ICC 2011. From 2008 to 2010, he served as the chair of the Satellite and Space Communication Technical Committee of the IEEE Communication Society. In 2011, he gave a half-day tutorial entitled "Visible Light Communication" at the IEEE ICC 2011 held in Kyoto, Japan. In addition, he served as the editor-in-chief of the Japanese Section of IEICE Transactions on Communications from 2009 to 2011. From 2016 to 2017, he was the Director of the Asia/Pacific Board, the IEEE Communication Society.
-He co-chaired the 8th and 9th IEEE GLOBECOM Workshop on Optical Wireless Communications (OWC'18 and OWC'20). In addition, he was the Chair of the IEICE Communication Society Editorial Board from 2020 to 2021. Currently he is the Chair of IEICE Tokai Section and the Director of IEICE Communication Society Journal Publication.
+Dr. Takaya Yamazato is a professor and the Deputy Director at the Institute of Liberal Arts and Sciences at Nagoya University in Japan. He earned his Ph.D. in Electrical Engineering from Keio University in 1993 and subsequently joined Nagoya University. Dr. Yamazato has also worked as a visiting researcher at the University of Kaiserslautern.
 
-His research interests include visible light communication, ITS, and stochastic resonance.
+In 2006, he received the IEEE Communication Society's Best Tutorial Paper Award, and in 2019, he was honored with the IEICE Best Paper Award. From 2016 to 2017, he served on the Board of Governors of the IEEE Communication Society, where he held the position of Director of the Asia/Pacific Board. He edited the Japanese Section of the IEICE Transactions on Communications from 2009 to 2011 and chaired the editorial board from 2020 to 2021. Since 2024, he has been the Director of the Journal and Transactions of the IEICE. Additionally, starting in 2024, he became a board member of Open Education Global.
+
+Dr. Yamazato's research interests include visible light communication, intelligent transport systems, stochastic resonance, and open educational resources.
 
 See also:
 
