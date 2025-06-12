@@ -10,14 +10,15 @@ tags:
   - 2025年度
   - Python でフラクタルを描画しよう
 ---
-
-- 担当教員：山里 敬也　（名古屋大学 教養教育院，工学研究科 情報・通信工学専攻）
-- ティーチングアシスタント：伊与田 友貴（名古屋大学 工学研究科 情報・通信工学専攻 D3），石田 匠（名古屋大学 工学研究科 情報・通信工学専攻 D1）
+- 口座番号：N10
 - 日 時：7月31日 (木)・8月1日(金)  時間：10：30～12：00 13:00-14:30
+- タイトル：Python でフラクタルを描画しよう
 - 場 所：名古屋大学教養教育院 CALL 教室（[キャンパスマップB4-1](https://www.nagoya-u.ac.jp/extra/map/index.html)の2階にあります）
 - 受入人数：20 名程度
+- 担当教員：山里 敬也　（名古屋大学 教養教育院，工学研究科 情報・通信工学専攻）
+- ティーチングアシスタント：伊与田 友貴（名古屋大学 工学研究科 情報・通信工学専攻 D3），石田 匠（名古屋大学 工学研究科 情報・通信工学専攻 D1）
 - 教科書：このページになります
-- 事前課題：ありませんが，このサイトの内容をよく勉強しておいてください．
+- 事前課題：このサイトの内容をよく勉強しておいてください．
 
 > ## 重要（事前準備）　<!-- omit in toc -->
 >
@@ -30,7 +31,7 @@ tags:
 
 ---
 
-このページではSSH コンソーシアム TOKAI 「高大接続探究ゼミ」の「(1) Python でフラクタルを描画しよう」を受講する高校生の皆様に，事前に知っておいて欲しい内容について書きます．
+このページではSSH コンソーシアム TOKAI 「高大接続探究ゼミ」の「(N10) Python でフラクタルを描画しよう」を受講する高校生の皆様に，事前に知っておいて欲しい内容について書きます．
 
 <a id="なぜ事前学習が必要なのか"></a>
 
@@ -83,20 +84,20 @@ tags:
 
 | 日時                                          | ベーシックコース                                          | アドバンスコース                                                                                                                |
 | --------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| 7月22日（月）<br /> 10：30～12：00 <br /> 講義 | Google Colabortory (Python)入門 <br />Turtle Graphics入門 | Google Colabortory (Python)入門 <br /> Turtle Graphics入門                                                                      |
-| 7月22日（月）<br /> 13：00～14：30 <br /> 演習 | Turtle Graphics で自分のイニシャルを描こう                | Turtle Graphics で多角形を描こう                                                                                                |
-| 7月23日（火）<br /> 10：30～12：00 <br /> 講義 | Turtle Graphics で多角形を描こう                          | 再帰関数とフラクタル <br />・コッホ曲線 <br />・シェルピンスキーのガスケット <br />・2分木 <br />・Levy曲線 <br />・Drangon曲線 |
-| 7月23日（火）<br /> 13：00～14：30 <br /> 演習 | Turtle Graphics で絵を描こう                              | Turtle Graphics でフラクタルを描こう                                                                                            |
+| 7月31日（木）<br /> 10：30～12：00 <br /> 講義 | Google Colabortory (Python)入門 <br />Turtle Graphics入門 | Google Colabortory (Python)入門 <br /> Turtle Graphics入門                                                                      |
+| 7月31日（木）<br /> 13：00～14：30 <br /> 演習 | Turtle Graphics で自分のイニシャルを描こう                | Turtle Graphics で多角形を描こう                                                                                                |
+| 8月1日（金）<br /> 10：30～12：00 <br /> 講義 | Turtle Graphics で多角形を描こう                          | 再帰関数とフラクタル <br />・コッホ曲線 <br />・シェルピンスキーのガスケット <br />・2分木 <br />・Levy曲線 <br />・Drangon曲線 |
+| 8月1日（金）<br /> 13：00～14：30 <br /> 演習 | Turtle Graphics で絵を描こう                              | Turtle Graphics でフラクタルを描こう                                                                                            |
 
 
 
 ## 資料
 
 - 2024年度　ベーシックコース
-  - [ベーシックコースの資料](/PDF/2024_Turtle_Graphics_Basic.pdf)
+  - [ベーシックコースの資料](/PDF/2025_Turtle_Graphics_Basic.pdf)
     - [Colabのファイル](/PDF/Turtle_Graphics_Basic.ipynb)
 - 2024年度　アドバンスコース
-  - [1日目の資料（ベーシックコースの資料を使います）](/PDF/2024_Turtle_Graphics_Basic.pdf)
+  - [1日目の資料（ベーシックコースの資料を使います）](/PDF/2025_Turtle_Graphics_Basic.pdf)
     - [Colabのファイル](/PDF/Turtle_Graphics_Basic.ipynb)
   - [2日目の資料](/PDF/2024_Turtle_Graphics_Advanced.pdf)
     - [Colabのファイル](/PDF/Turtle_Graphics_Advanced.ipynb)
@@ -580,20 +581,28 @@ $$
 
 ## [2024年度のサイト（アーカイブ）](/research/OER/wwl/2024)
   - 2024年度　ベーシックコース
+    - [ベーシックコースの資料](/PDF/2024_Turtle_Graphics_Basic.pdf)
+      - [Colabのファイル](/PDF/Turtle_Graphics_Basic.ipynb)
+  - 2024年度　アドバンスコース
+    - [1日目の資料（ベーシックコースの資料を使います）](/PDF/2024_Turtle_Graphics_Basic.pdf)
+      - [Colabのファイル](/PDF/Turtle_Graphics_Basic.ipynb)
+    - [2日目の資料](/PDF/2024_Turtle_Graphics_Advanced.pdf)
+      - [Colabのファイル](/PDF/Turtle_Graphics_Advanced.ipynb)
+  
 ## [2023年度のサイト（アーカイブ）](/research/OER/wwl/2023)
   - 2023年度　ベーシックコース
-    - [ベーシックコースの資料](./2023_Turtle_Graphics_Basic.pdf)
-      - [Colabのファイル](Turtle_Graphics_Basic.ipynb)
+    - [ベーシックコースの資料](/PDF/2023_Turtle_Graphics_Basic.pdf)
+      - [Colabのファイル](/PDF/Turtle_Graphics_Basic.ipynb)
   - 2023年度　アドバンスコース
-    - [1日目の資料（ベーシックコースの資料を使います）](./2023_Turtle_Graphics_Basic.pdf)
-      - [Colabのファイル](Turtle_Graphics_Basic.ipynb)
-    - [2日目の資料（2022年度2日目の資料を使います）](./2023_Turtle_Graphics_Advanced.pdf)
-      - [Colabのファイル（2022年度2日目と同じです）](./Turtle_Graphics_Advanced.ipynb)
+    - [1日目の資料（ベーシックコースの資料を使います）](/PDF/2023_Turtle_Graphics_Basic.pdf)
+      - [Colabのファイル](/PDF/Turtle_Graphics_Basic.ipynb)
+    - [2日目の資料（2022年度2日目の資料を使います）](/PDF/2023_Turtle_Graphics_Advanced.pdf)
+      - [Colabのファイル（2022年度2日目と同じです）](/PDF/Turtle_Graphics_Advanced.ipynb)
 
 ## [2022 年度のサイト（アーカイブ）](/research/OER/wwl/2022)
 
-  - [2022 年度 1 日目の資料](Turtle_Graphics_Day_One.pdf)
-  - [2022 年度 2 日目の資料](Turtle_Graphics_Day_Two.pdf)
+  - [2022 年度 1 日目の資料](/PDF/Turtle_Graphics_Day_One.pdf)
+  - [2022 年度 2 日目の資料](/PDF/Turtle_Graphics_Day_Two.pdf)
 
-  - [2022 年度 1 日目のコラボファイル](Turtle_Graphics_WWL_One.ipynb)
-  - [2022 年度 2 日目のコラボファイル](Turtle_Graphics_WWL_Two.ipynb)
+  - [2022 年度 1 日目のコラボファイル](/PDF/Turtle_Graphics_WWL_One.ipynb)
+  - [2022 年度 2 日目のコラボファイル](/PDF/Turtle_Graphics_WWL_Two.ipynb)
