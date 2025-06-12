@@ -7,7 +7,7 @@
     "@formspree/react": "3.0.0",
     "@react-icons/all-files": "^4.1.0",
     "bulma": "1.0.4",
-    "gatsby": "^5.14.3",
+    "gatsby": "^5.14.4",
     "gatsby-plugin-canonical-urls": "^5.14.0",
     "gatsby-plugin-google-gtag": "^5.14.0",
     "gatsby-plugin-image": "^3.14.0",
@@ -29,9 +29,9 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-helmet": "^6.1.0",
-    "react-hook-form": "^7.56.4",
+    "react-hook-form": "^7.57.0",
     "react-scroll": "^1.9.3",
-    "sass": "^1.89.0",
+    "sass": "^1.89.2",
     "uuid": "^11.1.0"
   },
   "keywords": [
