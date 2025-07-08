@@ -56,3 +56,17 @@ tags:
 > その後，10分ほど休憩をはさんで後半（11:10 - 12:00）は主に小学校高学年の方を対象にしています．低学年の方に難しい内容になりますが，チャレンジしてもらっても構いません．ご父兄の方の手助けがあればできるかも，です．
 ---
 
+## スケジュール
+
+- 10:30 - 11:00  **<ruby>QR<rt>キューアール</rt></ruby>コードであそぼう！**
+  - <ruby>小学生<rt>しょうがくせい</rt></ruby><ruby>低学年<rt>ていがくねん</rt></ruby>のみんなにおすすめだよ．みんなで<ruby>QR<rt>キューアール</rt></ruby>コードのゲームで<ruby>遊<rt>あそ</rt></ruby>ぶよ．もちろん<ruby>高学年<rt>こうがくねん</rt></ruby>のみんなも<ruby>楽<rt>たの</rt></ruby>しむことができるよ．
+<br />
+
+- 11:00 - 11:10 ちょっとお<ruby>休<rt>やす</rt></ruby>み（10<ruby>分<rt>ぷん</rt></ruby>）
+  - <ruby>低学年<rt>ていがくねん</rt></ruby>のみんなは，ここで<ruby>帰<rt>かえ</rt></ruby>ってもいいよ．<ruby>後半<rt>こうはん</rt></ruby>は<ruby>難<rt>むず</rt></ruby>しくなるかならね．
+<br />
+
+- 11:10 - 12:00 **<ruby>人力<rt>じんりき</rt></ruby><ruby>QR<rt>キューアール</rt></ruby>コード**
+  - <ruby>QR<rt>キューアール</rt></ruby>コードに<ruby>何<rt>なに</rt></ruby>が<ruby>書<rt>か</rt></ruby>いてあるのか，<ruby>読<rt>よ</rt></ruby>み<ruby>取<rt>と</rt></ruby>ってみよう！ちょっと<ruby>難<rt>むずか</rt></ruby>しいぞ．
+  - <ruby>小学校<rt>しょうがっこう</rt></ruby><ruby>高学年<rt>こうがくねん</rt></ruby>のみんなにチャレンジしてほしい<ruby>内容<rt>ないよう</rt></ruby>だよ．スマホやタブレットじゃなくて，みんなで<ruby>QR<rt>キューアール</rt></ruby>コードに<ruby>何<rt>なに</rt></ruby>が<ruby>書<rt>か</rt></ruby>いてあるのか<ruby>読<rt>よ</rt></ruby>んでみるのだよ．そう，<ruby>QR<rt>キューアール</rt></ruby>コードのひみつをあばいちゃうってやつ．
+  - でもね，<ruby>低学年<rt>ていがくねん</rt></ruby>のみんなには<ruby>難<rt>むずか</rt></ruby>しいと<ruby>思<rt>おも</rt></ruby>うんだ．お<ruby>父<rt>とう</rt></ruby>さんやお<ruby>母<rt>かあ</rt></ruby>さんが<ruby>手伝<rt>てつだ</rt></ruby>ってくれれば，きっと<ruby>読<rt>よ</rt></ruby>めると<ruby>思<rt>おも</rt></ruby>うので，ぜひ，チャレンジしてほしいな．
