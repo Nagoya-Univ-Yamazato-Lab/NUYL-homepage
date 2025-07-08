@@ -26,7 +26,11 @@ tags:
 ## こんなことを<ruby>学<rt>まな</rt></ruby>ぶよ
 
 <p>
-この<ruby>講義<rt>こうぎ</rt></ruby>では<ruby>QR<rt>キューアール</rt></ruby>コードについて，ゲームをしながら<ruby>学<rt>まな</rt></ruby>ぶよ．<ruby>QR<rt>キューアール</rt></ruby>コードは，スマホやタブレットで<ruby>読<rt>よ</rt></ruby>み<ruby>込<rt>こ</rt></ruby>むことができる，<ruby>迷路<rt>めいろ</rt></ruby>みたいな<ruby>白黒<rt>しろくろ</rt></ruby>の<ruby>四角<rt>しかく</rt></ruby>の<ruby>模様<rt>もよう</rt></ruby>のことだよ．いろんなところで<ruby>使<rt>つか</rt></ruby>われているので，きっとみたことがあると<ruby>思<rt>おも</rt></ruby>うよ．たとえば，お<ruby>店<rt>みせ</rt></ruby>のチラシや，メニュー，お<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>するときに<ruby>使<rt>つか</rt></ruby>ったりもするのだよ．<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>るときにも<ruby>使<rt>つか</rt></ruby>えたりするんだよ．こんな<ruby>QR<rt>キューアール</rt></ruby>コードの<ruby>仕組<rt>しく</rt></ruby>みを<ruby>学<rt>まな</rt></ruby>ぶよ．
+この<ruby>講義<rt>こうぎ</rt></ruby>では<ruby>QR<rt>キューアール</rt></ruby>コードについて，ゲームをしながら<ruby>学<rt>まな</rt></ruby>ぶよ．<ruby>QR<rt>キューアール</rt></ruby>コードは，スマホやタブレットで<ruby>読<rt>よ</rt></ruby>み<ruby>込<rt>こ</rt></ruby>むことができる，<ruby>迷路<rt>めいろ</rt></ruby>みたいな<ruby>白黒<rt>しろくろ</rt></ruby>の<ruby>四角<rt>しかく</rt></ruby>の<ruby>模様<rt>もよう</rt></ruby>のことだよ．いろんなところで<ruby>使<rt>つか</rt></ruby>われているので，きっとみたことがあると<ruby>思<rt>おも</rt></ruby>うよ．
+
+![<ruby>QR<rt>キューアール</rt></ruby>コード](./qrcode_202506302022.png)
+
+たとえば，お<ruby>店<rt>みせ</rt></ruby>のチラシや，メニュー，お<ruby>買<rt>か</rt></ruby>い<ruby>物<rt>もの</rt></ruby>するときに<ruby>使<rt>つか</rt></ruby>ったりもするのだよ．<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>るときにも<ruby>使<rt>つか</rt></ruby>えたりするんだよ．こんな<ruby>QR<rt>キューアール</rt></ruby>コードの<ruby>仕組<rt>しく</rt></ruby>みを<ruby>学<rt>まな</rt></ruby>ぶよ．
 </p>
 
 > ## 参加される保護者の皆様へのお願い<!-- omit in toc -->
