@@ -75,3 +75,11 @@ tags:
     <ruby>小学校<rt>しょうがっこう</rt></ruby><ruby>高学年<rt>こうがくねん</rt></ruby>のみんなにチャレンジしてほしい<ruby>内容<rt>ないよう</rt></ruby>だよ．スマホやタブレットじゃなくて，みんなで<ruby>QR<rt>キューアール</rt></ruby>コードに<ruby>何<rt>なに</rt></ruby>が<ruby>書<rt>か</rt></ruby>いてあるのか<ruby>読<rt>よ</rt></ruby>んでみるのだよ．そう，<ruby>QR<rt>キューアール</rt></ruby>コードのひみつをあばいちゃうってやつ．できるかな？
     <br /><br />
     でもね，<ruby>低学年<rt>ていがくねん</rt></ruby>のみんなには<ruby>難<rt>むずか</rt></ruby>しいと<ruby>思<rt>おも</rt></ruby>うんだ．お<ruby>父<rt>とう</rt></ruby>さんやお<ruby>母<rt>かあ</rt></ruby>さんが<ruby>手伝<rt>てつだ</rt></ruby>ってくれれば，きっと<ruby>読<rt>よ</rt></ruby>めると<ruby>思<rt>おも</rt></ruby>うので，ぜひ，チャレンジしてほしいな．
+
+---
+
+## <ruby>他<rt>ほか</rt>にもこんなことやってたよ
+
+- [おならでもつうしんできる？ーなるほど！つうしんのしくみー](/research/OER/onara/)
+
+おならでつうしん！きっと，おもしろいと<ruby>思<rt>おも</rt></ruby>うので，ぜひ，よんでね！
