@@ -72,7 +72,6 @@ tags:
 
 お<ruby>父<rt>とう</rt></ruby>さん、お<ruby>母<rt>かあ</rt></ruby>さんといっしょに<ruby>読<rt>よ</rt></ruby>んでね！
 
----
 
 ## 目次　 <!-- omit in toc -->
 
