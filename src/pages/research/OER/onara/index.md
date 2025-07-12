@@ -14,7 +14,7 @@ tags:
 ---
 # [<ruby>名古屋<rt>なごや</rt></ruby><ruby>大学<rt>だいがく</rt></ruby> <ruby>夏<rt>なつ</rt></ruby>のテクノロジーフェスティバル](https://tech.imass.nagoya-u.ac.jp/)
 # [おならでもつうしんできる？](https://tech.imass.nagoya-u.ac.jp/lecture.html#L4B)
-#### なるほど！つうしんのしくみ
+## なるほど！つうしんのしくみ
 
 - セッションコード：[L4B](https://tech.imass.nagoya-u.ac.jp/lecture.html#L4B)
 - <ruby>対象<rt>たいしょう</rt></ruby>：<ruby>小学生<rt>しょうがくせい</rt></ruby>（<ruby>特<rt>とく</rt></ruby>に<ruby>低学年<rt>ていがくねん</rt></ruby>・<ruby>中学年<rt>ちゅうがくねん</rt></ruby>におすすめ）
@@ -23,18 +23,17 @@ tags:
 - <ruby>日時<rt>にちじ</rt></ruby>：2024<ruby>年<rt>ねん</rt></ruby>8<ruby>月<rt>がつ</rt></ruby>28<ruby>日<rt>にち</rt></ruby>（<ruby>水<rt>すい</rt></ruby>）４<ruby>時間目<rt>じかんめ</rt></ruby>（15:20-16:50）
 - <ruby>担当<rt>たんとう</rt></ruby>：[<ruby>教養教育院<rt>きょうようきょういくいん</rt></ruby>](https://www.ilas.nagoya-u.ac.jp)、[<ruby>工学研究科<rt>こうがくけんきゅうか</rt></ruby>・<ruby>情報・通信工学専攻<rt>じょうほう・つうしんこうがくせんこう</rt></ruby>](https://www.nuee.nagoya-u.ac.jp)　[<ruby>教授<rt>きょうじゅ</rt></ruby>　<ruby>山里敬也<rt>やまざとたかや</rt></ruby>](../../../team/Takaya-Yamazato)
 
+- **<ruby>他<rt>ほか</rt>にもこんなことやってるよ**
+
+  - [QRコードで遊ぼう](/research/OER/QR-code/)
+
+  - この<ruby>講義<rt>こうぎ</rt></ruby>では<ruby>QR<rt>キューアール</rt></ruby>コードについて，ゲームをしながら<ruby>学<rt>まな</rt></ruby>ぶよ．<ruby>QR<rt>キューアール</rt></ruby>コードは，スマホやタブレットで<ruby>読<rt>よ</rt></ruby>み<ruby>込<rt>こ</rt></ruby>むことができる，<ruby>迷路<rt>めいろ</rt></ruby>みたいな<ruby>白黒<rt>しろくろ</rt></ruby>の<ruby>四角<rt>しかく</rt></ruby>の<ruby>模様<rt>もよう</rt></ruby>のことだよ．いろんなところで<ruby>使<rt>つか</rt></ruby>われているので，きっとみたことがあると<ruby>思<rt>おも</rt></ruby>うよ．よかったら，[QRコードで遊ぼう](/research/OER/QR-code/)も<ruby>読<rt>よ</rt></ruby>んでみてね！
 <!-- ![山里敬也](../../../team/TakayaYamazato2012.jpeg) -->
 
 ## こんなことを<ruby>学<rt>まな</rt></ruby>ぶよ
 
-
 けいたい<ruby>電話<rt>でんわ</rt></ruby>は、<ruby>電波<rt>でんぱ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って<ruby>音<rt>おと</rt></ruby>を<ruby>遠<rt>とお</rt></ruby>くに<ruby>届<rt>とど</rt></ruby>けます。でも、<ruby>近<rt>ちか</rt></ruby>いところであれば、<ruby>糸<rt>いと</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っても<ruby>音<rt>おと</rt></ruby>を<ruby>届<rt>とど</rt></ruby>けることができます。そう、<ruby>糸電話<rt>いとでんわ</rt></ruby>ですね！じつは、<ruby>糸<rt>いと</rt></ruby>だけじゃなく、<ruby>光<rt>ひかり</rt></ruby>や<ruby>音<rt>おと</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っても<ruby>通信<rt>つうしん</rt></ruby>することができます。このしくみが<ruby>分<rt>わか</rt></ruby>かれば、「おなら」でも<ruby>通信<rt>つうしん</rt></ruby>ができるかもしれません。この<ruby>授業<rt>じゅぎょう</rt></ruby>では、「おなら<ruby>通信<rt>つうしん</rt></ruby>」にチャレンジします。みんな、おならで<ruby>通信<rt>つうしん</rt></ruby>はできるかな？
 
-## <ruby>他<rt>ほか</rt>にもこんなことやってるよ
-
-- [QRコードで遊ぼう](/research/OER/QR-code/)
-
-この<ruby>講義<rt>こうぎ</rt></ruby>では<ruby>QR<rt>キューアール</rt></ruby>コードについて，ゲームをしながら<ruby>学<rt>まな</rt></ruby>ぶよ．<ruby>QR<rt>キューアール</rt></ruby>コードは，スマホやタブレットで<ruby>読<rt>よ</rt></ruby>み<ruby>込<rt>こ</rt></ruby>むことができる，<ruby>迷路<rt>めいろ</rt></ruby>みたいな<ruby>白黒<rt>しろくろ</rt></ruby>の<ruby>四角<rt>しかく</rt></ruby>の<ruby>模様<rt>もよう</rt></ruby>のことだよ．いろんなところで<ruby>使<rt>つか</rt></ruby>われているので，きっとみたことがあると<ruby>思<rt>おも</rt></ruby>うよ．
 
 <!-- 
 > ## 参加される保護者の皆様へのお願い

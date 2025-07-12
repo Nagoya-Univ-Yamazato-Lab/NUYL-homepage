@@ -12,6 +12,8 @@ tags:
 # [東海国立大学機構 Common Nexus](https://comone.thers.ac.jp/)
 # [<ruby>ComoNe<rt>こもね</rt></ruby>アカデミア](https://comone.thers.ac.jp/program/)
 
+[![ComoNeアカデミアvol.1](../../../news/20250709-ComoNeAcademiaVol-1.png)](https://comoneacademiavol1.peatix.com)
+
 #### QRコードで遊ぼう
 
 - <ruby>対象<rt>たいしょう</rt></ruby>：<ruby>小学生<rt>しょうがくせい</rt></ruby>（<ruby>低学年<rt>ていがくねん</rt></ruby>は<ruby>保護者同伴<rt>ほごしゃどうはん</rt></ruby>））
@@ -22,7 +24,12 @@ tags:
 - お<ruby>手伝<rt>てつだ</rt></ruby>いしてくれるお<ruby>兄<rt>にい</rt></ruby>さん：
   - <ruby>石田<rt>いしだ</rt></ruby> <ruby>匠<rt>たくみ</rt></ruby>
   - <ruby>中野<rt>なかの</rt></ruby> <ruby>幸亮<rt>こうすけ</rt></ruby>
-<!-- ![山里敬也](../../../team/TakayaYamazato2012.jpeg) -->
+- [お<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>みはこちらをクリック（Peatix）](https://comoneacademiavol1.peatix.com/)
+
+- **<ruby>他<rt>ほか</rt>にもこんなことやってたよ**
+    - [おならでもつうしんできる？ーなるほど！つうしんのしくみー](/research/OER/onara/)
+      - おならでつうしんをするなんて，すごいでしょ！できる<ruby>人<rt>ひと</rt></ruby>は<ruby>少<rt>すく</rt></ruby>ないけど，きっと<ruby>通信<rt>つうしん</rt></ruby>の<ruby>仕組<rt>しく</rt></ruby>みがわかれば<ruby>君<rt>きみ</rt></ruby>にもできるかも！<br />きっと，おもしろいと<ruby>思<rt>おも</rt></ruby>うので，ぜひ，[おならでもつうしんできる？ーなるほど！つうしんのしくみー](/research/OER/onara/)もよんでね！
+      - <ruby>土用<rt>どよう</rt></ruby>の<ruby>丑<rt>うし</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>で<ruby>有名<rt>ゆうめい</rt></ruby>な[<ruby>平賀<rt>ひらが</rt></ruby><ruby>源内<rt>げんない</rt></ruby>](/research/OER/onara/#hiraga-gennai)のことも<ruby>書<rt>か</rt></ruby>いてあるよ．
 
 ## こんなことを<ruby>学<rt>まな</rt></ruby>ぶよ
 
@@ -77,14 +84,10 @@ tags:
     <br /><br />
     でもね，<ruby>低学年<rt>ていがくねん</rt></ruby>のみんなには<ruby>難<rt>むずか</rt></ruby>しいと<ruby>思<rt>おも</rt></ruby>うんだ．お<ruby>父<rt>とう</rt></ruby>さんやお<ruby>母<rt>かあ</rt></ruby>さんが<ruby>手伝<rt>てつだ</rt></ruby>ってくれれば，きっと<ruby>読<rt>よ</rt></ruby>めると<ruby>思<rt>おも</rt></ruby>うので，ぜひ，チャレンジしてほしいな．
 
----
+----
 
-## <ruby>他<rt>ほか</rt>にもこんなことやってたよ
+このページでは[<ruby>ComoNe<rt>こもね</rt></ruby>アカデミア](https://comone.thers.ac.jp/program/)
+の[<ruby>QR<rt>キューアール</rt></ruby>コードで<ruby>遊<rt>あ</rt></ruby>ぼう](/research/OER/QR-code/)について、<ruby>知<rt>し</rt></ruby>っておいてほしいことを<ruby>書<rt>か</rt></ruby>くね。
 
-- [おならでもつうしんできる？ーなるほど！つうしんのしくみー](/research/OER/onara/)
+お<ruby>父<rt>とう</rt></ruby>さん、お<ruby>母<rt>かあ</rt></ruby>さんといっしょに<ruby>読<rt>よ</rt></ruby>んでね！
 
-ならでつうしんをするなんて，すごいでしょ！できる<ruby>人<rt>ひと</rt></ruby>は<ruby>少<rt>すく</rt></ruby>ないけど，きっと<ruby>通信<rt>つうしん</rt></ruby>の<ruby>仕組<rt>しく</rt></ruby>みがわかれば<ruby>君<rt>きみ</rt></ruby>にもできるかも！
-
-きっと，おもしろいと<ruby>思<rt>おも</rt></ruby>うので，ぜひ，よんでね！
-
-<ruby>土用<rt>どよう</rt></ruby>の<ruby>丑<rt>うし</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>で<ruby>有名<rt>ゆうめい</rt></ruby>な[<ruby>平賀<rt>ひらが</rt></ruby><ruby>源内<rt>げんない</rt></ruby>](/research/OER/onara/#hiraga-gennai)のことも<ruby>書<rt>か</rt></ruby>いてあるよ．
