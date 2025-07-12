@@ -44,8 +44,13 @@ tags:
 以下，オープン教材として公開している[教材リスト](/research/OER/list/)です．
 
 - [Python でフラクタルを描画しよう](/research/OER/wwl/)
+
 - [授業目的公衆送信補償金制度の概要](/PDF/授業目的公衆送信補償金制度の概要.pdf)
 
 - [流体力学問題集](/research/OER/Fluid-Mechanics-Problems/)
 
 - [The Secret of the Eyes of Mona Lisa -- The Review Policy and Current Status of the IEICE Transactions --](/PDF/Secret-of-the-Eyes-of-Mona-Lisa.pdf)
+
+- [おならでもつうしんできる？ーなるほど！つうしんのしくみー](/research/OER/onara/)
+
+- [QRコードで遊ぼう](/rresearch/OER/QR-code/)
