@@ -7,6 +7,7 @@ description: みんな，QRコードってしってるかな？めいろみた�
 tags:
   - QRコード
   - ComoNeアカデミア
+  - おならでもつうしんできる？
 ---
 # [東海国立大学機構 Common Nexus](https://comone.thers.ac.jp/)
 # [<ruby>ComoNe<rt>こもね</rt></ruby>アカデミア](https://comone.thers.ac.jp/program/)
