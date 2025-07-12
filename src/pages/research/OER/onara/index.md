@@ -30,7 +30,6 @@ tags:
 
 けいたい<ruby>電話<rt>でんわ</rt></ruby>は、<ruby>電波<rt>でんぱ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って<ruby>音<rt>おと</rt></ruby>を<ruby>遠<rt>とお</rt></ruby>くに<ruby>届<rt>とど</rt></ruby>けます。でも、<ruby>近<rt>ちか</rt></ruby>いところであれば、<ruby>糸<rt>いと</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っても<ruby>音<rt>おと</rt></ruby>を<ruby>届<rt>とど</rt></ruby>けることができます。そう、<ruby>糸電話<rt>いとでんわ</rt></ruby>ですね！じつは、<ruby>糸<rt>いと</rt></ruby>だけじゃなく、<ruby>光<rt>ひかり</rt></ruby>や<ruby>音<rt>おと</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っても<ruby>通信<rt>つうしん</rt></ruby>することができます。このしくみが<ruby>分<rt>わか</rt></ruby>かれば、「おなら」でも<ruby>通信<rt>つうしん</rt></ruby>ができるかもしれません。この<ruby>授業<rt>じゅぎょう</rt></ruby>では、「おなら<ruby>通信<rt>つうしん</rt></ruby>」にチャレンジします。みんな、おならで<ruby>通信<rt>つうしん</rt></ruby>はできるかな？
 
-
 ## <ruby>他<rt>ほか</rt>にもこんなことやってるよ
 
 - [QRコードで遊ぼう](/research/OER/QR-code/)
@@ -67,7 +66,6 @@ tags:
 >
 >また、当日はおならを模擬した音を出せるものをご持参ください。パフパフと鳴るおもちゃのラッパなどで構いません。もちろん、お子様ご自身に「プーッ」と叫んでもらっても構いません。お子様とご相談の上、ご準備ください。 -->
 
-----
 ----
 
 このページでは[<ruby>名古屋<rt>なごや</rt></ruby><ruby>大学<rt>だいがく</rt></ruby> <ruby>夏<rt>なつ</rt></ruby>のテクノロジーフェスティバル](https://tech.imass.nagoya-u.ac.jp/)の[おならでもつうしんできる？](https://tech.imass.nagoya-u.ac.jp/lecture.html)について、<ruby>知<rt>し</rt></ruby>っておいてほしいことを<ruby>書<rt>か</rt></ruby>くね。
