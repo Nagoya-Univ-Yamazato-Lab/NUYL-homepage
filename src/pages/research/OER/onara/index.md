@@ -9,6 +9,8 @@ tags:
   - なるほど！つうしんのしくみ
   - 名古屋大学 夏のテクノロジーフェスティバル
   - NU Tech Festival 2024 Summer
+  - QRコード
+  - ComoNeアカデミア
 ---
 # [<ruby>名古屋<rt>なごや</rt></ruby><ruby>大学<rt>だいがく</rt></ruby> <ruby>夏<rt>なつ</rt></ruby>のテクノロジーフェスティバル](https://tech.imass.nagoya-u.ac.jp/)
 # [おならでもつうしんできる？](https://tech.imass.nagoya-u.ac.jp/lecture.html#L4B)
@@ -1545,7 +1547,15 @@ NHKの<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>動画<rt>どうが</rt><
 
 ちなみに、お<ruby>魚<rt>さかな</rt></ruby>のニシンはおならで<ruby>会話<rt>かいわ</rt></ruby>をするそうです。<ruby>片山先生<rt>かたやませんせい</rt></ruby>に<ruby>教<rt>おしえ</rt></ruby>えてもらいました。すごいですね！
 
- ----
+----
+
+## <ruby>他<rt>ほか</rt>にもこんなことやってるよ
+
+- [QRコードで遊ぼう](/rresearch/OER/QR-code/)
+
+この<ruby>講義<rt>こうぎ</rt></ruby>では<ruby>QR<rt>キューアール</rt></ruby>コードについて，ゲームをしながら<ruby>学<rt>まな</rt></ruby>ぶよ．<ruby>QR<rt>キューアール</rt></ruby>コードは，スマホやタブレットで<ruby>読<rt>よ</rt></ruby>み<ruby>込<rt>こ</rt></ruby>むことができる，<ruby>迷路<rt>めいろ</rt></ruby>みたいな<ruby>白黒<rt>しろくろ</rt></ruby>の<ruby>四角<rt>しかく</rt></ruby>の<ruby>模様<rt>もよう</rt></ruby>のことだよ．いろんなところで<ruby>使<rt>つか</rt></ruby>われているので，きっとみたことがあると<ruby>思<rt>おも</rt></ruby>うよ．
+
+----
 
 #### 参考文献
 
