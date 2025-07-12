@@ -38,9 +38,9 @@ tags:
 - [おならでもつうしんできる？ーなるほど！つうしんのしくみー](/research/OER/onara/)
 
 
-けいたい<ruby>電話<rt>でんわ</rt></ruby>は、<ruby>電波<rt>でんぱ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って<ruby>音<rt>おと</rt></ruby>を<ruby>遠<rt>とお</rt></ruby>くに<ruby>届<rt>とど</rt></ruby>けます。でも、<ruby>近<rt>ちか</rt></ruby>いところであれば、<ruby>糸<rt>いと</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っても<ruby>音<rt>おと</rt></ruby>を<ruby>届<rt>とど</rt></ruby>けることができます。そう、<ruby>糸電話<rt>いとでんわ</rt></ruby>ですね！じつは、<ruby>糸<rt>いと</rt></ruby>だけじゃなく、<ruby>光<rt>ひかり</rt></ruby>や<ruby>音<rt>おと</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っても<ruby>通信<rt>つうしん</rt></ruby>することができます。このしくみが<ruby>分<rt>わか</rt></ruby>かれば、「おなら」でも<ruby>通信<rt>つうしん</rt></ruby>ができるかもしれません。この<ruby>授業<rt>じゅぎょう</rt></ruby>では、「おなら<ruby>通信<rt>つうしん</rt></ruby>」にチャレンジします。みんな、おならで<ruby>通信<rt>つうしん</rt></ruby>はできるかな？
+  - けいたい<ruby>電話<rt>でんわ</rt></ruby>は、<ruby>電波<rt>でんぱ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って<ruby>音<rt>おと</rt></ruby>を<ruby>遠<rt>とお</rt></ruby>くに<ruby>届<rt>とど</rt></ruby>けます。でも、<ruby>近<rt>ちか</rt></ruby>いところであれば、<ruby>糸<rt>いと</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っても<ruby>音<rt>おと</rt></ruby>を<ruby>届<rt>とど</rt></ruby>けることができます。そう、<ruby>糸電話<rt>いとでんわ</rt></ruby>ですね！じつは、<ruby>糸<rt>いと</rt></ruby>だけじゃなく、<ruby>光<rt>ひかり</rt></ruby>や<ruby>音<rt>おと</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っても<ruby>通信<rt>つうしん</rt></ruby>することができます。このしくみが<ruby>分<rt>わか</rt></ruby>かれば、「おなら」でも<ruby>通信<rt>つうしん</rt></ruby>ができるかもしれません。この<ruby>授業<rt>じゅぎょう</rt></ruby>では、「おなら<ruby>通信<rt>つうしん</rt></ruby>」にチャレンジします。みんな、おならで<ruby>通信<rt>つうしん</rt></ruby>はできるかな？
 
 - [QRコードで遊ぼう](/rresearch/OER/QR-code/)
 
-この<ruby>講義<rt>こうぎ</rt></ruby>では<ruby>QR<rt>キューアール</rt></ruby>コードについて，ゲームをしながら<ruby>学<rt>まな</rt></ruby>ぶよ．<ruby>QR<rt>キューアール</rt></ruby>コードは，スマホやタブレットで<ruby>読<rt>よ</rt></ruby>み<ruby>込<rt>こ</rt></ruby>むことができる，<ruby>迷路<rt>めいろ</rt></ruby>みたいな<ruby>白黒<rt>しろくろ</rt></ruby>の<ruby>四角<rt>しかく</rt></ruby>の<ruby>模様<rt>もよう</rt></ruby>のことだよ．いろんなところで<ruby>使<rt>つか</rt></ruby>われているので，きっとみたことがあると<ruby>思<rt>おも</rt></ruby>うよ．
+  - この<ruby>講義<rt>こうぎ</rt></ruby>では<ruby>QR<rt>キューアール</rt></ruby>コードについて，ゲームをしながら<ruby>学<rt>まな</rt></ruby>ぶよ．<ruby>QR<rt>キューアール</rt></ruby>コードは，スマホやタブレットで<ruby>読<rt>よ</rt></ruby>み<ruby>込<rt>こ</rt></ruby>むことができる，<ruby>迷路<rt>めいろ</rt></ruby>みたいな<ruby>白黒<rt>しろくろ</rt></ruby>の<ruby>四角<rt>しかく</rt></ruby>の<ruby>模様<rt>もよう</rt></ruby>のことだよ．いろんなところで<ruby>使<rt>つか</rt></ruby>われているので，きっとみたことがあると<ruby>思<rt>おも</rt></ruby>うよ．
 
