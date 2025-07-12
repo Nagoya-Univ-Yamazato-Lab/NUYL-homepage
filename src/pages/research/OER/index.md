@@ -53,4 +53,4 @@ tags:
 
 - [おならでもつうしんできる？ーなるほど！つうしんのしくみー](/research/OER/onara/)
 
-- [QRコードで遊ぼう](/rresearch/OER/QR-code/)
+- [QRコードで遊ぼう](/research/OER/QR-code/)
