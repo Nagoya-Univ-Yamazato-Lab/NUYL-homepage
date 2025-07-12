@@ -83,3 +83,5 @@ tags:
 - [おならでもつうしんできる？ーなるほど！つうしんのしくみー](/research/OER/onara/)
 
 おならでつうしん！きっと，おもしろいと<ruby>思<rt>おも</rt></ruby>うので，ぜひ，よんでね！
+
+<ruby>土用<rt>どよう</rt></ruby>の<ruby>丑<rt>うし</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>で<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>平賀<rt>ひらが</rt></ruby><ruby>源内<rt>げんない</rt></ruby>のことも<ruby>書<rt>か</rt></ruby>いてあるよ．
