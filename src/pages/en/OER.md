@@ -39,7 +39,7 @@ Here are some intereting courses:
 
 - [The Review Policy of IEICE and the Secret of the Eyes of Mona Lisa](https://www.ieice.org/cs/cs-edit/en/news/2022-05-31-Review-Policy-of-IEICE-and-the-Secret-of-the-Eyes-of-Mona-Lisa/)
 
--- May 31, 2022
+  - May 31, 2022
 
 ------
 
