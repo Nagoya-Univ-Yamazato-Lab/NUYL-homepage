@@ -34,3 +34,13 @@ Here are some intereting courses:
 ----
 
 - <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://yamazato.nuee.nagoya-u.ac.jp/PDF/Secret-of-the-Eyes-of-Mona-Lisa.pdf">The Secret of the Eyes of Mona Lisa --The Review Policy and Current Status of the IEICE Transactions--</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://yamazato.nuee.nagoya-u.ac.jp/en/team/Takaya-Yamazato/">Takaya Yamazato</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
+
+-----
+
+- [The Review Policy of IEICE and the Secret of the Eyes of Mona Lisa](https://www.ieice.org/cs/cs-edit/en/news/2022-05-31-Review-Policy-of-IEICE-and-the-Secret-of-the-Eyes-of-Mona-Lisa/)
+
+-- May 31, 2022
+
+------
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/491092904?h=9112388a50" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
