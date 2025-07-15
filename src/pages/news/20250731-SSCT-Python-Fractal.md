@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Python でフラクタルを描画しよう
-date: 2024-07-22T18:22:39.789Z
+date: 2025-07-31T18:22:39.789Z
 description: >-
   SSH コンソーシアム TOKAI の１・２年生を対象とした「高大接続探究ゼミ」の「Python でフラクタルを描画しよう」の事前教材です．受講される方は必ず目を通しておいてください．
 featuredpost: true
