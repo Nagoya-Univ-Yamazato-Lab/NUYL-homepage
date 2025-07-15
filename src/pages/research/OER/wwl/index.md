@@ -22,6 +22,8 @@ tags:
 - 教科書：このページになります
 - 事前課題：このサイトの内容をよく勉強しておいてください．
 
+- [各種警報が発令された時のゼミについて](/research/OER/wwl/When-various-warnings-are-issued)
+
 > ## 重要（事前準備）　<!-- omit in toc -->
 >
 > この講義では [Google Colaboratory](https://colab.research.google.com/) (コラボと呼びます) を使います．
