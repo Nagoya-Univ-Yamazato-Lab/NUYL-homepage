@@ -22,6 +22,7 @@ tags:
 - <ruby>日時<rt>にちじ</rt></ruby>：2025<ruby>年<rt>ねん</rt></ruby>7<ruby>月<rt>がつ</rt></ruby>26<ruby>日<rt>にち</rt></ruby>（<ruby>土曜日<rt>どようび</rt></ruby>）10:30-12:00
 - <ruby>担当<rt>たんとう</rt></ruby>：[<ruby>教養教育院<rt>きょうようきょういくいん</rt></ruby>](https://www.ilas.nagoya-u.ac.jp)、[<ruby>工学研究科<rt>こうがくけんきゅうか</rt></ruby>・<ruby>情報・通信工学専攻<rt>じょうほう・つうしんこうがくせんこう</rt></ruby>](https://www.nuee.nagoya-u.ac.jp)　[<ruby>教授<rt>きょうじゅ</rt></ruby>　<ruby>山里敬也<rt>やまざとたかや</rt></ruby>](../../../team/Takaya-Yamazato)
 - お<ruby>手伝<rt>てつだ</rt></ruby>いしてくれるお<ruby>兄<rt>にい</rt></ruby>さん：
+  - <ruby>伊与田<rt>いよだ</rt></ruby> <ruby>友貴<rt>ゆうき</rt></ruby>
   - <ruby>石田<rt>いしだ</rt></ruby> <ruby>匠<rt>たくみ</rt></ruby>
   - <ruby>中野<rt>なかの</rt></ruby> <ruby>幸亮<rt>こうすけ</rt></ruby>
 - [お<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>みはこちらをクリック（Peatix）](https://comoneacademiavol1.peatix.com/)
