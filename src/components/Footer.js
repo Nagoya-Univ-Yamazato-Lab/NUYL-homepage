@@ -73,14 +73,24 @@ const Footer = class extends React.Component {
                       </Link>
                     </li>
                     <li>
-                      <Link
+                      {/* <Link
                         className="navbar-item"
                         to="/research/publications/"
                         title="Publications"
                       >
                         <GiArchiveResearch />
                         &nbsp;&nbsp;業績
-                      </Link>
+                      </Link> */}
+                       <a
+                        className="navbar-item"
+                        href="https://www2.yamazato.nuee.nagoya-u.ac.jp/dbase/show.php"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        title="Yamazato Laboratory Research Publication"
+                      >
+                        <GiArchiveResearch />
+                        &nbsp;&nbsp;業績
+                      </a>
                     </li>
                     <li>
                       <Link
@@ -154,12 +164,12 @@ const Footer = class extends React.Component {
                     <li>
                       <a
                         className="navbar-item"
-                        href="https://www.katayama.nuee.nagoya-u.ac.jp/"
+                        href="https://wwwms.meijo-u.ac.jp/hiraku/"
                         target="_blank"
                         rel="noopener noreferrer"
-                        title="Nagoya University Katayama Laboratory"
+                        title="Meijo University Okada Laboratory"
                       >
-                        岡田研究室
+                        名城大学 理工学部 電気電子工学科 岡田研究室
                       </a>
                     </li>
                     <li>
@@ -217,9 +227,18 @@ const Footer = class extends React.Component {
                   <Link to="/research/" title="Research">
                     <GoCircuitBoard />
                   </Link>
-                  <Link to="/research/publications/" title="Publications">
+                  {/* <Link to="/research/publications/" title="Publications">
                     <GiArchiveResearch />
-                  </Link>
+                  </Link> */}
+                  <a
+                        className="navbar-item"
+                        href="https://www2.yamazato.nuee.nagoya-u.ac.jp/dbase/show.php"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        title="Yamazato Laboratory Research Publication"
+                      >
+                        <GiArchiveResearch />
+                      </a>
                   <Link to="/awards/" title="Awards">
                     <FaAward />
                   </Link>
