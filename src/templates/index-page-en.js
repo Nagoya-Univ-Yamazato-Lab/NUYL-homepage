@@ -235,6 +235,7 @@ const IndexPageTemplateEN = ({ data }) => (
                       <br />
                       Secretaries <br />
                       &nbsp; &nbsp;Aiko ISHIKAWA
+                    </p>
                   </div>
                 </article>
               </div>
