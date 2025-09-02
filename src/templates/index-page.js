@@ -221,8 +221,6 @@ const IndexPageTemplate = ({ data }) => (
                       <br />
                       秘書 <br />
                       &nbsp; &nbsp;石川 愛子
-                      <br />
-                      &nbsp; &nbsp;白石 栄里子
                     </p>
                   </div>
                 </article>
