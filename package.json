@@ -29,10 +29,10 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-helmet": "^6.1.0",
-    "react-hook-form": "^7.63.0",
+    "react-hook-form": "^7.62.0",
     "react-scroll": "^1.9.3",
-    "sass": "^1.93.2",
-    "uuid": "^13.0.0"
+    "sass": "^1.91.0",
+    "uuid": "^11.1.0"
   },
   "keywords": [
     "Nagoya Univeristy",
