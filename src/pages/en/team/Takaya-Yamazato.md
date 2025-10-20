@@ -13,11 +13,13 @@ tags:
 
 Short Biography:
 
-Dr. Takaya Yamazato is a professor and the Deputy Director at the Institute of Liberal Arts and Sciences at Nagoya University in Japan. He earned his Ph.D. in Electrical Engineering from Keio University in 1993 and subsequently joined Nagoya University. Dr. Yamazato has also worked as a visiting researcher at the University of Kaiserslautern.
+g researcher at the Research Group for RF Communications at the University of Kaiserslautern from 1997 to 1998.
 
-In 2006, he received the IEEE Communication Society's Best Tutorial Paper Award, and in 2019, he was honored with the IEICE Best Paper Award. From 2016 to 2017, he served on the Board of Governors of the IEEE Communication Society, where he held the position of Director of the Asia/Pacific Board. He edited the Japanese Section of the IEICE Transactions on Communications from 2009 to 2011 and chaired the editorial board from 2020 to 2021. Since 2024, he has been the Director of the Journal and Transactions of the IEICE. Additionally, starting in 2024, he became a board member of Open Education Global.
+In 2006, Dr. Yamazato received the IEEE Communication Society's Best Tutorial Paper Award. He co-chaired the Wireless Communication Symposia at IEEE ICC 2009 and the Selected Areas in Communication Symposia at IEEE ICC 2011. Additionally, he served as the chair of the Satellite and Space Communication Technical Committee of the IEEE Communication Society from 2008 to 2010. In 2011, he conducted a half-day tutorial titled "Visible Light Communication" at IEEE ICC 2011 in Kyoto, Japan. He also served as the editor-in-chief of the Japanese Section of the IEICE Transactions on Communications from 2009 to 2011, and chaired the IEICE Communication Society editorial board from 2020 to 2021. Furthermore, he received the IEICE Best Paper Award in 2020. Since 2024, he has been serving as the Director of Journals and Transactions for the IEICE.
 
-Dr. Yamazato's research interests include visible light communication, intelligent transport systems, stochastic resonance, and open educational resources.
+In addition to his research in wireless communications, Dr. Yamazato has been actively engaged in open education initiatives. He launched the Nagoya University OpenCourseWare in 2005 and has been involved in its management and operation ever since. He has served as a board member of JOCW since its inception in 2005 and is currently a member of the board of Open Education Japan (OEJ). As of 2024, he is also a member of the Board of Directors at Open Education Global (OEG).
+
+Dr. Yamazato's research interests include visible light communication (VLC), intelligent transport systems (ITS), stochastic resonance (SR), and open educational resources (OER).
 
 See also:
 
