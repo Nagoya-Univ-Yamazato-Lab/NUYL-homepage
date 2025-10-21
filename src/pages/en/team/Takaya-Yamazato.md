@@ -13,7 +13,7 @@ tags:
 
 Short Biography:
 
-g researcher at the Research Group for RF Communications at the University of Kaiserslautern from 1997 to 1998.
+Dr. Takaya Yamazato is a professor and Deputy Director at the Institute of Liberal Arts and Sciences at Nagoya University in Japan. He earned his Ph.D. in Electrical Engineering from Keio University in Yokohama, Japan, in 1993. From 1993 to 1998, he served as an Assistant Professor in the Department of Information Electronics at Nagoya University. Additionally, he was a visiting researcher at the Research Group for RF Communications at the University of Kaiserslautern from 1997 to 1998.
 
 In 2006, Dr. Yamazato received the IEEE Communication Society's Best Tutorial Paper Award. He co-chaired the Wireless Communication Symposia at IEEE ICC 2009 and the Selected Areas in Communication Symposia at IEEE ICC 2011. Additionally, he served as the chair of the Satellite and Space Communication Technical Committee of the IEEE Communication Society from 2008 to 2010. In 2011, he conducted a half-day tutorial titled "Visible Light Communication" at IEEE ICC 2011 in Kyoto, Japan. He also served as the editor-in-chief of the Japanese Section of the IEICE Transactions on Communications from 2009 to 2011, and chaired the IEICE Communication Society editorial board from 2020 to 2021. Furthermore, he received the IEICE Best Paper Award in 2020. Since 2024, he has been serving as the Director of Journals and Transactions for the IEICE.
 
@@ -26,5 +26,5 @@ See also:
 - <a href="https://www.ilas.nagoya-u.ac.jp/en/faculty.html" target="_blank">Faculty page of Institute of Liberal Arts and Sciences, Nagoya University</a>
 - <a href="https://profs.provost.nagoya-u.ac.jp/html/100001840_en.html" target="_blank">Nagoya University Faculty Page</a>
 - <a href="https://orcid.org/0000-0001-5256-4965" target="\_blank">ORCID</a>
-- <a href="https://researchmap.jp/read0042505/" target="_blank">Research map</a>
+- <a href="https://researchmap.jp/yamazato" target="_blank">Research map</a>
 - <a href="https://scholar.google.co.jp/citations?user=huzxGUAAAAAJ&amp;hl=ja&amp;oi=ao" target="_blank">Google Scholar</a>

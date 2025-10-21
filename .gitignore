@@ -9,5 +9,6 @@ public
 static/admin/*.bundle.*
 .DS_Store
 .env.*
+package-lock.json
 yarn-error.log
 temporary-exclude-files/
