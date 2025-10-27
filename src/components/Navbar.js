@@ -75,15 +75,15 @@ const Navbar = class extends React.Component {
                   <Link className="navbar-item" to="/research/" title="Reseach">
                     研究
                   </Link>
-                  {/* <Link
+                  <Link
                     className="navbar-item"
                     to="/research/publications/"
                     title="Publications"
                   >
                     業績
-                  </Link> */}
+                  </Link>
 
-                      <a
+                      {/* <a
                         className="navbar-item"
                         href="https://www2.yamazato.nuee.nagoya-u.ac.jp/dbase/show.php"
                         target="_blank"
@@ -91,7 +91,7 @@ const Navbar = class extends React.Component {
                         title="Yamazato Laboratory Research Publication"
                       >
                         業績
-                      </a>
+                      </a> */}
 
                   <Link
                     className="navbar-item"

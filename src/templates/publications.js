@@ -62,15 +62,6 @@ export default function Publications() {
                   {post.date}現在，{post.journal + post.conference + post.oral}{' '}
                   の業績があります.
                   <br />
-                  <a
-                    href="https://www.katayama.nuee.nagoya-u.ac.jp/dbase/show.php"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    title="岡田G／山里研究室 研究業績"
-                  >
-                    岡田G／山里研究室 研究業績
-                  </a>
-                  のページもご参照ください．
                 </p>
                 <div className="columns">
                   <div className="column">
@@ -111,7 +102,23 @@ export default function Publications() {
                   </div>
                 </div>
                 <hr />
-
+以下の<a href="https://www.katayama.nuee.nagoya-u.ac.jp/dbase/show.php" target="_blank" rel="noopener noreferrer" title="岡田／山里研究室 研究業績">
+                    岡田／山里研究室 研究業績
+                  </a>
+                  のページもご参照ください．
+                <ul class="list1 list-indent1"><li><a href="http://www.katayama.nuee.nagoya-u.ac.jp/dbase/index.php?sort=1" rel="nofollow">論文</a></li>
+              <li><a href="http://www.katayama.nuee.nagoya-u.ac.jp/dbase/index.php?sort=2" rel="nofollow">国際会議</a></li>
+              <li><a href="http://www.katayama.nuee.nagoya-u.ac.jp/dbase/index.php?sort=3" rel="nofollow">研究会・シンポジウム</a></li>
+              <li><a href="http://www.katayama.nuee.nagoya-u.ac.jp/dbase/index.php?sort=4" rel="nofollow">全国大会</a></li>
+              <li><a href="http://www.katayama.nuee.nagoya-u.ac.jp/dbase/index.php?sort=5" rel="nofollow">その他の学会など</a></li>
+              <li><a href="http://www.katayama.nuee.nagoya-u.ac.jp/dbase/index.php?sort=6" rel="nofollow">学位論文</a>
+              <ul class="list2 list-indent1"><li><a href="http://www.katayama.nuee.nagoya-u.ac.jp/dbase/index.php?sort=6&amp;pubid=2" rel="nofollow">博士論文</a></li>
+              <li><a href="http://www.katayama.nuee.nagoya-u.ac.jp/dbase/index.php?sort=6&amp;pubid=3" rel="nofollow">修士論文</a></li>
+              <li><a href="http://www.katayama.nuee.nagoya-u.ac.jp/dbase/index.php?sort=6&amp;pubid=4" rel="nofollow">卒業論文</a>
+              <div class="spacer">&nbsp;</div></li></ul></li>
+              <li><a href="http://www.katayama.nuee.nagoya-u.ac.jp/dbase/search.php" rel="nofollow">検索</a></li>
+              </ul>
+<hr />
                 {data.allResearchCsv.nodes.map((node) => (
                   <CustomAccordion
                     key={node.id}

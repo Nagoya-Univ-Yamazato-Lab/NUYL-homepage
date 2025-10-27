@@ -60,16 +60,7 @@ export default function PublicationsEn() {
                   As of {post.date}, we published and presented{' '}
                   {post.journal + post.conference + post.oral} articles.
                   <br />
-                  Please also refer to{' '}
-                  <a
-                    href="https://www.katayama.nuee.nagoya-u.ac.jp/dbase/show-e.php"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    title="Okada Laboratory / Yamazato Laboratory research results page"
-                  >
-                    Okada Laboratory / Yamazato Laboratory research results page
-                  </a>
-                  .
+                 
                 </p>
                 <div className="columns">
                   <div className="column">
@@ -110,6 +101,24 @@ export default function PublicationsEn() {
                   </div>
                 </div>
                 <hr />
+ Please also refer to {' '}
+                  <a
+                    href="https://www.katayama.nuee.nagoya-u.ac.jp/dbase/show-e.php"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    title="Okada Laboratory / Yamazato Laboratory research results page"
+                  >
+                    Okada Laboratory / Yamazato Laboratory research results page
+                  </a>
+                  . The links to the database are the following:
+<ul class="list1 list-indent1"><li><a href="http://www.katayama.nuee.nagoya-u.ac.jp/dbase/index-e.php?sort=1" rel="nofollow">Publications</a></li>
+<li><a href="http://www.katayama.nuee.nagoya-u.ac.jp/dbase/index-e.php?sort=2" rel="nofollow">International Conference and Symposium</a></li>
+<li><a href="http://www.katayama.nuee.nagoya-u.ac.jp/dbase/index-e.php?sort=3" rel="nofollow">Technical Report (IEICE)</a></li>
+<li><a href="http://www.katayama.nuee.nagoya-u.ac.jp/dbase/index-e.php?sort=4" rel="nofollow">General Conference (IEICE)</a></li>
+<li><a href="http://www.katayama.nuee.nagoya-u.ac.jp/dbase/index-e.php?sort=5" rel="nofollow">Other Conference</a></li>
+<li><a href="http://www.katayama.nuee.nagoya-u.ac.jp/dbase/index-e.php?sort=6&amp;pubid=2" rel="nofollow">Doctor Dissertations</a></li></ul>
+<ul class="list1 list-indent1"><li><a href="http://www.katayama.nuee.nagoya-u.ac.jp/dbase/search-e.php" rel="nofollow">Search</a></li></ul>
+<hr />
                 <ul>
                   {data.allResearchEnCsv.nodes.map((node) => (
                     <li key={node.id}>
