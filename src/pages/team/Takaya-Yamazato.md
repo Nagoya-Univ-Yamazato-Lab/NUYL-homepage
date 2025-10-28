@@ -23,9 +23,9 @@ tags:
 - 平 16 名大・エコトピア科学研究機構，
 - 平 19 名大・エコトピア科学研究所・准教授，
 - 平 22 名大・教養教育院・教授，
-- 令 04 名大・教養教育院・副院長，現在に至る.
-  - 兼）名大・工学研究科　情報・通信工学専攻，
-  - 兼）名大・情報基盤センター　教育情報メディア研究部門，
+- 令 04 名大・教養教育院・[副院長](https://www.ilas.nagoya-u.ac.jp/faculty.html#faculty)，現在に至る.
+  - 兼）名大・工学研究科　[情報・通信工学専攻](https://www.nuee.nagoya-u.ac.jp/communications/index.html)，
+  - 兼）名大・情報基盤センター　[情報基盤デザイン開発部門](https://icts.nagoya-u.ac.jp/ja/center/about/organization.html)
   
 
 
