@@ -111,11 +111,17 @@ export default function Publications() {
               <li><a href="http://www.katayama.nuee.nagoya-u.ac.jp/dbase/index.php?sort=3" rel="nofollow">研究会・シンポジウム</a></li>
               <li><a href="http://www.katayama.nuee.nagoya-u.ac.jp/dbase/index.php?sort=4" rel="nofollow">全国大会</a></li>
               <li><a href="http://www.katayama.nuee.nagoya-u.ac.jp/dbase/index.php?sort=5" rel="nofollow">その他の学会など</a></li>
+
               <li><a href="http://www.katayama.nuee.nagoya-u.ac.jp/dbase/index.php?sort=6" rel="nofollow">学位論文</a>
               <ul class="list2 list-indent1"><li><a href="http://www.katayama.nuee.nagoya-u.ac.jp/dbase/index.php?sort=6&amp;pubid=2" rel="nofollow">博士論文</a></li>
               <li><a href="http://www.katayama.nuee.nagoya-u.ac.jp/dbase/index.php?sort=6&amp;pubid=3" rel="nofollow">修士論文</a></li>
               <li><a href="http://www.katayama.nuee.nagoya-u.ac.jp/dbase/index.php?sort=6&amp;pubid=4" rel="nofollow">卒業論文</a>
-              <div class="spacer">&nbsp;</div></li></ul></li>
+              <div class="spacer">&nbsp;</div></li>
+              </ul></li>
+              <li><a href="http://www.katayama.nuee.nagoya-u.ac.jp/dbase/index.php?sort=7" rel="nofollow">著書</a></li>
+               <li><a href="http://www.katayama.nuee.nagoya-u.ac.jp/dbase/index.php?sort=8" rel="nofollow">報道発表</a></li>
+               <li><a href="http://www.katayama.nuee.nagoya-u.ac.jp/dbase/index.php?sort=9" rel="nofollow">標準化会議</a></li>
+<br />          
               <li><a href="http://www.katayama.nuee.nagoya-u.ac.jp/dbase/search.php" rel="nofollow">検索</a></li>
               </ul>
 <hr />
