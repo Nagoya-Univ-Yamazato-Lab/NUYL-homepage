@@ -227,18 +227,18 @@ const Footer = class extends React.Component {
                   <Link to="/research/" title="Research">
                     <GoCircuitBoard />
                   </Link>
-                  {/* <Link to="/research/publications/" title="Publications">
+                  <Link to="/research/publications/" title="Publications">
                     <GiArchiveResearch />
-                  </Link> */}
-                  <a
+                  </Link>
+                  {/* <a
                         className="navbar-item"
                         href="https://www2.yamazato.nuee.nagoya-u.ac.jp/dbase/show.php"
                         target="_blank"
                         rel="noopener noreferrer"
                         title="Yamazato Laboratory Research Publication"
-                      >
+                      > 
                         <GiArchiveResearch />
-                      </a>
+                      </a>　*/}
                   <Link to="/awards/" title="Awards">
                     <FaAward />
                   </Link>
