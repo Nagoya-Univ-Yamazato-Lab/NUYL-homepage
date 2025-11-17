@@ -73,15 +73,15 @@ const Footer = class extends React.Component {
                       </Link>
                     </li>
                     <li>
-                      {/* <Link
+                      <Link
                         className="navbar-item"
                         to="/research/publications/"
                         title="Publications"
                       >
                         <GiArchiveResearch />
                         &nbsp;&nbsp;業績
-                      </Link> */}
-                       <a
+                      </Link>
+                       {/* <a
                         className="navbar-item"
                         href="https://www2.yamazato.nuee.nagoya-u.ac.jp/dbase/show.php"
                         target="_blank"
@@ -90,7 +90,7 @@ const Footer = class extends React.Component {
                       >
                         <GiArchiveResearch />
                         &nbsp;&nbsp;業績
-                      </a>
+                      </a> */}
                     </li>
                     <li>
                       <Link
