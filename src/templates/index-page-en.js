@@ -392,7 +392,7 @@ const IndexPageTemplateEN = ({ data }) => (
                 <br />
                 See also our{' '}
                 <a
-                  href="https://en.nagoya-u.ac.jp/upload_images/20210129_map_en.pdf"
+                  href="https://en.nagoya-u.ac.jp/extra/map/"
                   title="Campus map"
                 >
                   campus map, C3-1
@@ -421,7 +421,7 @@ const IndexPageTemplateEN = ({ data }) => (
               <p className="post-excerpt">
                 <FaSubway /> See also{' '}
                 <a
-                  href="http://en.nagoya-u.ac.jp/access/index.html"
+                  href="https://en.nagoya-u.ac.jp/campus/maps/access/"
                   title="Nagoya University HP"
                 >
                   Nagoya University access map
