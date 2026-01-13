@@ -396,7 +396,7 @@ const IndexPageTemplate = ({ data }) => (
               <p className="is-size-5">
                 山里研究室は IB電子情報館 9Fにあります．
                 <br />
-                <a href="https://www.nagoya-u.ac.jp/extra/map/index.html">
+                <a href="https://www.nagoya-u.ac.jp/contact/map.html">
                   キャンパスマップ
                 </a>{' '}
                 のC3-1になります．
