@@ -375,7 +375,7 @@ const IndexPageTemplateEN = ({ data }) => (
               </p>
               <p className="post-excerpt">
                 <FaEnvelope />
-                &nbsp; &nbsp;Furo-cho, Chikusa-ku, Nagoya 464-8063 JAPAN
+                &nbsp; &nbsp;Furo-cho, Chikusa-ku, Nagoya 464-8603 JAPAN
                 <br />
                 <FaPhoneAlt />
                 &nbsp; &nbsp;Secretary: +81-52-789-2743
