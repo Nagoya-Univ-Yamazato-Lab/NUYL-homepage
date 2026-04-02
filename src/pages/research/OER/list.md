@@ -14,6 +14,9 @@ tags:
 
 このページに掲載している教材は <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">クリエイティブ・コモンズ 表示 4.0 国際 ライセンス（CC BY 4.0）</a>の下に提供します．
 
+- 教師のためのAI（AI for Teachers: an Open Textbook 日本語版）
+  - [サポートページ（最新版のダウンロードもこちら）](/research/OER/AI_for_Teachers_an_Open_Textbook/)
+
 - SSH コンソーシアム TOKAI 参加校の１・２年生を対象とした「高大接続探究セミナー」
 
   - [Python でフラクタルを描画しよう](/research/OER/wwl/)

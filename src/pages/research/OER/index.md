@@ -43,6 +43,8 @@ tags:
 
 以下，オープン教材として公開している[教材リスト](/research/OER/list/)です．
 
+- [教師のためのAI (AI for Teachers: an Open Textbook 日本語版)](/research/OER/AI_for_Teachers_an_Open_Textbook/)
+
 - [Python でフラクタルを描画しよう](/research/OER/wwl/)
 
 - [授業目的公衆送信補償金制度の概要](/PDF/授業目的公衆送信補償金制度の概要.pdf)
