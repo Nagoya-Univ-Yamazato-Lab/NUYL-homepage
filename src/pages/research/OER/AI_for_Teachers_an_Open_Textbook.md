@@ -15,8 +15,8 @@ tags:
 『AI for Teachers: An Open Textbook』日本語版を公開しています。  
 本ページでは、最新版の **PDF** および **EPUB** を配布します。
 
-- [最新版PDFをダウンロード](/static/PDF/AI-for-Teachers-an-Open-Textbook-v1.0.0.pdf)
-- [最新版EPUBをダウンロード](/static/PDF/AI-for-Teachers-an-Open-Textbook-v1.0.0.epub)
+- [最新版PDFをダウンロード](/PDF/AI-for-Teachers-an-Open-Textbook-v1.0.0.pdf)
+- [最新版EPUBをダウンロード](/PDF/AI-for-Teachers-an-Open-Textbook-v1.0.0.epub)
 
 - 最終更新日：2026年04月01日
 - 版番号：v1.0.0
@@ -36,8 +36,8 @@ tags:
 
 最新版の配布は本ページで行います。
 
-- [最新版PDF](/static/PDF/AI-for-Teachers-an-Open-Textbook-v1.0.0.pdf)
-- [最新版EPUB](/static/PDF/AI-for-Teachers-an-Open-Textbook-v1.0.0.epub)
+- [最新版PDF](/PDF/AI-for-Teachers-an-Open-Textbook-v1.0.0.pdf)
+- [最新版EPUB](/PDF/AI-for-Teachers-an-Open-Textbook-v1.0.0.epub)
 
 > ※ PDFとEPUBは、いずれも本ページ掲載版が最新版です。  
 > ※ 軽微な修正を予告なく反映する場合があります。
