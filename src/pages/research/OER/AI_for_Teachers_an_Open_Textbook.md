@@ -2,14 +2,14 @@
 templateKey: pages
 lang: ja
 title: 
-description: 教師のためのAI（AI for Teachers）のサポートページです。最新版のPDFおよびEPUBファイルのダウンロードはこちらから。
+description: 教師のためのAI入門（AI for Teachers）のサポートページです。最新版のPDFおよびEPUBファイルのダウンロードはこちらから。
 date: 2026-04-01T07:57:21.383Z
 tags:
   - オープン教材
-  - 教師のためのAI
+  - 教師のためのAI入門
   - AI for Teachers, an Open Textbook
 ---
-# 教師のためのAI （AI for Teachers: an Open Textbook）
+# 教師のためのAI入門 （AI for Teachers: an Open Textbook）
 ## 教師とAIをつなぐ最初の一歩
 
 『AI for Teachers: An Open Textbook』日本語版を公開しています。  
@@ -24,8 +24,8 @@ tags:
 ---
 
 ## 本書について
-
-本書は、*[AI for Teachers: An Open Textbook](https://pressbooks.pub/aiforteachers/)* の日本語版です。  
+ 
+『教師のためのAI入門』は、*[AI for Teachers: An Open Textbook](https://pressbooks.pub/aiforteachers/)* の日本語版です。
 原著は Erasmus+ プロジェクト **AI4T** の成果物として作成されたオープンテキストブックであり、日本語版は **名古屋大学教養教育院ハイブリッドラーニングセンターの教員有志** により翻訳されました。
 
 教育現場でAIの活用が急速に進む中、教師がAIを理解し、適切に向き合うための基礎的な学習資源として活用いただくことを目的としています。
