@@ -12,7 +12,7 @@ tags:
 # 教師のためのAI入門 （AI for Teachers: an Open Textbook）
 ## 教師とAIをつなぐ最初の一歩
 
-『AI for Teachers: An Open Textbook』の日本語版を公開しています。  
+[『AI for Teachers: An Open Textbook』の日本語版](https://aiopentext.itd.cnr.it/japanese/)を公開しています。  
 本ページでは、最新版の **PDF** および **EPUB** を配布します。
 
 - [最新版PDFをダウンロード](/PDF/AI-for-Teachers-an-Open-Textbook-v1.0.0.pdf) 16.3 MB
@@ -25,7 +25,7 @@ tags:
 
 ## 本書について
  
-『教師のためのAI入門』は、*[AI for Teachers: An Open Textbook](https://pressbooks.pub/aiforteachers/)* の日本語版です。
+[『教師のためのAI入門』](https://aiopentext.itd.cnr.it/japanese/)は、*[AI for Teachers: An Open Textbook](https://pressbooks.pub/aiforteachers/)* の日本語版です。
 原著は Erasmus+ プロジェクト **AI4T** の成果物として作成されたオープンテキストブックであり、日本語版は **名古屋大学教養教育院ハイブリッドラーニングセンターの教員有志** により翻訳されました。
 
 教育現場でAIの活用が急速に進む中、教師がAIを理解し、適切に向き合うための基礎的な学習資源として活用いただくことを目的としています。
