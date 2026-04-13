@@ -213,7 +213,7 @@ const IndexPageTemplateEN = ({ data }) => (
                         </a> as of April 1, 2025.</p>
 
             <div className="columns is-multiline">
-              <div className="column post is-3">
+              <div className="column post is-4">
                 <article className="columns is-multiline">
                   <div className="column is-12 featured-content ">
                     <h1 className="heading post-category">Staff</h1>
@@ -221,11 +221,14 @@ const IndexPageTemplateEN = ({ data }) => (
                       <FaUserTie />
                     </h1>
                     <p className="post-excerpt is-size-6">
-                      Professor <br />
+                      Professors <br />
                       &nbsp; &nbsp;
                       <Link to="/en/team/Takaya-Yamazato/">
                         Takaya YAMAZATO
                       </Link>
+                      <br />
+                      &nbsp; &nbsp;
+                      <a href="https://wwwms.meijo-u.ac.jp/hiraku/member/">Hiraku OKADA &nbsp;(Visiting Professor)</a>    
                       <br />
                       <br />
                       Lecturer <br />
@@ -233,56 +236,29 @@ const IndexPageTemplateEN = ({ data }) => (
                       <Link to="/en/team/Shan-Lu/">Shan LU</Link>
                       <br />
                       <br />
-                      Secretaries <br />
-                      &nbsp; &nbsp;Aiko ISHIKAWA
+                      Secretary <br />
+                      &nbsp; &nbsp;Aiko MISAWA
+                      <br />
+                      <br />
+                      Postdoctoral Fellow <br />
+                      &nbsp; &nbsp;IYODA Yuki
                     </p>
                   </div>
                 </article>
               </div>
-              <div className="column post is-3">
+              <div className="column post is-4">
                 <article className="columns is-multiline">
                   <div className="column is-12 featured-content ">
-                    <h1 className="heading post-category">
-                      Ph. D. Candidates
-                    </h1>
+                    <h1 className="heading post-category">Graduate students</h1>
                     <h1 className="title post-title">
                       <FaUserGraduate />
                     </h1>
                     <p className="post-excerpt is-size-6">
-                      D3 <br />
-                      &nbsp; &nbsp;IYODA Yuki
-                      <br />
-                      <br />
-                      D2 <br />
+                      Ph. D. Candidate (D2)<br />
                       &nbsp; &nbsp;ISHIDA Takumi
                       <br />
-                    </p>
-                  </div>
-                </article>
-              </div>
-              <div className="column post is-3">
-                <article className="columns is-multiline">
-                  <div className="column is-12 featured-content ">
-                    <h1 className="heading post-category">Master students</h1>
-                    <h1 className="title post-title">
-                      <FaUserGraduate />
-                    </h1>
-                    <p className="post-excerpt is-size-6">
+                      <br />
                       M2 <br />
-                      &nbsp; &nbsp;AKAI Sotaro
-                      <br />
-                      &nbsp; &nbsp;ASAOKA Shin
-                      <br />
-                      &nbsp; &nbsp;SHI Tianhao
-                      <br />
-                      &nbsp; &nbsp;OKAWA Chieri
-                      <br />
-                      &nbsp; &nbsp;KONDO Ryota
-                      <br />
-                      &nbsp; &nbsp;NAKANO Kosuke
-                      <br />
-                      <br />
-                      M1 <br />
                       &nbsp; &nbsp;ASANO Tomoharu
                       <br />
                       &nbsp; &nbsp;ABE Eisuke
@@ -298,11 +274,23 @@ const IndexPageTemplateEN = ({ data }) => (
                       &nbsp; &nbsp;YANG Haoran
                       <br />
                       &nbsp; &nbsp;LU Qiming
+                      <br />
+                      <br />
+                      M1 <br />
+                      &nbsp; &nbsp;KUBO Ryoya
+                      <br />
+                      &nbsp; &nbsp;SATO Motoya
+                      <br />
+                      &nbsp; &nbsp;SAWADA Aoi
+                      <br />
+                      &nbsp; &nbsp;WASHIZU Arata
+                      <br />
+                      &nbsp; &nbsp;LIU Yize
                     </p>
                   </div>
                 </article>
               </div>
-              <div className="column post is-3">
+              <div className="column post is-4">
                 <article className="columns is-multiline">
                   <div className="column is-12 featured-content ">
                     <h1 className="heading post-category">
@@ -313,21 +301,15 @@ const IndexPageTemplateEN = ({ data }) => (
                     </h1>
                     <p className="post-excerpt is-size-6">
                       B4 <br />
-                      &nbsp; &nbsp;KUBO Ryoya
+                      &nbsp; &nbsp;ADACHI Ryota
                       <br />
-                      &nbsp; &nbsp;SATO Motoya
+                      &nbsp; &nbsp;SHIMOSATO Shoei
                       <br />
-                      &nbsp; &nbsp;SAWADA Aoi
+                      &nbsp; &nbsp;MATSUOKA Yuta
                       <br />
-                      &nbsp; &nbsp;SHIBAYAMA Yuto
+                      &nbsp; &nbsp;YAMAZAKI Rikuto
                       <br />
                       &nbsp; &nbsp;TOMIYASU Masaki
-                      <br />
-                      <br />
-                      Research students <br />
-                      &nbsp; &nbsp;LIU Yize
-                      <br />
-                      &nbsp; &nbsp;SUN Yu
                     </p>  
                   </div>
                 </article>
@@ -342,7 +324,10 @@ const IndexPageTemplateEN = ({ data }) => (
                   <div className="column is-12 featured-content ">
                     <p>
                       <ul>
-                      <li>
+                        <li>
+                          &nbsp; &nbsp;<Link to="/en/team/2025/">2025</Link>
+                        </li>
+                        <li>
                           &nbsp; &nbsp;<Link to="/en/team/2024/">2024</Link>
                         </li>
                         <li>

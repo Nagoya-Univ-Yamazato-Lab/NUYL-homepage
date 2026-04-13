@@ -13,6 +13,8 @@ tags:
 
 - [山里敬也](/team/Takaya-Yamazato/)
 
+- [岡田啓 &nbsp;（客員教授）](https://wwwms.meijo-u.ac.jp/hiraku/member/)
+
 ### 講師
 
 - [路 姍](/team/Shan-Lu)
@@ -51,10 +53,10 @@ tags:
 ### 学部
 
 - B4
-  - 久保 綾也
-  - 佐藤 心哉
-  - 澤田 蒼生
-  - 柴山 裕翔
+  - 安立 凌大
+  - 下里 祥永
+  - 松岡 優太
+  - 山崎 陸叶
   - 冨安 将生
 
 - 研究生

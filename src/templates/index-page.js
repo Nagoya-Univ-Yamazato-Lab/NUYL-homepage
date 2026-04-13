@@ -201,7 +201,7 @@ const IndexPageTemplate = ({ data }) => (
                           名城大学理工学部電気電子工学科
                         </a>の教授に就任されました．</p>
             <div className="columns is-multiline">
-              <div className="column post is-3">
+              <div className="column post is-4">
                 <article className="columns is-multiline">
                   <div className="column is-12 featured-content ">
                     <h1 className="heading post-category">スタッフ</h1>
@@ -213,65 +213,38 @@ const IndexPageTemplate = ({ data }) => (
                       &nbsp; &nbsp;
                       <Link to="/team/Takaya-Yamazato/">山里敬也</Link>
                       <br />
+                      &nbsp; &nbsp;
+                      <a href="https://wwwms.meijo-u.ac.jp/hiraku/member/">岡田啓 &nbsp;（客員教授）</a>
                       <br />
+                      <br />                    
                       講師 <br />
                       &nbsp; &nbsp;
                       <Link to="/team/Shan-Lu/">路 姍</Link>
                       <br />
                       <br />
                       秘書 <br />
-                      &nbsp; &nbsp;石川 愛子
+                      &nbsp; &nbsp;三嶋 愛子
+                       <br />
+                      <br />
+                      ポスドク <br />
+                      &nbsp; &nbsp;伊与田 友貴
                     </p>
                   </div>
                 </article>
               </div>
-              <div className="column post is-3">
+              <div className="column post is-4">
                 <article className="columns is-multiline">
                   <div className="column is-12 featured-content ">
-                    <h1 className="heading post-category">
-                      博士後期課程
-                    </h1>
+                    <h1 className="heading post-category">博士課程</h1>
                     <h1>
                       <FaUserGraduate />
                     </h1>
                     <p className="is-size-5">
-                      D3 <br />
-                      &nbsp; &nbsp;伊与田 友貴
-                      <br />
-                      <br />
-                      D1 <br />
+                      D2 <br />
                       &nbsp; &nbsp;石田 匠
                       <br />
-                    </p>
-                  </div>
-                </article>
-              </div>
-              <div className="column post is-3">
-                <article className="columns is-multiline">
-                  <div className="column is-12 featured-content ">
-                    <h1 className="heading post-category">博士前期課程</h1>
-                    <h1>
-                      <FaUserGraduate />
-                    </h1>
-                    <p className="is-size-5">
+                      <br />
                       M2 <br />
-                      &nbsp; &nbsp;赤井 壮太郎
-                      <br />
-                      &nbsp; &nbsp;浅岡 新
-                      <br />
-                      &nbsp; &nbsp;石 天昊<br />
-                      &nbsp; &nbsp;(SHI Tianhao)
-                      <br />
-                      &nbsp; &nbsp;大河 知恵里
-                      <br />
-                      &nbsp; &nbsp;大脇 孝明
-                      <br />
-                      &nbsp; &nbsp;近藤 涼太
-                      <br />
-                      &nbsp; &nbsp;中野 幸亮
-                      <br />
-                      <br />
-                      M1 <br />
                       &nbsp; &nbsp;浅野 智晴
                       <br />
                       &nbsp; &nbsp;阿邊 瑛佑 
@@ -291,12 +264,26 @@ const IndexPageTemplate = ({ data }) => (
                       &nbsp; &nbsp;陸 啓明
                       <br />
                       &nbsp; &nbsp;(LU Qiming)
-                      <br />                    
+                      <br />
+                      <br />
+                      M1 <br />
+                      &nbsp; &nbsp;久保 綾也
+                      <br />
+                      &nbsp; &nbsp;佐藤 心哉 
+                      <br />
+                      &nbsp; &nbsp;澤田 蒼生
+                      <br />
+                      &nbsp; &nbsp;鷲巣 新大
+                      <br />
+                      &nbsp; &nbsp;劉 訳沢
+                      <br />
+                      &nbsp; &nbsp;（LIU Yize）
+                      <br />               
                     </p>
                   </div>
                 </article>
               </div>
-              <div className="column post is-3">
+              <div className="column post is-4">
                 <article className="columns is-multiline">
                   <div className="column is-12 featured-content ">
                     <h1 className="heading post-category">学部</h1>
@@ -305,25 +292,15 @@ const IndexPageTemplate = ({ data }) => (
                     </h1>
                     <p className="is-size-5">
                       B4 <br />
-                      &nbsp; &nbsp;久保 綾也
+                      &nbsp; &nbsp;安立 凌大
                       <br />
-                      &nbsp; &nbsp;佐藤 心哉
+                      &nbsp; &nbsp;下里 祥永
                       <br />
-                      &nbsp; &nbsp;澤田 蒼生
+                      &nbsp; &nbsp;松岡 優太
                       <br />
-                      &nbsp; &nbsp;柴山 裕翔
+                      &nbsp; &nbsp;山崎 陸叶
                       <br />
                       &nbsp; &nbsp;冨安 将生
-                      <br />
-                      <br />
-                      研究生<br />
-                      &nbsp; &nbsp;劉 訳沢
-                      <br />
-                      &nbsp; &nbsp;(LIU Yize)
-                      <br />
-                      &nbsp; &nbsp;孙 瑜
-                      <br />
-                      &nbsp; &nbsp;(SUN Yu)
                       <br />
                     </p>
                   </div>
@@ -339,6 +316,9 @@ const IndexPageTemplate = ({ data }) => (
                   <div className="column is-12 featured-content ">
                     <p>
                       <ul>
+                         <li>
+                          &nbsp; &nbsp;<Link to="/team/2025/">2025</Link>
+                        </li>
                       <li>
                           &nbsp; &nbsp;<Link to="/team/2024/">2024</Link>
                         </li>
@@ -362,7 +342,7 @@ const IndexPageTemplate = ({ data }) => (
             <div className="column post is-12">
               <h1 id="contact">お問い合わせ</h1>
               <p className="is-size-5">
-                山里研究室へお問い合わせは以下のフォームからお願いします．
+                山里研究室へのお問い合わせは以下のフォームからお願いします．
                 <br />
                 <br />
                 <Link
