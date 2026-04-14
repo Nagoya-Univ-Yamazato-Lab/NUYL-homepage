@@ -237,11 +237,11 @@ const IndexPageTemplateEN = ({ data }) => (
                       <br />
                       <br />
                       Secretary <br />
-                      &nbsp; &nbsp;MISHIMA Aiko
+                      &nbsp; &nbsp;Aiko MISAWA
                       <br />
                       <br />
                       Postdoctoral Fellow <br />
-                      &nbsp; &nbsp;IYODA Yuki
+                      &nbsp; &nbsp;Yuki IYODA 
                     </p>
                   </div>
                 </article>
