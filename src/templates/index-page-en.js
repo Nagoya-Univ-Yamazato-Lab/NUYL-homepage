@@ -237,7 +237,7 @@ const IndexPageTemplateEN = ({ data }) => (
                       <br />
                       <br />
                       Secretary <br />
-                      &nbsp; &nbsp;Aiko MISAWA
+                      &nbsp; &nbsp;MISHIMA Aiko
                       <br />
                       <br />
                       Postdoctoral Fellow <br />
