@@ -23,7 +23,7 @@ tags:
 発表にあたり, ご指導を賜りました山里先生, 路先生, そして研究室の皆さまに心より感謝申し上げます. 
 
 
-## タイトル無しの画像を埋め込む
+## 発表の様子
 ![sougoutaikai2026](./20260309-sougoutaikai-1.jpg)
 ![sougoutaikai2026](./20260309-sougoutaikai-2.jpg)
 ![sougoutaikai2026](./20260309-sougoutaikai-3.jpg)
