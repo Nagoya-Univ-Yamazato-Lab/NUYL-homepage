@@ -226,8 +226,8 @@ const IndexPageTemplate = ({ data }) => (
                       &nbsp; &nbsp;三嶋 愛子
                        <br />
                       <br />
-                      ポスドク <br />
-                      &nbsp; &nbsp;伊与田 友貴
+                      海外共同研究員 <br />
+                      &nbsp; &nbsp;ベン ナイラ シャドリア &nbsp;(カタルーニャ工科大学（UPC）)
                     </p>
                   </div>
                 </article>

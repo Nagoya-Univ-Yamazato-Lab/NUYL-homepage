@@ -240,8 +240,9 @@ const IndexPageTemplateEN = ({ data }) => (
                       &nbsp; &nbsp;Aiko MISAWA
                       <br />
                       <br />
-                      Postdoctoral Fellow <br />
-                      &nbsp; &nbsp;Yuki IYODA 
+                      Collaborative Researcher <br />
+                      &nbsp; &nbsp;
+                      <a href="https://directori.upc.edu/dadesPersona/1345510">Chedlia BEN NAILA, Ph.D.,(Universitat Politècnica de Catalunya, BarcelonaTech)</a>
                     </p>
                   </div>
                 </article>
