@@ -2,6 +2,7 @@
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
 .DS_Store
 package-lock.json
+package-lock.json
 yarn-error.log
 node_modules
 .cache/
