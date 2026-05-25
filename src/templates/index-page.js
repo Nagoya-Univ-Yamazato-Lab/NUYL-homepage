@@ -229,7 +229,9 @@ const IndexPageTemplate = ({ data }) => (
                        <br />
                       <br />
                       海外共同研究員 <br />
-                      &nbsp; &nbsp;ベン ナイラ シャドリア &nbsp;(カタルーニャ工科大学（UPC）)
+                      &nbsp; &nbsp;<a href="https://scholar.google.com/citations?user=ByEaOIwAAAAJ&hl=en">
+                        ベン ナイラ シャドリア
+                      </a>&nbsp;(カタルーニャ工科大学（UPC）)
                     </p>
                   </div>
                 </article>
