@@ -219,7 +219,9 @@ const IndexPageTemplate = ({ data }) => (
                       <br />                    
                       講師 <br />
                       &nbsp; &nbsp;
-                      <Link to="/team/Shan-Lu/">路 姍</Link>
+                      <a href="https://shanlu-nagoya.github.io/" target="_blank" rel="noopener noreferrer">
+                        路 姍
+                      </a>
                       <br />
                       <br />
                       秘書 <br />
