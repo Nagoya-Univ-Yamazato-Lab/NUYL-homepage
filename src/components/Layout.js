@@ -60,6 +60,7 @@ const TemplateWrapper = ({ children }) => {
         />
       </Helmet>
       <Navbar />
+      <br /><br />
       <div>{children}</div>
       <ScrollButton />
       <Footer />

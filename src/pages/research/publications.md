@@ -8,15 +8,15 @@ journal: 211
 conference: 313
 oral: 682
 ---
-- [論文](https://www2.yamazato.nuee.nagoya-u.ac.jp/dbase/index.php?sort=1)
-- [国際会議](https://www2.yamazato.nuee.nagoya-u.ac.jp/dbase/index.php?sort=2)
-- [研究会・シンポジウム](https://www2.yamazato.nuee.nagoya-u.ac.jp/dbase/index.php?sort=3)
-- [全国大会](https://www2.yamazato.nuee.nagoya-u.ac.jp/dbase/index.php?sort=4)
-- [その他の学会など](https://www2.yamazato.nuee.nagoya-u.ac.jp/dbase/index.php?sort=5)
-- [学位論文](https://www2.yamazato.nuee.nagoya-u.ac.jp/dbase/index.php?sort=6)
-    - [博士論文](https://www2.yamazato.nuee.nagoya-u.ac.jp/dbase/index.php?sort=6&pubid=2)
-    - [修士論文](https://www2.yamazato.nuee.nagoya-u.ac.jp/dbase/index.php?sort=6&pubid=3)
-    - [卒業論文](https://www2.yamazato.nuee.nagoya-u.ac.jp/dbase/index.php?sort=6&pubid=4)
+- [論文](https://okadalab.org/dbase/index.php?sort=1)
+- [国際会議](https://okadalab.org/dbase/index.php?sort=2)
+- [研究会・シンポジウム](https://okadalab.org/dbase/index.php?sort=3)
+- [全国大会](https://okadalab.org/dbase/index.php?sort=4)
+- [その他の学会など](https://okadalab.org/dbase/index.php?sort=5)
+- [学位論文](https://okadalab.org/dbase/index.php?sort=6)
+    - [博士論文](https://okadalab.org/dbase/index.php?sort=6&pubid=2)
+    - [修士論文](https://okadalab.org/dbase/index.php?sort=6&pubid=3)
+    - [卒業論文](https://okadalab.org/dbase/index.php?sort=6&pubid=4)
  
-- [検索](https://www2.yamazato.nuee.nagoya-u.ac.jp/dbase/search.php)
+- [検索](https://okadalab.org/dbase/search.php)
 

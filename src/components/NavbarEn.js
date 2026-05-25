@@ -121,7 +121,7 @@ const NavbarEn = class extends React.Component {
                 </div>
               </div>
         </div>
-    </nav>    
+    </nav> 
     )
   }
 }
