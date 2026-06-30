@@ -17,6 +17,10 @@ tags:
 - <ruby>日時<rt>にちじ</rt></ruby>：2026<ruby>年<rt>ねん</rt></ruby>8<ruby>月<rt>がつ</rt></ruby>1<ruby>日<rt>にち</rt></ruby>（<ruby>土曜日<rt>どようび</rt></ruby>）10:30～12:30（<ruby>受付<rt>うけつけ</rt></ruby>：10:00～10:30）
 - <ruby>担当<rt>たんとう</rt></ruby>：[<ruby>教養教育院<rt>きょうようきょういくいん</rt></ruby>](https://www.ilas.nagoya-u.ac.jp)、[<ruby>工学研究科<rt>こうがくけんきゅうか</rt></ruby>・<ruby>情報・通信工学専攻<rt>じょうほう・つうしんこうがくせんこう</rt></ruby>](https://www.nuee.nagoya-u.ac.jp)　[<ruby>教授<rt>きょうじゅ</rt></ruby>　<ruby>山里敬也<rt>やまざとたかや</rt></ruby>](../../../team/Takaya-Yamazato)
 
+## こんなことを<ruby>学<rt>まな</rt></ruby>ぶよ
+
+けいたい<ruby>電話<rt>でんわ</rt></ruby>は、<ruby>電波<rt>でんぱ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って<ruby>音<rt>おと</rt></ruby>を<ruby>遠<rt>とお</rt></ruby>くに<ruby>届<rt>とど</rt></ruby>けます。でも、<ruby>近<rt>ちか</rt></ruby>いところであれば、<ruby>糸<rt>いと</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っても<ruby>音<rt>おと</rt></ruby>を<ruby>届<rt>とど</rt></ruby>けることができます。そう、<ruby>糸電話<rt>いとでんわ</rt></ruby>ですね！じつは、<ruby>糸<rt>いと</rt></ruby>だけじゃなく、<ruby>光<rt>ひかり</rt></ruby>や<ruby>音<rt>おと</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っても<ruby>通信<rt>つうしん</rt></ruby>することができます。このしくみが<ruby>分<rt>わか</rt></ruby>かれば、「おなら」でも<ruby>通信<rt>つうしん</rt></ruby>ができるかもしれません。この<ruby>授業<rt>じゅぎょう</rt></ruby>では、「おなら<ruby>通信<rt>つうしん</rt></ruby>」にチャレンジします。みんな、おならで<ruby>通信<rt>つうしん</rt></ruby>はできるかな？
+
 ![おならでつうしんできるかな？](./ChatGPT-Onara-tsushin.png)
 
 - **<ruby>他<rt>ほか</rt>にもこんなことやったよ**
@@ -30,15 +34,10 @@ tags:
     - この<ruby>講義<rt>こうぎ</rt></ruby>では<ruby>QR<rt>キューアール</rt></ruby>コードについて，ゲームをしながら<ruby>学<rt>まな</rt></ruby>ぶよ．<ruby>QR<rt>キューアール</rt></ruby>コードは，スマホやタブレットで<ruby>読<rt>よ</rt></ruby>み<ruby>込<rt>こ</rt></ruby>むことができる，<ruby>迷路<rt>めいろ</rt></ruby>みたいな<ruby>白黒<rt>しろくろ</rt></ruby>の<ruby>四角<rt>しかく</rt></ruby>の<ruby>模様<rt>もよう</rt></ruby>のことだよ．いろんなところで<ruby>使<rt>つか</rt></ruby>われているので，きっとみたことがあると<ruby>思<rt>おも</rt></ruby>うよ．よかったら，[QRコードで遊ぼう](/research/OER/QR-code/)も<ruby>読<rt>よ</rt></ruby>んでみてね！
 <!-- ![山里敬也](../../../team/TakayaYamazato2012.jpeg) -->
 
-## こんなことを<ruby>学<rt>まな</rt></ruby>ぶよ
-
-けいたい<ruby>電話<rt>でんわ</rt></ruby>は、<ruby>電波<rt>でんぱ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って<ruby>音<rt>おと</rt></ruby>を<ruby>遠<rt>とお</rt></ruby>くに<ruby>届<rt>とど</rt></ruby>けます。でも、<ruby>近<rt>ちか</rt></ruby>いところであれば、<ruby>糸<rt>いと</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っても<ruby>音<rt>おと</rt></ruby>を<ruby>届<rt>とど</rt></ruby>けることができます。そう、<ruby>糸電話<rt>いとでんわ</rt></ruby>ですね！じつは、<ruby>糸<rt>いと</rt></ruby>だけじゃなく、<ruby>光<rt>ひかり</rt></ruby>や<ruby>音<rt>おと</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っても<ruby>通信<rt>つうしん</rt></ruby>することができます。このしくみが<ruby>分<rt>わか</rt></ruby>かれば、「おなら」でも<ruby>通信<rt>つうしん</rt></ruby>ができるかもしれません。この<ruby>授業<rt>じゅぎょう</rt></ruby>では、「おなら<ruby>通信<rt>つうしん</rt></ruby>」にチャレンジします。みんな、おならで<ruby>通信<rt>つうしん</rt></ruby>はできるかな？
-
-
 
 > ## 参加される保護者の皆様へのお願い
 >
-> この度は、ComoNeアカデミア　おならでもつうしんできるかな？へご応募くださり、ありがとうございます。
+> この度は、ComoNeアカデミア「おならでもつうしんできるかな？」へご応募くださり、ありがとうございます。
 > 講師を務めます、名古屋大学の山里でございます。
 >
 > さて、このワークショップでは参加者の皆様に実際に「おならの音」を使った通信を試していただく予定です。そこで、ぜひ皆様に「おならの音」を録音して、お送りいただきたいと思います。ご家族でも、お友達でも、もちろんペットのおならの音でもかまいません。ご協力いただけますと幸いです。
