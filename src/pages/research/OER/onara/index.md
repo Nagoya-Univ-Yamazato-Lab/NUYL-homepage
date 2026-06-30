@@ -1019,6 +1019,7 @@ tags:
 ここから、<ruby>平賀源内<rt>ひらがげんない</rt></ruby>と<ruby>彼<rt>かれ</rt></ruby>を<ruby>感服<rt>かんぷく</rt></ruby>させた<ruby>霧降<rt>きりふり</rt></ruby><ruby>花咲男<rt>はなさきおとこ</rt></ruby>について<ruby>書<rt>か</rt></ruby>いていきます。
 <ruby>平賀源内<rt>ひらがげんない</rt></ruby>は、<ruby>霧降<rt>きりふり</rt></ruby><ruby>花咲男<rt>はなさきおとこ</rt></ruby>について「<ruby>放屁論<rt>ほうひろん</rt></ruby>」と「<ruby>放屁論後編<rt>ほうひろんこうへん</rt></ruby>」いう<ruby>本<rt>ほん</rt></ruby>を<ruby>書<rt>か</rt></ruby>くぐらいですから、よっぽど<ruby>好<rt>す</rt></ruby>きだったのでしょうね。びっくりです。
 
+![おならでつうしんできるかな？](./Gemini_Onara-tsushin.png)
 
 <a id="hiraga-gennai"></a>
 
