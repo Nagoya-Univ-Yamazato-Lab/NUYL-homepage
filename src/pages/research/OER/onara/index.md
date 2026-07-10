@@ -1,15 +1,15 @@
 ---
 templateKey: pages
 lang: ja
-title: ComoNeアカデミア-おならでもつうしんできるかな？
+title: ComoNeアカデミア夏休みスペシャル「おならでもつうしんできるかな？」
 date: 2026-08-01T09:57:21.383Z
 description: けいたいでんわは、でんぱをつかって、音や声をとおくへとどけます。でも、近いところなら、糸をつかって音をとどけることもできます。そう、糸でんわです！じつは、糸のほかにも、光や音をつかって、おしらせをとどけることができます。このしくみをつかえば、「おなら」でもおしらせをとどけられるかもしれません。このじゅぎょうでは、「おならつうしん」にチャレンジします。おならでも、つうしんできるかな？
 tags:
-  - おならでもつうしんできる？
+  - おならでもつうしんできるかな？
   - なるほど！つうしんのしくみ
-  - ComoNeアカデミア
+  - ComoNeアカデミア夏休みスペシャル
 ---
-# ComoNeアカデミア　おならでもつうしんできるかな？
+# こんなのだよ
 
 - <ruby>対象<rt>たいしょう</rt></ruby>：<ruby>小学生<rt>しょうがくせい</rt></ruby>（<ruby>特<rt>とく</rt></ruby>に<ruby>低学年<rt>ていがくねん</rt></ruby>・<ruby>中学年<rt>ちゅうがくねん</rt></ruby>におすすめ）とその<ruby>保護者<rt>ほごしゃ</rt></ruby>
 - <ruby>定員<rt>ていいん</rt></ruby>：20<ruby>組<rt>くみ</rt></ruby>（１<ruby>家族<rt>かぞく</rt></ruby>１<ruby>組<rt>くみ</rt></ruby>）
@@ -63,14 +63,14 @@ tags:
 
 ----
 
-このページでは[おならでもつうしんできる？](https://tech.imass.nagoya-u.ac.jp/lecture.html)について、<ruby>知<rt>し</rt></ruby>っておいてほしいことを<ruby>書<rt>か</rt></ruby>くね。
+このページでは[ComoNeアカデミア「おならでもつうしんできるかな？」](https://peatix.com/event/5075579?k=3a86cc087650cc703094e15085ad28919f56303f)について、<ruby>知<rt>し</rt></ruby>っておいてほしいことを<ruby>書<rt>か</rt></ruby>くね。
 
 お<ruby>父<rt>とう</rt></ruby>さん、お<ruby>母<rt>かあ</rt></ruby>さんといっしょに<ruby>読<rt>よ</rt></ruby>んでね！
 
 
 ## 目次　 <!-- omit in toc -->
 
-- [「おなら<ruby>通信<rt>つうしん</rt></ruby>」チャレンジ！](#fart-challenge)
+- [おなら<ruby>通信<rt>つうしん</rt></ruby>にチャレンジ！](#fart-challenge)
 - [おならで<ruby>SOS<rt>エスオーエス</rt></ruby>を<ruby>送<rt>おく</rt></ruby>ってみよう！（おなら<ruby>通信<rt>つうしん</rt></ruby>のしくみ）](#how-it-works)
 - [おならのにおいでも<ruby>通信<rt>つうしん</rt></ruby>はできるの？（デジタル<ruby>通信<rt>つうしん</rt></ruby>の<ruby>原理<rt>げんり</rt></ruby>）](#smell-communication)
 - [もっと<ruby>速<rt>はや</rt></ruby>い<ruby>通信<rt>つうしん</rt></ruby>はできるの？（<ruby>光<rt>ひかり</rt></ruby>をつかった<ruby>通信<rt>つうしん</rt></ruby>と<ruby>電波<rt>でんぱ</rt></ruby>をつかった<ruby>通信<rt>つうしん</rt></ruby>）](#wired-and-wireless-communication)
@@ -91,7 +91,7 @@ tags:
 
 <a id="fart-challenge"></a>
 
-## 「おなら<ruby>通信<rt>つうしん</rt></ruby>」チャレンジ！
+## おなら<ruby>通信<rt>つうしん</rt></ruby>にチャレンジ！
 
 <div class="balloon_l">
   <div class="faceicon">
