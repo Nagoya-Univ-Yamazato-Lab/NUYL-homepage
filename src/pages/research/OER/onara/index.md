@@ -63,7 +63,7 @@ tags:
 
 ----
 
-このページでは[ComoNeアカデミア「おならでもつうしんできるかな？」](https://peatix.com/event/5075579?k=3a86cc087650cc703094e15085ad28919f56303f)について、<ruby>知<rt>し</rt></ruby>っておいてほしいことを<ruby>書<rt>か</rt></ruby>くね。
+このページでは[ComoNeアカデミア「おならでもつうしんできるかな？」](https://comone-academia-summer-sp-01.peatix.com)について、<ruby>知<rt>し</rt></ruby>っておいてほしいことを<ruby>書<rt>か</rt></ruby>くね。
 
 お<ruby>父<rt>とう</rt></ruby>さん、お<ruby>母<rt>かあ</rt></ruby>さんといっしょに<ruby>読<rt>よ</rt></ruby>んでね！
 
