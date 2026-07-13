@@ -14,7 +14,7 @@ tags:
 - <ruby>対象<rt>たいしょう</rt></ruby>：<ruby>小学生<rt>しょうがくせい</rt></ruby>（<ruby>特<rt>とく</rt></ruby>に<ruby>低学年<rt>ていがくねん</rt></ruby>・<ruby>中学年<rt>ちゅうがくねん</rt></ruby>におすすめ）とその<ruby>保護者<rt>ほごしゃ</rt></ruby>
 - <ruby>定員<rt>ていいん</rt></ruby>：20<ruby>組<rt>くみ</rt></ruby>（１<ruby>家族<rt>かぞく</rt></ruby>１<ruby>組<rt>くみ</rt></ruby>）
 - <ruby>会場<rt>かいじょう</rt></ruby>：<ruby>名古屋<rt>なごや</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>　[コモネ](https://comone.thers.ac.jp/)　[ロームホール LOAM Hall](https://comone.thers.ac.jp/commons/)
-- <ruby>日時<rt>にちじ</rt></ruby>：2026<ruby>年<rt>ねん</rt></ruby>8<ruby>月<rt>がつ</rt></ruby>1<ruby>日<rt>にち</rt></ruby>（<ruby>土曜日<rt>どようび</rt></ruby>）10:30～12:30（<ruby>受付<rt>うけつけ</rt></ruby>：10:00～10:30）
+- <ruby>日時<rt>にちじ</rt></ruby>：2026<ruby>年<rt>ねん</rt></ruby>8<ruby>月<rt>がつ</rt></ruby>1<ruby>日<rt>にち</rt></ruby>（<ruby>土曜日<rt>どようび</rt></ruby>）10:30～12:00（<ruby>受付<rt>うけつけ</rt></ruby>：10:00～10:30）
 - <ruby>担当<rt>たんとう</rt></ruby>：[<ruby>教養教育院<rt>きょうようきょういくいん</rt></ruby>](https://www.ilas.nagoya-u.ac.jp)、[<ruby>工学研究科<rt>こうがくけんきゅうか</rt></ruby>・<ruby>情報・通信工学専攻<rt>じょうほう・つうしんこうがくせんこう</rt></ruby>](https://www.nuee.nagoya-u.ac.jp)　[<ruby>教授<rt>きょうじゅ</rt></ruby>　<ruby>山里敬也<rt>やまざとたかや</rt></ruby>](../../../team/Takaya-Yamazato)
 
 ## こんなことを<ruby>学<rt>まな</rt></ruby>ぶよ
