@@ -300,7 +300,7 @@ $$
 
 ### [14 セグメントディスプレイ](https://en.wikipedia.org/wiki/Fourteen-segment_display)
 
-![14セグメントディスプレイ](Latin_alphabet_on_a_14_segement_display.gif)
+![14セグメントディスプレイ](./Latin_alphabet_on_a_14_segement_display.gif)
 [図：ウィキペディアより引用](https://commons.wikimedia.org/wiki/File:Latin_alphabet_on_a_14_segement_display.gif)
 
 7 セグメントディスプレイでは，一部のアルファベットしか表示できませんでした．
@@ -584,7 +584,7 @@ $$
 
 # 過去の資料
 
-## [2025年度のサイト（アーカイブ）[/research/OER/wwl/2025]
+## [2025年度のサイト（アーカイブ](/research/OER/wwl/2025]
 ## [2024年度のサイト（アーカイブ）](/research/OER/wwl/2024)
   - 2024年度　ベーシックコース
     - [ベーシックコースの資料](/PDF/2024_Turtle_Graphics_Basic.pdf)
