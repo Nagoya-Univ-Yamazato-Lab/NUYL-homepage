@@ -102,7 +102,7 @@ tags:
   - [ベーシックコースの資料](/PDF/2026_Turtle_Graphics_Basic.pdf)
     - [Colabのファイル](/PDF/Turtle_Graphics_Basic.ipynb)
 - 2026度　アドバンスコース
-  - [1日目の資料（ベーシックコースの資料を使います）](/PDF/2025_Turtle_Graphics_Basic.pdf)
+  - [1日目の資料（ベーシックコースの資料を使います）](/PDF/2026_Turtle_Graphics_Basic.pdf)
     - [Colabのファイル](/PDF/Turtle_Graphics_Basic.ipynb)
   - [2日目の資料](/PDF/2025_Turtle_Graphics_Advanced.pdf)
     - [Colabのファイル](/PDF/Turtle_Graphics_Advanced.ipynb)
