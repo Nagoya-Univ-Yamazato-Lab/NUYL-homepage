@@ -8,13 +8,9 @@ tags:
   - 可視光通信
   - 確率共鳴
 ---
-## あいちITSワールド2023で公開したビデオ
+## あいちITSワールド2023
 
 2023年11月23日〜26日にポートめっせなごや（名古屋市国際展示場）にて開催された[あいちITSワールド2023](https://aichi-its.jp/itsworld/)にて研究紹介の展示とデモを行いました．
-そこで公開した研究紹介ビデオです．
-
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/902135247?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="あいちITSワールド2023"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
 
 現在取り組んでいる可視光通信の研究についてご覧いただけます．
 
@@ -24,18 +20,6 @@ B4の近藤君が作ってくれました．ちなみに表紙右下にある研
 [こちらの記事もご覧下さい．](/news/20231123%E2%88%92Aichi-ITS-World/)
 
 - [展示パネル](/PDF/20231123-Aichi-ITS-World-2023.pdf) ※ 15 MB ありますのでご注意ください．
-
-
-## 2021 年度オープンキャンパスの研究紹介ビデオ
-
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/631918341?h=edbf01e210&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="open-campus_yamazato"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
-
-2021 年度オープンキャンパス向けに作成した研究紹介ビデオです．
-
-研究室のメンバー（学生さん）に各自の研究についての紹介ビデオを作ってもらい，それを繋ぎあわせてあります．
-
-現在，取り組んでいる研究をご覧頂けます．
 
 ------
 
