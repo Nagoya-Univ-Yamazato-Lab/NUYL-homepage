@@ -71,23 +71,14 @@ const IndexPageTemplate = ({ data }) => (
                 />
               </blockquote>
             </div>
-
+            <hr />      
             <div className="columns featured-post is-multiline">
               <div className="column is-12 post">
                 <article className="columns featured">
-                  <div className="column post is-7">
-                    <div className="column is-12 post-img">
-                      <StaticImage
-                        src="../img/ITS-VLC.webp"
-                        alt="ITS-VLC"
-                        placeholder="blurred"
-                      />
-                    </div>
-                  </div>
                   <div className="column post is-5">
                     <div className="column is-12 featured-content">
                       <h1 className="heading post-category">Research</h1>
-                      <h2 className="is-size-3">可視光通信</h2>
+                                            <h2 className="is-size-3">可視光通信</h2>
                       <div className="content px-2">
                         可視光通信とはLEDを人の目には見えないほど高速に点滅することでデータ伝送を行う通信方式です．
                         私たちは，受信機にカメラを使うイメージセンサ通信について研究しています．
@@ -98,6 +89,15 @@ const IndexPageTemplate = ({ data }) => (
                       >
                         Read more
                       </Link>
+                    </div>
+                  </div>
+                  <div className="column post is-7">
+                    <div className="column is-12 post-img">
+                      <StaticImage
+                        src="../img/ITS-VLC.webp"
+                        alt="ITS-VLC"
+                        placeholder="blurred"
+                      />
                     </div>
                   </div>
                 </article>
