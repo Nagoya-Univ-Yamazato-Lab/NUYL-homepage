@@ -103,6 +103,38 @@ const IndexPageTemplate = ({ data }) => (
                 </article>
               </div>
             </div>
+            <div className="columns featured-post is-multiline">
+              <div className="column is-12 post">
+                <article className="columns featured">
+                  <div className="column post is-7">
+                    <div className="column is-12 post-img">
+                      <StaticImage
+                        src="/reseach/UOWC/abstract.png"
+                        alt="Underwater Optical Wireless Communication (UOWC)"
+                        placeholder="blurred"
+                      />
+                    </div>
+                  </div>
+                  <div className="column post is-5">
+                    <div className="column is-12 featured-content">
+                      <h1 className="heading post-category">Research</h1>
+                      <h2 className="is-size-3">水中光無線通信</h2>
+                      <div className="content px-2">
+                        水中光無線通信は，青色・緑色の光を用いて水中で情報を伝送する技術です．
+                        音響通信と比べて高速・低遅延な通信が期待できる一方，水の濁りや光軸のずれに弱いという課題があります．
+                        本研究室では，水中で安定した光通信を実現するため，通信技術とビーム追尾技術を組み合わせた研究に取り組んでいます．
+                      </div>
+                      <Link
+                        className="button"
+                        to="/research/UOWC/"
+                      >
+                        Read more
+                      </Link>
+                    </div>
+                  </div>
+                </article>
+              </div>
+            </div>
             {/* <PageTop /> */}
             <hr />
             <div className="columns featured-post is-multiline">
