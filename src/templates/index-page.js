@@ -103,6 +103,8 @@ const IndexPageTemplate = ({ data }) => (
                 </article>
               </div>
             </div>
+            {/* <PageTop /> */}
+            <hr />            
             <div className="columns featured-post is-multiline">
               <div className="column is-12 post">
                 <article className="columns featured">
