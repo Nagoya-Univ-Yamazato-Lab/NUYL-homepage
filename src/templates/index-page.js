@@ -111,7 +111,7 @@ const IndexPageTemplate = ({ data }) => (
                   <div className="column post is-7">
                     <div className="column is-12 post-img">
                       <StaticImage
-                        src="../img/UOWCabstract.webp"
+                        src="../img/UOWC-abstract.webp"
                         alt="Underwater Optical Wireless Communication (UOWC)"
                         placeholder="blurred"
                       />
