@@ -260,12 +260,20 @@ const IndexPageTemplate = ({ data }) => (
                       <br />
                       秘書 <br />
                       &nbsp; &nbsp;三嶋 愛子
-                       <br />
+                      <br />
                       <br />
                       海外共同研究員 <br />
                       &nbsp; &nbsp;<a href="https://scholar.google.com/citations?user=ByEaOIwAAAAJ&hl=en">
                         ベン ナイラ シャドリア
-                      </a>&nbsp;(カタルーニャ工科大学（UPC）)
+                      </a><br />
+                      &nbsp; &nbsp;<a href="https://www.upc.edu/en">カタルーニャ工科大学（UPC）</a>
+                      <br />
+                      <br />
+                      外国人共同研究員 <br />
+                      &nbsp; &nbsp;
+                        張 昭基<br />
+                      &nbsp; &nbsp;（チョウ・ショウキ, ZHANG Zhaoji）<br />
+                      &nbsp;&nbsp;<a href="https://en.xidian.edu.cn">西安電子科技大学</a>
                     </p>
                   </div>
                 </article>
@@ -316,7 +324,10 @@ const IndexPageTemplate = ({ data }) => (
                       &nbsp; &nbsp;劉 訳沢
                       <br />
                       &nbsp; &nbsp;（LIU Yize）
-                      <br />               
+                      <br />
+                      <br />
+                      G30 M1<br />
+                      &nbsp; &nbsp; Zahra Yarahmady         
                     </p>
                   </div>
                 </article>
@@ -339,6 +350,12 @@ const IndexPageTemplate = ({ data }) => (
                       &nbsp; &nbsp;山崎 陸叶
                       <br />
                       &nbsp; &nbsp;冨安 将生
+                      <br />
+                      <br />
+                      研究生 <br />
+                      &nbsp; &nbsp;丘 晓风<br />
+                      &nbsp; &nbsp;(Qiu XIAOFENG)
+                      <br />
                       <br />
                     </p>
                   </div>

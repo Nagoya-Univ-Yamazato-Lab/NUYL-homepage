@@ -245,6 +245,11 @@ const IndexPageTemplateEN = ({ data }) => (
                       Collaborative Researcher <br />
                       &nbsp; &nbsp;
                       <a href="https://directori.upc.edu/dadesPersona/1345510">Chedlia BEN NAILA, Ph.D.,(Universitat Politècnica de Catalunya, BarcelonaTech)</a>
+                      <br />
+                      <br />
+                      Visiting Researcher <br />
+                      &nbsp; &nbsp; Dr. ZHANG Zhaoji<br />
+                      &nbsp;&nbsp;<a href="https://en.xidian.edu.cn">School of Telecommunications Engineering, Xidian University, Xi’an</a>
                     </p>
                   </div>
                 </article>
@@ -289,6 +294,10 @@ const IndexPageTemplateEN = ({ data }) => (
                       &nbsp; &nbsp;WASHIZU Arata
                       <br />
                       &nbsp; &nbsp;LIU Yize
+                      <br />
+                      <br />
+                      G30 M1<br />
+                      &nbsp; &nbsp; Zahra Yarahmady
                     </p>
                   </div>
                 </article>
@@ -313,6 +322,10 @@ const IndexPageTemplateEN = ({ data }) => (
                       &nbsp; &nbsp;YAMAZAKI Rikuto
                       <br />
                       &nbsp; &nbsp;TOMIYASU Masaki
+                      <br />
+                      <br />
+                      Research student <br />
+                      &nbsp; &nbsp; Qiu XIAOFENG
                     </p>  
                   </div>
                 </article>
