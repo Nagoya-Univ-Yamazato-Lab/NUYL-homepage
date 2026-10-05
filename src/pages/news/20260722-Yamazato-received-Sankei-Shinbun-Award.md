@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: 山里教授が第39回独創性を拓く先端技術大賞（産經新聞社賞）を受賞しました
 date: 2026-7-22T01:39:55.096Z
-description: 授賞式は7月22日、高円宮妃久子さまをお迎えし、東京・元赤坂の明治記念館で開かれました．
+description: 授賞式は7月22日、高円宮妃久子さまをお迎えし、東京・元赤坂の明治記念館で開かれました．授賞式には，東大・芝先生がご出席されました．
 featuredpost: true
 featuredimage: /img/coffee.png
 tags:
@@ -11,7 +11,6 @@ tags:
 ---
 
 ![第39回独創性を拓く先端技術大賞_産經新聞社賞](./20260722-SankeiShinbun-Award.jpg)
-<!-- ![賞状](./20230330-2022-Excellent-Teacher-Award.webp) -->
 
 ## 第39回独創性を拓く先端技術大賞_産經新聞社賞
 
